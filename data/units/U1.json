@@ -1,0 +1,1223 @@
+{
+  "unit_id": "U1",
+  "title": "神话体系",
+  "entries": [
+    {
+      "id": "myth-greek",
+      "title": "希腊神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "希腊神话是古希腊人关于宇宙起源、神祇谱系与英雄事迹的叙事传统，主要见于荷马史诗、赫西俄德《神谱》及后世汇编文献。它以奥林匹斯诸神为核心，包含创世、神权更替与英雄传说等神话群，并通过罗马文学广泛影响了后世西方文化。",
+      "source_text": "现存希腊神话的主要文学来源有三类：其一，赫西俄德《神谱》（约公元前8—7世纪）系统叙述自卡俄斯至奥林匹斯神系的谱系，其《工作与时日》亦含普罗米修斯神话；其二，荷马《伊利亚特》《奥德赛》（约公元前8—7世纪）大量引用神祇事迹，但不是系统的神话汇编；其三，后世汇编如托名阿波罗多洛斯《书库》（约公元1—2世纪）与保萨尼亚斯《希腊志》（约公元2世纪）保存了大量地方传说。罗马时期奥维德《变形记》亦有重述。以上文本均有公共领域译本可据。",
+      "versions": [
+        "赫西俄德《神谱》以卡俄斯（混沌）为起点，依次生出盖亚、塔尔塔罗斯、厄洛斯，经乌拉诺斯—克洛诺斯—宙斯三代神权更替确立奥林匹斯秩序，叙事重心在谱系与权力继承。",
+        "荷马史诗把奥林匹斯诸神视为既成秩序；《伊利亚特》中宙斯的权威需与赫拉、波塞冬等协商，创世叙事并非其关注点，诸神更像参与人间事务的超凡共同体。",
+        "托名阿波罗多洛斯《书库》将多种地方传统整合为线性谱系，补足泰坦战争与神祇家系的细节，其系统化程度高于早期诗歌，故被视为文献汇编而非原始神话形态。",
+        "地方崇拜传统差异明显：厄琉息斯秘仪的德墨忒尔—珀耳塞福涅叙事、狄俄尼索斯崇拜的神话，与泛希腊的奥林匹斯版本在侧重点与仪式语境上并不相同。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Jane Ellen Harrison",
+          "school": "剑桥学派（神话—仪式理论）",
+          "view": "神话是仪式的语言残余；泰坦神的原始性与奥林匹斯秩序的确立，反映仪式实践从古老形态向城邦祭祀的变迁。"
+        },
+        {
+          "holder": "Jean-Pierre Vernant",
+          "school": "巴黎学派（历史人类学与结构主义）",
+          "view": "希腊诸神形象映照城邦公共空间与政治秩序；神权更替的叙事结构与希腊城邦秩序观念相互映照，而非单纯的自然神话。"
+        },
+        {
+          "holder": "Walter Burkert",
+          "school": "宗教史学派",
+          "view": "古希腊宗教的核心在祭祀实践而非教义体系；神话为仪式提供叙事语境，且希腊神话的形成受到近东文化的历史影响。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "神权更替可归入'永恒回归'母题：以重演宇宙创生的模式来确认秩序，使宇宙论与仪式时间相联结。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "美索不达米亚神话",
+          "basis_source": "pri-enuma-elish",
+          "note": "《巴比伦创世史诗》中马尔杜克击败提亚马特后建立秩序，与宙斯击败泰坦的神权更替叙事在结构上相似；比较神话学教材（aca-comparative-myth）记录了此类比较，本项目仅记录有文献依据者，不自行牵强类比。"
+        },
+        {
+          "tradition": "北欧神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "印欧比较神话学（Dumézil 三功能假说、Puhvel 比较研究）讨论天父—风暴神—冥界神结构在希腊与北欧神系中的对应；此为学派观点而非定论。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>希腊神话主要神系谱系（示意）</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>希腊神话主要神系谱系（示意）</text><line x1='180' y1='128' x2='330' y2='128' stroke='currentColor' opacity='0.5'/><line x1='580' y1='128' x2='430' y2='128' stroke='currentColor' opacity='0.5'/><line x1='380' y1='128' x2='380' y2='200' stroke='currentColor' opacity='0.5'/><line x1='380' y1='234' x2='250' y2='303' stroke='currentColor' opacity='0.5'/><line x1='380' y1='234' x2='510' y2='303' stroke='currentColor' opacity='0.5'/><line x1='380' y1='234' x2='100' y2='303' stroke='currentColor' opacity='0.5'/><line x1='380' y1='234' x2='660' y2='303' stroke='currentColor' opacity='0.5'/><rect x='80' y='94' width='100' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='130' y='116' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡俄斯</text><rect x='330' y='94' width='100' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='116' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌拉诺斯</text><rect x='580' y='94' width='100' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='630' y='116' text-anchor='middle' fill='var(--svg-text)' font-size='14'>盖亚</text><rect x='330' y='200' width='100' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='222' text-anchor='middle' fill='var(--svg-text)' font-size='14'>克洛诺斯</text><rect x='200' y='303' width='100' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='250' y='325' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宙斯</text><rect x='460' y='303' width='100' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='510' y='325' text-anchor='middle' fill='var(--svg-text)' font-size='14'>赫拉</text><rect x='50' y='303' width='100' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='100' y='325' text-anchor='middle' fill='var(--svg-text)' font-size='14'>波塞冬</text><rect x='610' y='303' width='100' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='660' y='325' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈迪斯</text></svg>",
+      "related": [
+        "fig-zeus",
+        "fig-hera",
+        "fig-hades",
+        "myth-roman",
+        "motif-creation",
+        "myth-norse"
+      ],
+      "sources": [
+        "pri-theogony",
+        "pri-works-days",
+        "pri-iliad",
+        "pri-apollodorus",
+        "pri-pausanias",
+        "aca-greek-religion",
+        "aca-prolegomena",
+        "aca-greek-myth-thought",
+        "aca-comparative-myth",
+        "enc-brit-greek",
+        "pri-enuma-elish"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 赫西俄德与荷马的生卒年不可考，文中年代为学界通说约数；2) 《书库》为托名之作，成书年代有争议；3) 引用未在线核验的百科条目（enc-brit-greek，见 DECISIONS.md D2）；4) 跨传统类比仅记录比较神话学教材中已有文献依据者，未作自行类比。",
+      "year": null
+    },
+    {
+      "id": "myth-norse",
+      "title": "北欧神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "medieval",
+      "summary": "以《埃达》与《萨迦》保存的阿斯加德诸神与诸神黄昏传说。",
+      "related": [
+        "fig-odin",
+        "motif-eschatology",
+        "motif-worldtree",
+        "myth-greek",
+        "myth-egyptian"
+      ],
+      "sources": [
+        "pri-poetic-eddas",
+        "pri-prose-eddas",
+        "aca-comparative-myth",
+        "aca-gods-indo-europeans"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 《诗体埃达》诸诗的确切成文年代有争论；2) 斯诺里的历史化解释是否忠实于更早传统，学界有分歧；3) John Lindow 与萨克索《丹麦人的业绩》均未录入 sources.json，其观点/材料作为学界代表列举，待补来源条目；4) 三功能模型为学派框架，不替读者下结论。",
+      "year": null,
+      "source_text": "北欧神话主要见于中世纪冰岛文献：《诗体埃达》保存古老众神诗歌，《散文埃达》由斯诺里·斯蒂德吕松系统化叙述并以欧赫墨罗斯主义（Euhemerism，神祇历史化）方式解释诸神，另有萨迦与《贝奥武甫》等日耳曼材料。这些文本多经基督教时代抄写者记录，其原始形态与成文年代存在学术讨论。",
+      "versions": [
+        "《诗体埃达》的预言诗与神祇诗歌较少系统化叙述，保留较古老的众神形象与宇宙末日（诸神的黄昏）意象。",
+        "《散文埃达》把诗歌材料整理为连贯的创世与神祇谱系，并明确提出诸神原为古代英雄/君王的历史化解释，属于作者的系统化处理。",
+        "萨克索·格拉玛提库斯《丹麦人的业绩》以拉丁文改写北欧传说，同样带有历史化与基督教时代立场，与冰岛材料形成对照。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Georges Dumézil",
+          "school": "印欧比较神话学（三功能假说）",
+          "view": "以主权、战争、丰产三功能解析印欧神系，北欧的奥丁、托尔、弗雷被作为三功能的对应案例；此为学派模型，非唯一解释。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "把宇宙树与诸神的黄昏置于宇宙周期与“永恒回归”（eternal return）的框架中理解，强调神话时间与仪式的关联。"
+        },
+        {
+          "holder": "John Lindow",
+          "school": "北欧神话与民俗研究",
+          "view": "强调现存文本的中世纪语境与口传—书写过渡，主张区分诗歌材料与后世的系统化叙述。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "希腊神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "印欧比较神话学（Dumézil、Puhvel）在天父/风暴神等功能位置上比较北欧与希腊神系，属有文献依据的学派比较，不主张直接同源。"
+        },
+        {
+          "tradition": "印度神话（吠陀）",
+          "basis_source": "aca-gods-indo-europeans",
+          "note": "Dumézil 的三功能模型将北欧与吠陀神系并置比较；此为理论框架下的对照，学界对其适用性仍有讨论。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>北欧神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>北欧神话结构示意（尤弥尔—诸神—宇宙树）</text><line x1='380' y1='118' x2='380' y2='170' stroke='currentColor' opacity='0.5'/><line x1='180' y1='170' x2='580' y2='170' stroke='currentColor' opacity='0.5'/><line x1='180' y1='170' x2='180' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='170' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><line x1='580' y1='170' x2='580' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='246' x2='380' y2='292' stroke='currentColor' opacity='0.5'/><rect x='280' y='82' width='200' height='36' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='106' text-anchor='middle' fill='var(--svg-text)' font-size='14'>原初巨人 尤弥尔</text><rect x='100' y='212' width='160' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='180' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥丁（主权）</text><rect x='300' y='212' width='160' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='14'>托尔（战争）</text><rect x='500' y='212' width='160' height='34' fill='var(--svg-node)' stroke='currentColor'/><text x='580' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弗雷（丰产）</text><rect x='270' y='292' width='220' height='40' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='318' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙树 尤克特拉希尔</text></svg>"
+    },
+    {
+      "id": "myth-egyptian",
+      "title": "埃及神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "围绕太阳神拉、奥西里斯与尼罗河的创世与冥界神话。",
+      "related": [
+        "fig-ra",
+        "motif-underworld",
+        "myth-norse",
+        "myth-mesopotamian"
+      ],
+      "sources": [
+        "pri-pyramid-texts",
+        "pri-book-dead",
+        "aca-before-philosophy",
+        "aca-golden-bough"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 阿肯那顿改革的确切年代与影响范围学界有不同估计，正文未列具体数字；2) James P. Allen 的著作未录入 sources.json，待补；3) Frazer 的比较结论属早期学派观点，已标注争论。",
+      "year": null,
+      "source_text": "埃及神话的材料跨越数千年，主要包括古王国金字塔文、中王国棺椁文与新王国《亡灵书》，另有神庙铭文与希腊罗马时期记录。不同时期与地点的创世叙事并不统一，赫利奥波利斯、孟菲斯、底比斯等地各有传统。",
+      "versions": [
+        "赫利奥波利斯传统以阿图姆（或拉）为原初神，经舒与泰芙努特、盖布与努特展开为九柱神谱系。",
+        "孟菲斯神学把创世归于普塔神的思想与言语，属神学中心转移后的系统化表达。",
+        "底比斯传统抬高阿蒙并与拉结合为阿蒙—拉；新王国时期的阿肯那顿改革短暂推行阿顿崇拜，改革后恢复旧有神系。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Henri Frankfort",
+          "school": "古代近东思想研究",
+          "view": "主张埃及与美索不达米亚的创世叙事以神话意象把握宇宙秩序，与现代抽象哲学的因果推演方式不同，不应以后者标准误读。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "把创世叙事与尼罗河泛滥的季节性循环、王权仪式的重演相联系，视神话为对宇宙秩序的周期性确认。"
+        },
+        {
+          "holder": "James P. Allen",
+          "school": "埃及学（宗教文本研究）",
+          "view": "强调埃及创世文本的多元并存，主张各中心传统是并行的神学表达而非单线演进。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "美索不达米亚神话",
+          "basis_source": "aca-before-philosophy",
+          "note": "Frankfort 等对近东两大传统的宇宙观作并置比较，指出二者均以神话意象表达秩序，但侧重不同；此为有文献依据的比较。"
+        },
+        {
+          "tradition": "希腊神话",
+          "basis_source": "aca-golden-bough",
+          "note": "Frazer 讨论奥西里斯与地中海地区死而复生神祇的相似性，属早期比较宗教学的经典议题，其具体结论在学界有争论。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>埃及创世传统对照示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>埃及创世传统对照（三大中心）</text><line x1='160' y1='150' x2='160' y2='200' stroke='currentColor' opacity='0.5'/><line x1='380' y1='150' x2='380' y2='200' stroke='currentColor' opacity='0.5'/><line x1='600' y1='150' x2='600' y2='200' stroke='currentColor' opacity='0.5'/><rect x='60' y='92' width='200' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='160' y='116' text-anchor='middle' fill='var(--svg-text)' font-size='14'>赫利奥波利斯</text><text x='160' y='138' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阿图姆—九柱神</text><rect x='280' y='92' width='200' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='116' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孟菲斯</text><text x='380' y='138' text-anchor='middle' fill='var(--svg-text)' font-size='13'>普塔—言语创世</text><rect x='500' y='92' width='200' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='600' y='116' text-anchor='middle' fill='var(--svg-text)' font-size='14'>底比斯</text><text x='600' y='138' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阿蒙—拉</text><rect x='60' y='200' width='200' height='58' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='160' y='224' text-anchor='middle' fill='var(--svg-text)' font-size='13'>金字塔文—棺椁文</text><text x='160' y='246' text-anchor='middle' fill='var(--svg-text)' font-size='13'>亡灵书</text><rect x='280' y='200' width='200' height='58' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='224' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神庙铭文</text><text x='380' y='246' text-anchor='middle' fill='var(--svg-text)' font-size='13'>王权仪式</text><rect x='500' y='200' width='200' height='58' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='600' y='224' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阿肯那顿改革</text><text x='600' y='246' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阿顿崇拜（短暂）</text><text x='380' y='318' text-anchor='middle' fill='var(--svg-text)' font-size='13'>说明：三大中心的传统并存，非单线演进</text></svg>"
+    },
+    {
+      "id": "myth-mesopotamian",
+      "title": "美索不达米亚神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "苏美尔—阿卡德楔形文字文献中的创世与洪水神话群。",
+      "related": [
+        "fig-gilgamesh",
+        "motif-flood",
+        "motif-creation",
+        "myth-egyptian",
+        "myth-chinese"
+      ],
+      "sources": [
+        "pri-enuma-elish",
+        "pri-gilgamesh",
+        "aca-before-philosophy",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 洪水叙事两版本的关系与先后学界仍有讨论；2) 大量泥板文本残缺，正文未给具体数字；3) Jacobsen、Kramer 的具体论点以其代表著作概括，细节待逐条核对引文。",
+      "year": null,
+      "source_text": "美索不达米亚神话主要保存在楔形文字泥板中，包括苏美尔语与阿卡德语文献。创世史诗、洪水叙事、王表与史诗《吉尔伽美什》构成核心材料，不同时期与城邦的传统并不统一，且大量文本仍有残缺。",
+      "versions": [
+        "《巴比伦创世史诗》以马尔杜克与提亚马特的斗争为中心，叙述天地与人类的建立，并抬高巴比伦主神的地位。",
+        "《阿特拉哈西斯》叙述洪水与人类再生，与《吉尔伽美什史诗》中的洪水段落存在情节对应，二者关系为学界研究议题。",
+        "苏美尔王表把王权起源归于天降，与创世史诗的王权观形成对照；苏美尔语与阿卡德语版本在神名与重点上存在差异。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Thorkild Jacobsen",
+          "school": "美索不达米亚宗教史",
+          "view": "以 Circuit of the gods 等概念分析苏美尔—阿卡德的神祇组织与城邦政治的对应，强调神话叙事与政治秩序的关联。"
+        },
+        {
+          "holder": "Samuel Noah Kramer",
+          "school": "苏美尔学",
+          "view": "通过泥板翻译与整理指出苏美尔创世思想的独特性，强调其与后世闪族传统的承继与差异。"
+        },
+        {
+          "holder": "Henri Frankfort",
+          "school": "古代近东思想研究",
+          "view": "把美索不达米亚宇宙观作为与希腊哲学思想对照的类型，主张前者以神话意象而非抽象推演表达秩序。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "埃及神话",
+          "basis_source": "aca-before-philosophy",
+          "note": "Frankfort 将美索不达米亚与埃及的宇宙观并置比较，指出二者同属近东神话思维但气质不同；有文献依据。"
+        },
+        {
+          "tradition": "希腊神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "比较神话学讨论近东创世/洪水母题与希腊神话的关系，学界对影响路径与程度有争论，此处并列呈现不作定论。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>美索不达米亚神话文本群示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>美索不达米亚神话文本群（创世·洪水·王权）</text><line x1='380' y1='120' x2='380' y2='168' stroke='currentColor' opacity='0.5'/><line x1='160' y1='168' x2='600' y2='168' stroke='currentColor' opacity='0.5'/><line x1='160' y1='168' x2='160' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='168' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><line x1='600' y1='168' x2='600' y2='212' stroke='currentColor' opacity='0.5'/><rect x='280' y='84' width='200' height='36' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='108' text-anchor='middle' fill='var(--svg-text)' font-size='14'>楔形文字泥板</text><rect x='60' y='212' width='200' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='160' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>巴比伦创世史诗</text><text x='160' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='13'>马尔杜克—提亚马特</text><rect x='280' y='212' width='200' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>洪水叙事</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阿特拉哈西斯—吉尔伽美什</text><rect x='500' y='212' width='200' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='600' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>苏美尔王表</text><text x='600' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='13'>天降王权</text><rect x='230' y='312' width='300' height='40' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='338' text-anchor='middle' fill='var(--svg-text)' font-size='13'>苏美尔语 / 阿卡德语版本并存，文本多有残缺</text></svg>"
+    },
+    {
+      "id": "myth-chinese",
+      "title": "中国神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "盘古、女娲、伏羲等神话与《山海经》《楚辞》所载传说。",
+      "related": [
+        "fig-pangu",
+        "fig-nuwa",
+        "motif-dragon",
+        "myth-mesopotamian",
+        "myth-hindu"
+      ],
+      "sources": [
+        "pri-shan-hai-jing",
+        "pri-chu-ci",
+        "aca-eternal-return"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 盘古传说最早文献出处的辑佚性质与年代待核实；2) 袁珂的具体论点未录入 sources.json；Lévi-Strauss 仅录入《结构人类学》方法论通论，其中国神话相关具体论点待核；3) 神话片段化的判断为学界通行看法，具体材料需逐条核对。",
+      "year": null,
+      "source_text": "中国神话散见于《山海经》《楚辞》《庄子》等典籍，系统性的创世叙述出现较晚（如三国时期文献中的盘古传说，其辑佚性质与年代待核实）。与部分拥有长篇创世史诗的传统不同，中国上古神话多以片段形式保存，后经整理与再叙述。",
+      "versions": [
+        "《山海经》保存大量神话地理与神祇片段，叙事简短，多不交代完整情节脉络。",
+        "《楚辞》中的《天问》以疑问形式列举宇宙与神话传说，保留了若干远古母题的线索。",
+        "盘古、女娲等创世与造人神话的系统叙述多见于较晚文献，其形成年代与早期口传关系是研究议题。"
+      ],
+      "interpretations": [
+        {
+          "holder": "袁珂",
+          "school": "中国神话学（神话整理与研究）",
+          "view": "通过辑录与整理散见文献，指出中国神话具有片段化特征，并强调神话与上古社会意识的关联；其整理工作影响深远。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "以宇宙创生与“永恒回归”（eternal return）的框架理解创世神话的一般结构，可作为比较参照，不直接等同于对中国材料的专门结论。"
+        },
+        {
+          "holder": "Claude Lévi-Strauss",
+          "school": "结构主义人类学",
+          "view": "主张神话思维具有普遍的逻辑结构，为分析神话中的对立与中介提供方法论参照；此为该学派的一般立场。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "印度神话",
+          "basis_source": "aca-eternal-return",
+          "note": "以 Eliade 的创世母题框架作现象学层面的对照，属于比较宗教学的一般框架，不主张具体文本间的传播关系。"
+        },
+        {
+          "tradition": "北欧神话",
+          "basis_source": "aca-eternal-return",
+          "note": "以 Eliade 的创世母题框架把盘古化生与北欧原初巨人躯体化生作现象学层面的并置；此为纯框架性参照，Puhvel 的印欧比较材料不直接涵盖中国，不推断源流。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>中国神话文献与母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>中国神话文献与母题（片段化传统）</text><line x1='150' y1='150' x2='150' y2='204' stroke='currentColor' opacity='0.5'/><line x1='380' y1='150' x2='380' y2='204' stroke='currentColor' opacity='0.5'/><line x1='610' y1='150' x2='610' y2='204' stroke='currentColor' opacity='0.5'/><rect x='70' y='96' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='150' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>山海经</text><text x='150' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神话地理</text><rect x='300' y='96' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>楚辞·天问</text><text x='380' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>疑问形式</text><rect x='530' y='96' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='610' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>庄子</text><text x='610' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>哲学化引用</text><rect x='70' y='204' width='160' height='54' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='150' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神祇与异物</text><text x='150' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='13'>片段叙事</text><rect x='300' y='204' width='160' height='54' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>宇宙诸问</text><text x='380' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题线索</text><rect x='530' y='204' width='160' height='54' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='610' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>寓言化</text><text x='610' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='13'>哲学转用</text><rect x='230' y='310' width='300' height='44' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='338' text-anchor='middle' fill='var(--svg-text)' font-size='13'>盘古·女娲：系统叙述多见于较晚文献</text></svg>"
+    },
+    {
+      "id": "myth-hindu",
+      "title": "印度神话（吠陀与往世书）",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "吠陀诸神与往世书三相神、史诗神话的传统。",
+      "related": [
+        "fig-vishnu",
+        "fig-shiva",
+        "fig-indra",
+        "motif-creation",
+        "myth-chinese",
+        "myth-japanese"
+      ],
+      "sources": [
+        "pri-rigveda",
+        "pri-mahabharata",
+        "aca-gods-indo-europeans",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 吠陀、奥义书、史诗与往世书的形成年代跨度大且难以精确，正文未列具体年数；2) Dumézil 三功能模型与 Doniger 的阐释立场均有学界争论；3) 细分阶段为叙述便利之划分，不表示严格的时间先后顺序。",
+      "year": null,
+      "source_text": "印度神话的材料包括吠陀颂歌、两大史诗与往世书等，跨越漫长的形成期。吠陀诸神与后世往世书的三相神体系在重点与神学上差异显著，奥义书与史诗则构成重要的过渡与转折。",
+      "versions": [
+        "吠陀颂歌以因陀罗、阿耆尼、苏摩等神祇为中心，侧重祭祀与赞颂，未形成后世的三相神格局。",
+        "奥义书把讨论重心转向梵与自我的哲学问题，神话叙事在此被重新阐释。",
+        "史诗与往世书确立梵天、毗湿奴、湿婆的三相神框架，并发展出化身与 Bhakti（虔信）等主题。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Georges Dumézil",
+          "school": "印欧比较神话学（三功能假说）",
+          "view": "把吠陀神系作为印欧三功能结构的重要证据，并与伊朗、北欧材料比较；该模型在学界影响大但也有批评。"
+        },
+        {
+          "holder": "Wendy Doniger",
+          "school": "芝加哥学派（宗教史与文本研究）",
+          "view": "强调印度神话的多义性与阐释史，关注文本如何在不同语境中被重读；主张警惕单一化解读。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "从宇宙轴、神话时间与现代性的对照理解印度宇宙观，为跨文化比较提供现象学框架。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "波斯神话",
+          "basis_source": "aca-gods-indo-europeans",
+          "note": "Dumézil 的印欧比较把印度与伊朗（波斯）材料并置，属有文献依据的学派比较；具体对应关系学界有讨论。"
+        },
+        {
+          "tradition": "北欧神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "比较神话学在印欧语系框架内对照印度与北欧神系，不主张直接文本传播，仅记录学术比较。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>印度神话发展阶段示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>印度神话发展阶段（吠陀—奥义书—史诗往世书）</text><line x1='140' y1='150' x2='380' y2='150' stroke='currentColor' opacity='0.5'/><line x1='380' y1='150' x2='620' y2='150' stroke='currentColor' opacity='0.5'/><line x1='140' y1='150' x2='140' y2='196' stroke='currentColor' opacity='0.5'/><line x1='380' y1='150' x2='380' y2='196' stroke='currentColor' opacity='0.5'/><line x1='620' y1='150' x2='620' y2='196' stroke='currentColor' opacity='0.5'/><rect x='60' y='96' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='140' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>吠陀</text><text x='140' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>自然神·祭祀</text><rect x='300' y='96' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥义书</text><text x='380' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>梵我·哲学转向</text><rect x='540' y='96' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='620' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>史诗·往世书</text><text x='620' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>三相神·化身</text><rect x='60' y='196' width='160' height='54' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='140' y='220' text-anchor='middle' fill='var(--svg-text)' font-size='13'>因陀罗</text><text x='140' y='240' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阿耆尼·苏摩</text><rect x='300' y='196' width='160' height='54' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='220' text-anchor='middle' fill='var(--svg-text)' font-size='13'>梵与自我</text><text x='380' y='240' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神话重释</text><rect x='540' y='196' width='160' height='54' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='620' y='220' text-anchor='middle' fill='var(--svg-text)' font-size='13'>梵天·毗湿奴</text><text x='620' y='240' text-anchor='middle' fill='var(--svg-text)' font-size='13'>湿婆·虔信</text><text x='380' y='322' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阶段为叙述便利而划分，各传统实际并存且相互交叠</text></svg>"
+    },
+    {
+      "id": "myth-japanese",
+      "title": "日本神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "《古事记》《日本书纪》所载天照大神与皇祖神话。",
+      "related": [
+        "fig-amaterasu",
+        "motif-sun",
+        "myth-hindu",
+        "myth-maya"
+      ],
+      "sources": [
+        "pri-kojiki",
+        "pri-nihon-shoki",
+        "aca-comparative-myth",
+        "aca-eternal-return"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 两部正史的编纂年代与材料来源学界有讨论；2) 本居宣长、Philippi 的具体论点待逐条核对原文，著作未完整录入 sources.json；3) 祝词等口传材料与正史的对应关系尚需专门研究。",
+      "year": null,
+      "source_text": "日本神话主要见于《古事记》与《日本书纪》，二者成书于奈良时代，以天皇世系为中心整理神话与历史传说；另有序、祝词等口传材料。两部书在记事与措辞上存在差异，均带有编纂时代的政治语境。",
+      "versions": [
+        "《古事记》以散文与诗歌混用，叙述从宇宙生成到天皇世系的连续谱系，语言与叙事更具文学性。",
+        "《日本书纪》采用汉文编年体，部分神话记录附异文，显示编纂时对多种材料的取舍。",
+        "祝词等口传材料与两部正史的记述并不完全一致，为研究地方与仪式传统提供旁证。"
+      ],
+      "interpretations": [
+        {
+          "holder": "本居宣长",
+          "school": "国学（Japanology/国文学）",
+          "view": "主张区分中国式道德化解读与日本古典的固有精神，强调以文本语言本身理解神话；此立场在思想史上有影响也有批评。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "可从创世、太阳神与王权神话的一般结构作跨文化对照，属现象学框架的比较参照。"
+        },
+        {
+          "holder": "Donald L. Philippi",
+          "school": "日本神话译介与研究",
+          "view": "强调《古事记》作为文学与神话文本的独特性，指出其叙事与编纂意图的复杂性。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "中国神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "比较研究常就东亚创世与王权神话作对照，此处仅记录有文献依据的母题层面比较，不主张具体传播路径。"
+        },
+        {
+          "tradition": "希腊神话",
+          "basis_source": "aca-eternal-return",
+          "note": "以创世与王权神话的现象学框架作一般对照，属比较宗教学的框架性参照。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>日本神话文本与谱系示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>日本神话文本与谱系（示意）</text><rect x='80' y='82' width='260' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='210' y='106' text-anchor='middle' fill='var(--svg-text)' font-size='14'>古事记</text><text x='210' y='126' text-anchor='middle' fill='var(--svg-text)' font-size='13'>散文诗歌混用·文学性</text><rect x='420' y='82' width='260' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='550' y='106' text-anchor='middle' fill='var(--svg-text)' font-size='14'>日本书纪</text><text x='550' y='126' text-anchor='middle' fill='var(--svg-text)' font-size='13'>汉文编年·附异文</text><line x1='210' y1='138' x2='210' y2='182' stroke='currentColor' opacity='0.5'/><line x1='550' y1='138' x2='550' y2='182' stroke='currentColor' opacity='0.5'/><line x1='210' y1='182' x2='550' y2='182' stroke='currentColor' opacity='0.5'/><line x1='380' y1='182' x2='380' y2='222' stroke='currentColor' opacity='0.5'/><rect x='280' y='222' width='200' height='40' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天照大神·皇祖神话</text><line x1='380' y1='262' x2='380' y2='302' stroke='currentColor' opacity='0.5'/><rect x='230' y='302' width='300' height='40' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='328' text-anchor='middle' fill='var(--svg-text)' font-size='13'>两书记事有差异，均带编纂时代语境</text></svg>"
+    },
+    {
+      "id": "myth-maya",
+      "title": "玛雅神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以《波波尔·乌》与铭文为基础的玉米人创世神话。",
+      "related": [
+        "motif-creation",
+        "motif-eschatology",
+        "myth-japanese",
+        "myth-aztec"
+      ],
+      "sources": [
+        "pri-popol-vuh",
+        "ins-world-history",
+        "aca-short-history-myth",
+        "aca-eternal-return"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 《波波尔·乌》的转录年代与文本层次学界有讨论；2) 铭文解读依赖语言学进展，具体读法可能更新；3) Schele、Taube 的具体论点待逐条核对原文，著作未完整录入 sources.json。",
+      "year": null,
+      "source_text": "玛雅神话的材料包括殖民时期记录的《波波尔·乌》、考古铭文、编年史与民族志资料。不同时期与城邦的信仰并不统一，且大量材料经殖民时代转录，解读依赖语言学、图像学与考古学的综合。",
+      "versions": [
+        "《波波尔·乌》以基切玛雅语叙述创世、玉米人的造就与英雄双子传说，是现存最系统的玛雅神话文本之一。",
+        "古典期铭文与陶器图像反映的是城邦王权与祭仪语境，与殖民时期文本之间隔着漫长时段，不能直接等同。",
+        "不同玛雅群体的口传与民族志材料显示地方差异，研究者谨慎地把它们与古代材料对应。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Linda Schele",
+          "school": "玛雅碑铭与艺术史研究",
+          "view": "通过铭文与图像解读玛雅王权与宇宙观，强调视觉材料与文字材料互证；其具体解读在学界有讨论。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "可从创世与宇宙轴的一般母题对玛雅材料作现象学层面的对照，属框架性参照而非专门结论。"
+        },
+        {
+          "holder": "Karl A. Taube",
+          "school": "中美洲考古与图像学",
+          "view": "强调图像与考古证据对理解玛雅神祇的重要性，主张跨区域比较需以材料为基础。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "阿兹特克神话",
+          "basis_source": "aca-short-history-myth",
+          "note": "比较神话学通论常把中美洲两大传统并置，此处仅记录母题层面的一般比较，不主张细节同源。"
+        },
+        {
+          "tradition": "美索不达米亚神话",
+          "basis_source": "aca-eternal-return",
+          "note": "以创世母题的现象学框架作对照，属比较宗教学的一般参照，非具体传播关系的论断。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>玛雅神话材料来源示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>玛雅神话材料来源（互证关系）</text><rect x='80' y='96' width='180' height='60' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>波波尔·乌</text><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='13'>殖民期转录</text><rect x='290' y='96' width='180' height='60' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>古典期铭文</text><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='13'>城邦王权</text><rect x='500' y='96' width='180' height='60' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>考古与图像</text><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='13'>陶器·石刻</text><line x1='170' y1='156' x2='380' y2='218' stroke='currentColor' opacity='0.5'/><line x1='380' y1='156' x2='380' y2='218' stroke='currentColor' opacity='0.5'/><line x1='590' y1='156' x2='380' y2='218' stroke='currentColor' opacity='0.5'/><rect x='270' y='218' width='220' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='14'>综合解读</text><rect x='230' y='308' width='300' height='42' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='334' text-anchor='middle' fill='var(--svg-text)' font-size='13'>不同时期与城邦传统不一，不可直接等同</text></svg>"
+    },
+    {
+      "id": "myth-aztec",
+      "title": "阿兹特克神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以墨西卡人太阳神与第五太阳纪传说为核心的神话。",
+      "related": [
+        "fig-quetzalcoatl",
+        "motif-sun",
+        "myth-maya",
+        "myth-celtic"
+      ],
+      "sources": [
+        "ins-world-history",
+        "ins-british-museum",
+        "aca-short-history-myth",
+        "aca-eternal-return"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 现存文献多经殖民时代转录，记录立场差异明显；2) 宇宙纪元的细节在不同文献中不一致，正文未列具体年数；3) León-Portilla、Clendinnen 的论点待逐条核对原文，著作未完整录入 sources.json。",
+      "year": null,
+      "source_text": "阿兹特克（墨西卡）神话主要依靠殖民时期记录、少量前殖民抄本与考古材料重建，核心母题包括太阳神、第五太阳纪与羽蛇神传说。材料多经后世转录，且带有记录者的立场，需与其他证据互证。",
+      "versions": [
+        "关于宇宙纪元，现存文献记载此前太阳纪的更替，第五太阳纪至今的叙事在不同文献中细节有出入。",
+        "羽蛇神（魁札尔科亚特尔）在神话与历史传说中的身份并不单一，既有神祇也有祭司—统治者的叙事层次。",
+        "西班牙征服者与本土编年史的记录立场不同，对同一神祇与仪式的描述存在明显差异。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Miguel León-Portilla",
+          "school": "纳瓦特尔文学与思想史",
+          "view": "以本土语言材料重建阿兹特克思想，强调其宇宙观与伦理观念的复杂性，反对把献祭简单化解释。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "可从宇宙周期与末世母题作现象学对照，属一般性框架参照。"
+        },
+        {
+          "holder": "Inga Clendinnen",
+          "school": "历史人类学",
+          "view": "强调仪式与政治秩序的关联，并指出殖民记录的中介性与解读困难。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "玛雅神话",
+          "basis_source": "aca-short-history-myth",
+          "note": "通论性著作常把中美洲两大传统并列，此处仅记录母题层面的一般比较。"
+        },
+        {
+          "tradition": "埃及神话",
+          "basis_source": "aca-eternal-return",
+          "note": "以太阳神与宇宙秩序母题作现象学层面的对照，属比较宗教学的框架性参照。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿兹特克宇宙纪元与材料示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿兹特克宇宙纪元与材料（示意）</text><rect x='60' y='90' width='180' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='150' y='114' text-anchor='middle' fill='var(--svg-text)' font-size='13'>前四个太阳纪</text><text x='150' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文献记载有出入</text><rect x='290' y='90' width='180' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='114' text-anchor='middle' fill='var(--svg-text)' font-size='13'>第五太阳纪</text><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='12'>现存世界</text><rect x='520' y='90' width='180' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='610' y='114' text-anchor='middle' fill='var(--svg-text)' font-size='13'>太阳神崇拜</text><text x='610' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王权与祭仪</text><line x1='240' y1='118' x2='290' y2='118' stroke='currentColor' opacity='0.5'/><line x1='470' y1='118' x2='520' y2='118' stroke='currentColor' opacity='0.5'/><rect x='100' y='204' width='240' height='56' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='220' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>殖民期记录·抄本</text><text x='220' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='12'>立场各异，需互证</text><rect x='420' y='204' width='240' height='56' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='540' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>考古与图像材料</text><text x='540' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='12'>独立旁证</text><text x='380' y='322' text-anchor='middle' fill='var(--svg-text)' font-size='13'>羽蛇神兼具神祇与历史叙事层次</text></svg>"
+    },
+    {
+      "id": "myth-celtic",
+      "title": "凯尔特神话",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以爱尔兰神话循环与威尔士《马比诺吉昂》为代表。",
+      "related": [
+        "fig-dagda",
+        "fig-cu-chulainn",
+        "myth-aztec",
+        "myth-roman"
+      ],
+      "sources": [
+        "pri-mabinogion",
+        "pri-lebor-gabala",
+        "aca-gods-indo-europeans",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 高卢与岛屿凯尔特材料之间的时空距离大，不能简单等同；2) Mac Cana、Sjoestedt 的具体论点待逐条核对，其著作未录入 sources.json；3) 本土知识传统的细节以学界通行为限，不作真伪评判。",
+      "year": null,
+      "source_text": "凯尔特神话的材料分散且多为中世纪抄本：《马比诺吉昂》保存威尔士的神话故事集，《侵略之书》汇编爱尔兰的伪史与神祇传说。更早的高卢人信仰主要依靠古典作者记载与考古铭文重建，材料与后世爱尔兰、威尔士传统之间隔着漫长时段。",
+      "versions": [
+        "爱尔兰的神话循环以达努神族与米列斯人入侵传说为核心，现存形态经过中世纪修道院的整理与基督教化改写。",
+        "威尔士《马比诺吉昂》的四个分支以威尔士地方传说为底本，与爱尔兰材料有若干对应人物，但各自独立成篇。",
+        "古典时代高卢神祇（如凯撒《高卢战记》所记者）与中世纪岛屿凯尔特材料不能简单等同，研究者强调其间的时空距离。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Proinsias Mac Cana",
+          "school": "凯尔特文学与神话研究",
+          "view": "强调凯尔特神话的地方性、口传底色与中世纪文本的中介性，主张在文本语境中理解神祇叙事，而非重建统一的神话体系。"
+        },
+        {
+          "holder": "Marie-Louise Sjoestedt",
+          "school": "凯尔特宗教研究",
+          "view": "以宗教史与语言学方法分析爱尔兰神祇，指出神祇形象与王权、地域的关联；其结论基于当时的材料，部分细节已被后续研究修订。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "可就宇宙轴、英雄与丰产母题作现象学层面的框架性参照，不构成对凯尔特材料的专门结论。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "北欧神话",
+          "basis_source": "aca-gods-indo-europeans",
+          "note": "印欧比较神话学在语系框架内并置凯尔特与北欧材料，属有文献依据的学派比较，不主张直接文本同源。"
+        },
+        {
+          "tradition": "希腊神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "比较神话学把凯尔特神祇与地中海传统作功能层面的对照，学界对具体对应有争论，此处并列呈现。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>凯尔特神话材料来源示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>凯尔特神话材料来源（岛屿与大陆）</text><rect x='80' y='96' width='240' height='60' fill='var(--svg-node)' stroke='currentColor'/><text x='200' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>爱尔兰传统</text><text x='200' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='13'>侵略之书·神话循环</text><rect x='440' y='96' width='240' height='60' fill='var(--svg-node)' stroke='currentColor'/><text x='560' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>威尔士传统</text><text x='560' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='13'>马比诺吉昂</text><rect x='260' y='210' width='240' height='60' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中世纪抄本</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='13'>经修道院整理改写</text><rect x='260' y='312' width='240' height='44' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='340' text-anchor='middle' fill='var(--svg-text)' font-size='13'>大陆高卢材料：古典记载与考古</text></svg>"
+    },
+    {
+      "id": "myth-roman",
+      "title": "罗马神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "classical",
+      "summary": "吸收希腊神话并本土化的罗马神祇与建城传说。",
+      "related": [
+        "myth-celtic",
+        "myth-sumerian"
+      ],
+      "sources": [
+        "pri-ovid-met",
+        "pri-virgil-aeneid",
+        "pri-livy-rome"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "myth-sumerian",
+      "title": "苏美尔神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "楔形文字泥板中的恩利尔、伊南娜与洪水传说。",
+      "related": [
+        "myth-roman",
+        "myth-akkadian"
+      ],
+      "sources": [
+        "pri-sumerian-king-list",
+        "aca-sumerian-mythology"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "myth-akkadian",
+      "title": "阿卡德神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "以《吉尔伽美什史诗》为代表的闪族美索不达米亚神话。",
+      "related": [
+        "myth-sumerian",
+        "myth-persian"
+      ],
+      "sources": [
+        "pri-gilgamesh",
+        "pri-atrahasis"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "myth-persian",
+      "title": "波斯神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "琐罗亚斯德教之前的伊朗神话与《阿维斯陀》中的传说。",
+      "related": [
+        "myth-akkadian",
+        "myth-finnish"
+      ],
+      "sources": [
+        "aca-gods-indo-europeans",
+        "enc-brit-mythology"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-mythology（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-finnish",
+      "title": "芬兰神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "medieval",
+      "summary": "以《卡勒瓦拉》为核心的芬兰—卡累利阿神话。",
+      "related": [
+        "myth-persian",
+        "myth-slavic"
+      ],
+      "sources": [
+        "pri-kalevala",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "myth-slavic",
+      "title": "斯拉夫神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "medieval",
+      "summary": "东斯拉夫与南斯拉夫的多神教神话遗存。",
+      "related": [
+        "myth-finnish",
+        "myth-hittite"
+      ],
+      "sources": [
+        "enc-brit-mythology",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-mythology（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-hittite",
+      "title": "赫梯神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "赫梯楔形文字文献中的风暴神与创世传说。",
+      "related": [
+        "myth-slavic",
+        "myth-yoruba"
+      ],
+      "sources": [
+        "aca-hittite-myths",
+        "ins-oriental-institute"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-oriental-institute（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-yoruba",
+      "title": "约鲁巴神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "oral",
+      "summary": "西非约鲁巴人的奥里莎神系与创世传说。",
+      "related": [
+        "myth-hittite",
+        "myth-dogon"
+      ],
+      "sources": [
+        "ins-british-museum",
+        "enc-wiki-list-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-british-museum、enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-dogon",
+      "title": "多贡神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "oral",
+      "summary": "西非多贡人的创世与天象传说（研究材料以口述记录为主）。",
+      "related": [
+        "myth-yoruba",
+        "myth-polynesian"
+      ],
+      "sources": [
+        "aca-structural-anthro",
+        "ins-british-museum"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-british-museum（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-polynesian",
+      "title": "波利尼西亚神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "oral",
+      "summary": "毛利与夏威夷等地的波利尼西亚创世与航海神话。",
+      "related": [
+        "myth-dogon",
+        "myth-australian"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-world-history"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-world-history（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-australian",
+      "title": "澳大利亚原住民神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "oral",
+      "summary": "以\"梦创时代\"为核心的原住民宇宙观与祖先传说。",
+      "related": [
+        "myth-polynesian",
+        "myth-inca"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-world-history"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-world-history（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-inca",
+      "title": "印加神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "印加帝国的太阳神崇拜与王室起源传说。",
+      "related": [
+        "myth-australian",
+        "myth-olmec"
+      ],
+      "sources": [
+        "ins-world-history",
+        "ins-british-museum"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-world-history、ins-british-museum（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-olmec",
+      "title": "奥尔梅克神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "中美洲奥尔梅克文明的兽人像与可能的神话母题。",
+      "related": [
+        "myth-inca",
+        "myth-canaanite"
+      ],
+      "sources": [
+        "ins-world-history",
+        "ins-british-museum"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-world-history、ins-british-museum（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-canaanite",
+      "title": "迦南神话",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "乌加里特文献中的巴力、阿娜特与丰产神话。",
+      "related": [
+        "myth-olmec",
+        "myth-etruscan"
+      ],
+      "sources": [
+        "aca-myth-legend-custom",
+        "ins-oriental-institute"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-oriental-institute（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-etruscan",
+      "title": "伊特鲁里亚神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "伊特鲁里亚文明的神祇与占卜神话，材料零散。",
+      "related": [
+        "myth-canaanite",
+        "myth-phoenician"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-met"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-met（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-phoenician",
+      "title": "腓尼基神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "腓尼基城邦的埃尔、巴力与梅尔卡特传说。",
+      "related": [
+        "myth-etruscan",
+        "myth-thracian"
+      ],
+      "sources": [
+        "aca-myth-legend-custom",
+        "enc-brit-mythology"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-mythology（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-thracian",
+      "title": "色雷斯神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "色雷斯人的扎尔莫克西斯等神祇传说，材料零散。",
+      "related": [
+        "myth-phoenician",
+        "myth-turkic"
+      ],
+      "sources": [
+        "enc-brit-mythology",
+        "enc-wiki-list-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-mythology、enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-turkic",
+      "title": "突厥神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "oral",
+      "summary": "突厥语民族的腾格里信仰与狼祖传说。",
+      "related": [
+        "myth-thracian",
+        "myth-ugric"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "aca-gods-indo-europeans"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-ugric",
+      "title": "乌戈尔神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "oral",
+      "summary": "匈牙利与西伯利亚乌戈尔民族的神话遗存。",
+      "related": [
+        "myth-turkic",
+        "myth-korean"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-korean",
+      "title": "朝鲜神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "檀君与朱蒙的建国神话及《三国遗事》所载传说。",
+      "related": [
+        "myth-ugric",
+        "myth-vietnamese"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-world-history"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-world-history（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-vietnamese",
+      "title": "越南神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "越南的龙子仙孙、四神与建国传说。",
+      "related": [
+        "myth-korean",
+        "myth-basque"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-world-history"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-world-history（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-basque",
+      "title": "巴斯克神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "oral",
+      "summary": "巴斯克地区的安博托、马里等传说。",
+      "related": [
+        "myth-vietnamese",
+        "myth-lithuanian"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "enc-brit-mythology"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、enc-brit-mythology（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-lithuanian",
+      "title": "立陶宛神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "medieval",
+      "summary": "波罗的海地区立陶宛的多神教神话遗存。",
+      "related": [
+        "myth-basque",
+        "myth-georgian"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-georgian",
+      "title": "格鲁吉亚神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "高加索格鲁吉亚的太阳神与英雄传说。",
+      "related": [
+        "myth-lithuanian",
+        "myth-armenian"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-armenian",
+      "title": "亚美尼亚神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "亚美尼亚的前基督教神祇与史诗传说。",
+      "related": [
+        "myth-georgian",
+        "myth-maori"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-maori",
+      "title": "毛利神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "oral",
+      "summary": "新西兰毛利人的创世、祖先与载体传说。",
+      "related": [
+        "myth-armenian",
+        "myth-micronesian"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-world-history"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-world-history（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-micronesian",
+      "title": "密克罗尼西亚神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "oral",
+      "summary": "密克罗尼西亚群岛的岛屿创世与航海传说。",
+      "related": [
+        "myth-maori",
+        "myth-plains-native"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-world-history"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-world-history（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-plains-native",
+      "title": "北美平原原住民神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "oral",
+      "summary": "北美大平原部落的太阳舞与 buffalo 传说。",
+      "related": [
+        "myth-micronesian",
+        "myth-northwest-native"
+      ],
+      "sources": [
+        "aca-religions-american-indians",
+        "enc-wiki-list-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-northwest-native",
+      "title": "北美西北海岸原住民神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "oral",
+      "summary": "西北海岸部落的乌鸦、逆戟鲸与氏族传说。",
+      "related": [
+        "myth-plains-native",
+        "myth-siberian"
+      ],
+      "sources": [
+        "aca-religions-american-indians",
+        "ins-british-museum"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-british-museum（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-siberian",
+      "title": "西伯利亚神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "oral",
+      "summary": "西伯利亚诸民族的萨满宇宙观与动物祖灵传说。",
+      "related": [
+        "myth-northwest-native",
+        "myth-dravidian"
+      ],
+      "sources": [
+        "aca-shamanism",
+        "enc-wiki-list-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-dravidian",
+      "title": "达罗毗荼神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "南印度达罗毗荼地区的本土神祇与史诗传统。",
+      "related": [
+        "myth-siberian",
+        "myth-berber"
+      ],
+      "sources": [
+        "pri-rigveda",
+        "enc-brit-hinduism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-hinduism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "myth-berber",
+      "title": "柏柏尔神话",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "北非柏柏尔人的多神教神话遗存。",
+      "related": [
+        "myth-dravidian"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-world-history"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-world-history（DECISIONS.md D2）。",
+      "year": null
+    }
+  ]
+}

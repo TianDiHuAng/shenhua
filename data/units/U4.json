@@ -1,0 +1,748 @@
+{
+  "unit_id": "U4",
+  "title": "人物",
+  "entries": [
+    {
+      "id": "fig-zeus",
+      "title": "宙斯",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "希腊神话的奥林匹斯主神，天空与雷霆之神。",
+      "related": [
+        "myth-greek",
+        "fig-hera",
+        "fig-hades",
+        "fig-odin"
+      ],
+      "sources": [
+        "pri-theogony",
+        "pri-iliad",
+        "aca-gods-indo-europeans",
+        "pri-virgil-aeneid"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 三功能模型为学派框架，学界有争论；2) 各文献形象差异已并列呈现，不替读者下结论；3) 比较需有文献依据，不主张直接同源。",
+      "year": null,
+      "source_text": "宙斯是希腊神话的奥林匹斯主神，主要见于赫西俄德《神谱》与荷马《伊利亚特》《奥德赛》，另在阿波罗多洛斯《书库》与保萨尼亚斯《希腊志》中有地方传说记载。不同文献中的形象并不完全一致。",
+      "versions": [
+        "《神谱》叙述宙斯在神权更替中击败克洛诺斯，确立奥林匹斯秩序，侧重谱系与权力继承。",
+        "荷马史诗中的宙斯是既成秩序的主宰，其权威需与其他神祇协商，更多参与人间事务。",
+        "地方崇拜中的宙斯有不同称号与职能，与泛希腊版本并存，不宜视为单一形象。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Jean-Pierre Vernant",
+          "school": "巴黎学派（古希腊神话与思想）",
+          "view": "把宙斯的权威与城邦公共秩序的图像体系联系起来分析，属有文献依据的学派研究。"
+        },
+        {
+          "holder": "Walter Burkert",
+          "school": "宗教史学派",
+          "view": "强调希腊宗教的祭祀实践核心与近东影响，将宙斯置于历史宗教史语境，属学术研究。"
+        },
+        {
+          "holder": "Georges Dumézil",
+          "school": "印欧比较神话学",
+          "view": "以三功能假说把宙斯与印欧天父神功能对照，属学派模型，学界对其适用性有讨论。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "北欧神话",
+          "basis_source": "aca-gods-indo-europeans",
+          "note": "Dumézil 的印欧比较把宙斯与奥丁等作功能对照，属学派框架，不主张直接同源。"
+        },
+        {
+          "tradition": "罗马神话",
+          "basis_source": "pri-virgil-aeneid",
+          "note": "以《埃涅阿斯纪》等罗马文学为依据，记录宙斯与朱庇特的传统对应，属文本层面的对照。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>宙斯形象来源示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>宙斯形象的主要文献来源</text><rect x='280' y='88' width='200' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='118' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宙斯</text><line x1='380' y1='136' x2='380' y2='172' stroke='currentColor' opacity='0.5'/><line x1='150' y1='172' x2='610' y2='172' stroke='currentColor' opacity='0.5'/><line x1='150' y1='172' x2='150' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='172' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><line x1='610' y1='172' x2='610' y2='212' stroke='currentColor' opacity='0.5'/><rect x='70' y='212' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='150' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神谱</text><text x='150' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>谱系·神权更替</text><rect x='300' y='212' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>荷马史诗</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>既成秩序</text><rect x='530' y='212' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='610' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>地方传说</text><text x='610' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>书库·希腊志</text><text x='380' y='322' text-anchor='middle' fill='var(--svg-text)' font-size='13'>不同文献中的形象并不完全一致</text></svg>"
+    },
+    {
+      "id": "fig-odin",
+      "title": "奥丁",
+      "level": "L2",
+      "tier": "核心",
+      "period": "medieval",
+      "summary": "北欧神话的至高神，主智慧、战争与亡灵。",
+      "related": [
+        "myth-norse",
+        "fig-thor",
+        "fig-loki",
+        "fig-zeus",
+        "fig-ra"
+      ],
+      "sources": [
+        "pri-poetic-eddas",
+        "pri-prose-eddas",
+        "aca-gods-indo-europeans",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 现存文本的中世纪记录语境已标注；2) Lindow 著作未录入 sources.json，已声明；3) 三功能模型为学派框架，不替读者下结论。",
+      "year": null,
+      "source_text": "奥丁是北欧神话的至高神之一，主要见于《诗体埃达》与《散文埃达》，另在萨迦中有所记载。现存文本多经中世纪基督教抄写者记录，其原始形象与后世叙述之间的关系为学界讨论议题。",
+      "versions": [
+        "《诗体埃达》的诗歌中奥丁兼具智慧、战争与亡灵管理等职能，形象较为复合。",
+        "《散文埃达》把奥丁置于系统化的神谱与历史化解释框架中，属于作者的系统化处理。",
+        "斯诺里的历史化解释把诸神追溯到古代君王，与诗歌材料的神话叙述形成对照。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Georges Dumézil",
+          "school": "印欧比较神话学",
+          "view": "以三功能假说把奥丁归为主权功能，与托尔、弗雷对应，属学派模型，学界对其适用性有讨论。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "可从智慧、战争与亡灵的复合职能作现象学层面的参照，属框架性对照。"
+        },
+        {
+          "holder": "John Lindow",
+          "school": "北欧神话与民俗研究",
+          "view": "强调奥丁材料的中世纪文本语境与口传—书写过渡，主张区分诗歌证据与后世系统化叙述，其著作未录入来源库。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "希腊神话",
+          "basis_source": "aca-gods-indo-europeans",
+          "note": "Dumézil 的印欧比较把奥丁与宙斯等作功能对照，属学派框架，不主张直接同源。"
+        },
+        {
+          "tradition": "印度神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "比较神话学在印欧语系框架内并置北欧与印度神系，属学术对照，具体对应关系有讨论。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奥丁形象与文献示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奥丁形象的主要文献来源</text><rect x='280' y='88' width='200' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='118' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥丁</text><line x1='380' y1='136' x2='380' y2='172' stroke='currentColor' opacity='0.5'/><line x1='150' y1='172' x2='610' y2='172' stroke='currentColor' opacity='0.5'/><line x1='150' y1='172' x2='150' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='172' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><line x1='610' y1='172' x2='610' y2='212' stroke='currentColor' opacity='0.5'/><rect x='70' y='212' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='150' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>诗体埃达</text><text x='150' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>古老诗歌</text><rect x='300' y='212' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>散文埃达</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>系统化叙述</text><rect x='530' y='212' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='610' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>萨迦</text><text x='610' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>历史传说</text><text x='380' y='322' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，形象复合</text></svg>"
+    },
+    {
+      "id": "fig-ra",
+      "title": "拉",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "埃及神话的太阳神，创世与王权的核心神祇。",
+      "related": [
+        "myth-egyptian",
+        "fig-osiris",
+        "fig-odin",
+        "fig-pangu"
+      ],
+      "sources": [
+        "pri-pyramid-texts",
+        "pri-book-dead",
+        "pri-rigveda",
+        "enc-brit-shinto"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 各时期神学中心的演变年代有争论，正文未列具体年数；2) Allen 著作未录入 sources.json，已声明；3) 与日本太阳神的比较为弱参照，待补专门文献。",
+      "year": null,
+      "source_text": "拉是古埃及的太阳神，在金字塔文、棺椁文与《亡灵书》中居核心地位，并与王权叙事相联。不同时期与地点的传统并不统一，拉的职能与形象随历史演变。",
+      "versions": [
+        "古王国金字塔文中拉与王权、太阳运行紧密关联，是创世与死后重生叙事的核心神祇。",
+        "中王国与新王国时期拉与阿蒙结合为阿蒙—拉，神学中心发生转移。",
+        "阿肯那顿改革短暂推行阿顿崇拜，改革后恢复旧有神系，反映宗教与政治的互动。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Henri Frankfort",
+          "school": "古代近东思想研究",
+          "view": "以神话意象分析拉与王权、宇宙秩序的关联，主张不以现代抽象标准误读埃及宇宙观，属专门研究。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "把太阳神的每日运行与宇宙循环、仪式时间相联系，属现象学层面的参照。"
+        },
+        {
+          "holder": "James P. Allen",
+          "school": "埃及学（宗教文本研究）",
+          "view": "强调埃及创世与太阳神传统的多元并存，主张各中心表述为并行而非单线演进，其著作未录入来源库。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "印度神话",
+          "basis_source": "pri-rigveda",
+          "note": "以《梨俱吠陀》太阳颂歌为依据，记录埃及拉与吠陀太阳神的母题对照，不推断传播关系。"
+        },
+        {
+          "tradition": "日本神话",
+          "basis_source": "enc-brit-shinto",
+          "note": "以权威百科条目作太阳神母题的一般参照（该来源未在线核验），文化语境差异大，属弱参照，待补专门文献。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>拉的神学与历史演变示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>拉：太阳神与王权（示意）</text><circle cx='380' cy='132' r='40' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='138' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉</text><line x1='380' y1='172' x2='380' y2='210' stroke='currentColor' opacity='0.5'/><line x1='150' y1='210' x2='610' y2='210' stroke='currentColor' opacity='0.5'/><line x1='150' y1='210' x2='150' y2='248' stroke='currentColor' opacity='0.5'/><line x1='380' y1='210' x2='380' y2='248' stroke='currentColor' opacity='0.5'/><line x1='610' y1='210' x2='610' y2='248' stroke='currentColor' opacity='0.5'/><rect x='70' y='248' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='150' y='272' text-anchor='middle' fill='var(--svg-text)' font-size='13'>金字塔文</text><text x='150' y='292' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王权·创世</text><rect x='300' y='248' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='272' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阿蒙—拉</text><text x='380' y='292' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神学中心转移</text><rect x='530' y='248' width='160' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='610' y='272' text-anchor='middle' fill='var(--svg-text)' font-size='13'>亡灵书</text><text x='610' y='292' text-anchor='middle' fill='var(--svg-text)' font-size='12'>冥界·重生</text><text x='380' y='346' text-anchor='middle' fill='var(--svg-text)' font-size='12'>各时期传统并存，非单线演进</text></svg>"
+    },
+    {
+      "id": "fig-pangu",
+      "title": "盘古",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "中国神话中开辟天地的创世神。",
+      "related": [
+        "myth-chinese",
+        "fig-nuwa",
+        "motif-creation",
+        "fig-ra"
+      ],
+      "sources": [
+        "aca-short-history-myth",
+        "enc-wiki-mythology",
+        "aca-eternal-return"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 盘古传说最早出处的辑佚性质与年代待核实，已标注；2) 袁珂、Lévi-Strauss 的具体论点待逐条核对，袁珂著作未录入 sources.json；3) 与北欧、印度的比较为框架性参照，不推断源流。",
+      "year": null,
+      "source_text": "盘古是中国神话中的创世神，以身躯化生天地的叙事著称。其系统记载见于较晚文献（如三国时期典籍的辑佚引文），早期形态与口传关系是学界讨论议题，本站如实标注待核实。",
+      "versions": [
+        "盘古开天地的叙事在较晚文献中才有系统记载，其最早出处的辑佚性质与年代待核实。",
+        "盘古身体化生天地万物的母题，与典籍中其他创世叙述并存，二者关系为研究议题。",
+        "后世的民间叙述与文献记载在细节上有所差异，反映神话的流传演变。"
+      ],
+      "interpretations": [
+        {
+          "holder": "袁珂",
+          "school": "中国神话学（神话整理与研究）",
+          "view": "通过辑录散见文献整理中国神话，指出其片段化特征，其著作未录入 sources.json。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "以宇宙创生与“永恒回归”（eternal return）框架理解化生型创世，属现象学参照，不直接等同于对中国材料的专门结论。"
+        },
+        {
+          "holder": "Claude Lévi-Strauss",
+          "school": "结构主义人类学",
+          "view": "为分析化生神话中的对立与中介提供方法论参照，属学派一般立场。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "北欧神话",
+          "basis_source": "aca-eternal-return",
+          "note": "以 Eliade 的创世母题框架把盘古化生与北欧原初巨人化生作现象学层面的并置，属纯框架性参照，不推断源流。"
+        },
+        {
+          "tradition": "印度神话",
+          "basis_source": "aca-short-history-myth",
+          "note": "以通论性神话著作作创世母题的一般参照，具体文本关联待专门文献核对。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>盘古化生母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>盘古化生天地万物（示意）</text><rect x='300' y='92' width='160' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='122' text-anchor='middle' fill='var(--svg-text)' font-size='14'>盘古</text><line x1='380' y1='138' x2='380' y2='178' stroke='currentColor' opacity='0.5'/><line x1='150' y1='178' x2='610' y2='178' stroke='currentColor' opacity='0.5'/><line x1='150' y1='178' x2='150' y2='216' stroke='currentColor' opacity='0.5'/><line x1='380' y1='178' x2='380' y2='216' stroke='currentColor' opacity='0.5'/><line x1='610' y1='178' x2='610' y2='216' stroke='currentColor' opacity='0.5'/><rect x='70' y='216' width='160' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='150' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='13'>天</text><text x='150' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>清气上升</text><rect x='300' y='216' width='160' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='13'>地</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>浊气下沉</text><rect x='530' y='216' width='160' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='610' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='13'>万物</text><text x='610' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>身躯化生</text><rect x='230' y='312' width='300' height='44' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='340' text-anchor='middle' fill='var(--svg-text)' font-size='13'>最早出处辑佚性质与年代待核实</text></svg>"
+    },
+    {
+      "id": "fig-nuwa",
+      "title": "女娲",
+      "level": "L1",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "中国神话中造人、补天的女神。",
+      "related": [
+        "myth-chinese",
+        "fig-pangu",
+        "motif-mother-goddess",
+        "fig-buddha"
+      ],
+      "sources": [
+        "pri-chu-ci",
+        "aca-short-history-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-buddha",
+      "title": "释迦牟尼",
+      "level": "L1",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "佛教创始人，历史上称乔达摩·悉达多。",
+      "related": [
+        "rel-buddhism",
+        "fig-nuwa",
+        "fig-jesus"
+      ],
+      "sources": [
+        "pri-dhammapada",
+        "enc-brit-buddhism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-buddhism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-jesus",
+      "title": "耶稣",
+      "level": "L1",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "基督教信仰的中心人物。",
+      "related": [
+        "rel-christianity",
+        "fig-buddha",
+        "fig-muhammad"
+      ],
+      "sources": [
+        "pri-bible-kjv",
+        "aca-gnostic-gospels"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-muhammad",
+      "title": "穆罕默德",
+      "level": "L1",
+      "tier": "核心",
+      "period": "medieval",
+      "summary": "伊斯兰教的先知，《古兰经》的传达者。",
+      "related": [
+        "rel-islam",
+        "fig-jesus",
+        "fig-moses"
+      ],
+      "sources": [
+        "pri-quran",
+        "enc-brit-islam"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-islam（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-moses",
+      "title": "摩西",
+      "level": "L1",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "犹太教传统中的律法颁布者与出埃及领导者。",
+      "related": [
+        "rel-judaism",
+        "rel-christianity",
+        "fig-muhammad",
+        "fig-vishnu"
+      ],
+      "sources": [
+        "pri-bible-kjv",
+        "aca-myth-legend-custom"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-vishnu",
+      "title": "毗湿奴",
+      "level": "L1",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "印度教三相神中的保护神。",
+      "related": [
+        "rel-hinduism",
+        "myth-hindu",
+        "fig-moses",
+        "fig-shiva"
+      ],
+      "sources": [
+        "pri-vishnu-purana",
+        "pri-mahabharata"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-shiva",
+      "title": "湿婆",
+      "level": "L1",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "印度教三相神中的毁灭与再生之神。",
+      "related": [
+        "rel-hinduism",
+        "myth-hindu",
+        "fig-vishnu",
+        "fig-indra"
+      ],
+      "sources": [
+        "aca-patterns-religion",
+        "enc-brit-hinduism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-hinduism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-indra",
+      "title": "因陀罗",
+      "level": "L1",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "吠陀神话中的风暴与战争之神。",
+      "related": [
+        "myth-hindu",
+        "rel-hinduism",
+        "fig-shiva",
+        "fig-hera"
+      ],
+      "sources": [
+        "pri-rigveda",
+        "aca-gods-indo-europeans"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-hera",
+      "title": "赫拉",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "希腊神话的婚姻女神，宙斯之妻。",
+      "related": [
+        "fig-indra",
+        "fig-athena"
+      ],
+      "sources": [
+        "pri-theogony",
+        "pri-iliad"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-athena",
+      "title": "雅典娜",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "希腊神话的智慧与战争女神。",
+      "related": [
+        "fig-hera",
+        "fig-apollo"
+      ],
+      "sources": [
+        "pri-iliad",
+        "pri-odyssey"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-apollo",
+      "title": "阿波罗",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "希腊神话的太阳、音乐与预言神。",
+      "related": [
+        "fig-athena",
+        "fig-hades"
+      ],
+      "sources": [
+        "pri-homeric-hymns",
+        "pri-iliad"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-hades",
+      "title": "哈迪斯",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "希腊神话的冥界之神。",
+      "related": [
+        "fig-apollo",
+        "fig-thor"
+      ],
+      "sources": [
+        "pri-theogony",
+        "enc-wiki-underworld"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-underworld（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-thor",
+      "title": "索尔",
+      "level": "L1",
+      "tier": "重要",
+      "period": "medieval",
+      "summary": "北欧神话的雷神。",
+      "related": [
+        "fig-hades",
+        "fig-loki"
+      ],
+      "sources": [
+        "pri-prose-eddas",
+        "pri-poetic-eddas"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-loki",
+      "title": "洛基",
+      "level": "L1",
+      "tier": "重要",
+      "period": "medieval",
+      "summary": "北欧神话中的诡计与变形之神。",
+      "related": [
+        "fig-thor",
+        "fig-osiris"
+      ],
+      "sources": [
+        "pri-prose-eddas",
+        "pri-poetic-eddas"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-osiris",
+      "title": "奥西里斯",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "埃及神话的冥界与复活之神。",
+      "related": [
+        "fig-loki",
+        "fig-anubis"
+      ],
+      "sources": [
+        "pri-book-dead",
+        "aca-golden-bough"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-anubis",
+      "title": "阿努比斯",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "埃及神话的胡狼头冥界引路神。",
+      "related": [
+        "fig-osiris",
+        "fig-gilgamesh"
+      ],
+      "sources": [
+        "pri-book-dead",
+        "ins-british-museum"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-british-museum（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-gilgamesh",
+      "title": "吉尔伽美什",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "美索不达米亚史诗中的乌鲁克王。",
+      "related": [
+        "fig-anubis",
+        "fig-inanna"
+      ],
+      "sources": [
+        "pri-gilgamesh",
+        "aca-treasures-darkness"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-inanna",
+      "title": "伊南娜",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "苏美尔神话的爱与战争女神。",
+      "related": [
+        "fig-gilgamesh",
+        "fig-fuxi"
+      ],
+      "sources": [
+        "aca-sumerian-mythology",
+        "pri-sumerian-king-list"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-fuxi",
+      "title": "伏羲",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "中国神话中的人文始祖，画八卦。",
+      "related": [
+        "fig-inanna",
+        "fig-sun-wukong"
+      ],
+      "sources": [
+        "pri-i-ching",
+        "pri-shan-hai-jing"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-sun-wukong",
+      "title": "孙悟空",
+      "level": "L1",
+      "tier": "重要",
+      "period": "medieval",
+      "summary": "《西游记》中的神猴形象。",
+      "related": [
+        "fig-fuxi",
+        "fig-quetzalcoatl"
+      ],
+      "sources": [
+        "pri-journey-west",
+        "aca-short-history-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "fig-quetzalcoatl",
+      "title": "羽蛇神",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "中美洲神话中的羽蛇神（魁札尔科亚特尔）。",
+      "related": [
+        "fig-sun-wukong",
+        "fig-mictlantecuhtli"
+      ],
+      "sources": [
+        "ins-world-history",
+        "enc-wiki-list-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：ins-world-history、enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-mictlantecuhtli",
+      "title": "米克特兰特库特利",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "阿兹特克神话的冥界之神。",
+      "related": [
+        "fig-quetzalcoatl",
+        "fig-amaterasu"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "ins-world-history"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth、ins-world-history（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-amaterasu",
+      "title": "天照大神",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "日本神话的太阳女神。",
+      "related": [
+        "fig-mictlantecuhtli",
+        "fig-susanoo"
+      ],
+      "sources": [
+        "pri-kojiki",
+        "enc-brit-shinto"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-shinto（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-susanoo",
+      "title": "须佐之男",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "日本神话的风暴与斩蛇英雄。",
+      "related": [
+        "fig-amaterasu",
+        "fig-dagda"
+      ],
+      "sources": [
+        "pri-kojiki",
+        "enc-wiki-list-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-dagda",
+      "title": "达格达",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "爱尔兰神话的至善之神。",
+      "related": [
+        "fig-susanoo",
+        "fig-cu-chulainn"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "pri-lebor-gabala"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "fig-cu-chulainn",
+      "title": "库丘林",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "爱尔兰神话的英雄，阿尔斯特循环核心人物。",
+      "related": [
+        "fig-dagda"
+      ],
+      "sources": [
+        "enc-wiki-list-myth",
+        "pri-mabinogion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-list-myth（DECISIONS.md D2）。",
+      "year": null
+    }
+  ]
+}

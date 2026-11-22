@@ -1,0 +1,789 @@
+{
+  "unit_id": "U3",
+  "title": "母题",
+  "entries": [
+    {
+      "id": "motif-creation",
+      "title": "创世",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "创世母题指叙述宇宙、世界与人类起源的叙事类型，广泛见于神话与宗教传统。常见形态包括混沌到秩序、宇宙卵化生、原始巨体分解与言语创世；学界常以其结构比较不同文化的宇宙观。",
+      "source_text": "创世叙事见于一手典籍：赫西俄德《神谱》（希腊）、《巴比伦创世史诗》Enuma Elish（美索不达米亚）、《波波尔·乌》（玛雅）、《古事记》（日本）、《梨俱吠陀》创世颂（印度）、《诗体埃达》（北欧）。中国盘古神话最早见于三国徐整《三五历纪》的辑佚引文（原书已佚），属待核实出处。比较研究可参见 Eliade《永恒回归的神话》与 Kramer《苏美尔神话》。",
+      "versions": [
+        "混沌到秩序型：希腊《神谱》自卡俄斯渐生天地诸神；美索不达米亚《巴比伦创世史诗》以马尔杜克击败提亚马特、分割其躯体建立天地为轴心，均强调从无序到有序的转化。",
+        "宇宙卵与化生型：印度《梨俱吠陀》创世颂以'金胎'（Hiranyagarbha）为原初；中国盘古神话以身躯化生天地万物，二者均见'原初整体分化'的叙事逻辑，但学界对其间的历史关联存有讨论。",
+        "原始巨体分解型：北欧《诗体埃达》中巨人尤弥尔的躯体化为天地山海；此型与美索不达米亚的提亚马特躯体分割在母题层面相近，比较神话学对此有专门研究，但不等于二者同源。",
+        "言语或无中生有型：《圣经·创世记》以神的话语创造世界；部分非洲传统亦有以言语或意念创世的叙述。此型与前述'从原初物质转化'的叙事在宇宙论预设上不同，需分别理解。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "创世叙事是'宇宙创生'原型的重演：通过复述世界如何被创造，仪式把人类活动纳入神圣时间，从而确认秩序与意义。"
+        },
+        {
+          "holder": "Claude Lévi-Strauss",
+          "school": "结构主义人类学",
+          "view": "创世神话以二元对立及其中介（如混沌/秩序、天/地、自然/文化）的逻辑运算，来表达并调和文化所依赖的基本范畴。"
+        },
+        {
+          "holder": "Henri Frankfort",
+          "school": "古代近东思想研究（'哲学之前'）",
+          "view": "近东与埃及的创世叙事不以抽象因果推演为主，而以神话意象把握宇宙与王权的秩序，不应以现代哲学标准误读。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "美索不达米亚神话",
+          "basis_source": "pri-enuma-elish",
+          "note": "《巴比伦创世史诗》的'躯体分割—建立秩序'结构，与北欧尤弥尔神话同属比较神话学讨论的化生型创世；此处仅记录学界已有研究，不推断历史传播路径。"
+        },
+        {
+          "tradition": "印度神话",
+          "basis_source": "pri-rigveda",
+          "note": "《梨俱吠陀》创世颂（如金胎、原人 Purusha 歌）被比较宗教学列为创世母题的重要变体；Eliade 与 Dumézil 的研究提供了文献依据。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>创世母题跨传统对照图（示意）</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>创世母题跨传统对照（仅示意，不表示源流关系）</text><line x1='250' y1='90' x2='250' y2='345' stroke='currentColor' opacity='0.4'/><rect x='30' y='95' width='700' height='40' fill='var(--svg-node)' stroke='currentColor' opacity='0.6'/><text x='45' y='121' fill='var(--svg-text)' font-size='14'>希腊</text><text x='265' y='121' fill='var(--svg-text)' font-size='14'>卡俄斯（混沌）中渐生天地诸神</text><rect x='30' y='145' width='700' height='40' fill='var(--svg-node)' stroke='currentColor' opacity='0.6'/><text x='45' y='171' fill='var(--svg-text)' font-size='14'>美索不达米亚</text><text x='265' y='171' fill='var(--svg-text)' font-size='14'>提亚马特被击败，躯体分为天地</text><rect x='30' y='195' width='700' height='40' fill='var(--svg-node)' stroke='currentColor' opacity='0.6'/><text x='45' y='221' fill='var(--svg-text)' font-size='14'>中国</text><text x='265' y='221' fill='var(--svg-text)' font-size='14'>盘古身体化生天地万物</text><rect x='30' y='245' width='700' height='40' fill='var(--svg-node)' stroke='currentColor' opacity='0.6'/><text x='45' y='271' fill='var(--svg-text)' font-size='14'>北欧</text><text x='265' y='271' fill='var(--svg-text)' font-size='14'>冰火相遇，尤弥尔躯体化生世界</text><rect x='30' y='295' width='700' height='40' fill='var(--svg-node)' stroke='currentColor' opacity='0.6'/><text x='45' y='321' fill='var(--svg-text)' font-size='14'>玛雅</text><text x='265' y='321' fill='var(--svg-text)' font-size='14'>玉米面团造人，玉米神牺牲</text></svg>",
+      "related": [
+        "myth-greek",
+        "myth-mesopotamian",
+        "myth-chinese",
+        "myth-norse",
+        "myth-maya",
+        "motif-cosmicegg",
+        "fig-pangu"
+      ],
+      "sources": [
+        "pri-theogony",
+        "pri-enuma-elish",
+        "pri-popol-vuh",
+        "pri-kojiki",
+        "pri-rigveda",
+        "pri-poetic-eddas",
+        "pri-shan-hai-jing",
+        "aca-eternal-return",
+        "aca-structural-anthro",
+        "aca-sumerian-mythology",
+        "aca-before-philosophy"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 盘古神话最早出处的辑佚性质与年代待核实，正文已标明；2) 中国盘古与印度原人歌之间的关联为学界讨论议题，未作定论；3) 引用未在线核验的百科与机构资源（见 DECISIONS.md D2）；4) 北欧与美索不达米亚的躯体分割母题仅记录文献依据，不推断传播关系。",
+      "year": null
+    },
+    {
+      "id": "motif-flood",
+      "title": "洪水",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以大洪水毁灭与重生人群为核心的母题。",
+      "related": [
+        "myth-mesopotamian",
+        "fig-gilgamesh",
+        "motif-creation",
+        "motif-underworld"
+      ],
+      "sources": [
+        "pri-gilgamesh",
+        "pri-atrahasis",
+        "aca-myth-legend-custom",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 洪水叙事的先后与传播关系学界无定论，正文未列具体年数；2) Kramer、Frazer 的具体论点以其代表著作概括，细节待核对；3) 不推断单一起源，符合比较学术规范。",
+      "year": null,
+      "source_text": "洪水母题见于多个传统的一手文献：美索不达米亚的《阿特拉哈西斯》与《吉尔伽美什史诗》洪水段落保存了较早的叙事，其他地区亦有各自的大洪水传说。学界对其间的传播关系有长期研究但无定论，本站只记录有文献依据的比较。",
+      "versions": [
+        "《阿特拉哈西斯》叙述洪水由神议决定、人类得以延续的情节，是现存较早的洪水叙事之一。",
+        "《吉尔伽美什史诗》中的洪水段落与前者有情节对应，二者关系为学界研究议题，先后与依赖关系仍在讨论。",
+        "不同地区的洪水叙事在起因、幸存方式与神意解释上各异，不宜直接等同或推断单一起源。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Samuel Noah Kramer",
+          "school": "苏美尔学",
+          "view": "通过泥板整理指出苏美尔洪水叙事材料的独特性及其与后世版本的承继关系，强调文本考证的基础作用。"
+        },
+        {
+          "holder": "James George Frazer",
+          "school": "早期比较宗教学",
+          "view": "在跨文化框架中讨论洪水传说，属早期学派的观点，其具体结论与资料使用在现代学界受到修订。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "把洪水叙事置于宇宙毁灭与重生的母题框架中理解，强调其与宇宙循环观念的联系，属现象学参照。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "希伯来经典传统",
+          "basis_source": "aca-myth-legend-custom",
+          "note": "Gaster 以民俗与神话学方法比较旧约与近东洪水材料，属专门研究；此处仅记录学界已有的比较，不推断信仰源流。"
+        },
+        {
+          "tradition": "希腊神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "比较神话学在近东与地中海框架内讨论洪水母题，学界对传播路径有争论，此处并列呈现不作定论。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>洪水母题跨传统示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>洪水母题跨传统（仅示意，不表示源流）</text><rect x='70' y='104' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='165' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阿特拉哈西斯</text><text x='165' y='150' text-anchor='middle' fill='var(--svg-text)' font-size='12'>美索不达米亚</text><rect x='285' y='104' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='13'>吉尔伽美什</text><text x='380' y='150' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洪水段落</text><rect x='500' y='104' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='595' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='13'>其他传统</text><text x='595' y='150' text-anchor='middle' fill='var(--svg-text)' font-size='12'>多地各有叙事</text><line x1='260' y1='135' x2='285' y2='135' stroke='currentColor' opacity='0.5'/><line x1='475' y1='135' x2='500' y2='135' stroke='currentColor' opacity='0.5'/><rect x='200' y='232' width='360' height='60' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='13'>共同关注：毁灭·幸存·重生</text><text x='380' y='276' text-anchor='middle' fill='var(--svg-text)' font-size='12'>起因与神意解释各异，不作同源断言</text><text x='380' y='346' text-anchor='middle' fill='var(--svg-text)' font-size='13'>学界对传播关系有长期研究但无定论</text></svg>"
+    },
+    {
+      "id": "motif-underworld",
+      "title": "冥界",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "关于死者居所与冥界旅行的母题。",
+      "related": [
+        "myth-egyptian",
+        "fig-osiris",
+        "fig-hades",
+        "motif-flood",
+        "motif-herojourney"
+      ],
+      "sources": [
+        "pri-book-dead",
+        "enc-wiki-underworld",
+        "aca-greek-myth-thought",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 各传统冥界观念差异大，不作直接等同；2) Vernant、Frazer 的具体论点以其代表著作概括，细节待核对；3) 术语已统一：正文采用“英雄”译法。",
+      "year": null,
+      "source_text": "冥界母题见于多传统的一手文献：古埃及的《亡灵书》详述死后旅程，其他传统亦有各自的亡者居所与冥界旅行叙事。学界对冥界观念的比较有专门研究，本站只记录有文献依据的对照。",
+      "versions": [
+        "古埃及的冥界叙事与《亡灵书》仪式文本相联，涉及审判与重生的观念，文本形态随时期演变。",
+        "希腊神话中的冥界由哈迪斯掌管，英雄与亡者的冥界旅行构成叙事母题，见诸史诗与悲剧。",
+        "不同传统的冥界在方位、审判与回归可能性上差异显著，不宜直接等同。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Jean-Pierre Vernant",
+          "school": "巴黎学派（古希腊神话与思想）",
+          "view": "把希腊冥界与献祭、城邦秩序的图像体系联系起来分析，强调神话形象的历史语境，属学派研究。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "把冥界旅行置于通过仪式与宇宙论的框架中理解，强调其为跨文化的结构母题，属现象学参照。"
+        },
+        {
+          "holder": "James George Frazer",
+          "school": "早期比较宗教学",
+          "view": "在死而复生神话的框架中讨论冥界主题，属早期学派观点，其资料使用已被现代学界修订。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "希腊神话",
+          "basis_source": "aca-greek-myth-thought",
+          "note": "Vernant 等对希腊冥界与献祭图像有专门研究，此处以该学术著作为依据记录有文献依据的比较。"
+        },
+        {
+          "tradition": "北欧神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "比较神话学在印欧框架内讨论冥界观念，学界对具体对应有争论，此处并列呈现不作定论。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>冥界母题对照示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>冥界母题对照（仅示意，不表示源流）</text><rect x='80' y='106' width='180' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='130' text-anchor='middle' fill='var(--svg-text)' font-size='13'>古埃及</text><text x='170' y='152' text-anchor='middle' fill='var(--svg-text)' font-size='12'>亡灵书·审判</text><rect x='290' y='106' width='180' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='130' text-anchor='middle' fill='var(--svg-text)' font-size='13'>希腊</text><text x='380' y='152' text-anchor='middle' fill='var(--svg-text)' font-size='12'>哈迪斯·冥界行</text><rect x='500' y='106' width='180' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='130' text-anchor='middle' fill='var(--svg-text)' font-size='13'>北欧</text><text x='590' y='152' text-anchor='middle' fill='var(--svg-text)' font-size='12'>亡者居所</text><line x1='170' y1='168' x2='170' y2='222' stroke='currentColor' opacity='0.5'/><line x1='380' y1='168' x2='380' y2='222' stroke='currentColor' opacity='0.5'/><line x1='590' y1='168' x2='590' y2='222' stroke='currentColor' opacity='0.5'/><rect x='140' y='222' width='480' height='56' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='246' text-anchor='middle' fill='var(--svg-text)' font-size='13'>共同关注：亡者归宿·审判·回归可能</text><text x='380' y='266' text-anchor='middle' fill='var(--svg-text)' font-size='12'>方位与观念差异显著，不直接等同</text><text x='380' y='340' text-anchor='middle' fill='var(--svg-text)' font-size='13'>比较需有文献依据，本站不自行牵强类比</text></svg>"
+    },
+    {
+      "id": "motif-herojourney",
+      "title": "英雄之旅",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "英雄离家、历险、归来并带回馈赠的叙事结构。",
+      "related": [
+        "fig-gilgamesh",
+        "fig-hera",
+        "motif-underworld",
+        "motif-sun"
+      ],
+      "sources": [
+        "aca-hero-faces",
+        "pri-odyssey",
+        "aca-archetypes"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) Campbell 模型被批评为过度概括，正文已标注；2) Jung、Frye 的具体论点以其代表著作概括，Frye 著作未录入 sources.json，细节待核对；3) “单一神话”译法与术语统一待办；本站不把它当作普遍定律。",
+      "year": null,
+      "source_text": "英雄之旅母题指英雄离家、历险、归来的叙事结构，Joseph Campbell 在《千面英雄》中对其作了系统阐述。该模型影响广泛，但学界对其过度概括与材料取舍有批评，本站把它作为一种分析框架而非普遍定律来呈现。",
+      "versions": [
+        "Campbell 的“单一神话”把英雄旅程概括为若干阶段，属比较神话学的分析模型，非对每一具体文本的精确描述。",
+        "《奥德赛》常作为该母题的经典案例，但其叙事细节与模型阶段并不逐一对应。",
+        "其他传统的英雄叙事（如《吉尔伽美什》）在结构上既有相似也有差异，学界对模型的适用范围有讨论。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Joseph Campbell",
+          "school": "比较神话学（单一神话模型）",
+          "view": "提出英雄旅程的普遍结构，强调其心理与仪式意涵；该模型影响广泛，但被批评为过度概括。"
+        },
+        {
+          "holder": "Carl Jung",
+          "school": "分析心理学（原型理论）",
+          "view": "把英雄形象理解为集体无意识的原型表现，为 Campbell 提供心理学背景；其理论在学界有争论。"
+        },
+        {
+          "holder": "Northrop Frye",
+          "school": "文学原型批评",
+          "view": "在文学类型与原型框架中分析英雄叙事的循环结构，属文学批评路径。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "美索不达米亚神话",
+          "basis_source": "aca-hero-faces",
+          "note": "Campbell 的著作把《吉尔伽美什》等纳入英雄旅程讨论，此处以该著作为依据记录比较，并标注模型的概括性。"
+        },
+        {
+          "tradition": "印度史诗",
+          "basis_source": "aca-archetypes",
+          "note": "以荣格原型理论与史诗英雄叙事作框架性参照，属学界已有的分析路径，不主张文本同源。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>英雄旅程母题结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>英雄旅程母题（Campbell 模型的示意）</text><rect x='60' y='180' width='130' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='125' y='204' text-anchor='middle' fill='var(--svg-text)' font-size='13'>离家</text><text x='125' y='222' text-anchor='middle' fill='var(--svg-text)' font-size='12'>召唤·启程</text><line x1='190' y1='206' x2='225' y2='206' stroke='currentColor' opacity='0.5'/><rect x='225' y='180' width='130' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='290' y='204' text-anchor='middle' fill='var(--svg-text)' font-size='13'>历险</text><text x='290' y='222' text-anchor='middle' fill='var(--svg-text)' font-size='12'>试炼·伙伴</text><line x1='355' y1='206' x2='390' y2='206' stroke='currentColor' opacity='0.5'/><rect x='390' y='180' width='130' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='455' y='204' text-anchor='middle' fill='var(--svg-text)' font-size='13'>危机</text><text x='455' y='222' text-anchor='middle' fill='var(--svg-text)' font-size='12'>深渊·转化</text><line x1='520' y1='206' x2='555' y2='206' stroke='currentColor' opacity='0.5'/><rect x='555' y='180' width='140' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='625' y='204' text-anchor='middle' fill='var(--svg-text)' font-size='13'>归来</text><text x='625' y='222' text-anchor='middle' fill='var(--svg-text)' font-size='12'>带回馈赠</text><rect x='200' y='292' width='360' height='46' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>为分析模型，非对每部作品的精确描述</text></svg>"
+    },
+    {
+      "id": "motif-sun",
+      "title": "太阳神",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以太阳运行与神格化为核心的母题。",
+      "related": [
+        "fig-ra",
+        "fig-amaterasu",
+        "myth-japanese",
+        "motif-herojourney",
+        "motif-mother-goddess"
+      ],
+      "sources": [
+        "aca-eternal-return",
+        "pri-rigveda",
+        "pri-pyramid-texts"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 各传统太阳神的职能与谱系差异大，不作直接等同；2) Eliade、Frazer 的具体论点以其代表著作概括，细节待核对；3) 不推断单一起源，比较需有文献依据。",
+      "year": null,
+      "source_text": "太阳母题见于多传统的一手文献：古埃及的金字塔文与《亡灵书》以太阳神拉为核心，吠陀颂歌礼赞太阳神苏利耶。学界对太阳崇拜的比较有长期研究，本站只记录有文献依据的对照。",
+      "versions": [
+        "古埃及传统中拉居于创世与王权叙事核心，太阳的每日运行被赋予宇宙论意义，文本形态随时期演变。",
+        "吠陀颂歌以苏利耶等太阳神为礼赞对象，太阳与秩序、光明的关联在颂诗中反复出现。",
+        "不同传统的太阳神在性别、职能与谱系上差异显著，不宜直接等同或推断单一起源。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "把太阳运行与宇宙循环、仪式时间相联系，视太阳崇拜为对宇宙秩序的周期性确认，属现象学层面的参照。"
+        },
+        {
+          "holder": "Henri Frankfort",
+          "school": "古代近东思想研究",
+          "view": "以神话意象分析埃及太阳神与王权的关联，主张不以现代抽象标准误读古代宇宙观，属专门研究。"
+        },
+        {
+          "holder": "James George Frazer",
+          "school": "早期比较宗教学",
+          "view": "在跨文化框架中讨论太阳神话，属早期学派观点，其具体结论在现代学界多经修订。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "埃及神话",
+          "basis_source": "pri-pyramid-texts",
+          "note": "以金字塔文原典为依据，记录太阳神拉在古埃及宇宙观中的核心地位，属文本层面的对照。"
+        },
+        {
+          "tradition": "印度神话",
+          "basis_source": "pri-rigveda",
+          "note": "以《梨俱吠陀》太阳颂歌为依据，记录吠陀太阳神崇拜，不推断与埃及传统的传播关系。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>太阳母题跨传统示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>太阳母题跨传统（仅示意，不表示源流）</text><circle cx='380' cy='150' r='46' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='156' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳</text><line x1='380' y1='196' x2='380' y2='234' stroke='currentColor' opacity='0.5'/><line x1='170' y1='234' x2='590' y2='234' stroke='currentColor' opacity='0.5'/><line x1='170' y1='234' x2='170' y2='272' stroke='currentColor' opacity='0.5'/><line x1='380' y1='234' x2='380' y2='272' stroke='currentColor' opacity='0.5'/><line x1='590' y1='234' x2='590' y2='272' stroke='currentColor' opacity='0.5'/><rect x='90' y='272' width='160' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='294' text-anchor='middle' fill='var(--svg-text)' font-size='13'>埃及·拉</text><text x='170' y='312' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王权与创世</text><rect x='300' y='272' width='160' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='294' text-anchor='middle' fill='var(--svg-text)' font-size='13'>吠陀·苏利耶</text><text x='380' y='312' text-anchor='middle' fill='var(--svg-text)' font-size='12'>光明与秩序</text><rect x='510' y='272' width='160' height='52' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='294' text-anchor='middle' fill='var(--svg-text)' font-size='13'>其他传统</text><text x='590' y='312' text-anchor='middle' fill='var(--svg-text)' font-size='12'>职能各异</text></svg>"
+    },
+    {
+      "id": "motif-mother-goddess",
+      "title": "母神",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以生育、丰产与大地为特征的女神母题。",
+      "related": [
+        "fig-nuwa",
+        "fig-inanna",
+        "motif-sun",
+        "motif-dragon"
+      ],
+      "sources": [
+        "aca-golden-bough",
+        "aca-patterns-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) Frazer 的泛化结论已标为早期学派观点；2) Doniger 的具体论点以其著作概括，细节待核对；3) 考古女性神像的含义有争议，正文谨慎表述。",
+      "year": null,
+      "source_text": "母神母题指以生育、丰产与大地为特征的女神形象，见于多个传统的文献与考古材料。Frazer《金枝》与 Eliade《比较宗教的模式》对丰产女神与大地母题有专门讨论，本站只记录有文献依据的对照。",
+      "versions": [
+        "近东与地中海传统中有多位丰产与爱情女神，其职能与神话叙事各有不同，不能简单归并为一个女神原型。",
+        "印度传统的性力派以女神为最高神格之一，与三相神体系中的男神形成不同的神学侧重。",
+        "考古材料中的女性神像常被解读为丰产象征，但具体含义在学界存在争论，需谨慎对待。"
+      ],
+      "interpretations": [
+        {
+          "holder": "James George Frazer",
+          "school": "早期比较宗教学",
+          "view": "在《金枝》中把丰产女神与植物、季节仪式联系起来，属早期学派观点，其泛化结论在现代学界受到修订。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "在《比较宗教的模式》中分析大地、丰产与女神的宇宙论意涵，强调神话意象的结构，属现象学参照。"
+        },
+        {
+          "holder": "Wendy Doniger",
+          "school": "芝加哥学派（印度宗教与文本研究）",
+          "view": "强调女神传统的多义性，警惕把多样女神简化为单一“大母神”原型；其解读在学界有讨论。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "印度神话",
+          "basis_source": "aca-patterns-religion",
+          "note": "以 Eliade《比较宗教的模式》为依据，记录丰产与大地女神母题的一般比较，不推断具体传播关系。"
+        },
+        {
+          "tradition": "美索不达米亚神话",
+          "basis_source": "aca-golden-bough",
+          "note": "以 Frazer《金枝》为早期学派参照，记录近东丰产女神的比较，其结论已被现代学界修订，此处并列呈现。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>母神母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>母神母题（仅示意，不表示同源）</text><rect x='280' y='88' width='200' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='118' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母神母题</text><line x1='380' y1='136' x2='380' y2='176' stroke='currentColor' opacity='0.5'/><line x1='160' y1='176' x2='600' y2='176' stroke='currentColor' opacity='0.5'/><line x1='160' y1='176' x2='160' y2='216' stroke='currentColor' opacity='0.5'/><line x1='380' y1='176' x2='380' y2='216' stroke='currentColor' opacity='0.5'/><line x1='600' y1='176' x2='600' y2='216' stroke='currentColor' opacity='0.5'/><rect x='80' y='216' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='160' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='13'>生育</text><text x='160' y='258' text-anchor='middle' fill='var(--svg-text)' font-size='12'>人类繁衍</text><rect x='300' y='216' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='13'>丰产</text><text x='380' y='258' text-anchor='middle' fill='var(--svg-text)' font-size='12'>土地收获</text><rect x='520' y='216' width='160' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='600' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='13'>大地</text><text x='600' y='258' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙论</text><rect x='230' y='312' width='300' height='44' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='340' text-anchor='middle' fill='var(--svg-text)' font-size='13'>多为不同功能女神，不宜并为单一原型</text></svg>"
+    },
+    {
+      "id": "motif-dragon",
+      "title": "龙与蛇",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "巨蛇或龙作为混沌、守护或丰产象征的母题。",
+      "related": [
+        "myth-chinese",
+        "fig-quetzalcoatl",
+        "motif-mother-goddess",
+        "motif-worldtree"
+      ],
+      "sources": [
+        "enc-wiki-dragon",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 不同文化龙的形象与职能差异大，不作直接等同；2) Lévi-Strauss 的中介说为学派立场，学界有讨论；3) 中美洲比较属弱参照，待补专门文献。",
+      "year": null,
+      "source_text": "龙与巨蛇母题见于多传统的文本与图像材料：欧洲的恶龙传说、中国的龙与水神及降雨信仰、中美洲的羽蛇神等。学界对不同文化中龙的解读有大量研究，本站只记录有文献依据的对照。",
+      "versions": [
+        "欧洲中世纪传统的龙多为需被英雄制服的怪物形象，与基督教象征体系有联系。",
+        "中国传统的龙与水、降雨与王权相关，形象与欧洲的恶龙差异显著，不宜混同。",
+        "中美洲的羽蛇神兼具神祇与王权叙事层次，与欧亚的龙在文化语境上不同。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "把巨蛇／龙与混沌、宇宙秩序的确立联系起来，视为英雄制服混沌的母题，属现象学层面的参照。"
+        },
+        {
+          "holder": "Joseph Campbell",
+          "school": "比较神话学（单一神话模型）",
+          "view": "在英雄旅程框架中把屠龙作为关键试炼环节，属分析模型，学界对其概括性有批评。"
+        },
+        {
+          "holder": "Claude Lévi-Strauss",
+          "school": "结构主义人类学",
+          "view": "主张神话动物常作为二元对立的中介，为分析龙的形象提供方法论参照，属学派一般立场。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "中国神话",
+          "basis_source": "aca-comparative-myth",
+          "note": "比较神话学在跨文化框架内讨论龙／蛇母题，此处记录一般学术对照，不推断欧亚与中国的传播关系。"
+        },
+        {
+          "tradition": "中美洲神话",
+          "basis_source": "enc-wiki-dragon",
+          "note": "以权威百科条目作为羽蛇神与龙形象的一般参照（该来源未在线核验）；文化语境差异大，属弱参照，待补专门文献。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>龙母题跨传统示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>龙／巨蛇母题（仅示意，不表示同源）</text><rect x='70' y='104' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='165' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='13'>欧洲</text><text x='165' y='150' text-anchor='middle' fill='var(--svg-text)' font-size='12'>恶龙·待制服</text><rect x='285' y='104' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='13'>中国</text><text x='380' y='150' text-anchor='middle' fill='var(--svg-text)' font-size='12'>水·降雨·王权</text><rect x='500' y='104' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='595' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='13'>中美洲</text><text x='595' y='150' text-anchor='middle' fill='var(--svg-text)' font-size='12'>羽蛇神</text><rect x='200' y='232' width='360' height='60' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='13'>共同母题：巨蛇／龙</text><text x='380' y='276' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文化语境差异显著，不宜混同</text><text x='380' y='346' text-anchor='middle' fill='var(--svg-text)' font-size='13'>比较需有文献依据，不推断同源</text></svg>"
+    },
+    {
+      "id": "motif-worldtree",
+      "title": "世界树",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "连接天、地、下的宇宙轴心树母题。",
+      "related": [
+        "myth-norse",
+        "fig-odin",
+        "motif-dragon",
+        "motif-eschatology"
+      ],
+      "sources": [
+        "enc-wiki-world-tree",
+        "pri-poetic-eddas",
+        "aca-eternal-return"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 不同文化宇宙轴形态不同，比较仅限母题层面；2) Lindow 著作未录入 sources.json，已声明；3) 与北美、美索不达米亚的对照为框架性弱参照，待补专门文献。",
+      "year": null,
+      "source_text": "世界树（宇宙轴）母题以连接天、地与下界的巨树为特征，北欧的尤克特拉希尔是文献中记载较详的案例，见《诗体埃达》与《散文埃达》。学界对其跨文化比较有研究，本站只记录有文献依据的对照。",
+      "versions": [
+        "北欧传统中尤克特拉希尔联结诸界，诸神与命运在其上展开，是宇宙秩序的象征。",
+        "其他传统中的宇宙轴也可能表现为柱、山或梯，功能上与世界树相近但形态不同。",
+        "把不同文化的宇宙轴意象并置属母题层面的比较，不宜据此推断直接接触或同源。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "把世界树作为“宇宙轴”与“世界中心”的典型意象，强调其沟通诸界与仪式的象征功能，属现象学参照。"
+        },
+        {
+          "holder": "Georges Dumézil",
+          "school": "印欧比较神话学",
+          "view": "在印欧材料框架内讨论北欧宇宙观，属学派比较，具体到世界树的结论学界有讨论。"
+        },
+        {
+          "holder": "John Lindow",
+          "school": "北欧神话与民俗研究",
+          "view": "强调北欧宇宙树材料的中世纪文本语境，主张区分诗歌证据与后世系统化叙述，其著作未录入来源库。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "北美原住民传统",
+          "basis_source": "aca-eternal-return",
+          "note": "以 Eliade 的宇宙轴框架作母题层面的一般参照，不主张具体传播关系。"
+        },
+        {
+          "tradition": "美索不达米亚神话",
+          "basis_source": "pri-poetic-eddas",
+          "note": "以北欧原典为世界树母题的文本依据，与美索不达米亚宇宙观作框架性对照，待补专门比较文献。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>世界树宇宙轴示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>世界树：连接诸界的宇宙轴（示意）</text><line x1='380' y1='96' x2='380' y2='330' stroke='currentColor' opacity='0.7'/><line x1='250' y1='150' x2='510' y2='150' stroke='currentColor' opacity='0.4'/><line x1='250' y1='230' x2='510' y2='230' stroke='currentColor' opacity='0.4'/><line x1='250' y1='310' x2='510' y2='310' stroke='currentColor' opacity='0.4'/><rect x='540' y='126' width='170' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='625' y='156' text-anchor='middle' fill='var(--svg-text)' font-size='13'>上方：天界</text><rect x='540' y='206' width='170' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='625' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>中间：人间</text><rect x='540' y='286' width='170' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='625' y='316' text-anchor='middle' fill='var(--svg-text)' font-size='13'>下方：冥界</text><text x='380' y='360' text-anchor='middle' fill='var(--svg-text)' font-size='13'>尤克特拉希尔为文献记载较详的案例</text></svg>"
+    },
+    {
+      "id": "motif-eschatology",
+      "title": "末世",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "关于世界终结与再生的母题。",
+      "related": [
+        "myth-norse",
+        "myth-maya",
+        "motif-worldtree",
+        "motif-trickster"
+      ],
+      "sources": [
+        "aca-eternal-return",
+        "enc-wiki-mythology",
+        "pri-poetic-eddas"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 循环与线性末世模式差异大，不作直接等同；2) Lindow 著作未录入 sources.json，已声明；3) 与亚伯拉罕诸教的比较为框架性参照，细节待核。",
+      "year": null,
+      "source_text": "末世母题叙述世界的终结与再生，见于一手文献如北欧的诸神黄昏诗歌与多种宗教经典。Eliade《永恒回归的神话》对宇宙周期与末世主题有讨论，本站只记录有文献依据的对照。",
+      "versions": [
+        "北欧传统中的诸神黄昏叙述诸神的败亡与世界更新，是末世母题的重要案例。",
+        "亚伯拉罕诸教中的末世论涉及审判与救赎，与宇宙周期型末世在结构上不同。",
+        "不同传统的末世叙事在是否循环、如何再生上差异显著，不宜直接等同。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "在《永恒回归的神话》中讨论宇宙毁灭与重生的循环模式，视末世叙事为宇宙论的组成部分，属现象学参照。"
+        },
+        {
+          "holder": "John Lindow",
+          "school": "北欧神话与民俗研究",
+          "view": "强调诸神黄昏材料主要见于基督教时代抄本，解读需考虑记录语境，其著作未录入来源库。"
+        },
+        {
+          "holder": "Stephen Prothero",
+          "school": "比较宗教学",
+          "view": "强调各宗教末世目标不同，反对把不同传统的终末论简化为同一模式，属通俗学术著作的观点。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "北欧神话",
+          "basis_source": "pri-poetic-eddas",
+          "note": "以《诗体埃达》原典为依据，记录诸神黄昏母题，属文本层面的对照。"
+        },
+        {
+          "tradition": "亚伯拉罕诸教",
+          "basis_source": "aca-eternal-return",
+          "note": "以 Eliade 的宇宙周期框架作一般参照，指出其与线性末世论的结构差异，不主张同源。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>末世母题结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>末世母题：终结与再生（示意）</text><rect x='70' y='150' width='150' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='145' y='174' text-anchor='middle' fill='var(--svg-text)' font-size='13'>现有秩序</text><text x='145' y='192' text-anchor='middle' fill='var(--svg-text)' font-size='12'>稳定期</text><line x1='220' y1='178' x2='270' y2='178' stroke='currentColor' opacity='0.5'/><rect x='270' y='150' width='150' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='345' y='174' text-anchor='middle' fill='var(--svg-text)' font-size='13'>终结</text><text x='345' y='192' text-anchor='middle' fill='var(--svg-text)' font-size='12'>毁灭·审判</text><line x1='420' y1='178' x2='470' y2='178' stroke='currentColor' opacity='0.5'/><rect x='470' y='150' width='150' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='545' y='174' text-anchor='middle' fill='var(--svg-text)' font-size='13'>再生</text><text x='545' y='192' text-anchor='middle' fill='var(--svg-text)' font-size='12'>更新·救赎</text><path d='M545 216 Q545 270 145 270 Q145 270 145 206' fill='none' stroke='currentColor' opacity='0.4'/><text x='380' y='300' text-anchor='middle' fill='var(--svg-text)' font-size='13'>部分传统为循环模式，部分为线性终末</text><text x='380' y='340' text-anchor='middle' fill='var(--svg-text)' font-size='12'>差异显著，不作直接等同</text></svg>"
+    },
+    {
+      "id": "motif-trickster",
+      "title": "诡计者",
+      "level": "L2",
+      "tier": "核心",
+      "period": "oral",
+      "summary": "以机智、欺骗与越界为特征的角色母题。",
+      "related": [
+        "fig-loki",
+        "fig-sun-wukong",
+        "motif-eschatology",
+        "motif-twin"
+      ],
+      "sources": [
+        "aca-comparative-myth",
+        "enc-wiki-list-myth",
+        "pri-prose-eddas"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 诡计者形象复合，不宜单一化；2) Lévi-Strauss 的中介说为学派立场，学界有讨论；3) 与中国叙事传统的比较为框架性弱参照，待补专门文献。",
+      "year": null,
+      "source_text": "诡计者母题以机智、欺骗与越界的角色为特征，见于多传统的神话与口传。比较神话学与民俗学对其有专门研究，本站只记录有文献依据的对照。",
+      "versions": [
+        "北欧的洛基兼具诡计与变形能力，其形象在《诗体埃达》与《散文埃达》中略有差异。",
+        "其他传统中的诡计者可能兼具文化英雄与欺骗者两面，职能复合，不宜单一化。",
+        "把不同文化的诡计者并置属母题层面的比较，需有文献依据，不推断同源。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Claude Lévi-Strauss",
+          "school": "结构主义人类学",
+          "view": "把诡计者视为中介性角色，用以调和二元对立，属结构主义的一般立场，为分析提供方法论参照。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "可从越界与秩序重建的角度理解诡计者叙事，属现象学层面的框架参照。"
+        },
+        {
+          "holder": "Jaan Puhvel",
+          "school": "印欧比较神话学",
+          "view": "在印欧材料框架内讨论相关角色，属学派比较，其适用范围学界有讨论。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "北欧神话",
+          "basis_source": "pri-prose-eddas",
+          "note": "以《散文埃达》原典为依据，记录洛基的诡计者形象，属文本层面的对照。"
+        },
+        {
+          "tradition": "中国叙事传统",
+          "basis_source": "aca-comparative-myth",
+          "note": "以比较神话学通论作母题层面的一般参照，不推断与北欧材料的传播关系。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>诡计者母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>诡计者母题（仅示意，不表示同源）</text><rect x='290' y='94' width='180' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='124' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诡计者</text><line x1='380' y1='140' x2='380' y2='180' stroke='currentColor' opacity='0.5'/><line x1='180' y1='180' x2='580' y2='180' stroke='currentColor' opacity='0.5'/><line x1='180' y1='180' x2='180' y2='218' stroke='currentColor' opacity='0.5'/><line x1='380' y1='180' x2='380' y2='218' stroke='currentColor' opacity='0.5'/><line x1='580' y1='180' x2='580' y2='218' stroke='currentColor' opacity='0.5'/><rect x='90' y='218' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='180' y='240' text-anchor='middle' fill='var(--svg-text)' font-size='13'>机智</text><text x='180' y='258' text-anchor='middle' fill='var(--svg-text)' font-size='12'>以智取胜</text><rect x='290' y='218' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='240' text-anchor='middle' fill='var(--svg-text)' font-size='13'>欺骗</text><text x='380' y='258' text-anchor='middle' fill='var(--svg-text)' font-size='12'>越界行事</text><rect x='490' y='218' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='580' y='240' text-anchor='middle' fill='var(--svg-text)' font-size='13'>中介</text><text x='580' y='258' text-anchor='middle' fill='var(--svg-text)' font-size='12'>调和两极</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>常兼具文化英雄与欺骗者两面</text></svg>"
+    },
+    {
+      "id": "motif-twin",
+      "title": "孪生",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "双生子作为对立与互补的母题。",
+      "related": [
+        "motif-trickster",
+        "motif-sacrifice"
+      ],
+      "sources": [
+        "aca-comparative-myth",
+        "aca-golden-bough"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "motif-sacrifice",
+      "title": "献祭",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "以牺牲建立秩序或换取恩典的母题。",
+      "related": [
+        "motif-twin",
+        "motif-scapegoat"
+      ],
+      "sources": [
+        "aca-golden-bough",
+        "aca-myth-ritual-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "motif-scapegoat",
+      "title": "替罪羊",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "以代罪者承担群体罪责的母题。",
+      "related": [
+        "motif-sacrifice",
+        "motif-culturehero"
+      ],
+      "sources": [
+        "aca-myth-legend-custom",
+        "aca-golden-bough"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "motif-culturehero",
+      "title": "文化英雄",
+      "level": "L1",
+      "tier": "重要",
+      "period": "oral",
+      "summary": "为人类带来火、农耕或技艺的英雄母题。",
+      "related": [
+        "motif-scapegoat",
+        "motif-moon"
+      ],
+      "sources": [
+        "aca-hero-faces",
+        "aca-myth-ritual-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "motif-moon",
+      "title": "月神",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "以月亮运行与神格化为核心的母题。",
+      "related": [
+        "motif-culturehero",
+        "motif-quest"
+      ],
+      "sources": [
+        "aca-eternal-return",
+        "enc-wiki-mythology"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-mythology（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "motif-quest",
+      "title": "探寻",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "为求得宝物、真理或救赎而远行的母题。",
+      "related": [
+        "motif-moon",
+        "motif-labyrinth"
+      ],
+      "sources": [
+        "aca-hero-faces",
+        "pri-odyssey"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "motif-labyrinth",
+      "title": "迷宫",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "以迷径、考验与 center 为核心的母题。",
+      "related": [
+        "motif-quest",
+        "motif-phoenix"
+      ],
+      "sources": [
+        "enc-wiki-mythology",
+        "aca-hero-faces"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-mythology（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "motif-phoenix",
+      "title": "不死鸟",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "以死而复生的神鸟为核心的母题。",
+      "related": [
+        "motif-labyrinth",
+        "motif-skyfather"
+      ],
+      "sources": [
+        "enc-wiki-mythology",
+        "aca-golden-bough"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-mythology（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "motif-skyfather",
+      "title": "天父",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "以天空人格化为至高父神的母题。",
+      "related": [
+        "motif-phoenix",
+        "motif-cosmicegg"
+      ],
+      "sources": [
+        "aca-gods-indo-europeans",
+        "aca-comparative-myth"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "motif-cosmicegg",
+      "title": "宇宙卵",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "以卵中化生天地的创世母题。",
+      "related": [
+        "motif-skyfather"
+      ],
+      "sources": [
+        "enc-wiki-creation",
+        "aca-eternal-return"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-creation（DECISIONS.md D2）。",
+      "year": null
+    }
+  ]
+}

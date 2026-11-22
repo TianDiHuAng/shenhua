@@ -1,0 +1,93 @@
+/* 《宗教与神话比较库》统一样式：羊皮纸浅色 + 深靛蓝深色，全部颜色走 CSS 变量 */
+:root {
+  --bg: #f5efe1;
+  --fg: #1b2a4a;
+  --primary: #1b2a4a;
+  --accent: #a9761c;
+  --card: #fffaf0;
+  --border: #d8cbb0;
+  --muted: #6b6355;
+  --svg-text: #1b2a4a;
+  --svg-node: rgba(169, 118, 28, 0.12);
+  --code: #efe6d2;
+  --ok: #2f6b3f;
+  --warn: #8a5a12;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #121b30;
+    --fg: #e8e2d4;
+    --primary: #e8b860;
+    --accent: #e0a93a;
+    --card: #1b2740;
+    --border: #35415c;
+    --muted: #a8b0c4;
+    --svg-text: #e8e2d4;
+    --svg-node: rgba(224, 169, 58, 0.15);
+    --code: #223052;
+    --ok: #7fc79a;
+    --warn: #e8c070;
+  }
+}
+/* 零 JS 手动主题切换（:has + :target，现代浏览器） */
+:root:has(#theme-dark:target) {
+  --bg: #121b30; --fg: #e8e2d4; --primary: #e8b860; --accent: #e0a93a;
+  --card: #1b2740; --border: #35415c; --muted: #a8b0c4;
+  --svg-text: #e8e2d4; --svg-node: rgba(224,169,58,0.15); --code: #223052;
+  --ok: #7fc79a; --warn: #e8c070;
+}
+:root:has(#theme-light:target) {
+  --bg: #f5efe1; --fg: #1b2a4a; --primary: #1b2a4a; --accent: #a9761c;
+  --card: #fffaf0; --border: #d8cbb0; --muted: #6b6355;
+  --svg-text: #1b2a4a; --svg-node: rgba(169,118,28,0.12); --code: #efe6d2;
+  --ok: #2f6b3f; --warn: #8a5a12;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 0; background: var(--bg); color: var(--fg);
+  font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC", Georgia, serif;
+  line-height: 1.75;
+}
+.theme-switch { float: right; font-size: 0.85rem; margin-left: 1rem; }
+.theme-switch a { color: var(--muted); text-decoration: none; border: 1px solid var(--border); padding: 2px 8px; border-radius: 4px; }
+a { color: var(--primary); text-decoration: none; border-bottom: 1px solid var(--accent); }
+a:hover { color: var(--accent); }
+header.site-head {
+  border-bottom: 3px double var(--accent); padding: 1.4rem 1.2rem 1rem;
+  max-width: 1080px; margin: 0 auto;
+}
+header.site-head h1 { margin: 0 0 0.2rem; font-size: 2rem; letter-spacing: 0.08em; }
+header.site-head .sub { color: var(--muted); font-size: 0.95rem; }
+nav.topnav { max-width: 1080px; margin: 0 auto; padding: 0.6rem 1.2rem; display: flex; flex-wrap: wrap; gap: 0.6rem 1.2rem; font-size: 0.92rem; border-bottom: 1px solid var(--border); }
+main { max-width: 1080px; margin: 0 auto; padding: 1.6rem 1.2rem 3rem; }
+h2 { border-left: 5px solid var(--accent); padding-left: 0.6rem; margin-top: 2rem; }
+h3 { margin-top: 1.6rem; color: var(--primary); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 1rem 1.1rem; }
+.card h3 { margin-top: 0; }
+.card .meta { color: var(--muted); font-size: 0.85rem; }
+.stats { display: flex; flex-wrap: wrap; gap: 0.8rem; margin: 1rem 0 1.6rem; }
+.stat { flex: 1 1 150px; background: var(--card); border: 1px solid var(--border); border-top: 3px solid var(--accent); border-radius: 6px; padding: 0.8rem 1rem; }
+.stat .num { font-size: 1.8rem; font-weight: 700; color: var(--primary); display: block; }
+.stat .label { color: var(--muted); font-size: 0.85rem; }
+.badge { display: inline-block; font-size: 0.72rem; padding: 1px 7px; border-radius: 10px; border: 1px solid var(--border); margin-right: 4px; }
+.badge.core { color: var(--ok); border-color: var(--ok); }
+.badge.imp { color: var(--accent); border-color: var(--accent); }
+.badge.sup { color: var(--muted); }
+.badge.l2 { background: var(--svg-node); }
+.badge.flag { color: var(--warn); border-color: var(--warn); }
+table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.92rem; }
+th, td { border: 1px solid var(--border); padding: 0.5rem 0.7rem; text-align: left; vertical-align: top; }
+th { background: var(--svg-node); }
+tr:nth-child(even) td { background: var(--card); }
+.section { margin: 1.4rem 0; }
+.section > h3:first-child { margin-top: 0; }
+.svg-wrap { overflow-x: auto; background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 0.8rem; margin: 1rem 0; }
+.svg-wrap svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.note { background: var(--svg-node); border-left: 4px solid var(--warn); padding: 0.6rem 1rem; margin: 1rem 0; font-size: 0.92rem; }
+.src-list { font-size: 0.88rem; color: var(--muted); }
+.src-list li { margin: 0.25rem 0; }
+.breadcrumb { font-size: 0.85rem; color: var(--muted); margin-bottom: 1rem; }
+footer.site-foot { max-width: 1080px; margin: 0 auto; padding: 1rem 1.2rem 2rem; border-top: 1px solid var(--border); color: var(--muted); font-size: 0.85rem; }
+code { background: var(--code); padding: 1px 5px; border-radius: 3px; font-size: 0.9em; }
+@media print { .theme-switch, nav.topnav { display: none; } body { background: #fff; color: #000; } }

@@ -1,0 +1,811 @@
+{
+  "unit_id": "U2",
+  "title": "宗教传统",
+  "entries": [
+    {
+      "id": "rel-christianity",
+      "title": "基督教",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以耶稣基督为中心的亚伯拉罕诸教，含天主教、东正教、新教。",
+      "related": [
+        "fig-jesus",
+        "fig-moses",
+        "rel-judaism",
+        "rel-islam"
+      ],
+      "sources": [
+        "pri-bible-kjv",
+        "aca-gnostic-gospels",
+        "aca-myth-legend-custom",
+        "aca-god-is-not-one"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 新约各卷成书与作者归属存在学术争论，正文未列具体年份；2) Pagels、Weber、Durkheim 的观点为其代表著作的概括，细节待逐条核对；3) 宗派分歧的表述采用学界通行描述，不评判信仰真伪。",
+      "year": null,
+      "source_text": "基督教以《圣经》新约为核心经典，并在历史中形成天主教、东正教与新教等主要传统。早期教父著作、公会议文献与宗教改革文本构成研究其历史与教义分歧的重要材料；不同宗派对经典与传统的权重理解不同。",
+      "versions": [
+        "天主教、东正教与新教在圣事、教会权威与圣经—传统关系上存在长期分歧，这些分歧是历史形成的结果。",
+        "新约各卷成书背景与作者归属存在学术讨论，文本批判研究对这些问题的结论并不完全一致。",
+        "早期诺斯替文献的发现为理解早期基督教的多样性提供了材料，其与正典文献的关系为学界研究议题。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Elaine Pagels",
+          "school": "早期基督教与诺斯替研究",
+          "view": "通过诺斯替福音与正典文本的对照，指出早期基督教内部的多样性；其观点在学界有讨论。"
+        },
+        {
+          "holder": "Max Weber",
+          "school": "宗教社会学",
+          "view": "在《新教伦理与资本主义精神》中讨论新教教义与近代经济伦理的关联，属社会学层面的分析，不宣教。"
+        },
+        {
+          "holder": "Émile Durkheim",
+          "school": "宗教社会学",
+          "view": "从宗教的社会功能与集体表征角度分析宗教现象，为比较宗教学提供理论框架。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "犹太教",
+          "basis_source": "aca-myth-legend-custom",
+          "note": "学界就犹太教与基督教在经典与律法理解上的承继与分歧有大量研究，此处仅记录有文献依据的比较。"
+        },
+        {
+          "tradition": "伊斯兰教",
+          "basis_source": "aca-god-is-not-one",
+          "note": "亚伯拉罕诸教的比较研究有专门文献，Prothero 的比较为通俗学术读物，细节待进一步核对。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>基督教主要传统分支示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>基督教主要传统分支（示意）</text><rect x='300' y='84' width='160' height='44' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='112' text-anchor='middle' fill='var(--svg-text)' font-size='14'>早期基督教</text><line x1='380' y1='128' x2='380' y2='166' stroke='currentColor' opacity='0.5'/><line x1='160' y1='166' x2='600' y2='166' stroke='currentColor' opacity='0.5'/><line x1='160' y1='166' x2='160' y2='208' stroke='currentColor' opacity='0.5'/><line x1='380' y1='166' x2='380' y2='208' stroke='currentColor' opacity='0.5'/><line x1='600' y1='166' x2='600' y2='208' stroke='currentColor' opacity='0.5'/><rect x='80' y='208' width='160' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='160' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天主教</text><rect x='300' y='208' width='160' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='14'>东正教</text><rect x='520' y='208' width='160' height='48' fill='var(--svg-node)' stroke='currentColor'/><text x='600' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='14'>新教</text><rect x='230' y='310' width='300' height='44' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='338' text-anchor='middle' fill='var(--svg-text)' font-size='13'>分歧为历史形成，本站不作真伪判断</text></svg>"
+    },
+    {
+      "id": "rel-islam",
+      "title": "伊斯兰教",
+      "level": "L2",
+      "tier": "核心",
+      "period": "medieval",
+      "summary": "以《古兰经》与穆罕默德教导为基础的亚伯拉罕诸教。",
+      "related": [
+        "fig-muhammad",
+        "rel-judaism",
+        "rel-christianity"
+      ],
+      "sources": [
+        "pri-quran",
+        "enc-brit-islam",
+        "aca-god-is-not-one",
+        "enc-brit-judaism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 教义与教派分歧采用学界通行描述，不评判信仰真伪；2) 经文译本差异与注释学派的具体论点待逐条核对原文；3) Prothero、Weber、Durkheim 的观点为概括，细节待核对。",
+      "year": null,
+      "source_text": "伊斯兰教以《古兰经》为最高经典，以圣训为重要辅助文献，并发展出法学、教义学与苏菲传统。经典以阿拉伯语传述，译本在语义上存在差异；不同教法学派与神学流派对同一经文的理解并不一致。",
+      "versions": [
+        "逊尼派与什叶派在历史传承与伊玛目观念上存在差异，是历史形成的教义分歧，本站只作描述性记录。",
+        "《古兰经》的读法与注释传统多样，不同注释学派对经文的解释重点有所不同。",
+        "苏菲传统强调修行与内在体验，与教法学者的侧重形成对照，历史上二者的关系复杂且随地区而异。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Stephen Prothero",
+          "school": "比较宗教学",
+          "view": "在亚伯拉罕诸教的比较框架中强调各传统的独特目标与实践，反对把不同宗教简化为同一本质；属通俗学术著作的观点。"
+        },
+        {
+          "holder": "Max Weber",
+          "school": "宗教社会学",
+          "view": "从宗教伦理与经济社会结构的关联角度分析宗教，为理解宗教与社会的关系提供理论框架，不涉及信仰真伪判断。"
+        },
+        {
+          "holder": "Émile Durkheim",
+          "school": "宗教社会学",
+          "view": "把宗教视为集体表征与社会事实，强调仪式与共同体的功能，为比较研究提供方法论基础。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "基督教",
+          "basis_source": "aca-god-is-not-one",
+          "note": "亚伯拉罕诸教的比较有专门文献，Prothero 的比较为通俗学术读物，具体教义差异待进一步核对。"
+        },
+        {
+          "tradition": "犹太教",
+          "basis_source": "enc-brit-judaism",
+          "note": "以权威百科的犹太教条目作为亚伯拉罕诸教一般关联的参照（该来源未在线核验，见 pending_notes）；具体教义差异待专门文献核对。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊斯兰教传统结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊斯兰教传统结构（描述性示意）</text><rect x='280' y='82' width='200' height='44' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='110' text-anchor='middle' fill='var(--svg-text)' font-size='14'>古兰经</text><line x1='380' y1='126' x2='380' y2='162' stroke='currentColor' opacity='0.5'/><line x1='180' y1='162' x2='580' y2='162' stroke='currentColor' opacity='0.5'/><line x1='180' y1='162' x2='180' y2='204' stroke='currentColor' opacity='0.5'/><line x1='380' y1='162' x2='380' y2='204' stroke='currentColor' opacity='0.5'/><line x1='580' y1='162' x2='580' y2='204' stroke='currentColor' opacity='0.5'/><rect x='100' y='204' width='160' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='180' y='232' text-anchor='middle' fill='var(--svg-text)' font-size='13'>圣训</text><rect x='300' y='204' width='160' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='232' text-anchor='middle' fill='var(--svg-text)' font-size='13'>教法学派</text><rect x='500' y='204' width='160' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='580' y='232' text-anchor='middle' fill='var(--svg-text)' font-size='13'>教义学</text><line x1='380' y1='250' x2='380' y2='292' stroke='currentColor' opacity='0.5'/><rect x='270' y='292' width='220' height='44' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>逊尼 / 什叶 · 苏菲传统</text></svg>"
+    },
+    {
+      "id": "rel-judaism",
+      "title": "犹太教",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以《托拉》与犹太律法传统为核心的亚伯拉罕诸教。",
+      "related": [
+        "fig-moses",
+        "rel-christianity",
+        "rel-islam",
+        "rel-buddhism"
+      ],
+      "sources": [
+        "pri-bible-kjv",
+        "aca-myth-legend-custom",
+        "aca-god-is-not-one"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 不同译本的语义差异与具体教义细节待逐条核对原文；2) Gaster、Scholem、Prothero 的观点为概括，Scholem 著作未录入 sources.json；3) 全部表述采用描述性立场，不替信仰表态。",
+      "year": null,
+      "source_text": "犹太教的核心经典为《托拉》与《塔木德》，并在历史中发展出律法、神秘主义与礼仪传统。本站对经典的引用使用公共领域译本，不同译本在语义上存在差异；教义与实践的描述均采用学术与描述性立场，不评判信仰真伪。",
+      "versions": [
+        "拉比犹太教以《塔木德》诠释律法，强调口传传统与律法实践，是第二圣殿时期之后犹太教的主流形态之一。",
+        "卡巴拉与哈西德主义强调神秘体验与虔敬，与侧重律法研究的传统在侧重上不同，历史上二者关系复杂。",
+        "近现代犹太教内部出现多个宗派，对律法权威与现代性的回应各异，是历史发展的结果。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Theodor H. Gaster",
+          "school": "圣经民俗与比较宗教学",
+          "view": "在《旧约中的神话、传说与习俗》中以民俗与神话学方法分析旧约材料，指出其与近东传统的关联；属学术分析，不作信仰判断。"
+        },
+        {
+          "holder": "Gershom Scholem",
+          "school": "犹太神秘主义研究",
+          "view": "以历史与文本研究方法梳理卡巴拉传统，强调神秘主义在犹太历史中的位置；其框架影响深远，具体论点学界有讨论。"
+        },
+        {
+          "holder": "Stephen Prothero",
+          "school": "比较宗教学",
+          "view": "在亚伯拉罕诸教比较中强调各传统独特目标，反对把不同宗教简化为同一本质，属通俗学术著作的观点。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "基督教",
+          "basis_source": "aca-god-is-not-one",
+          "note": "比较宗教学就犹太教与基督教在经典与律法理解上的承继与分歧有大量研究，此处记录有文献依据的一般比较。"
+        },
+        {
+          "tradition": "古代近东神话",
+          "basis_source": "aca-myth-legend-custom",
+          "note": "Gaster 以民俗学方法比较旧约与近东神话材料，属专门研究；此处仅记录学界已有的比较，不推断信仰源流。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>犹太教经典与传统结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>犹太教经典与传统结构（描述性示意）</text><rect x='290' y='84' width='180' height='44' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='112' text-anchor='middle' fill='var(--svg-text)' font-size='14'>托拉</text><line x1='380' y1='128' x2='380' y2='164' stroke='currentColor' opacity='0.5'/><line x1='170' y1='164' x2='590' y2='164' stroke='currentColor' opacity='0.5'/><line x1='170' y1='164' x2='170' y2='206' stroke='currentColor' opacity='0.5'/><line x1='380' y1='164' x2='380' y2='206' stroke='currentColor' opacity='0.5'/><line x1='590' y1='164' x2='590' y2='206' stroke='currentColor' opacity='0.5'/><rect x='90' y='206' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>塔木德</text><text x='170' y='246' text-anchor='middle' fill='var(--svg-text)' font-size='12'>律法诠释</text><rect x='300' y='206' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>礼仪实践</text><text x='380' y='246' text-anchor='middle' fill='var(--svg-text)' font-size='12'>日常与节期</text><rect x='510' y='206' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神秘主义</text><text x='590' y='246' text-anchor='middle' fill='var(--svg-text)' font-size='12'>卡巴拉·哈西德</text><rect x='230' y='308' width='300' height='44' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='336' text-anchor='middle' fill='var(--svg-text)' font-size='13'>内部传统多样，本站不作真伪评判</text></svg>"
+    },
+    {
+      "id": "rel-buddhism",
+      "title": "佛教",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以释迦牟尼教导与四圣谛为基础的宗教传统。",
+      "related": [
+        "fig-buddha",
+        "rel-hinduism",
+        "rel-tibetan-buddhism",
+        "rel-judaism"
+      ],
+      "sources": [
+        "pri-dhammapada",
+        "enc-brit-buddhism",
+        "enc-brit-hinduism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 部派与大乘的形成年代跨度大，正文未列具体年数；2) Gombrich、Harvey 的论点待逐条核对原文，其著作未录入 sources.json；3) 全部教义描述采用学术立场，不替信仰表态。",
+      "year": null,
+      "source_text": "佛教以佛陀的教导为核心，经典结集为三藏，不同部派与大乘传统在经典与修行目标上各有发展。《法句经》为流传广的早期经典之一，本站引用使用公共领域译本；教义描述采用学术立场，不评判信仰真伪。",
+      "versions": [
+        "早期部派佛教侧重阿罗汉道与戒定慧的修持，不同部派在戒律与教义细节上存在差异。",
+        "大乘佛教发展出菩萨道与空性等主题，并形成多部经典传统，与早期部派在侧重点上不同。",
+        "藏传、汉传与南传佛教在制度、仪轨与经典语言上各自发展，是历史与地域条件的结果。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Richard Gombrich",
+          "school": "早期佛教研究（语文学与历史方法）",
+          "view": "以巴利文经典与历史语言学方法研究早期佛教，强调在文本语境中理解教义，反对过度现代化的投射；结论学界有讨论。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "从神话时间、宇宙轴与修行实践的角度把佛教置于比较宗教学框架，属现象学层面的参照。"
+        },
+        {
+          "holder": "Peter Harvey",
+          "school": "佛教伦理与哲学研究",
+          "view": "系统梳理佛教伦理与心性学说，强调不同传统间的连续性；其著作为学术通论，细节待核对。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "印度教",
+          "basis_source": "enc-brit-hinduism",
+          "note": "以权威百科的印度教条目作为佛教与印度教背景关联的一般参照（该来源未在线核验，见待核实）；具体教义差异待专门文献核对。"
+        },
+        {
+          "tradition": "耆那教",
+          "basis_source": "enc-brit-buddhism",
+          "note": "以权威百科条目作为与耆那教同属印度宗教背景的一般参照（该来源未在线核验，见待核实）；具体差异待专门文献核对。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>佛教传统分支示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>佛教传统分支（描述性示意）</text><rect x='290' y='84' width='180' height='44' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='112' text-anchor='middle' fill='var(--svg-text)' font-size='14'>佛陀教导</text><line x1='380' y1='128' x2='380' y2='166' stroke='currentColor' opacity='0.5'/><line x1='160' y1='166' x2='600' y2='166' stroke='currentColor' opacity='0.5'/><line x1='160' y1='166' x2='160' y2='208' stroke='currentColor' opacity='0.5'/><line x1='380' y1='166' x2='380' y2='208' stroke='currentColor' opacity='0.5'/><line x1='600' y1='166' x2='600' y2='208' stroke='currentColor' opacity='0.5'/><rect x='80' y='208' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='160' y='230' text-anchor='middle' fill='var(--svg-text)' font-size='13'>南传</text><text x='160' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='12'>早期部派</text><rect x='300' y='208' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='230' text-anchor='middle' fill='var(--svg-text)' font-size='13'>汉传</text><text x='380' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大乘诸宗</text><rect x='520' y='208' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='600' y='230' text-anchor='middle' fill='var(--svg-text)' font-size='13'>藏传</text><text x='600' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='12'>金刚乘</text><rect x='230' y='310' width='300' height='44' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='338' text-anchor='middle' fill='var(--svg-text)' font-size='13'>分支为历史发展结果，不作真伪评判</text></svg>"
+    },
+    {
+      "id": "rel-hinduism",
+      "title": "印度教",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以吠陀、奥义书与往世书为基础的南亚宗教传统。",
+      "related": [
+        "fig-vishnu",
+        "fig-shiva",
+        "rel-buddhism",
+        "rel-taoism"
+      ],
+      "sources": [
+        "pri-rigveda",
+        "aca-patterns-religion",
+        "aca-god-is-not-one",
+        "aca-gods-indo-europeans"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 各传统与哲学体系形成年代跨度大，正文未列具体年数；2) Doniger、Dumézil 的观点为学派立场，学界有争论；3) 全部描述采用学术立场，不替信仰表态。",
+      "year": null,
+      "source_text": "印度教是多种传统的复合体，其文本包括吠陀、奥义书、史诗与往世书，不同传统在神祇、修行与哲学上差异显著。本站引用使用公共领域译本，并以学术与描述性立场整理，不评判任何信仰的真伪。",
+      "versions": [
+        "吠陀传统以祭祀与颂神为中心，奥义书转向梵与自我的哲学探究，二者在关注点上不同。",
+        "史诗与往世书发展出三相神与化身叙事，并形成虔信（bhakti）传统，与早期祭祀传统并重。",
+        "哲学上有吠檀多、数论、瑜伽等多个体系，对梵、自我与解脱的关系理解各异。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Wendy Doniger",
+          "school": "芝加哥学派（印度宗教与文本研究）",
+          "view": "强调印度传统的多义性与阐释史，警惕把多样实践简化为单一体系；其具体解读在学界有争论。"
+        },
+        {
+          "holder": "Georges Dumézil",
+          "school": "印欧比较神话学",
+          "view": "以三功能假说解析吠陀神系并与印欧其他传统比较，属学派模型，学界对其适用范围有批评。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "以宇宙轴、轮回与修行实践的比较框架理解印度宗教，属现象学层面的参照。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "佛教",
+          "basis_source": "aca-god-is-not-one",
+          "note": "比较宗教学就印度教与佛教的背景关联有专门研究，此处记录有文献依据的一般比较，不作信仰判断。"
+        },
+        {
+          "tradition": "波斯传统",
+          "basis_source": "aca-gods-indo-europeans",
+          "note": "Dumézil 的印欧比较把印度与伊朗材料并置，属学派框架下的对照，学界对对应关系有讨论。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>印度教文本与哲学传统示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>印度教文本与哲学传统（示意）</text><rect x='70' y='96' width='180' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='160' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>吠陀</text><text x='160' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>祭祀·颂神</text><rect x='290' y='96' width='180' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥义书</text><text x='380' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>梵我探究</text><rect x='510' y='96' width='180' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='600' y='120' text-anchor='middle' fill='var(--svg-text)' font-size='14'>史诗·往世书</text><text x='600' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>三相神·虔信</text><line x1='160' y1='154' x2='160' y2='204' stroke='currentColor' opacity='0.5'/><line x1='380' y1='154' x2='380' y2='204' stroke='currentColor' opacity='0.5'/><line x1='600' y1='154' x2='600' y2='204' stroke='currentColor' opacity='0.5'/><rect x='130' y='204' width='500' height='56' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='228' text-anchor='middle' fill='var(--svg-text)' font-size='13'>哲学体系：吠檀多 · 数论 · 瑜伽</text><text x='380' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='12'>对梵·自我·解脱的理解各异</text><text x='380' y='322' text-anchor='middle' fill='var(--svg-text)' font-size='13'>传统多元并存，本站不作真伪评判</text></svg>"
+    },
+    {
+      "id": "rel-taoism",
+      "title": "道教",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以《道德经》与养生、科仪实践为基础的中国宗教。",
+      "related": [
+        "rel-confucianism",
+        "rel-hinduism"
+      ],
+      "sources": [
+        "pri-tao-te-ching",
+        "pri-zhuangzi",
+        "enc-brit-taoism",
+        "enc-brit-buddhism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 道家哲学与制度化道教的关系为学界讨论议题，正文谨慎区分；2) 刘笑敢、Robinet 的论点待逐条核对，其著作未录入 sources.json；3) 全部表述采用学术立场，不替信仰表态。",
+      "year": null,
+      "source_text": "道教以《道德经》《庄子》等典籍为重要文本资源，并在历史中发展出炼养、科仪与宫观制度等实践形态。道家哲学与制度化宗教之间既有联系又有区别，本站以学术立场描述，不评判信仰真伪。",
+      "versions": [
+        "道家哲学侧重对道、自然与治身的思考，是先秦思想的重要一支，与后世的宗教组织形态有别。",
+        "汉魏以后的道教逐渐形成教团、科仪与炼养体系，经典结集与祖师谱系也随之发展。",
+        "全真与正一等宗派在修行方式、戒律与组织上各有侧重，是历史演变的结果。"
+      ],
+      "interpretations": [
+        {
+          "holder": "刘笑敢",
+          "school": "道家哲学研究",
+          "view": "以文献考证与哲学分析研究《庄子》与老子思想，强调区分原始文本与后世诠释；具体结论学界有讨论。"
+        },
+        {
+          "holder": "Isabelle Robinet",
+          "school": "道教与道家研究",
+          "view": "系统梳理道教的冥想、经典与历史脉络，强调道家思想与道教实践之间的连续与转化；其著作为学术通论。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "可从宇宙对应、修身实践与“永恒回归”（eternal return）等主题作现象学层面的参照，不构成对道教材料的专门结论。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "儒家",
+          "basis_source": "enc-brit-taoism",
+          "note": "以权威百科条目作为道家与儒家在中国思想史中关系的一般参照（该来源未在线核验，见待核实）；具体思想差异待专门文献核对。"
+        },
+        {
+          "tradition": "佛教",
+          "basis_source": "enc-brit-buddhism",
+          "note": "以权威百科的佛教条目作为本土传统与传入宗教互动背景的一般参照（该来源未在线核验）；来源库暂无专门研究佛教东传的著作，此处属待核实的弱参照，具体过程待补专门文献。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>道家哲学与道教形态示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>道家哲学与道教形态（示意）</text><rect x='80' y='100' width='260' height='60' fill='var(--svg-node)' stroke='currentColor'/><text x='210' y='124' text-anchor='middle' fill='var(--svg-text)' font-size='14'>道家哲学</text><text x='210' y='146' text-anchor='middle' fill='var(--svg-text)' font-size='13'>道德经·庄子</text><rect x='420' y='100' width='260' height='60' fill='var(--svg-node)' stroke='currentColor'/><text x='550' y='124' text-anchor='middle' fill='var(--svg-text)' font-size='14'>制度道教</text><text x='550' y='146' text-anchor='middle' fill='var(--svg-text)' font-size='13'>教团·科仪·炼养</text><line x1='340' y1='130' x2='420' y2='130' stroke='currentColor' opacity='0.5'/><rect x='150' y='226' width='200' height='52' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='250' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='13'>全真 · 内丹修行</text><text x='250' y='266' text-anchor='middle' fill='var(--svg-text)' font-size='12'>出家·戒律</text><rect x='410' y='226' width='200' height='52' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='510' y='248' text-anchor='middle' fill='var(--svg-text)' font-size='13'>正一 · 符箓科仪</text><text x='510' y='266' text-anchor='middle' fill='var(--svg-text)' font-size='12'>居家·法事</text><text x='380' y='336' text-anchor='middle' fill='var(--svg-text)' font-size='13'>哲学与宗教形态有别，本站不作真伪评判</text></svg>"
+    },
+    {
+      "id": "rel-confucianism",
+      "title": "儒教",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以孔子伦理与礼乐制度为核心的中国思想与祭祀传统。",
+      "related": [
+        "rel-taoism",
+        "rel-shinto"
+      ],
+      "sources": [
+        "pri-analects",
+        "pri-i-ching",
+        "enc-brit-taoism",
+        "aca-god-is-not-one"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 思想史分期为叙述便利，具体年代与学派界限学界有讨论；2) Fingarette 的“世俗即神圣”译法为其著作观点概括，著作未录入 sources.json；3) 全部表述采用学术立场，不替信仰表态。",
+      "year": null,
+      "source_text": "儒家以《论语》所载孔子言行与《易经》等经典为重要文本资源，并在历史中发展出经学、理学与礼学传统。本站引用使用公共领域译本，以学术与描述性立场整理，不评判信仰真伪。",
+      "versions": [
+        "先秦儒家侧重伦理、礼乐与政治秩序，孔子与其后学在重点上各有发展。",
+        "汉代经学强调章句训诂与天人感应，宋明理学则转向心性与天理的哲学探讨，二者问题意识不同。",
+        "近现代新儒家在回应现代性问题上提出新的诠释，与古典经学形成对照。"
+      ],
+      "interpretations": [
+        {
+          "holder": "Herbert Fingarette",
+          "school": "比较哲学与儒家研究",
+          "view": "以《论语》的礼仪维度解读孔子，主张“世俗即神圣”的解释路径；其读法在学界有支持也有批评。"
+        },
+        {
+          "holder": "朱熹",
+          "school": "宋明理学",
+          "view": "以天理、格物致知与存天理灭人欲等命题重构儒家义理，对后世影响深远；此处为思想史描述，非信仰判断。"
+        },
+        {
+          "holder": "Stephen Prothero",
+          "school": "比较宗教学",
+          "view": "把儒家的修身与秩序实践列为宗教比较的一个案例，强调各传统目标不同，属通俗学术著作的观点。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "道教",
+          "basis_source": "enc-brit-taoism",
+          "note": "以权威百科条目作为儒道在中国思想史中关系的一般参照（该来源未在线核验，见待核实）；具体差异待专门文献核对。"
+        },
+        {
+          "tradition": "东亚礼仪传统",
+          "basis_source": "aca-god-is-not-one",
+          "note": "比较宗教学就礼仪与修身传统有一般研究，此处记录有文献依据的比较，不作信仰判断。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>儒家思想发展阶段示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>儒家思想发展阶段（示意）</text><rect x='60' y='112' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='155' y='136' text-anchor='middle' fill='var(--svg-text)' font-size='14'>先秦儒家</text><text x='155' y='158' text-anchor='middle' fill='var(--svg-text)' font-size='13'>伦理·礼乐</text><rect x='285' y='112' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='136' text-anchor='middle' fill='var(--svg-text)' font-size='14'>汉代经学</text><text x='380' y='158' text-anchor='middle' fill='var(--svg-text)' font-size='13'>训诂·天人</text><rect x='510' y='112' width='190' height='62' fill='var(--svg-node)' stroke='currentColor'/><text x='605' y='136' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宋明理学</text><text x='605' y='158' text-anchor='middle' fill='var(--svg-text)' font-size='13'>心性·天理</text><line x1='250' y1='143' x2='285' y2='143' stroke='currentColor' opacity='0.5'/><line x1='475' y1='143' x2='510' y2='143' stroke='currentColor' opacity='0.5'/><rect x='270' y='232' width='220' height='54' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='13'>近现代新儒家</text><text x='380' y='274' text-anchor='middle' fill='var(--svg-text)' font-size='12'>回应现代性</text><text x='380' y='340' text-anchor='middle' fill='var(--svg-text)' font-size='13'>阶段为叙述便利而划分，非严格断代</text></svg>"
+    },
+    {
+      "id": "rel-shinto",
+      "title": "神道教",
+      "level": "L2",
+      "tier": "核心",
+      "period": "ancient",
+      "summary": "以神社、神祇与《古事记》为基础日本传统宗教。",
+      "related": [
+        "myth-japanese",
+        "fig-amaterasu",
+        "rel-confucianism",
+        "rel-jainism"
+      ],
+      "sources": [
+        "pri-kojiki",
+        "enc-brit-shinto",
+        "enc-brit-buddhism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "1) 早期神道形态依赖典籍与习俗重建，具体细节学界有讨论；2) 本居宣长、Philippi 的论点待逐条核对原文，其著作未录入 sources.json；3) 术语已统一：“神圣中心”（sacred center）采用中文为主、英文括注；4) 全部表述采用学术立场，不替信仰表态。",
+      "year": null,
+      "source_text": "神道教的神话材料主要见于《古事记》与《日本书纪》，实践层面以神社、祭祀与洁净观念为中心。神道与佛教在历史上长期共存并相互影响，本站以学术与描述性立场整理，不评判信仰真伪。",
+      "versions": [
+        "早期神道以自然神与氏族祭祀为中心，缺乏统一教义文本，其形态多从典籍与习俗中重建。",
+        "佛教传入后形成神佛习合的长期过程，神祇与佛菩萨在信仰实践中被关联理解。",
+        "近代国家神道曾被制度化，战后制度格局发生显著变化，是历史政治条件的产物。"
+      ],
+      "interpretations": [
+        {
+          "holder": "本居宣长",
+          "school": "国学（日本古典研究）",
+          "view": "主张以日本古典语言的固有精神理解神话，反对道德化的外来解读；其立场在思想史上有影响也有批评。"
+        },
+        {
+          "holder": "Donald L. Philippi",
+          "school": "日本神话译介与研究",
+          "view": "强调《古事记》作为神话文本的文学性与独特性，指出其编纂意图的复杂性；见其英译导论。"
+        },
+        {
+          "holder": "Mircea Eliade",
+          "school": "宗教现象学",
+          "view": "可从太阳神话、神圣中心（sacred center）与王权仪式作现象学层面的参照，不构成对神道材料的专门结论。"
+        }
+      ],
+      "comparisons": [
+        {
+          "tradition": "日本神话",
+          "basis_source": "pri-kojiki",
+          "note": "《古事记》既是神话文本也是神道教的重要经典，此处以原典为依据记录文本与信仰实践的关联。"
+        },
+        {
+          "tradition": "佛教",
+          "basis_source": "enc-brit-buddhism",
+          "note": "以权威百科条目作为神佛习合历史背景的一般参照（该来源未在线核验，见待核实）；具体过程待专门文献核对。"
+        }
+      ],
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>神道教结构与历史层次示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>神道教结构与历史层次（示意）</text><rect x='80' y='104' width='200' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='180' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神话文本</text><text x='180' y='148' text-anchor='middle' fill='var(--svg-text)' font-size='13'>古事记·日本书纪</text><rect x='280' y='104' width='200' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='14'>实践核心</text><text x='380' y='148' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神社·祭祀·洁净</text><rect x='480' y='104' width='200' height='58' fill='var(--svg-node)' stroke='currentColor'/><text x='580' y='128' text-anchor='middle' fill='var(--svg-text)' font-size='14'>历史互动</text><text x='580' y='148' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神佛习合</text><line x1='180' y1='162' x2='180' y2='214' stroke='currentColor' opacity='0.5'/><line x1='380' y1='162' x2='380' y2='214' stroke='currentColor' opacity='0.5'/><line x1='580' y1='162' x2='580' y2='214' stroke='currentColor' opacity='0.5'/><rect x='130' y='214' width='500' height='58' fill='var(--svg-node)' stroke='currentColor' opacity='0.7'/><text x='380' y='238' text-anchor='middle' fill='var(--svg-text)' font-size='13'>近代制度化与战后变化：历史政治条件的产物</text><text x='380' y='258' text-anchor='middle' fill='var(--svg-text)' font-size='12'>本站仅作描述，不评判信仰真伪</text><text x='380' y='336' text-anchor='middle' fill='var(--svg-text)' font-size='13'>神道无统一教义文本，形态多从典籍与习俗重建</text></svg>"
+    },
+    {
+      "id": "rel-jainism",
+      "title": "耆那教",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "以非暴力与苦行为核心的印度宗教。",
+      "related": [
+        "rel-shinto",
+        "rel-sikhism"
+      ],
+      "sources": [
+        "enc-brit-hinduism",
+        "enc-wiki-world-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-hinduism、enc-wiki-world-religion（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-sikhism",
+      "title": "锡克教",
+      "level": "L1",
+      "tier": "重要",
+      "period": "modern",
+      "summary": "以《古鲁·格兰特·萨希卜》为基础的南亚一神教。",
+      "related": [
+        "rel-jainism",
+        "rel-zoroastrianism"
+      ],
+      "sources": [
+        "enc-wiki-world-religion",
+        "enc-brit-hinduism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-world-religion、enc-brit-hinduism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-zoroastrianism",
+      "title": "琐罗亚斯德教",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "以查拉图斯特拉教导与善恶二元论为核心的伊朗宗教。",
+      "related": [
+        "rel-sikhism",
+        "rel-shamanism"
+      ],
+      "sources": [
+        "aca-gods-indo-europeans",
+        "enc-wiki-world-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-world-religion（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-shamanism",
+      "title": "萨满教",
+      "level": "L1",
+      "tier": "重要",
+      "period": "oral",
+      "summary": "以萨满仪式与精灵交往为特征的跨地域宗教实践。",
+      "related": [
+        "rel-zoroastrianism",
+        "rel-manichaeism"
+      ],
+      "sources": [
+        "aca-shamanism",
+        "aca-religions-american-indians"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "rel-manichaeism",
+      "title": "摩尼教",
+      "level": "L1",
+      "tier": "重要",
+      "period": "ancient",
+      "summary": "源于波斯、融合多种元素的二元论宗教，已衰微。",
+      "related": [
+        "rel-shamanism",
+        "rel-bahai"
+      ],
+      "sources": [
+        "aca-gnostic-gospels",
+        "enc-wiki-world-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-world-religion（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-bahai",
+      "title": "巴哈伊信仰",
+      "level": "L1",
+      "tier": "重要",
+      "period": "modern",
+      "summary": "源于 19 世纪波斯、主张上帝唯一与人类一体的宗教。",
+      "related": [
+        "rel-manichaeism",
+        "rel-mormonism"
+      ],
+      "sources": [
+        "enc-wiki-world-religion",
+        "ins-pluralism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-world-religion、ins-pluralism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-mormonism",
+      "title": "耶稣基督后期圣徒教会",
+      "level": "L1",
+      "tier": "重要",
+      "period": "modern",
+      "summary": "源于 19 世纪美国的基督教复原运动分支。",
+      "related": [
+        "rel-bahai",
+        "rel-tibetan-buddhism"
+      ],
+      "sources": [
+        "enc-wiki-world-religion",
+        "ins-pluralism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-world-religion、ins-pluralism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-tibetan-buddhism",
+      "title": "藏传佛教",
+      "level": "L1",
+      "tier": "重要",
+      "period": "medieval",
+      "summary": "佛教传入西藏后形成的金刚乘传统。",
+      "related": [
+        "rel-mormonism",
+        "rel-zen"
+      ],
+      "sources": [
+        "enc-brit-buddhism",
+        "enc-wiki-world-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-buddhism、enc-wiki-world-religion（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-zen",
+      "title": "禅宗",
+      "level": "L1",
+      "tier": "重要",
+      "period": "medieval",
+      "summary": "以坐禅与公案为核心的汉传佛教宗派。",
+      "related": [
+        "rel-tibetan-buddhism",
+        "rel-pureland"
+      ],
+      "sources": [
+        "enc-brit-buddhism",
+        "enc-wiki-world-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-buddhism、enc-wiki-world-religion（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-pureland",
+      "title": "净土宗",
+      "level": "L1",
+      "tier": "重要",
+      "period": "medieval",
+      "summary": "以称名念佛、往生净土为核心的汉传佛教宗派。",
+      "related": [
+        "rel-zen",
+        "rel-caodai"
+      ],
+      "sources": [
+        "enc-brit-buddhism",
+        "enc-wiki-world-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-buddhism、enc-wiki-world-religion（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-caodai",
+      "title": "高台教",
+      "level": "L1",
+      "tier": "补充",
+      "period": "modern",
+      "summary": "20 世纪越南的融合型宗教。",
+      "related": [
+        "rel-pureland",
+        "rel-tenrikyo"
+      ],
+      "sources": [
+        "enc-wiki-world-religion",
+        "ins-pluralism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-world-religion、ins-pluralism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-tenrikyo",
+      "title": "天理教",
+      "level": "L1",
+      "tier": "补充",
+      "period": "modern",
+      "summary": "19 世纪日本的新宗教。",
+      "related": [
+        "rel-caodai",
+        "rel-yiguandao"
+      ],
+      "sources": [
+        "enc-wiki-world-religion",
+        "ins-pluralism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-world-religion、ins-pluralism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-yiguandao",
+      "title": "一贯道",
+      "level": "L1",
+      "tier": "补充",
+      "period": "modern",
+      "summary": "源于中国的民间宗教结社传统。",
+      "related": [
+        "rel-tenrikyo",
+        "rel-vaishnavism"
+      ],
+      "sources": [
+        "enc-wiki-world-religion",
+        "ins-pluralism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-wiki-world-religion、ins-pluralism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-vaishnavism",
+      "title": "毗湿奴派",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "以毗湿奴及其化身为中心的印度教传统。",
+      "related": [
+        "rel-yiguandao",
+        "rel-shaivism"
+      ],
+      "sources": [
+        "pri-vishnu-purana",
+        "enc-brit-hinduism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-hinduism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-shaivism",
+      "title": "湿婆派",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "以湿婆为中心的印度教传统。",
+      "related": [
+        "rel-vaishnavism",
+        "rel-tantrism"
+      ],
+      "sources": [
+        "enc-brit-hinduism",
+        "aca-patterns-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-hinduism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-tantrism",
+      "title": "密教",
+      "level": "L1",
+      "tier": "补充",
+      "period": "medieval",
+      "summary": "以密续、坛城与观想为特征的印度教—佛教传统。",
+      "related": [
+        "rel-shaivism",
+        "rel-ancient-egyptian"
+      ],
+      "sources": [
+        "enc-brit-tantrism",
+        "aca-patterns-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。 引用未在线核验来源：enc-brit-tantrism（DECISIONS.md D2）。",
+      "year": null
+    },
+    {
+      "id": "rel-ancient-egyptian",
+      "title": "古埃及宗教",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "古埃及的多神崇拜、冥界观与法老神权。",
+      "related": [
+        "rel-tantrism",
+        "rel-ancient-greek"
+      ],
+      "sources": [
+        "pri-book-dead",
+        "aca-before-philosophy"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    },
+    {
+      "id": "rel-ancient-greek",
+      "title": "古希腊宗教",
+      "level": "L1",
+      "tier": "补充",
+      "period": "ancient",
+      "summary": "古希腊的城邦祭祀、神谕与神秘崇拜。",
+      "related": [
+        "rel-ancient-egyptian"
+      ],
+      "sources": [
+        "pri-pausanias",
+        "aca-greek-religion"
+      ],
+      "needs_verification": true,
+      "pending_notes": "L1 骨架阶段：来源文本、版本差异、学者解读、跨传统比较与图示待 L2 补充。",
+      "year": null
+    }
+  ]
+}
