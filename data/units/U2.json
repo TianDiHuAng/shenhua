@@ -5914,6 +5914,449 @@
      "source": "pri-presbyterian"
     }
    ]
+  },
+  {
+   "id": "rel-pharisees",
+   "title": "法利赛派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "第二圣殿期强调口传律法的犹太教派别，拉比犹太教的前身。",
+   "related": [
+    "rel-judaism",
+    "rel-karaite",
+    "rel-sadducees"
+   ],
+   "sources": [
+    "pri-pharisees",
+    "aca-myth-legend-custom"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，部分依外部文献（如约瑟夫斯）记录；2) 教派立场与后世 labelling 须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "法利赛派（Pharisees）是第二圣殿期（约前2世纪—公元1世纪）犹太教的重要派别，以严守《托拉》与口传律法（后来编纂为《密西拿》）著称，主张律法的全民化与纯化。与撒都该派（圣殿祭司阶层）对立，与耶稣运动亦有张力（新约中多有记载，须批判阅读）。法利赛派在圣殿毁灭（70年）后由拉比传统继承，成为后世拉比犹太教的主流源头。",
+   "versions": [
+    "法利赛派（Pharisees）是第二圣殿期（约前2世纪—公元1世纪）犹太教的重要派别，以严守《托拉》与口传律法（后来编纂为《密西拿》）著称，主张律法的全民化与纯化。与撒都该派（圣殿祭司阶层）对立，与耶稣运动亦有张力（新约中多有记载，须批判阅读）。法利赛派在圣殿毁灭（70年）后由拉比传统继承，成为后世拉比犹太教的主流源头。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Josephus",
+     "school": "古典史家",
+     "view": "《犹太战争》《犹太古史》记录法利赛派（自称与其接近），但带政治语境。"
+    },
+    {
+     "holder": "Rabbinic tradition",
+     "school": "拉比传统",
+     "view": "以《密西拿》《塔木德》继承法利赛的律法传统。"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "宗教研究",
+     "view": "强调新约中'法利赛人'形象的神学化塑造，须历史批判。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-pharisees",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>法利赛派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>法利赛派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>口传律法</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>密西拿源头</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>律法全民化</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与撒都该对立</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉比前身</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>70年后传承</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法利赛派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "法利赛形象",
+     "views": [
+      {
+       "holder": "新约叙事",
+       "basis": "新约多批判其虚伪。"
+      },
+      {
+       "holder": "历史重构",
+       "basis": "现代研究还原其复杂的宗教角色。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "法利赛派强调口传律法，是拉比犹太教的前身。",
+     "source": "pri-pharisees"
+    },
+    {
+     "claim": "约瑟夫斯与新约是其主要外部史料。",
+     "source": "pri-pharisees"
+    }
+   ]
+  },
+  {
+   "id": "rel-sadducees",
+   "title": "撒都该派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "第二圣殿期以圣殿祭司阶层为中心的犹太教派别。",
+   "related": [
+    "rel-judaism",
+    "rel-pharisees",
+    "rel-samaritan"
+   ],
+   "sources": [
+    "pri-sadducees",
+    "aca-myth-legend-custom"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，部分依外部文献（如约瑟夫斯）记录；2) 教派立场与后世 labelling 须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "撒都该派（Sadducees）是第二圣殿期犹太教派别，与圣殿祭司及上层贵族关系密切，主张仅以书面的《摩西五经》为权威，否认口传律法、死者复活与天使存在（据约瑟夫斯与新约记载）。其政治立场倾向于与罗马当局合作，圣殿毁灭（70年）后随之消失。撒都该派的材料几乎全来自外部（约瑟夫斯、新约、《密西拿》），其真实教义难以完全还原。",
+   "versions": [
+    "撒都该派（Sadducees）是第二圣殿期犹太教派别，与圣殿祭司及上层贵族关系密切，主张仅以书面的《摩西五经》为权威，否认口传律法、死者复活与天使存在（据约瑟夫斯与新约记载）。其政治立场倾向于与罗马当局合作，圣殿毁灭（70年）后随之消失。撒都该派的材料几乎全来自外部（约瑟夫斯、新约、《密西拿》），其真实教义难以完全还原。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Josephus",
+     "school": "古典史家",
+     "view": "记录撒都该派与法利赛派的神学分歧。"
+    },
+    {
+     "holder": "Rabbinic literature",
+     "school": "拉比文献",
+     "view": "《密西拿》等保存对撒都该派的论战性描述。"
+    },
+    {
+     "holder": "现代史学",
+     "school": "宗教研究",
+     "view": "强调外部史料的偏向，撒都该派真实面貌须谨慎重构。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sadducees",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>撒都该派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>撒都该派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣殿祭司</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>权力中心</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>唯五经</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>否认口传律法</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>否认复活</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神学立场</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>撒都该派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "撒都该的形象",
+     "views": [
+      {
+       "holder": "外部记载说",
+       "basis": "依赖约瑟夫斯与新约等外部材料。"
+      },
+      {
+       "holder": "论战塑造说",
+       "basis": "拉比与新约形象带论战色彩。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "撒都该派以书面五经为唯一权威，否认死者复活。",
+     "source": "pri-sadducees"
+    },
+    {
+     "claim": "圣殿毁灭后该派随之消失。",
+     "source": "pri-sadducees"
+    }
+   ]
+  },
+  {
+   "id": "rel-essenes",
+   "title": "艾赛尼派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "第二圣殿期的苦修犹太教派，与死海古卷/昆兰社群相关。",
+   "related": [
+    "rel-judaism",
+    "rel-pharisees",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-essenes",
+    "aca-gnostic-gospels"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，部分依外部文献（如约瑟夫斯）记录；2) 教派立场与后世 labelling 须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "艾赛尼派（Essenes）是第二圣殿期（约前2世纪—公元1世纪）的犹太教苦修派别，据约瑟夫斯等记载，他们实行严格的洁净、财产共有与 celibacy（部分支系），重视末世期盼。死海古卷的发现（1947年起）与昆兰（Qumran）遗址使学界把它与艾赛尼派关联——但'古卷社群=艾赛尼派'的等式仍有争论，部分学者主张其他犹太教派别也可能拥有这些文本。",
+   "versions": [
+    "艾赛尼派（Essenes）是第二圣殿期（约前2世纪—公元1世纪）的犹太教苦修派别，据约瑟夫斯等记载，他们实行严格的洁净、财产共有与 celibacy（部分支系），重视末世期盼。死海古卷的发现（1947年起）与昆兰（Qumran）遗址使学界把它与艾赛尼派关联——但'古卷社群=艾赛尼派'的等式仍有争论，部分学者主张其他犹太教派别也可能拥有这些文本。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Josephus",
+     "school": "古典史家",
+     "view": "《犹太战争》记载艾赛尼派的生活与信仰。"
+    },
+    {
+     "holder": "Dead Sea Scrolls scholars",
+     "school": "死海古卷研究",
+     "view": "古卷的发现重塑了对第二圣殿期犹太教多元性的理解。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "现代争论",
+     "school": "学术讨论",
+     "view": "关于昆兰社群与艾赛尼派关系的辨识有持续争论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-essenes",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>艾赛尼派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>艾赛尼派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苦修洁净</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>生活方式</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>财产共有</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>社群制度</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>死海古卷</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文本关联</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>艾赛尼派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "昆兰与艾赛尼",
+     "views": [
+      {
+       "holder": "同一说",
+       "basis": "昆兰社群即艾赛尼派。"
+      },
+      {
+       "holder": "存疑说",
+       "basis": "关联有证据但不充分。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "艾赛尼派是第二圣殿期的苦修犹太教派。",
+     "source": "pri-essenes"
+    },
+    {
+     "claim": "死海古卷的发现与昆兰遗址常与之关联，但学界有争论。",
+     "source": "pri-essenes"
+    }
+   ]
+  },
+  {
+   "id": "rel-reform-judaism",
+   "title": "改革派犹太教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "19世纪起源于德国、强调时代适应与个人自主的犹太教分支。",
+   "related": [
+    "rel-judaism",
+    "rel-conservative-judaism",
+    "rel-hasidism"
+   ],
+   "sources": [
+    "pri-reform-judaism",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，部分依外部文献（如约瑟夫斯）记录；2) 教派立场与后世 labelling 须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "改革派犹太教（Reform Judaism）19世纪起源于德国的犹太教改革运动（Haskalah 启蒙背景），主张犹太教应随时代演进：强调个人自主选择、伦理一神论与'修复世界'(tikkun olam) 的社会使命，对传统律法（哈拉卡）采取选择性遵守的立场。1885年美国改革派拉比《匹兹堡纲领》是其重要文本。改革派是现代犹太教最大的宗派之一。",
+   "versions": [
+    "改革派犹太教（Reform Judaism）19世纪起源于德国的犹太教改革运动（Haskalah 启蒙背景），主张犹太教应随时代演进：强调个人自主选择、伦理一神论与'修复世界'(tikkun olam) 的社会使命，对传统律法（哈拉卡）采取选择性遵守的立场。1885年美国改革派拉比《匹兹堡纲领》是其重要文本。改革派是现代犹太教最大的宗派之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把改革派犹太教作为'宗教现代化'的典型案例。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Abraham Geiger",
+     "school": "改革派拉比",
+     "view": "德国改革运动的神学奠基者之一。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "现代犹太研究",
+     "school": "宗教研究",
+     "view": "强调改革派与正统派在律法权威上的分歧。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-reform-judaism",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>改革派犹太教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>改革派犹太教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>个人自主</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>现代性适应</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伦理一神论</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心教义</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>tikkun olam</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>社会责任</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>改革派犹太教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "律法权威",
+     "views": [
+      {
+       "holder": "选择性遵守",
+       "basis": "改革派立场，个人自主取舍。"
+      },
+      {
+       "holder": "哈拉卡约束",
+       "basis": "正统派立场，律法神圣不可更改。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "改革派犹太教19世纪起源于德国，强调时代适应与个人自主。",
+     "source": "pri-reform-judaism"
+    },
+    {
+     "claim": "1885年《匹兹堡纲领》是美国改革派的重要文本。",
+     "source": "pri-reform-judaism"
+    }
+   ]
+  },
+  {
+   "id": "rel-conservative-judaism",
+   "title": "保守派犹太教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "19世纪起源、在传统律法与现代适应间取中道的犹太教分支。",
+   "related": [
+    "rel-judaism",
+    "rel-reform-judaism"
+   ],
+   "sources": [
+    "pri-conservative-judaism",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，部分依外部文献（如约瑟夫斯）记录；2) 教派立场与后世 labelling 须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "保守派犹太教（Conservative Judaism/Masorti）19世纪起源于德国'历史犹太教'（positive-historical）思潮，主张在遵守哈拉卡（犹太律法）的同时承认其历史演变与对现代性的适度适应——在改革派与正统派之间取中道。美国犹太神学院（JTS）与以色列 Masorti 运动是其核心机构。保守派强调'社群'与'律法的演化'（development of halakha）理念。",
+   "versions": [
+    "保守派犹太教（Conservative Judaism/Masorti）19世纪起源于德国'历史犹太教'（positive-historical）思潮，主张在遵守哈拉卡（犹太律法）的同时承认其历史演变与对现代性的适度适应——在改革派与正统派之间取中道。美国犹太神学院（JTS）与以色列 Masorti 运动是其核心机构。保守派强调'社群'与'律法的演化'（development of halakha）理念。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Solomon Schechter",
+     "school": "保守派拉比",
+     "view": "JTS 首任校长，倡导'保守派犹太教'的中间路线。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Zacharias Frankel",
+     "school": "德国拉比",
+     "view": "'历史犹太教'学派奠基者。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "现代犹太研究",
+     "school": "宗教研究",
+     "view": "强调保守派在律法方法上的渐进主义。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-conservative-judaism",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>保守派犹太教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>保守派犹太教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中道路线</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>传统与现代</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈拉卡演化</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>律法发展观</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>JTS/Masorti</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心机构</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>保守派犹太教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "律法演化的合法性",
+     "views": [
+      {
+       "holder": "渐进发展说",
+       "basis": "哈拉卡可随社群实践演化。"
+      },
+      {
+       "holder": "固定守别说",
+       "basis": "律法权威不可轻易变动。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "保守派犹太教在传统律法与现代适应间取中道。",
+     "source": "pri-conservative-judaism"
+    },
+    {
+     "claim": "美国犹太神学院（JTS）与以色列 Masorti 是核心机构。",
+     "source": "pri-conservative-judaism"
+    }
+   ]
+  },
+  {
+   "id": "rel-yarsanism",
+   "title": "雅尔桑教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "库尔德地区的伊朗系新宗教，融合苏菲与本土传统。",
+   "related": [
+    "rel-islam",
+    "rel-zoroastrianism",
+    "rel-sufism"
+   ],
+   "sources": [
+    "pri-yarsanism",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，部分依外部文献（如约瑟夫斯）记录；2) 教派立场与后世 labelling 须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "雅尔桑教（Yarsanism/Ahl-e Haqq，'真理之民'）是主要分布于伊拉克北部与伊朗西部库尔德地区的新宗教，传统上追溯至14世纪的 Sultan Sahak，融合苏菲主义、什叶派与伊朗本土 religious 元素：信奉唯一的神与一系列化身（如 Ali、Sultan Sahak），强调灵魂轮回与末世救赎，拥有独立的经文传统（如《Kalam-i Sultan Sahak》）与仪式（如 jam 聚会）。雅尔桑教长期受压迫，近年在库尔德地区逐渐公开。",
+   "versions": [
+    "雅尔桑教（Yarsanism/Ahl-e Haqq，'真理之民'）是主要分布于伊拉克北部与伊朗西部库尔德地区的新宗教，传统上追溯至14世纪的 Sultan Sahak，融合苏菲主义、什叶派与伊朗本土 religious 元素：信奉唯一的神与一系列化身（如 Ali、Sultan Sahak），强调灵魂轮回与末世救赎，拥有独立的经文传统（如《Kalam-i Sultan Sahak》）与仪式（如 jam 聚会）。雅尔桑教长期受压迫，近年在库尔德地区逐渐公开。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sultan Sahak",
+     "school": "宗教创始人",
+     "view": "被传统视为雅尔桑教的奠基者与神圣化身。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可作为伊朗—伊斯兰边境新宗教的案例。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "库尔德研究",
+     "school": "区域研究",
+     "view": "强调雅尔桑教与库尔德身份的关联及受迫害史。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yarsanism",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>雅尔桑教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>雅尔桑教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>真理之民</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ahl-e Haqq</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>化身序列</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ali/Sahak</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>轮回救赎</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心教义</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雅尔桑教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "起源时代",
+     "views": [
+      {
+       "holder": "14世纪说",
+       "basis": "传统归于 Sultan Sahak。"
+      },
+      {
+       "holder": "更早底层说",
+       "basis": "含前伊斯兰伊朗底层。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "雅尔桑教是库尔德地区融合苏菲与伊朗传统的新宗教。",
+     "source": "pri-yarsanism"
+    },
+    {
+     "claim": "雅尔桑教有独立的经文传统与 jam 仪式。",
+     "source": "pri-yarsanism"
+    }
+   ]
   }
  ]
 }

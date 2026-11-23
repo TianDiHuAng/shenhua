@@ -2742,6 +2742,84 @@
    "link_ok": true,
    "verified": true,
    "note": "长老会（Presbyterianism）以《威斯敏斯特信纲》(1646) 为代表信条，实行长老治会制；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-pharisees",
+   "title": "法利赛派文献（《密西拿》与约瑟夫斯记载）",
+   "author": "佚名（法利赛派）/约瑟夫斯等",
+   "year": null,
+   "year_display": "前2世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Pharisees",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "法利赛派是第二圣殿期犹太教派别，强调口传律法与《托拉》研究，是拉比犹太教的前身；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-sadducees",
+   "title": "撒都该派文献（约瑟夫斯与新约记载）",
+   "author": "佚名（撒都该派）/约瑟夫斯等",
+   "year": null,
+   "year_display": "前2世纪—1世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sadducees",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "撒都该派是第二圣殿期犹太教派别，以圣殿祭司阶层为中心，否认死者复活与口传律法；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-essenes",
+   "title": "艾赛尼派文献（《死海古卷》等）",
+   "author": "佚名（艾赛尼/昆兰社群）",
+   "year": null,
+   "year_display": "前2世纪—1世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Essenes",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "艾赛尼派是第二圣殿期的苦修犹太教派，昆兰社群与《死海古卷》常与之关联（学界对此关联有讨论）；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-reform-judaism",
+   "title": "改革派犹太教文献（德国犹太教改革运动文本）",
+   "author": "改革派拉比与会议文本",
+   "year": null,
+   "year_display": "19世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Reform_Judaism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "改革派犹太教19世纪起源于德国，强调犹太教的时代适应与个人自主；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-conservative-judaism",
+   "title": "保守派犹太教文献（Schocken 与 ZA 文本）",
+   "author": "保守派拉比与机构文本",
+   "year": null,
+   "year_display": "19世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Conservative_Judaism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "保守派犹太教（Masorti）19世纪起源，主张在遵守传统律法与适应现代之间取中道；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-yarsanism",
+   "title": "雅尔桑教文献（Kalam 与 Yarsan 手稿）",
+   "author": "佚名（雅尔桑/Sarli 传统）",
+   "year": null,
+   "year_display": "14世纪起（口传更早）",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yarsanism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雅尔桑教（Yarsanism/Ahl-e Haqq）是库尔德地区的新宗教，融合伊斯兰苏菲与伊朗传统；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
