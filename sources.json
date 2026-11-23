@@ -3652,6 +3652,84 @@
    "link_ok": true,
    "verified": true,
    "note": "伊本·鲁世德（Ibn Rushd/Averroes，1126–1198）是亚里士多德注释者与哲学家，其著作经拉丁译本影响经院哲学；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yoga-sutra",
+   "title": "《瑜伽经》（帕坦伽利）",
+   "author": "帕坦伽利（Patañjali）",
+   "year": null,
+   "year_display": "约前2世纪—4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Patanjali",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《瑜伽经》(Yoga Sutras) 是古典瑜伽的核心文本，传统归于帕坦伽利；成书年代学界有讨论；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-shankara",
+   "title": "商羯罗文献（《梵经注》与《奥义书注》）",
+   "author": "阿迪·商羯罗",
+   "year": null,
+   "year_display": "8世纪（约）",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Adi_Shankara",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "商羯罗（Ādi Śaṅkara，约8世纪）是不二论（Advaita Vedanta）的集大成者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ramanuja",
+   "title": "罗摩努阇文献（《梵经注》与《神圣颂》）",
+   "author": "罗摩努阇",
+   "year": null,
+   "year_display": "11–12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ramanuja",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "罗摩努阇（Rāmānuja，1017–1137）是限定不二论（Vishishtadvaita）的哲学家，毗湿奴派神学家；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-chaitanya",
+   "title": "柴坦尼亚文献（《柴坦尼亚传》与bhakti文本）",
+   "author": "佚名（孟加拉毗湿奴派）",
+   "year": null,
+   "year_display": "15–16世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "柴坦尼亚（Chaitanya Mahaprabhu，1486–1533）是孟加拉的毗湿奴派圣人，提倡'何名bhakti'（Nama-sankirtan）；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ramakrishna",
+   "title": "罗摩克里希纳文献（《福音》与口述记录）",
+   "author": "罗摩克里希纳/Mahendranath Gupta 记录",
+   "year": null,
+   "year_display": "19世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ramakrishna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "罗摩克里希纳（1836–1886）是19世纪孟加拉的印度教神秘主义者，《罗摩克里希纳福音》(Sri Ramakrishna Kathamrita) 是其言行的记录；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-vivekananda",
+   "title": "辨喜文献（《瑜伽哲学》与演讲集）",
+   "author": "斯瓦米·辨喜",
+   "year": null,
+   "year_display": "19世纪末",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "辨喜（Swami Vivekananda，1863–1902）是罗摩克里希纳的弟子，将吠檀多与瑜伽介绍到西方；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

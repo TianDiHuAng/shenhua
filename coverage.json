@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T17:16:25+08:00",
+  "generated": "2026-11-23T17:21:21+08:00",
   "summary": {
-    "total": 352,
+    "total": 358,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 149
+      "U4": 155
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 238
+      "补充": 244
     },
     "by_level": {
       "L1": 0,
-      "L2": 238,
+      "L2": 244,
       "L3": 114
     },
-    "l2_done": 352,
+    "l2_done": 358,
     "l3_done": 114,
-    "verified_sources": 235
+    "verified_sources": 241
   },
   "entries": [
     {
@@ -3887,6 +3887,72 @@
     {
       "id": "fig-averroes",
       "name": "伊本·鲁世德（阿威罗伊）",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-patanjali",
+      "name": "帕坦伽利",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-shankara",
+      "name": "商羯罗",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-ramanuja",
+      "name": "罗摩努阇",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-chaitanya",
+      "name": "柴坦尼亚",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-ramakrishna",
+      "name": "罗摩克里希纳",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-vivekananda",
+      "name": "辨喜",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

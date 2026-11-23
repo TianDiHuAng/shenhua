@@ -12077,6 +12077,450 @@
      "source": "pri-averroes"
     }
    ]
+  },
+  {
+   "id": "fig-patanjali",
+   "title": "帕坦伽利",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《瑜伽经》的传统作者，古典瑜伽体系的奠基者。",
+   "related": [
+    "rel-hinduism",
+    "myth-hindu",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-yoga-sutra",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度哲学传统的文本成书年代与作者归属学界有讨论；2) 各教派（吠檀多/瑜伽/bhakti）立场不同，须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "帕坦伽利（Patañjali）是《瑜伽经》(Yoga Sūtra) 的传统作者，系统化了古典瑜伽（Rāja Yoga）的体系。《瑜伽经》以'心的波动'(citta-vṛtti) 为核心问题，提出'八支瑜伽'(Aṣṭāṅga：持戒、精进、体位、调息、制感、专注、冥想、三昧) 的修行路径，目标是达到'独存'(kaivalya)。帕坦伽利其人的身份（与语法学家 Patanjali 是否同一人）与成书年代（约前2世纪—4世纪）在学界有讨论。",
+   "versions": [
+    "帕坦伽利（Patañjali）是《瑜伽经》(Yoga Sūtra) 的传统作者，系统化了古典瑜伽（Rāja Yoga）的体系。《瑜伽经》以'心的波动'(citta-vṛtti) 为核心问题，提出'八支瑜伽'(Aṣṭāṅga：持戒、精进、体位、调息、制感、专注、冥想、三昧) 的修行路径，目标是达到'独存'(kaivalya)。帕坦伽利其人的身份（与语法学家 Patanjali 是否同一人）与成书年代（约前2世纪—4世纪）在学界有讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《瑜伽经》文本",
+     "school": "瑜伽传统",
+     "view": "八支瑜伽是古典瑜伽的核心框架。"
+    },
+    {
+     "holder": "现代瑜伽研究",
+     "school": "宗教学",
+     "view": "强调《瑜伽经》的成书年代与作者归属的讨论。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《瑜伽：不死与自由》对瑜伽的冥想技术有系统研究。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yoga-sutra",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>帕坦伽利形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>帕坦伽利（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>八支瑜伽</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>修行路径</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>心的波动</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心问题</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>独存</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>解脱目标</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>帕坦伽利要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "帕坦伽利其人",
+     "views": [
+      {
+       "holder": "同一人说",
+       "basis": "《瑜伽经》作者与语法学家为同一人。"
+      },
+      {
+       "holder": "多人说",
+       "basis": "是不同时代的不同人物。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "帕坦伽利是《瑜伽经》的传统作者，古典瑜伽奠基者。",
+     "source": "pri-yoga-sutra"
+    },
+    {
+     "claim": "八支瑜伽是《瑜伽经》的核心修行框架。",
+     "source": "pri-yoga-sutra"
+    }
+   ]
+  },
+  {
+   "id": "fig-shankara",
+   "title": "商羯罗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "不二论吠檀多的集大成者，印度哲学史核心人物。",
+   "related": [
+    "rel-hinduism",
+    "fig-ramanuja",
+    "motif-myth-vs-religion"
+   ],
+   "sources": [
+    "pri-shankara",
+    "aca-before-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度哲学传统的文本成书年代与作者归属学界有讨论；2) 各教派（吠檀多/瑜伽/bhakti）立场不同，须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "商羯罗（Ādi Śaṅkara，约8世纪）是印度教不二论（Advaita Vedānta）哲学家与宗教改革者，被认为是吠檀多传统的集大成者。他主张'梵我合一'——个体灵魂（Ātman）与终极实在（Brahman）在本质上是同一的，世界是'摩耶'(māyā，幻) 的显现；以《梵经注》《奥义书注》与《薄伽梵歌注》奠定不二论的神学基础。商羯罗建立了四座修道院（maṭha）与'十戒'僧团制度，对印度教僧伽传统影响深远。其生卒年代与传记细节有争议。",
+   "versions": [
+    "商羯罗（Ādi Śaṅkara，约8世纪）是印度教不二论（Advaita Vedānta）哲学家与宗教改革者，被认为是吠檀多传统的集大成者。他主张'梵我合一'——个体灵魂（Ātman）与终极实在（Brahman）在本质上是同一的，世界是'摩耶'(māyā，幻) 的显现；以《梵经注》《奥义书注》与《薄伽梵歌注》奠定不二论的神学基础。商羯罗建立了四座修道院（maṭha）与'十戒'僧团制度，对印度教僧伽传统影响深远。其生卒年代与传记细节有争议。"
+   ],
+   "interpretations": [
+    {
+     "holder": "商羯罗本人",
+     "school": "哲学文本",
+     "view": "《梵经注》是不二论的核心文本。"
+    },
+    {
+     "holder": "现代印度哲学研究",
+     "school": "思想史",
+     "view": "强调商羯罗对奥义书的系统诠释及其与佛教中观派的论争。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把不二论作为'非二元论'宗教哲学的典型。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-shankara",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>商羯罗形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>商羯罗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>梵我合一</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不二论</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>摩耶</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>世界幻现</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>四座修道院</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>僧伽制度</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>商羯罗要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "商羯罗与佛教",
+     "views": [
+      {
+       "holder": "批判说",
+       "basis": "商羯罗批判佛教的空性与无我。"
+      },
+      {
+       "holder": "影响说",
+       "basis": "不二论在结构上受中观派影响（学界有争论）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "商羯罗是不二论吠檀多的集大成者。",
+     "source": "pri-shankara"
+    },
+    {
+     "claim": "商羯罗以'梵我合一'与'摩耶'为核心教义。",
+     "source": "pri-shankara"
+    }
+   ]
+  },
+  {
+   "id": "fig-ramanuja",
+   "title": "罗摩努阇",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "限定不二论哲学家，毗湿奴派神学家。",
+   "related": [
+    "rel-hinduism",
+    "fig-shankara",
+    "fig-krishna"
+   ],
+   "sources": [
+    "pri-ramanuja",
+    "aca-before-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度哲学传统的文本成书年代与作者归属学界有讨论；2) 各教派（吠檀多/瑜伽/bhakti）立场不同，须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "罗摩努阇（Rāmānuja，1017–1137）是印度教吠檀多哲学家，'限定不二论'(Viśiṣṭādvaita) 的奠基者，与商羯罗的不二论形成对照：他主张个体灵魂与梵虽有联系但保持个体差异（如'身体与灵魂'的关系），强调神（毗湿奴/那罗延）的人格性、恩典与bhakti（虔信）修行。其《梵经注》（Śrī Bhāṣya）与《神圣颂》(Gadya) 是毗湿奴派神学经典。罗摩努阇发展了'qualifier 的知识论'并对后世 bhakti 传统影响深远。",
+   "versions": [
+    "罗摩努阇（Rāmānuja，1017–1137）是印度教吠檀多哲学家，'限定不二论'(Viśiṣṭādvaita) 的奠基者，与商羯罗的不二论形成对照：他主张个体灵魂与梵虽有联系但保持个体差异（如'身体与灵魂'的关系），强调神（毗湿奴/那罗延）的人格性、恩典与bhakti（虔信）修行。其《梵经注》（Śrī Bhāṣya）与《神圣颂》(Gadya) 是毗湿奴派神学经典。罗摩努阇发展了'qualifier 的知识论'并对后世 bhakti 传统影响深远。"
+   ],
+   "interpretations": [
+    {
+     "holder": "罗摩努阇本人",
+     "school": "哲学文本",
+     "view": "《梵经注》是限定不二论的核心文本。"
+    },
+    {
+     "holder": "现代印度哲学研究",
+     "school": "思想史",
+     "view": "强调罗摩努阇对商羯罗不二论批评与bhakti的神学整合。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "人格神与虔信的宗教结构可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ramanuja",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>罗摩努阇形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>罗摩努阇（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>限定不二论</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Viśiṣṭādvaita</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>人格神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>毗湿奴</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>bhakti</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>虔信修行</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗摩努阇要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "梵与个体",
+     "views": [
+      {
+       "holder": "不二说（商羯罗）",
+       "basis": "个体与梵本质同一。"
+      },
+      {
+       "holder": "限定不二说（罗摩努阇）",
+       "basis": "个体是梵的'身体'，保持差异。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "罗摩努阇是限定不二论的奠基者，毗湿奴派神学家。",
+     "source": "pri-ramanuja"
+    },
+    {
+     "claim": "罗摩努阇强调人格神、恩典与bhakti修行。",
+     "source": "pri-ramanuja"
+    }
+   ]
+  },
+  {
+   "id": "fig-chaitanya",
+   "title": "柴坦尼亚",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "孟加拉毗湿奴派圣人，倡导'唱名bhakti'。",
+   "related": [
+    "rel-hinduism",
+    "fig-krishna",
+    "fig-ramakrishna"
+   ],
+   "sources": [
+    "pri-chaitanya",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度哲学传统的文本成书年代与作者归属学界有讨论；2) 各教派（吠檀多/瑜伽/bhakti）立场不同，须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "柴坦尼亚·摩诃婆罗（Chaitanya Mahāprabhu，1486–1533）是孟加拉的毗湿奴派圣人、神秘主义者，被认为是克里希纳（或罗摩—克里希纳合一）的化身。他倡导'Saṅkīrtana'（集体唱诵神名）作为末法时代的主要修行方式，其追随者称'Gauḍīya Vaiṣṇava'传统；《柴坦尼亚传》(Caitanya-caritāmṛta) 与《柴坦尼亚八颂》是其生平与教义的重要文本。柴坦尼亚运动在孟加拉与奥里萨影响深远，20世纪经 ISKCON（国际克里希纳意识协会）传播至全球。",
+   "versions": [
+    "柴坦尼亚·摩诃婆罗（Chaitanya Mahāprabhu，1486–1533）是孟加拉的毗湿奴派圣人、神秘主义者，被认为是克里希纳（或罗摩—克里希纳合一）的化身。他倡导'Saṅkīrtana'（集体唱诵神名）作为末法时代的主要修行方式，其追随者称'Gauḍīya Vaiṣṇava'传统；《柴坦尼亚传》(Caitanya-caritāmṛta) 与《柴坦尼亚八颂》是其生平与教义的重要文本。柴坦尼亚运动在孟加拉与奥里萨影响深远，20世纪经 ISKCON（国际克里希纳意识协会）传播至全球。"
+   ],
+   "interpretations": [
+    {
+     "holder": "柴坦尼亚传统",
+     "school": "教派自述",
+     "view": "视柴坦尼亚为克里希纳的化身与bhakti的典范。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调柴坦尼亚运动对孟加拉宗教文化的塑造。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把唱名bhakti作为虔信修行的典型案例。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-chaitanya",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>柴坦尼亚形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>柴坦尼亚（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>唱名bhakti</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Sankirtan</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>克里希纳化身</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神学地位</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>高迪亚传统</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Gaudiya Vaishnavism</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>柴坦尼亚要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "柴坦尼亚的神格",
+     "views": [
+      {
+       "holder": "化身说",
+       "basis": "该派视其为克里希纳化身。"
+      },
+      {
+       "holder": "圣人说",
+       "basis": "现代研究多视其为宗教改革者与圣人。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "柴坦尼亚是孟加拉毗湿奴派圣人，倡导唱名bhakti。",
+     "source": "pri-chaitanya"
+    },
+    {
+     "claim": "柴坦尼亚运动经ISKCON传播至全球。",
+     "source": "pri-chaitanya"
+    }
+   ]
+  },
+  {
+   "id": "fig-ramakrishna",
+   "title": "罗摩克里希纳",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "19世纪孟加拉印度教神秘主义者，''一切宗教皆通往同一真理''的代表。",
+   "related": [
+    "rel-hinduism",
+    "fig-vivekananda",
+    "motif-myth-vs-religion"
+   ],
+   "sources": [
+    "pri-ramakrishna",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度哲学传统的文本成书年代与作者归属学界有讨论；2) 各教派（吠檀多/瑜伽/bhakti）立场不同，须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "罗摩克里希纳（Rāmakrishna，1836–1886）是19世纪孟加拉的印度教神秘主义者与灵性导师：他在加尔各答达克希内斯瓦尔 Kali 神庙任职，以对 Kali 女神的虔信与多宗教的灵性体验著称——据其门徒记录的《罗摩克里希纳福音》(Kathamrita)，他实践了印度教各派（advaita/bhakti/tantra）以及伊斯兰教与基督教的修行，并宣称'一切宗教皆通往同一真理'(yata mat tata path)。其弟子辨喜将他的教导整理并传播至西方，创立罗摩克里希纳传教会。",
+   "versions": [
+    "罗摩克里希纳（Rāmakrishna，1836–1886）是19世纪孟加拉的印度教神秘主义者与灵性导师：他在加尔各答达克希内斯瓦尔 Kali 神庙任职，以对 Kali 女神的虔信与多宗教的灵性体验著称——据其门徒记录的《罗摩克里希纳福音》(Kathamrita)，他实践了印度教各派（advaita/bhakti/tantra）以及伊斯兰教与基督教的修行，并宣称'一切宗教皆通往同一真理'(yata mat tata path)。其弟子辨喜将他的教导整理并传播至西方，创立罗摩克里希纳传教会。"
+   ],
+   "interpretations": [
+    {
+     "holder": "罗摩克里希纳本人",
+     "school": "口述记录",
+     "view": "《福音》是其言行的第一手记录（门徒 Mahendranath Gupta 撰）。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "可把其普世宗教观放在现代宗教对话脉络中分析。"
+    },
+    {
+     "holder": "现代宗教研究",
+     "school": "比较宗教",
+     "view": "强调其'诸教同源'思想在现代印度教（如新吠檀多）中的影响。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ramakrishna",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>罗摩克里希纳形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>罗摩克里希纳（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Kali虔信</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>女神崇拜</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诸教同源</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宗教多元</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>福音</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>门徒记录</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗摩克里希纳要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "'',一切宗教同一''",
+     "views": [
+      {
+       "holder": "灵性体验说",
+       "basis": "基于其个人多宗教修行体验。"
+      },
+      {
+       "holder": "现代建构说",
+       "basis": "系统化表述部分由门徒（辨喜）完成。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "罗摩克里希纳是19世纪孟加拉神秘主义者，主张一切宗教同一真理。",
+     "source": "pri-ramakrishna"
+    },
+    {
+     "claim": "《罗摩克里希纳福音》是其言行的门徒记录。",
+     "source": "pri-ramakrishna"
+    }
+   ]
+  },
+  {
+   "id": "fig-vivekananda",
+   "title": "辨喜",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "罗摩克里希纳弟子，将吠檀多与瑜伽介绍到西方的印度教改革者。",
+   "related": [
+    "rel-hinduism",
+    "fig-ramakrishna",
+    "fig-patanjali"
+   ],
+   "sources": [
+    "pri-vivekananda",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度哲学传统的文本成书年代与作者归属学界有讨论；2) 各教派（吠檀多/瑜伽/bhakti）立场不同，须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "辨喜（Swami Vivekananda，1863–1902，原名 Narendranath Datta）是罗摩克里希纳的嫡传弟子，印度教改革者与思想家：他在1893年芝加哥世界宗教议会的演讲使印度教与瑜伽广为西方所知，随后在欧美巡回讲学，创立罗摩克里希纳传教会（Ramakrishna Mission，1897），强调'服务穷人与受苦者即服务神'(daridra-narayana)。辨喜以将吠檀多哲学'现代化'、融合印度传统与西方科学—理性精神著称，是印度民族主义与印度教复兴的重要思想资源。",
+   "versions": [
+    "辨喜（Swami Vivekananda，1863–1902，原名 Narendranath Datta）是罗摩克里希纳的嫡传弟子，印度教改革者与思想家：他在1893年芝加哥世界宗教议会的演讲使印度教与瑜伽广为西方所知，随后在欧美巡回讲学，创立罗摩克里希纳传教会（Ramakrishna Mission，1897），强调'服务穷人与受苦者即服务神'(daridra-narayana)。辨喜以将吠檀多哲学'现代化'、融合印度传统与西方科学—理性精神著称，是印度民族主义与印度教复兴的重要思想资源。"
+   ],
+   "interpretations": [
+    {
+     "holder": "辨喜本人",
+     "school": "演讲与著述",
+     "view": "其芝加哥演讲与《瑜伽哲学》等是主要文本。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "思想史",
+     "view": "强调辨喜在'新吠檀多'与印度教现代化中的关键角色。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把辨喜作为'现代印度教全球传播'的典型案例。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-vivekananda",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>辨喜形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>辨喜（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>世界宗教议会</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1893芝加哥</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>新吠檀多</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>现代化</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>服务穷人</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>daridra-narayana</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>辨喜要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "辨喜的现代化",
+     "views": [
+      {
+       "holder": "忠实传承说",
+       "basis": "延续罗摩克里希纳与吠檀多传统。"
+      },
+      {
+       "holder": "现代重构说",
+       "basis": "是面向西方的现代重新诠释。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "辨喜在1893年芝加哥世界宗教议会上将印度教介绍给西方。",
+     "source": "pri-vivekananda"
+    },
+    {
+     "claim": "辨喜创立罗摩克里希纳传教会，强调服务穷人。",
+     "source": "pri-vivekananda"
+    }
+   ]
   }
  ]
 }
