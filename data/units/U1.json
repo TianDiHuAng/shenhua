@@ -6130,6 +6130,381 @@
      "source": "pri-bengali"
     }
    ]
+  },
+  {
+   "id": "myth-albanian",
+   "title": "阿尔巴尼亚神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "以山神、仙女（Zana）与龙战士（Drangue）为核心的阿尔巴尼亚口传传统。",
+   "related": [
+    "myth-greek",
+    "myth-slavic"
+   ],
+   "sources": [
+    "pri-albanian",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 阿尔巴尼亚神话无原生正典，主要保存在民俗与口传（19世纪起记录）；2) 与伊利里亚/古希腊神话的关系是学术讨论议题；3) 描述性立场。",
+   "year": null,
+   "source_text": "阿尔巴尼亚神话主要保存在民俗与口传中：核心形象包括 Zana（山岳仙女，与水源、命运相关）、Drangue（半人半龙的战士，与风暴对抗蛇形怪物 kulshedra）、Baba Tomor（托莫尔山神，阿尔巴尼亚最重要的山地神），以及太阳、月亮与火的崇拜。神话与阿尔巴尼亚的氏族社会（kanun 习惯法）及山地生活紧密相连。",
+   "versions": [
+    "19世纪民俗学家（如耶斯尼·切贝库等）搜集的口传叙事层。",
+    "史诗传统（Kângë Kreshnikësh，'英雄歌'）中的神话元素。",
+    "与巴尔干邻族神话的比较层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Robert Elsie",
+     "school": "阿尔巴尼亚民俗研究",
+     "view": "Elsie 整理阿尔巴尼亚民俗与口传文学，是英文学界重要材料来源。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "Dumézil 派可把 Drangue 与印欧雷神/战士功能作比较参照，但材料有限须谨慎。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 框架下山岳—水源—命运女神可作地景神圣化的一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "希腊神话",
+     "basis_source": "aca-gods-indo-europeans",
+     "note": "巴尔干神话与希腊神话的区域接触作一般参照，不主张同源。"
+    },
+    {
+     "tradition": "斯拉夫神话",
+     "basis_source": "pri-albanian",
+     "note": "雷神—混沌怪物对立母题作区域对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿尔巴尼亚神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿尔巴尼亚神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Zana</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>山岳仙女</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Drangue</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>龙战士</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Baba Tomor</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>山神</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿尔巴尼亚神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料经口传/民俗记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "神话的伊利里亚起源",
+     "views": [
+      {
+       "holder": "伊利里亚说",
+       "basis": "认为神话保存古伊利里亚信仰底层。"
+      },
+      {
+       "holder": "多元合成说",
+       "basis": "强调巴尔干多民族长期交流，起源难以单一归因。"
+      }
+     ]
+    },
+    {
+     "issue": "Drangue 的性质",
+     "views": [
+      {
+       "holder": "英雄说",
+       "basis": "半人英雄守护社区。"
+      },
+      {
+       "holder": "雷神说",
+       "basis": "与风暴/雷电神格相关。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿尔巴尼亚神话主要保存在19世纪起记录的民俗与口传中，无原生正典。",
+     "source": "pri-albanian"
+    },
+    {
+     "claim": "Zana（仙女）、Drangue（龙战士）与 Baba Tomor（山神）是核心形象。",
+     "source": "pri-albanian"
+    }
+   ]
+  },
+  {
+   "id": "myth-azerbaijani",
+   "title": "阿塞拜疆神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "融合突厥与伊朗层、以《代德·科尔库特》史诗为核心的高加索神话。",
+   "related": [
+    "myth-persian",
+    "myth-scythian",
+    "myth-tibetan"
+   ],
+   "sources": [
+    "pri-azerbaijani",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 阿塞拜疆神话含突厥—伊朗双重底层，分层描述；2) 《代德·科尔库特》的文本版本差异待专门文献；3) 描述性立场。",
+   "year": null,
+   "source_text": "阿塞拜疆神话是高加索地区突厥语族与伊朗文化长期交融的产物：早期层含伊朗系的信仰（如火、太阳崇拜与 Avesta 传统），突厥层则含 Tengri（天神）与Alp（英雄）崇拜；《代德·科尔库特》(Dede Korkut) 史诗保存了 Oghuz 突厥的英雄与神话叙事（如 Bamsi Beyrek）。山脉、河流与火是神圣地景的重要组成。",
+   "versions": [
+    "伊朗系古代层（火与太阳崇拜，与祆教文化圈相邻）。",
+    "突厥 Oghuz 史诗层（《代德·科尔库特》）。",
+    "伊斯兰化后的本土化重构层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "Dumézil 框架下高加索材料可用于印欧—突厥接触带的比较，但须结合材料限度。"
+    },
+    {
+     "holder": "突厥学研究",
+     "school": "突厥语族研究",
+     "view": "强调《代德·科尔库特》作为 Oghuz 口传史诗与文化记忆的载体。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 的《萨满教》框架可作突厥萨满底层（天神、入幻）的一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "波斯神话",
+     "basis_source": "pri-azerbaijani",
+     "note": "伊朗系底层与波斯神话作文化圈层面对照。"
+    },
+    {
+     "tradition": "斯基泰神话",
+     "basis_source": "aca-gods-indo-europeans",
+     "note": "草原游牧传统作区域参照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿塞拜疆神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿塞拜疆神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Tengri</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>突厥天神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Dede Korkut</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Oghuz史诗</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>火崇拜</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伊朗底层</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿塞拜疆神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料经口传/民俗记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "突厥与伊朗层的比重",
+     "views": [
+      {
+       "holder": "突厥主导说",
+       "basis": "以 Oghuz 史诗为核心。"
+      },
+      {
+       "holder": "伊朗底层说",
+       "basis": "古代火与太阳崇拜更早。"
+      }
+     ]
+    },
+    {
+     "issue": "《代德·科尔库特》的性质",
+     "views": [
+      {
+       "holder": "史诗文本说",
+       "basis": "英雄叙事的文学汇编。"
+      },
+      {
+       "holder": "口传记忆说",
+       "basis": "保存突厥部落的历史与神话记忆。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿塞拜疆神话含突厥与伊朗双重文化底层。",
+     "source": "pri-azerbaijani"
+    },
+    {
+     "claim": "《代德·科尔库特》是保存 Oghuz 突厥英雄与神话叙事的核心史诗。",
+     "source": "pri-azerbaijani"
+    }
+   ]
+  },
+  {
+   "id": "myth-batak",
+   "title": "巴塔克神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "以创世神 Mula Jadi Na Bolon 与三神体系为核心的苏门答腊岛神话。",
+   "related": [
+    "myth-hindu",
+    "myth-balinese",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-batak",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 巴塔克 Pustaha 树皮手稿的解读依赖巴塔克语文献学；2) 印度教—本土融合与伊斯兰化后的层积须区分；3) 描述性立场。",
+   "year": null,
+   "source_text": "巴塔克神话（苏门答腊北部）以创世神 Mula Jadi Na Bolon（'万物之始'）为最高存在，其下为三神：Batara Guru（印度教湿婆影响）、Soripada（水/下界）与 Mangalabulan（月/天界），三神执行创造与治理。创世叙事见于 Pustaha（树皮手稿），以'水—地—天'的分化与人类起源为核心。巴塔克宗教后经历伊斯兰化与基督教化，神话主要保存在手稿与仪式专家（datu）传统中。",
+   "versions": [
+    "Pustaha 树皮手稿的创世与咒术文本层。",
+    "印度教影响的三神体系（Batara Guru 等）层。",
+    "伊斯兰化/基督教化后的口传遗存层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "巴塔克手稿传统",
+     "school": "本土文献",
+     "view": "Pustaha 是巴塔克宗教知识与神话的核心载体，由 datu（仪式专家）传承。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "三神分化与宇宙分层可作创世母题的一般参照。"
+    },
+    {
+     "holder": "东南亚宗教研究",
+     "school": "区域研究",
+     "view": "强调印度教—本土融合的层次与伊斯兰化的影响。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "印度神话",
+     "basis_source": "pri-batak",
+     "note": "Batara Guru 与湿婆的关联是印度文化影响的体现，作传播层描述。"
+    },
+    {
+     "tradition": "巴厘神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "印尼印度教—本土融合的平行案例，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>巴塔克神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>巴塔克神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Mula Jadi</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Batara Guru等</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Pustaha</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>树皮手稿</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴塔克神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料经口传/民俗记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "三神体系的来源",
+     "views": [
+      {
+       "holder": "印度教影响说",
+       "basis": "Batara Guru 明显源于湿婆。"
+      },
+      {
+       "holder": "本土底层说",
+       "basis": "三神结构可能基于本土宇宙观。"
+      }
+     ]
+    },
+    {
+     "issue": "Pustaha 的性质",
+     "views": [
+      {
+       "holder": "宗教典籍说",
+       "basis": "是巴塔克宗教的正典文本。"
+      },
+      {
+       "holder": "实用咒术手册说",
+       "basis": "主要是 datu 的咒术与知识手册。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "巴塔克神话以 Mula Jadi Na Bolon 为最高创世神，其下有 Batara Guru 等三神。",
+     "source": "pri-batak"
+    },
+    {
+     "claim": "Pustaha（树皮手稿）是巴塔克神话与咒术知识的核心载体。",
+     "source": "pri-batak"
+    }
+   ]
+  },
+  {
+   "id": "myth-cook-islands",
+   "title": "库克群岛神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 Avaiki 地下世界与 Tangi'ia 等神谱为核心的波利尼西亚口传传统。",
+   "related": [
+    "myth-maori",
+    "myth-hawaiian",
+    "myth-tahitian"
+   ],
+   "sources": [
+    "pri-cook-islands",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 库克群岛各岛（Mangaia/Rarotonga/Aitutaki）神谱差异大，本条作通述；2) 材料多经19世纪传教士记录，须批判使用；3) 描述性立场。",
+   "year": null,
+   "source_text": "库克群岛神话属波利尼西亚神话的一支：Mangaia 岛的传统以地下世界 Avaiki（亡者所归）与创世神 Rangi 与 Papa 的分离叙事为核心；Rarotonga 岛有 Tangi'ia（风与战争神）等神谱；各岛共享波利尼西亚的'天父地母分离'与'文化英雄'母题（如 Māui 钓鱼岛、缚日等叙事的地方版本）。19世纪经传教士与民族志（如 Te Rangi Hīroa）记录。",
+   "versions": [
+    "Mangaia 岛的 Avaiki 地下世界与创世叙事。",
+    "Rarotonga 岛的 Tangi'ia 与部落神谱。",
+    "与毛利/塔希提共享的波利尼西亚神话底层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Te Rangi Hīroa（Peter Buck）",
+     "school": "毛利—波利尼西亚学者",
+     "view": "Buck 强调以南岛语族自身知识谱系理解神话，反对欧洲中心式记录。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 的《永恒回归》框架可把'地下世界—亡者回归'作宇宙论参照。"
+    },
+    {
+     "holder": "太平洋民族志",
+     "school": "区域研究",
+     "view": "强调各岛神谱的在地差异与口传动态性。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "毛利神话",
+     "basis_source": "aca-shamanism",
+     "note": "同属波利尼西亚，天父地母分离与文化英雄母题作谱系参照。"
+    },
+    {
+     "tradition": "夏威夷神话",
+     "basis_source": "pri-cook-islands",
+     "note": "波利尼西亚创世叙事的岛屿差异作平行描述。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>库克群岛神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>库克群岛神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Avaiki</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>地下世界</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Tangi'ia</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>风战神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Māui</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文化英雄</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>库克群岛神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料经口传/民俗记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "各岛神谱的统一性",
+     "views": [
+      {
+       "holder": "共同底层说",
+       "basis": "共享波利尼西亚神话框架。"
+      },
+      {
+       "holder": "在地差异说",
+       "basis": "各岛神谱独立发展，差异显著。"
+      }
+     ]
+    },
+    {
+     "issue": "传教士记录的可靠性",
+     "views": [
+      {
+       "holder": "保存说",
+       "basis": "保存了珍贵的口传材料。"
+      },
+      {
+       "holder": "筛选说",
+       "basis": "带基督教视角，须批判使用。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "库克群岛神话属波利尼西亚体系，Mangaia 岛以地下世界 Avaiki 叙事为核心。",
+     "source": "pri-cook-islands"
+    },
+    {
+     "claim": "Rarotonga 岛的 Tangi'ia 是风与战争之神。",
+     "source": "pri-cook-islands"
+    }
+   ]
   }
  ]
 }

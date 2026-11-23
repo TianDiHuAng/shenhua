@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-23T15:12:03+08:00",
+  "generated": "2026-11-23T15:17:22+08:00",
   "summary": {
-    "total": 252,
+    "total": 256,
     "by_unit": {
-      "U1": 76,
+      "U1": 80,
       "U2": 64,
       "U3": 37,
       "U4": 75
@@ -11,16 +11,16 @@
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 138
+      "补充": 142
     },
     "by_level": {
       "L1": 0,
-      "L2": 138,
+      "L2": 142,
       "L3": 114
     },
-    "l2_done": 252,
+    "l2_done": 256,
     "l3_done": 114,
-    "verified_sources": 128
+    "verified_sources": 132
   },
   "entries": [
     {
@@ -851,6 +851,50 @@
     {
       "id": "myth-bengali",
       "name": "孟加拉神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-albanian",
+      "name": "阿尔巴尼亚神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-azerbaijani",
+      "name": "阿塞拜疆神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-batak",
+      "name": "巴塔克神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-cook-islands",
+      "name": "库克群岛神话",
       "unit": "U1",
       "tier": "补充",
       "level": "L2",
@@ -2875,6 +2919,10 @@
         "myth-fijian",
         "myth-balinese",
         "myth-bengali",
+        "myth-albanian",
+        "myth-azerbaijani",
+        "myth-batak",
+        "myth-cook-islands",
         "rel-christianity",
         "rel-islam",
         "rel-judaism",
@@ -8278,6 +8326,286 @@
         "tradition": "myth-bengali",
         "motif": "motif-trickster",
         "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-albanian",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-azerbaijani",
+        "motif": "motif-trickster",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-batak",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-cook-islands",
+        "motif": "motif-trickster",
+        "period": "oral",
         "expected": false,
         "status": "empty"
       },

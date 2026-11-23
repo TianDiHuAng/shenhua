@@ -1,20 +1,17 @@
-# REPORT.md — AUTONOMOUS-54（2026-11-23）
+# REPORT.md — AUTONOMOUS-55（2026-11-23）
 
-## 本轮主题：联网宗教大纲差集法 + 批次14（252 条目）
+## 本轮主题：批次15（256 条目）
 
 ### 完成事项
-1. **批次13 推送完成**：远端 head `d2abd75db445`。
-2. **批次14 扩充 +7 条（245→252）**（源自 Wikipedia "List of religions" 1912 条链接差集）：
-   - 伊斯兰分支 4：阿赫迈底亚、伊斯玛仪派、宰德派、伊巴德派。
-   - 基督教宗派 3：五旬节派、耶和华见证人、复临安息日会。
-   - 科普特正教会与既有 coptic-orthodoxy 合并深化。
-3. **8 个新来源**经 Wikipedia API 核验（Isma'ilism→Ismailism、Zaydi→Zaydism、Ibadi→Ibadism 等重定向确认）。
-4. 修复 3 处占位引用 + pentecostal 自引用。
-5. check 0 errors；站点 263 页。
+1. 批次14 推送完成：远端 head `58985b396a20`。
+2. 批次15 扩充 +4（252→256）：阿尔巴尼亚、阿塞拜疆、巴塔克、库克群岛神话（均源自 Wikipedia 神话大纲差集）。
+3. 4 个新来源经 Wikipedia API 核验；修复 myth-thracian 占位。
+4. check 0 errors；站点 267 页。
 
 ### 现状
-- 条目 252（核心 40 全 L3 / 重要 74 全 L3 / 补充 138 L2），L3 累计 114。
-- 来源 174 条。
+- 条目 256（核心 40 / 重要 74 / 补充 142），L3 累计 114。
+- 来源 178 条。
 
-### 累积教训
-- 近似 id 误判（rel-coptic vs rel-coptic-orthodoxy、rel-mormon vs rel-mormonism）：查重须同时比对 id 与 title。
+### 累计成果（本会话 批次7-15）
+- 从 197 条扩充至 256 条（+59），来源 122→178（+56），站点 208→267 页。
+- 全程联网核验，双源+待核实规则保持，check 始终 0 errors。
