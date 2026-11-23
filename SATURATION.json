@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 180,
-    "total": 294,
+    "supplement_l2": 186,
+    "total": 300,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/294）；补充层 180 条 L2；来源 222 条（联网核验）"
+    "verdict": "核心与重要层 100% L3（114/300）；补充层 186 条 L2；来源 228 条（联网核验）"
   },
   "round_log": [
     {
@@ -773,6 +773,18 @@
       "new_gaps_found": 4,
       "gap_detail": "批次23：新增4神话（萨摩亚/汤加/达雅克/老挝；micronesian与既有合并深化）；5来源核验（Lao mythology缺失，改用Buddhism in Laos）；check 0 errors",
       "verdict": "正常扩充（批次23，4条）"
+    },
+    {
+      "round": "AUTONOMOUS-66",
+      "date": "2026-11-23",
+      "methods_run": [
+        "联网人物大纲差集",
+        "difflib严格查重",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次24：新增6北欧人物（弗雷/弗蕾亚/巴德尔/赫尔/芬里尔/提尔）；6来源核验；修复fig-hel来源误用条目id；300条里程碑，check 0 errors",
+      "verdict": "正常扩充（批次24，6条；300条里程碑）"
     }
   ]
 }

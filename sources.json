@@ -2885,6 +2885,84 @@
    "link_ok": true,
    "verified": true,
    "note": "老挝神话融合本土 phi 精灵信仰与上座部佛教《罗摩衍那》地方版（Phra Lak Phra Lam）；Lao mythology/Lao religion 条目均缺失，2026-11-23 实测改用 Buddhism in Laos。"
+  },
+  {
+   "id": "pri-freyr",
+   "title": "弗雷文献（《诗体埃达》与《散文埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Freyr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "弗雷（Freyr）是北欧丰饶、和平与性爱之神，Vanir 神族，folks 的守护神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-freya",
+   "title": "弗蕾亚文献（《埃达》与《萨迦》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Freya",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "弗蕾亚（Freya/Freyja）是北欧爱、美、丰饶与战争女神，Vanir 神族，具 seiðr 魔法；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-baldr",
+   "title": "巴德尔文献（《埃达》巴德尔之死）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Baldr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "巴德尔（Baldr）是北欧光明与纯真之神，奥丁之子，因洛基阴谋死于槲寄生，诸神黄昏前奏；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-hel",
+   "title": "赫尔文献（冥界女神）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hel_(mythological_being)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "赫尔（Hel）是北欧冥界女神，洛基与安格尔伯达之女，统治 Hel 冥界；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-fenrir",
+   "title": "芬里尔文献（巨狼与诸神黄昏）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Fenrir",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "芬里尔（Fenrir）是北欧巨狼，洛基之子，诸神黄昏中吞噬奥丁；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tyr",
+   "title": "提尔文献（战争与法律之神）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/T%C3%BDr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "提尔（Týr）是北欧战争、法律与英雄之神，以手缚芬里尔的牺牲著称；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

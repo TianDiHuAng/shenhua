@@ -7697,6 +7697,455 @@
      "source": "pri-ceres"
     }
    ]
+  },
+  {
+   "id": "fig-freyr",
+   "title": "弗雷",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧丰饶、和平与性爱之神，Vanir 神族。",
+   "related": [
+    "fig-freya",
+    "fig-thor",
+    "fig-odin"
+   ],
+   "sources": [
+    "pri-freyr",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待逐条核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "弗雷（Freyr）是北欧神话中 Vanir 神族的丰饶、和平与性爱之神，Njörðr 之子、弗蕾亚之兄，司职收成、家畜与航海，与'丰饶之球'（意象）及船 Skíðblaðnir 等宝物相关。《散文埃达》叙述他以侏儒锻造的宝物换取爱情（Gerðr）的叙事，以及他在诸神黄昏中与火巨人 Surtr 战斗而亡。瑞典的 Uppsala 崇拜是其考古—文献印证的核心。",
+   "versions": [
+    "弗雷（Freyr）是北欧神话中 Vanir 神族的丰饶、和平与性爱之神，Njörðr 之子、弗蕾亚之兄，司职收成、家畜与航海，与'丰饶之球'（意象）及船 Skíðblaðnir 等宝物相关。《散文埃达》叙述他以侏儒锻造的宝物换取爱情（Gerðr）的叙事，以及他在诸神黄昏中与火巨人 Surtr 战斗而亡。瑞典的 Uppsala 崇拜是其考古—文献印证的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "在《印欧人的神》中把弗雷归入第三功能（丰饶/生产），与弗蕾亚构成 Vanir 配对。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调弗雷材料的中世纪文本语境与诗歌/散文层次区分。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "丰饶神与王权、宇宙秩序的关联可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-freyr",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>弗雷形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>弗雷（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶之神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>收成家畜</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Vanir神族</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>和平性爱</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诸神黄昏</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>战Surtr而亡</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弗雷要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "弗雷的功能",
+     "views": [
+      {
+       "holder": "第三功能说",
+       "basis": "Dumézil 归入丰饶功能。"
+      },
+      {
+       "holder": "本土多面说",
+       "basis": "兼具王权与航海等职能，不宜单一归类。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "弗雷是北欧 Vanir 神族的丰饶与和平之神。",
+     "source": "pri-freyr"
+    },
+    {
+     "claim": "《散文埃达》记载了弗雷以宝物换取 Gerðr 爱情的叙事。",
+     "source": "pri-freyr"
+    }
+   ]
+  },
+  {
+   "id": "fig-freya",
+   "title": "弗蕾亚",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧爱、美、丰饶与战争女神，具 seiðr 魔法。",
+   "related": [
+    "fig-freyr",
+    "fig-odin",
+    "fig-thor"
+   ],
+   "sources": [
+    "pri-freya",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待逐条核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "弗蕾亚（Freyja）是北欧 Vanir 神族的爱、美、丰饶与战争女神，弗雷之妹，掌管情爱、生育与贵族亡灵（与奥丁分享阵亡者）。她与 seiðr（一种预言/魔法实践）密切相关——《散文埃达》记载她将 seiðr 传授给奥丁。其项链 Brísingamen 与猫拉战车是标志性形象。弗蕾亚与弗雷、她是同一神格的不同面相，是学界讨论议题。",
+   "versions": [
+    "弗蕾亚（Freyja）是北欧 Vanir 神族的爱、美、丰饶与战争女神，弗雷之妹，掌管情爱、生育与贵族亡灵（与奥丁分享阵亡者）。她与 seiðr（一种预言/魔法实践）密切相关——《散文埃达》记载她将 seiðr 传授给奥丁。其项链 Brísingamen 与猫拉战车是标志性形象。弗蕾亚与弗雷、她是同一神格的不同面相，是学界讨论议题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "把弗蕾亚与弗雷作 Vanir 神族的功能配对分析。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调弗蕾亚材料的多义性与中世纪记录语境。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Margaret Clunies Ross",
+     "school": "北欧文学研究",
+     "view": "从性别与权力角度分析弗蕾亚的 seiðr 与战争职能。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-freya",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>弗蕾亚形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>弗蕾亚（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>爱与战争</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>双重神格</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>seiðr魔法</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>传授奥丁</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Brísingamen</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>项链宝物</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弗蕾亚要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "弗蕾亚与弗雷",
+     "views": [
+      {
+       "holder": "同一神说",
+       "basis": "可能是同一神格的性别两面。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "是不同神祇，职能有重叠。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "弗蕾亚是北欧 Vanir 神族的爱与战争女神，具 seiðr 魔法。",
+     "source": "pri-freya"
+    },
+    {
+     "claim": "《散文埃达》记载弗蕾亚将 seiðr 传授给奥丁。",
+     "source": "pri-freya"
+    }
+   ]
+  },
+  {
+   "id": "fig-baldr",
+   "title": "巴德尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧光明与纯真之神，奥丁之子，诸神黄昏的前奏。",
+   "related": [
+    "fig-odin",
+    "fig-loki",
+    "motif-dying-rising"
+   ],
+   "sources": [
+    "pri-baldr",
+    "pri-poetic-eddas",
+    "aca-eternal-return"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待逐条核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "巴德尔（Baldr）是北欧神话的光明、美丽与纯真之神，奥丁与弗丽嘉之子，几乎无敌。洛基利用盲神霍德尔（Höðr）以槲寄生枝杀死巴德尔——诸神无法使其复生，只能将其送入冥界；这一事件被视为诸神黄昏（Ragnarök）的开端。《诗体埃达》的《巴德尔之梦》与《散文埃达》的叙述是主要来源。19世纪浪漫主义与比较神话学（如 Frazer、Eliade）对'巴德尔之死'的季候解读影响深远，但学界对此有争论。",
+   "versions": [
+    "巴德尔（Baldr）是北欧神话的光明、美丽与纯真之神，奥丁与弗丽嘉之子，几乎无敌。洛基利用盲神霍德尔（Höðr）以槲寄生枝杀死巴德尔——诸神无法使其复生，只能将其送入冥界；这一事件被视为诸神黄昏（Ragnarök）的开端。《诗体埃达》的《巴德尔之梦》与《散文埃达》的叙述是主要来源。19世纪浪漫主义与比较神话学（如 Frazer、Eliade）对'巴德尔之死'的季候解读影响深远，但学界对此有争论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "《金枝》把巴德尔读作每年死而复生的季候神（后有争论）。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调巴德尔叙事的文本证据限于少数诗歌与散文段落。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中把光明之死作宇宙周期性的参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-baldr",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>巴德尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>巴德尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>光明纯真</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>奥丁之子</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>槲寄生</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>死亡之因</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诸神黄昏</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>叙事前奏</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴德尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "巴德尔之死的解释",
+     "views": [
+      {
+       "holder": "季候神话说",
+       "basis": "Frazer 式解读：光明—黑暗的年度循环。"
+      },
+      {
+       "holder": "文本语境说",
+       "basis": "强调叙事在埃达文本中的具体语境，反对过度普化。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "巴德尔是北欧光明之神，因洛基阴谋死于槲寄生。",
+     "source": "pri-baldr"
+    },
+    {
+     "claim": "巴德尔之死被视为诸神黄昏的开端。",
+     "source": "pri-baldr"
+    }
+   ]
+  },
+  {
+   "id": "fig-hel",
+   "title": "赫尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧冥界女神，洛基之女，统治 Hel 冥界。",
+   "related": [
+    "fig-loki",
+    "fig-odin",
+    "motif-underworld"
+   ],
+   "sources": [
+    "pri-hel",
+    "pri-prose-eddas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待逐条核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "赫尔（Hel）是北欧神话的冥界女神，洛基与女巨人安格尔伯达（Angrboða）之女，与巨狼芬里尔、巨蛇耶梦加得为兄妹。她被奥丁投入冥界，统治名为 Hel 的死者之国（尤其收容非战死的死者）。赫尔的形象在《散文埃达》与《诗体埃达》中均有记载，与基督教地狱概念的关系是学术讨论议题——中世纪记录可能受基督教影响。",
+   "versions": [
+    "赫尔（Hel）是北欧神话的冥界女神，洛基与女巨人安格尔伯达（Angrboða）之女，与巨狼芬里尔、巨蛇耶梦加得为兄妹。她被奥丁投入冥界，统治名为 Hel 的死者之国（尤其收容非战死的死者）。赫尔的形象在《散文埃达》与《诗体埃达》中均有记载，与基督教地狱概念的关系是学术讨论议题——中世纪记录可能受基督教影响。"
+   ],
+   "interpretations": [
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调赫尔材料的中世纪语境与基督教影响的辨析。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "可把赫尔—冥界结构作印欧宇宙论的比较参照。"
+    },
+    {
+     "holder": "现代北欧研究",
+     "school": "宗教学",
+     "view": "关注赫尔与基督教地狱概念互动的历史层。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hel",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>赫尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>赫尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冥界女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Hel之国</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>洛基之女</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>怪物兄妹</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>非战死者</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>收容对象</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>赫尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "赫尔与基督教地狱",
+     "views": [
+      {
+       "holder": "影响说",
+       "basis": "中世纪形象受基督教地狱观影响。"
+      },
+      {
+       "holder": "本土说",
+       "basis": "保有北欧本土冥界观内核。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "赫尔是北欧冥界女神，洛基与安格尔伯达之女。",
+     "source": "pri-hel"
+    },
+    {
+     "claim": "赫尔统治收容非战死者的 Hel 冥界。",
+     "source": "pri-hel"
+    }
+   ]
+  },
+  {
+   "id": "fig-fenrir",
+   "title": "芬里尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧巨狼，洛基之子，诸神黄昏中吞噬奥丁。",
+   "related": [
+    "fig-loki",
+    "fig-tyr",
+    "motif-eschatology"
+   ],
+   "sources": [
+    "pri-fenrir",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待逐条核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "芬里尔（Fenrir/Fenrisúlfr）是北欧神话的巨狼，洛基与安格尔伯达之子（与耶梦加得、赫尔为兄妹）。因诸神畏惧其力量，提尔以手置其口中作为担保将其束缚（Gleipnir 魔绳），提尔因此失去右手。诸神黄昏（Ragnarök）中芬里尔挣脱束缚，吞噬奥丁，后被奥丁之子维达尔（Víðarr）杀死。芬里尔的束缚与挣脱是北欧末世叙事的核心环节。",
+   "versions": [
+    "芬里尔（Fenrir/Fenrisúlfr）是北欧神话的巨狼，洛基与安格尔伯达之子（与耶梦加得、赫尔为兄妹）。因诸神畏惧其力量，提尔以手置其口中作为担保将其束缚（Gleipnir 魔绳），提尔因此失去右手。诸神黄昏（Ragnarök）中芬里尔挣脱束缚，吞噬奥丁，后被奥丁之子维达尔（Víðarr）杀死。芬里尔的束缚与挣脱是北欧末世叙事的核心环节。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "把芬里尔的束缚—挣脱读作混沌力量的周期释放。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调《诗体埃达》《散文埃达》中芬里尔叙事的版本差异。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》框架下把末世巨兽作混沌象征参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-fenrir",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>芬里尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>芬里尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巨狼</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洛基之子</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>提尔束缚</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>断手代价</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>吞噬奥丁</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>诸神黄昏</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>芬里尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "芬里尔的象征",
+     "views": [
+      {
+       "holder": "混沌力量说",
+       "basis": "代表被秩序压制的混沌。"
+      },
+      {
+       "holder": "必然命运说",
+       "basis": "体现诸神无法逃脱的命运。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "芬里尔是北欧巨狼，洛基与安格尔伯达之子。",
+     "source": "pri-fenrir"
+    },
+    {
+     "claim": "诸神以 Gleipnir 束缚芬里尔，提尔失去右手作担保。",
+     "source": "pri-fenrir"
+    }
+   ]
+  },
+  {
+   "id": "fig-tyr",
+   "title": "提尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧战争、法律与英雄之神，以手缚芬里尔的牺牲著称。",
+   "related": [
+    "fig-fenrir",
+    "fig-odin",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-tyr",
+    "pri-prose-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待逐条核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "提尔（Týr）是北欧神话中战争、法律与英雄气概之神，奥丁之子（部分传统）。其最著名的叙事是为束缚巨狼芬里尔而将右手置入狼口作担保，芬里尔不让步时提尔失去右手——这一'以牺牲换秩序'的行为使他成为勇气与信义的象征。提尔在古英语（Tīw）与古高地德语（Ziu）中与 '*Tīwaz'（印欧天神 *Dyēus 的日耳曼对应）同源，Dumézil 将其归入印欧三功能的第一功能（主权与法律）。",
+   "versions": [
+    "提尔（Týr）是北欧神话中战争、法律与英雄气概之神，奥丁之子（部分传统）。其最著名的叙事是为束缚巨狼芬里尔而将右手置入狼口作担保，芬里尔不让步时提尔失去右手——这一'以牺牲换秩序'的行为使他成为勇气与信义的象征。提尔在古英语（Tīw）与古高地德语（Ziu）中与 '*Tīwaz'（印欧天神 *Dyēus 的日耳曼对应）同源，Dumézil 将其归入印欧三功能的第一功能（主权与法律）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "《印欧人的神》中把提尔（*Tīwaz）归入第一功能，与 INDRA/宙斯等作结构对照。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调提尔材料相对稀少，其地位在中世纪有变化。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Jacob Grimm",
+     "school": "日耳曼语言学",
+     "view": "《德意志神话学》比较 Týr/Tīw/Ziu 的词源联系。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tyr",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>提尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>提尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战争法律</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>英雄之神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>束缚芬里尔</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>断手牺牲</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>*Tīwaz</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>印欧天神对应</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>提尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "提尔的地位",
+     "views": [
+      {
+       "holder": "主神说",
+       "basis": "曾是日耳曼主神，后让位奥丁。"
+      },
+      {
+       "holder": "功能神说",
+       "basis": "始终是战争与法律的功能神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "提尔是北欧战争与法律之神，以手缚芬里尔失去右手。",
+     "source": "pri-tyr"
+    },
+    {
+     "claim": "Dumézil 把提尔归入印欧三功能的第一功能。",
+     "source": "pri-tyr"
+    }
+   ]
   }
  ]
 }
