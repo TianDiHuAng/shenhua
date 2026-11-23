@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-23T15:52:14+08:00",
+  "generated": "2026-11-23T15:58:02+08:00",
   "summary": {
-    "total": 275,
+    "total": 278,
     "by_unit": {
-      "U1": 79,
+      "U1": 82,
       "U2": 63,
       "U3": 42,
       "U4": 91
@@ -11,16 +11,16 @@
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 161
+      "补充": 164
     },
     "by_level": {
       "L1": 0,
-      "L2": 161,
+      "L2": 164,
       "L3": 114
     },
-    "l2_done": 275,
+    "l2_done": 278,
     "l3_done": 114,
-    "verified_sources": 156
+    "verified_sources": 159
   },
   "entries": [
     {
@@ -884,6 +884,39 @@
     {
       "id": "myth-cook-islands",
       "name": "库克群岛神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-blackfoot",
+      "name": "黑脚神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-efik",
+      "name": "埃菲克神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-ojibwe",
+      "name": "奥吉布瓦神话（阿尼什纳比）",
       "unit": "U1",
       "tier": "补充",
       "level": "L2",
@@ -3131,6 +3164,9 @@
         "myth-azerbaijani",
         "myth-batak",
         "myth-cook-islands",
+        "myth-blackfoot",
+        "myth-efik",
+        "myth-ojibwe",
         "rel-christianity",
         "rel-islam",
         "rel-judaism",
@@ -8741,6 +8777,216 @@
       },
       {
         "tradition": "myth-cook-islands",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-blackfoot",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-efik",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ojibwe",
         "motif": "motif-trickster",
         "period": "oral",
         "expected": false,

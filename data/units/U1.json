@@ -6462,6 +6462,228 @@
      "source": "pri-cook-islands"
     }
    ]
+  },
+  {
+   "id": "myth-blackfoot",
+   "title": "黑脚神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 trickster 纳皮（Napi）与太阳神为核心的大平原原住民神话。",
+   "related": [
+    "myth-lakota",
+    "myth-navajo",
+    "motif-trickster"
+   ],
+   "sources": [
+    "pri-blackfoot",
+    "aca-religions-american-indians"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经20世纪民族志记录，转写与编辑有研究者加工；2) 仪式细节属传承知识，公开记录有限；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "黑脚（Blackfoot/Siksika）神话属北美大平原传统，核心形象是纳皮（Napi，'老人'）——兼具造物者与文化英雄属性的 trickster，以恶作剧与教导双重方式塑造世界与人类习俗；太阳神纳托西（Natosi）与月亮、星辰崇拜构成天界秩序；'太阳舞'与药袋（medicine bundle）仪式是实践层核心。材料主要经20世纪初人类学家（如 Clark Wissler）记录。",
+   "versions": [
+    "黑脚（Blackfoot/Siksika）神话属北美大平原传统，核心形象是纳皮（Napi，'老人'）——兼具造物者与文化英雄属性的 trickster，以恶作剧与教导双重方式塑造世界与人类习俗；太阳神纳托西（Natosi）与月亮、星辰崇拜构成天界秩序；'太阳舞'与药袋（medicine bundle）仪式是实践层核心。材料主要经20世纪初人类学家（如 Clark Wissler）记录。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Clark Wissler",
+     "school": "民族志",
+     "view": "20世纪初记录黑脚神话与仪式，是英文学界基础材料。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Åke Hultkrantz",
+     "school": "美洲原住民宗教研究",
+     "view": "把大平原传统归为'个人求灵中心型'，神话与太阳舞等仪式绑定。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《萨满教》框架下把平原求灵与天象崇拜作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-blackfoot",
+     "note": "作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>黑脚神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>黑脚神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>纳皮</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>trickster造物</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>纳托西</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>太阳神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳舞</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>仪式核心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>黑脚神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "纳皮的双重性",
+     "views": [
+      {
+       "holder": "造物者说",
+       "basis": "纳皮有造物者属性。"
+      },
+      {
+       "holder": "纯 trickster 说",
+       "basis": "纳皮主要是恶作剧精灵。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "黑脚神话以纳皮（Napi）与太阳神纳托西为核心。",
+     "source": "pri-blackfoot"
+    },
+    {
+     "claim": "材料经20世纪初 Clark Wissler 等民族志记录。",
+     "source": "pri-blackfoot"
+    }
+   ]
+  },
+  {
+   "id": "myth-efik",
+   "title": "埃菲克神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以至高神 Abasi 与 Ndem 神灵体系为核心的西非十字河地区传统。",
+   "related": [
+    "myth-ashanti",
+    "myth-yoruba",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-efik",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经20世纪民族志记录，转写与编辑有研究者加工；2) 仪式细节属传承知识，公开记录有限；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "埃菲克（Efik，今尼日利亚东南部—喀麦隆西部十字河地区）神话以至高神 Abasi（造世者）与 Ndem（一类自然与祖先神灵）为核心：创世叙事叙述 Abasi 造人并赋予命运，Ndem 掌管河流、战争、丰饶等具体事务，通过祭仪沟通。埃菲克传统与邻近的伊博（Igbo）、伊比比奥（Ibibio）共享区域母题，并因其港口历史（如老卡拉巴）与大西洋贸易产生文化接触层。",
+   "versions": [
+    "埃菲克（Efik，今尼日利亚东南部—喀麦隆西部十字河地区）神话以至高神 Abasi（造世者）与 Ndem（一类自然与祖先神灵）为核心：创世叙事叙述 Abasi 造人并赋予命运，Ndem 掌管河流、战争、丰饶等具体事务，通过祭仪沟通。埃菲克传统与邻近的伊博（Igbo）、伊比比奥（Ibibio）共享区域母题，并因其港口历史（如老卡拉巴）与大西洋贸易产生文化接触层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "埃菲克民族志传统",
+     "school": "区域研究",
+     "view": "20世纪民族志记录了埃菲克的创世与 Ndem 崇拜材料。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《比较宗教的模式》框架下把至高神—次级神灵结构作一般参照。"
+    },
+    {
+     "holder": "非洲宗教研究",
+     "school": "比较研究",
+     "view": "强调十字河地区诸传统的共享母题与互动。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-efik",
+     "note": "作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>埃菲克神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>埃菲克神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Abasi</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>至高造世神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Ndem</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>自然祖灵</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>十字河</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>区域背景</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃菲克神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Abasi 与 Ndem 的关系",
+     "views": [
+      {
+       "holder": "层级说",
+       "basis": "Abasi 至高，Ndem 为次级神灵。"
+      },
+      {
+       "holder": "功能分化说",
+       "basis": "二者各司其职，非简单等级。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "埃菲克神话以 Abasi 与 Ndem 神灵体系为核心。",
+     "source": "pri-efik"
+    },
+    {
+     "claim": "埃菲克与伊博、伊比比奥共享十字河地区的神话母题。",
+     "source": "pri-efik"
+    }
+   ]
+  },
+  {
+   "id": "myth-ojibwe",
+   "title": "奥吉布瓦神话（阿尼什纳比）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 Nanabozho 文化英雄与大灵为核心的大湖区原住民神话。",
+   "related": [
+    "myth-lakota",
+    "myth-iroquois",
+    "motif-culturehero"
+   ],
+   "sources": [
+    "pri-anishinaabe",
+    "aca-religions-american-indians"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经20世纪民族志记录，转写与编辑有研究者加工；2) 仪式细节属传承知识，公开记录有限；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "奥吉布瓦（Ojibwe/Chippewa）属阿尼什纳比（Anishinaabe）族群，其神话以 Nanabozho（'大兔子'，兼具 trickster 与文化英雄属性）与大灵（Gichi-manidoo）为核心：Nanabozho 叙事解释世界与人类习俗的由来（如命名万物、盗取火种），'大灵'是弥漫于自然的神圣力量。米德维温（Midewiwin，'大 medicine 社'）与求灵仪式是实践层核心，传统以口传与桦树皮卷轴保存。",
+   "versions": [
+    "奥吉布瓦（Ojibwe/Chippewa）属阿尼什纳比（Anishinaabe）族群，其神话以 Nanabozho（'大兔子'，兼具 trickster 与文化英雄属性）与大灵（Gichi-manidoo）为核心：Nanabozho 叙事解释世界与人类习俗的由来（如命名万物、盗取火种），'大灵'是弥漫于自然的神圣力量。米德维温（Midewiwin，'大 medicine 社'）与求灵仪式是实践层核心，传统以口传与桦树皮卷轴保存。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Basil Johnston",
+     "school": "奥吉布瓦学者",
+     "view": "以奥吉布瓦语与自身文化视角记录 Nanabozho 叙事，强调口传语境。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Åke Hultkrantz",
+     "school": "美洲原住民宗教研究",
+     "view": "把大湖区传统归为'守护灵—求灵'结构，与平原太阳舞传统区分。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《萨满教》框架下对北美求灵仪式作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-anishinaabe",
+     "note": "作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奥吉布瓦神话（阿尼什纳比）结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奥吉布瓦神话（阿尼什纳比）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Nanabozho</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文化英雄</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大灵</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Gichi-manidoo</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>米德维温</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>仪式社团</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥吉布瓦神话（阿尼什纳比）要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Nanabozho 的性质",
+     "views": [
+      {
+       "holder": "文化英雄说",
+       "basis": "主要带来文明恩惠。"
+      },
+      {
+       "holder": "trickster 说",
+       "basis": "兼具恶作剧与造物双重性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "奥吉布瓦神话以 Nanabozho 与大灵（Gichi-manidoo）为核心。",
+     "source": "pri-anishinaabe"
+    },
+    {
+     "claim": "米德维温（Midewiwin）是其重要的仪式社团。",
+     "source": "pri-anishinaabe"
+    }
+   ]
   }
  ]
 }

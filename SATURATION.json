@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 161,
-    "total": 275,
+    "supplement_l2": 164,
+    "total": 278,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/275）；补充层 161 条 L2；来源 202 条（联网核验）"
+    "verdict": "核心与重要层 100% L3（114/278）；补充层 164 条 L2；来源 205 条（联网核验）"
   },
   "round_log": [
     {
@@ -714,6 +714,18 @@
       "new_gaps_found": 5,
       "gap_detail": "批次19：新增5人物（阿尔忒弥斯/尼刻/厄洛斯/维斯塔/刻瑞斯；janus与既有合并深化）；6来源核验；check 0 errors",
       "verdict": "正常扩充（批次19，5条）"
+    },
+    {
+      "round": "AUTONOMOUS-61",
+      "date": "2026-11-23",
+      "methods_run": [
+        "联网神话大纲差集",
+        "difflib严格查重",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 3,
+      "gap_detail": "批次20：新增3神话（黑脚/埃菲克/奥吉布瓦）；3来源核验；瓜拉尼因与图皮-瓜拉尼重叠跳过；check 0 errors",
+      "verdict": "正常扩充（批次20，3条）"
     }
   ]
 }
