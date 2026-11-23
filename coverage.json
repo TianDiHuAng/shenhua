@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T15:17:22+08:00",
+  "generated": "2026-11-23T15:23:44+08:00",
   "summary": {
-    "total": 256,
+    "total": 261,
     "by_unit": {
       "U1": 80,
       "U2": 64,
-      "U3": 37,
+      "U3": 42,
       "U4": 75
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 142
+      "补充": 147
     },
     "by_level": {
       "L1": 0,
-      "L2": 142,
+      "L2": 147,
       "L3": 114
     },
-    "l2_done": 256,
+    "l2_done": 261,
     "l3_done": 114,
-    "verified_sources": 132
+    "verified_sources": 138
   },
   "entries": [
     {
@@ -1834,7 +1834,7 @@
       "tier": "补充",
       "level": "L2",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1885,17 +1885,6 @@
     {
       "id": "motif-world-parents",
       "name": "世界父母分离",
-      "unit": "U3",
-      "tier": "补充",
-      "level": "L2",
-      "status": "done",
-      "sources_count": 3,
-      "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
-    },
-    {
-      "id": "motif-shapeshift",
-      "name": "变形与化身",
       "unit": "U3",
       "tier": "补充",
       "level": "L2",
@@ -2011,6 +2000,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-dying-rising",
+      "name": "死而复生神",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-creation-ex-nihilo",
+      "name": "从无创造",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-divine-twins",
+      "name": "神圣孪生",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-sky-earth",
+      "name": "天父地母",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-rain-thunder",
+      "name": "雷雨与雷神",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-paradise",
+      "name": "乐园与原初花园",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },

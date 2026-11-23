@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 142,
-    "total": 256,
+    "supplement_l2": 147,
+    "total": 261,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/256）；补充层 142 条 L2；来源 178 条（联网核验）"
+    "verdict": "核心与重要层 100% L3（114/261）；补充层 147 条 L2；来源 184 条（联网核验）"
   },
   "round_log": [
     {
@@ -655,6 +655,18 @@
       "new_gaps_found": 4,
       "gap_detail": "批次15：Wikipedia 神话大纲差集新增4条（阿尔巴尼亚/阿塞拜疆/巴塔克/库克群岛）；4来源核验；check 0 errors",
       "verdict": "正常扩充（批次15，4条）"
+    },
+    {
+      "round": "AUTONOMOUS-56",
+      "date": "2026-11-23",
+      "methods_run": [
+        "体检F(重复检查)",
+        "联网母题索引差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "体检F：合并 motif-shapeshift 重复到 motif-shapeshifting；批次16：新增6母题（死而复生神/从无创造/神圣孪生/天父地母/雷雨神/乐园）；6来源核验；check 0 errors",
+      "verdict": "正常扩充（批次16，6条母题；含体检F去重）"
     }
   ]
 }

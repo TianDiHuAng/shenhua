@@ -2323,7 +2323,10 @@
    "versions": [
     "奥维德《变形记》以变形为线索串联大量希腊—罗马神话，是系统的文学汇编。",
     "北欧洛基的变形（性别与兽形）兼具机巧与越界意味。",
-    "不同传统的变形逻辑（惩罚、逃脱、神性显现）差异显著。"
+    "不同传统的变形逻辑（惩罚、逃脱、神性显现）差异显著。",
+    "奥维德《变形记》以'形变'统摄约250个叙事，末章以凯撒升星收束，形变即历史的转喻。",
+    "北欧材料中洛基以鲑鱼、牝马等形态行动，变形是 trickster 功能的延伸。",
+    "中国志怪传统（如《搜神记》）的精怪变形强调'物老成精'与形态转化的道德教训。"
    ],
    "interpretations": [
     {
@@ -2340,6 +2343,21 @@
      "holder": "Joseph Campbell",
      "school": "比较神话学（单一神话模型）",
      "view": "Campbell 在《千面英雄》中把变形纳入英雄旅程的转化阶段，属分析模型，学界对其概括性有批评。"
+    },
+    {
+     "holder": "Ovid（奥维德）",
+     "school": "古典文本",
+     "view": "《变形记》把变形作为叙事组织原则本身，'万物皆流'的亚历山大传统续篇。"
+    },
+    {
+     "holder": "Claude Lévi-Strauss",
+     "school": "结构人类学",
+     "view": "《结构人类学》中关于图腾与自然—文化中介的分析可说明变形叙事如何操作分类边界，属理论参照。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《比较宗教的模式》中把神祇变形归为神圣显现（hierophany）的形态自由——神圣不受单一形态约束。"
     }
    ],
    "comparisons": [
@@ -2363,11 +2381,50 @@
    "sources": [
     "pri-ovid-met",
     "pri-prose-eddas",
-    "aca-structural-anthro"
+    "aca-structural-anthro",
+    "aca-patterns-religion"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 各传统变形逻辑不同，不直接等同；2) Campbell 模型概括性已标注；3) 比较为框架/文本参照，不主张同源。",
-   "year": null
+   "pending_notes": "1) 各传统变形逻辑不同，不直接等同；2) Campbell 模型概括性已标注；3) 比较为框架/文本参照，不主张同源。 1) related 自指需核对；2) 变形叙事的功能分类（惩罚/逃逸/求爱/启示）依奥维德与民间故事研究，分类框架未录入 sources.json；3) 描述性立场。",
+   "year": null,
+   "controversies": [
+    {
+     "issue": "变形叙事的功能分类是否普遍",
+     "views": [
+      {
+       "holder": "功能分类说",
+       "basis": "惩罚/逃逸/求爱/启示四类可覆盖多数案例。"
+      },
+      {
+       "holder": "语境决定说",
+       "basis": "同一变形在不同文本可兼多类，分类是分析工具而非叙事本意。"
+      }
+     ]
+    },
+    {
+     "issue": "动物形态的地位",
+     "views": [
+      {
+       "holder": "低阶形态说",
+       "basis": "动物化常带贬抑（惩罚、弱化）。"
+      },
+      {
+       "holder": "平等形态说",
+       "basis": "在图腾与萨满语境中动物形是力量增强而非贬抑。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "奥维德《变形记》全书15卷约250个变形叙事，是古典变形母题的最系统汇编。",
+     "source": "pri-ovid-met"
+    },
+    {
+     "claim": "宙斯变形求爱的案例（天鹅、公牛、金雨等）在古典图像与文本中均有独立证据。",
+     "source": "pri-ovid-met"
+    }
+   ]
   },
   {
    "id": "motif-dreamtime",
@@ -2770,102 +2827,6 @@
    ]
   },
   {
-   "id": "motif-shapeshift",
-   "title": "变形与化身",
-   "level": "L2",
-   "tier": "补充",
-   "period": "ancient",
-   "summary": "神祇与英雄变换形态（动物、异形、性别转换）的跨传统母题。",
-   "related": [
-    "motif-trickster",
-    "motif-shapeshift",
-    "fig-zeus",
-    "motif-herojourney"
-   ],
-   "sources": [
-    "pri-ovid-met",
-    "aca-structural-anthro",
-    "aca-patterns-religion"
-   ],
-   "needs_verification": true,
-   "pending_notes": "1) related 自指需核对；2) 变形叙事的功能分类（惩罚/逃逸/求爱/启示）依奥维德与民间故事研究，分类框架未录入 sources.json；3) 描述性立场。",
-   "year": null,
-   "source_text": "变形母题指叙事主体在形态间的转换：神以动物形接近凡人（宙斯化天鹅/公牛）、因惩罚而变形（阿拉克涅化蜘蛛）、为逃亡而变形（达芙妮化月桂）、或为启示而变形（萨满的动物化身）。奥维德《变形记》是古典集大成文本；跨传统上，北欧洛基、中国精变叙事、北美 trickster 动物变形属同一母题场域。",
-   "versions": [
-    "奥维德《变形记》以'形变'统摄约250个叙事，末章以凯撒升星收束，形变即历史的转喻。",
-    "北欧材料中洛基以鲑鱼、牝马等形态行动，变形是 trickster 功能的延伸。",
-    "中国志怪传统（如《搜神记》）的精怪变形强调'物老成精'与形态转化的道德教训。"
-   ],
-   "interpretations": [
-    {
-     "holder": "Ovid（奥维德）",
-     "school": "古典文本",
-     "view": "《变形记》把变形作为叙事组织原则本身，'万物皆流'的亚历山大传统续篇。"
-    },
-    {
-     "holder": "Claude Lévi-Strauss",
-     "school": "结构人类学",
-     "view": "《结构人类学》中关于图腾与自然—文化中介的分析可说明变形叙事如何操作分类边界，属理论参照。"
-    },
-    {
-     "holder": "Mircea Eliade",
-     "school": "宗教现象学",
-     "view": "Eliade 在《比较宗教的模式》中把神祇变形归为神圣显现（hierophany）的形态自由——神圣不受单一形态约束。"
-    }
-   ],
-   "comparisons": [
-    {
-     "tradition": "北欧神话",
-     "basis_source": "aca-structural-anthro",
-     "note": "洛基的变形与分类混乱功能作结构主义参照：变形即跨越文化类别。"
-    },
-    {
-     "tradition": "中国神话",
-     "basis_source": "aca-patterns-religion",
-     "note": "精变叙事与希腊惩罚型变形作母题层面一般对照，功能侧重不同（教训 vs 审美）。"
-    }
-   ],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>变形与化身母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>变形与化身（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>求爱变形</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神化兽形</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>惩罚变形</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>罪与形变</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>启示变形</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>萨满化身</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
-   "controversies": [
-    {
-     "issue": "变形叙事的功能分类是否普遍",
-     "views": [
-      {
-       "holder": "功能分类说",
-       "basis": "惩罚/逃逸/求爱/启示四类可覆盖多数案例。"
-      },
-      {
-       "holder": "语境决定说",
-       "basis": "同一变形在不同文本可兼多类，分类是分析工具而非叙事本意。"
-      }
-     ]
-    },
-    {
-     "issue": "动物形态的地位",
-     "views": [
-      {
-       "holder": "低阶形态说",
-       "basis": "动物化常带贬抑（惩罚、弱化）。"
-      },
-      {
-       "holder": "平等形态说",
-       "basis": "在图腾与萨满语境中动物形是力量增强而非贬抑。"
-      }
-     ]
-    }
-   ],
-   "data_points": [
-    {
-     "claim": "奥维德《变形记》全书15卷约250个变形叙事，是古典变形母题的最系统汇编。",
-     "source": "pri-ovid-met"
-    },
-    {
-     "claim": "宙斯变形求爱的案例（天鹅、公牛、金雨等）在古典图像与文本中均有独立证据。",
-     "source": "pri-ovid-met"
-    }
-   ]
-  },
-  {
    "id": "motif-divine-weapon",
    "title": "神赐武器",
    "level": "L2",
@@ -3064,7 +3025,7 @@
    "period": "ancient",
    "summary": "通过知晓或操纵真名获得支配力的跨传统母题。",
    "related": [
-    "motif-shapeshift",
+    "motif-shapeshifting",
     "motif-divine-weapon",
     "myth-egyptian"
    ],
@@ -3147,6 +3108,581 @@
     {
      "claim": "《所罗门之钥》是文艺复兴时期以天使/恶魔名讳行仪式的魔法文本汇编。",
      "source": "pri-onomancy"
+    }
+   ]
+  },
+  {
+   "id": "motif-dying-rising",
+   "title": "死而复生神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "神祇经历死亡与复归的叙事母题，与季候循环、丰饶与救赎相关。",
+   "related": [
+    "motif-sacrifice",
+    "motif-eschatology",
+    "fig-osiris",
+    "motif-eternal-return"
+   ],
+   "sources": [
+    "pri-dying-rising",
+    "aca-golden-bough",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) Frazer《金枝》把该母题与季候巫术关联的经典解释影响深远但受到后续学界修正；2) 各案例（奥西里斯/塔穆兹/阿多尼斯/基督）的相似性是类型学比较还是历史传播有争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "死而复生神母题指神祇经历死亡、下界与复归的叙事，典型包括埃及奥西里斯（被塞特杀害、伊西斯复活）、美索不达米亚塔穆兹/杜穆兹、叙利亚—希腊阿多尼斯、以及基督教中基督的受难与复活。Frazer 在《金枝》中把这类叙事与季候枯荣巫术联系起来，称其为' annually dying and rising gods'；该范式影响深远，但后续研究（如 Jonathan Z. Smith）批评其过度系统化。",
+   "versions": [
+    "Frazer《金枝》的经典'季候神'范式（19世纪末—20世纪初）。",
+    "奥西里斯/塔穆兹等近东个案的本土文本层。",
+    "Jonathan Z. Smith 等对'死而复生神'范畴的批判与重估。"
+   ],
+   "interpretations": [
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "在《金枝》中把死而复生神解释为季候循环与巫术仪式的投射。"
+    },
+    {
+     "holder": "Jonathan Z. Smith",
+     "school": "宗教史",
+     "view": "在《Myths and Rites of the Dead》等文中批评 Frazer 把异质材料强行归入统一范畴，主张更谨慎的类型学。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《永恒回归的神话》中把神的死而复归读作宇宙周期性再创的仪式重演。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "埃及神话",
+     "basis_source": "pri-dying-rising",
+     "note": "奥西里斯神话是该母题最经典的案例之一。"
+    },
+    {
+     "tradition": "美索不达米亚神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "塔穆兹/伊什塔尔下界叙事作同母题对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>死而复生神母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>死而复生神（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>死亡下界</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>消失叙事</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>复归重生</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>季节循环</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>救赎丰饶</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神职功能</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "'死而复生神'范畴的有效性",
+     "views": [
+      {
+       "holder": "类型学派",
+       "basis": "跨文化的死亡—复归结构可作比较。"
+      },
+      {
+       "holder": "批判学派",
+       "basis": "各案例差异大，Frazer 的范畴过于整齐。"
+      }
+     ]
+    },
+    {
+     "issue": "与季候仪式的关联",
+     "views": [
+      {
+       "holder": "仪式起源说",
+       "basis": "叙事源于季候巫术仪式。"
+      },
+      {
+       "holder": "文本自主说",
+       "basis": "叙事有独立的神学功能。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "Frazer《金枝》提出'每年死而复生的神'这一经典比较范式。",
+     "source": "pri-dying-rising"
+    },
+    {
+     "claim": "奥西里斯、塔穆兹与阿多尼斯常被引为该母题的主要案例。",
+     "source": "pri-dying-rising"
+    }
+   ]
+  },
+  {
+   "id": "motif-creation-ex-nihilo",
+   "title": "从无创造",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "神从绝对虚无中创造世界的教义母题，与'从混沌/既有物质创造'相对。",
+   "related": [
+    "motif-creation",
+    "motif-cosmicegg",
+    "motif-world-parents",
+    "motif-first-man"
+   ],
+   "sources": [
+    "pri-creatio-ex-nihilo",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 从无创造（creatio ex nihilo）在犹太—基督教神学中有明确发展史，与其他传统的'从混沌创造'须区分；2) 《创世记》1章的解读（是否 ex nihilo）学界有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "从无创造（creatio ex nihilo）指神不依赖任何先在物质、从绝对虚无中创造世界的教义：它是犹太—基督教神学的重要发展（如《马加比书》二书7:28、《罗马书》4:17），并在2—4世纪的教父神学中系统化（反驳诺斯替的'物质永恒'说）。与之相对的是'从混沌创造'（如《创世记》1:2 的'空虚混沌'、巴比伦《恩uma Elish》的提亚马特、希腊的卡俄斯）——前者强调神的全能与超越，后者强调宇宙材质与神力的互动。",
+   "versions": [
+    "《创世记》1章的'起初神创造天地'文本（解读有争论）。",
+    "第二圣殿期与教父时期 ex nihilo 教义的明确化。",
+    "与'从混沌创造'（ex materia/chaos）传统的对比。"
+   ],
+   "interpretations": [
+    {
+     "holder": "教父神学传统",
+     "school": "基督教神学",
+     "view": "从无创造确立神的全能与超越，区别于诺斯替的物质永恒论。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《永恒回归的神话》中把'从无创造'与'宇宙由混沌转化'作为两种创世范型对照。"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "圣经研究",
+     "view": "对《创世记》1章是否明确教导 ex nihilo 有学术讨论，须区分文本与后世教义。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "美索不达米亚神话",
+     "basis_source": "pri-creatio-ex-nihilo",
+     "note": "《恩uma Elish》从混沌（提亚马特）创造，与 ex nihilo 形成对照。"
+    },
+    {
+     "tradition": "希腊神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "赫西俄德《神谱》从卡俄斯（混沌）生成，作创世范型对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>从无创造母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>从无创造（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>绝对虚无</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>无先在物质</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神的全能</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>超越创造</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>vs混沌</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>对比范型</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "《创世记》1章的解读",
+     "views": [
+      {
+       "holder": "支持 ex nihilo 说",
+       "basis": "'起初神创造天地'被理解为绝对开端。"
+      },
+      {
+       "holder": "混沌背景说",
+       "basis": "'空虚混沌'暗示先.material的存在。"
+      }
+     ]
+    },
+    {
+     "issue": "创造与'无'的哲学理解",
+     "views": [
+      {
+       "holder": "绝对虚无说",
+       "basis": "无=绝对的非存在。"
+      },
+      {
+       "holder": "相对无说",
+       "basis": "无=未具形式的潜能状态。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "creatio ex nihilo 教义在2—4世纪教父神学中系统化，用于反驳诺斯替的物质永恒说。",
+     "source": "pri-creatio-ex-nihilo"
+    },
+    {
+     "claim": "从无创造与'从混沌创造'是两种可区分的创世范型。",
+     "source": "pri-creatio-ex-nihilo"
+    }
+   ]
+  },
+  {
+   "id": "motif-divine-twins",
+   "title": "神圣孪生",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "一对孪生神祇或英雄共同出现、一死亡一不朽的跨传统母题。",
+   "related": [
+    "motif-twin",
+    "motif-herojourney",
+    "myth-greek",
+    "myth-roman"
+   ],
+   "sources": [
+    "pri-divine-twins",
+    "aca-gods-indo-europeans",
+    "aca-comparative-myth"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 神圣孪生母题与一般'孪生'母题（motif-twin）有重叠但侧重神格结构，本条与之交叉引用；2) 印欧比较（Dumézil）框架有争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "神圣孪生（Divine Twins）母题指一对孪生神祇/英雄共同出现，常呈现'一必死一不朽'或'一动一静'的对照结构：希腊的卡斯托尔与波吕丢刻斯（一 mortal 一 immortal，同归于宙斯）、罗马的罗慕路斯与雷穆斯（后者被杀）、北欧的弗雷与弗蕾亚、印度的 Ashvins（双马神）、易洛魁的双子（Sapling 与 Flint）。Dumézil 把它纳入印欧三功能比较框架。",
+   "versions": [
+    "希腊卡斯托尔/波吕丢刻斯的狄俄斯库里兄弟叙事。",
+    "印度吠陀 Ashvins（双马神）与双生子母题。",
+    "罗马罗慕路斯/雷穆斯与易洛魁双子的变体。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "在《印欧人的神》中把神圣孪生纳入三功能框架，视其为功能分化的结构表达。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《比较宗教的模式》中把孪生 pair 读作'统一与二元'的宇宙论结构。"
+    },
+    {
+     "holder": "比较神话学批评者",
+     "school": "学派反思",
+     "view": "对印欧孪生范式的普适性持保留态度，强调各传统差异。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "北欧神话",
+     "basis_source": "aca-gods-indo-europeans",
+     "note": "弗雷/弗蕾亚的丰饶孪生作印欧框架参照。"
+    },
+    {
+     "tradition": "易洛魁神话",
+     "basis_source": "aca-comparative-myth",
+     "note": "Sapling/Flint 双子的善恶结构作跨传统对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>神圣孪生母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>神圣孪生（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>一死一不朽</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>卡斯托尔兄弟</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>一善一恶</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>易洛魁双子</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>功能分化</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Dumézil框架</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "神圣孪生的印欧起源",
+     "views": [
+      {
+       "holder": "印欧遗产说",
+       "basis": "Dumézil 等主张印欧共同结构。"
+      },
+      {
+       "holder": "独立发生说",
+       "basis": "孪生是对生殖现象的普遍神话化。"
+      }
+     ]
+    },
+    {
+     "issue": "与一般孪生母题的边界",
+     "views": [
+      {
+       "holder": "神格结构说",
+       "basis": "强调神祇配对的宇宙论功能。"
+      },
+      {
+       "holder": "连续谱说",
+       "basis": "与一般孪生叙事难以截然分开。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "卡斯托尔与波吕丢刻斯（狄俄斯库里）是一必死一不朽的神圣孪生典型。",
+     "source": "pri-divine-twins"
+    },
+    {
+     "claim": "Dumézil 把神圣孪生纳入印欧三功能比较框架。",
+     "source": "pri-divine-twins"
+    }
+   ]
+  },
+  {
+   "id": "motif-sky-earth",
+   "title": "天父地母",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "天为父、地为母的神格配对母题，与创世和宇宙秩序相关。",
+   "related": [
+    "motif-skyfather",
+    "motif-world-parents",
+    "motif-mother-goddess",
+    "myth-maori"
+   ],
+   "sources": [
+    "pri-sky-earth",
+    "aca-patterns-religion",
+    "aca-eternal-return"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) '天父地母'是跨文化的常见神格结构，与各具体传统的命名须区分；2) 与 motif-skyfather（天父）、motif-world-parents（世界父母分离）有交叉但侧重配对结构；3) 描述性立场。",
+   "year": null,
+   "source_text": "天父地母母题把天与地构想为一对配偶神，二者结合化生万物：如毛利兰吉（Rangi）与帕帕（Papatūānuku）、希腊乌拉诺斯与盖亚、埃及努特与盖布、中国'乾天坤地'的阴阳化生。天神常 represented 为超越、统治与降雨者，地母则为丰饶、承载与生长之源；二者的关系（结合、分离或交合）构成宇宙论的叙事核心。",
+   "versions": [
+    "天父—地母交合化生万物的创世叙事。",
+    "天地分离（子女推开父母）的续生叙事。",
+    "天（阳/主动）—地（阴/承载）的哲学抽象化。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《比较宗教的模式》中把天地配偶作为'宇宙父母'范型，体现宇宙秩序的性别化表达。"
+    },
+    {
+     "holder": "Georges Dumézil 等",
+     "school": "印欧比较",
+     "view": "部分学者把天父地母纳入印欧神谱结构（如 Dyaus Pitar/Prithivi），但跨文化普适性有争论。"
+    },
+    {
+     "holder": "现代性别研究",
+     "school": "宗教批判",
+     "view": "对'天父地母'的性别化宇宙论作批判性重读。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "毛利神话",
+     "basis_source": "aca-eternal-return",
+     "note": "兰吉—帕帕是该母题的经典案例。"
+    },
+    {
+     "tradition": "中国神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "乾坤阴阳化生作哲学化的变体参照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>天父地母母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>天父地母（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天父</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>超越·降雨</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地母</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>丰饶·承载</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>配偶化生</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙秩序</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "天父地母的普适性",
+     "views": [
+      {
+       "holder": "普遍结构说",
+       "basis": "农业社会常以天地配偶解释丰饶。"
+      },
+      {
+       "holder": "文化特定说",
+       "basis": "并非所有传统都有清晰的天地配偶神。"
+      }
+     ]
+    },
+    {
+     "issue": "性别化宇宙论的评价",
+     "views": [
+      {
+       "holder": "象征体系说",
+       "basis": "是宇宙秩序的象征表达。"
+      },
+      {
+       "holder": "社会投射说",
+       "basis": "反映人类社会的性别角色。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "毛利兰吉与帕帕、希腊乌拉诺斯与盖亚是天父地母母题的典型案例。",
+     "source": "pri-sky-earth"
+    },
+    {
+     "claim": "天父地母的分离叙事常见于创世神话的续生阶段。",
+     "source": "pri-sky-earth"
+    }
+   ]
+  },
+  {
+   "id": "motif-rain-thunder",
+   "title": "雷雨与雷神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "以雷电、降雨与风暴为核心的神格母题，常与秩序—混沌斗争相连。",
+   "related": [
+    "motif-cosmic-combat",
+    "fig-thor",
+    "myth-slavic",
+    "motif-divine-weapon"
+   ],
+   "sources": [
+    "pri-rain-thunder",
+    "aca-gods-indo-europeans",
+    "aca-comparative-myth"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 雷神是印欧比较神话的核心议题（Dumézil 三功能框架），具体归属有争论；2) 与已有 fig-thor/fig-perun 等人物条目交叉引用，本条侧重母题结构；3) 描述性立场。",
+   "year": null,
+   "source_text": "雷雨神母题以雷电、降雨、风暴为核心神格：北欧托尔（妙尔尼尔雷锤）、斯拉夫佩伦、印度因陀罗（金刚杵）、希腊宙斯（雷霆）、波罗的海 Perkūnas、约鲁巴香戈等。雷神常兼具'丰饶（降雨）'与'战争（雷霆）'双重职能，并与混沌怪物（巨蛇、龙）战斗，构成'秩序制服混沌'的宇宙斗争母题。Dumézil 把雷神归入印欧三功能中的战争功能。",
+   "versions": [
+    "印欧雷神（托尔/佩伦/因陀罗/宙斯）的功能比较层。",
+    "雷神—巨蛇/龙（混沌怪物）战斗的宇宙斗争叙事。",
+    "雷神作为降雨与丰饶之神祭祀的地方实践层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "把雷神归为三功能中的第二功能（战争），与因陀罗、托尔作结构对照。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《永恒回归的神话》中把雷神制服巨蛇读作宇宙秩序战胜混沌的仪式性重演。"
+    },
+    {
+     "holder": "比较神话学批评者",
+     "school": "学派反思",
+     "view": "对三功能框架的普适性与雷神归属有保留意见。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "北欧神话",
+     "basis_source": "aca-gods-indo-europeans",
+     "note": "托尔的雷锤与巨蛇之战是该母题的经典案例。"
+    },
+    {
+     "tradition": "印度神话",
+     "basis_source": "aca-comparative-myth",
+     "note": "因陀罗与弗栗多（巨蛇）的战斗作印欧框架对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>雷雨神母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>雷雨神（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷电武器</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>锤/杵/雷霆</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>降雨丰饶</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>农业职能</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>制伏混沌</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>巨蛇之战</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "雷神的功能归属",
+     "views": [
+      {
+       "holder": "战争功能说",
+       "basis": "Dumézil 归入第二功能。"
+      },
+      {
+       "holder": "王权/天神说",
+       "basis": "宙斯等兼具最高统治职能。"
+      }
+     ]
+    },
+    {
+     "issue": "雷神与混沌怪物的关系",
+     "views": [
+      {
+       "holder": "宇宙斗争说",
+       "basis": "雷神战斗是秩序确立的宇宙论。"
+      },
+      {
+       "holder": "气象寓言说",
+       "basis": "雷电与风暴的自然现象拟人化。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "托尔、佩伦、因陀罗与宙斯常被作为印欧雷神比较的案例。",
+     "source": "aca-gods-indo-europeans"
+    },
+    {
+     "claim": "雷神常兼具降雨丰饶与雷霆战争的双重职能。",
+     "source": "pri-rain-thunder"
+    }
+   ]
+  },
+  {
+   "id": "motif-paradise",
+   "title": "乐园与原初花园",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "理想化的原初乐园/花园母题，与失乐园、不朽与神圣空间相关。",
+   "related": [
+    "motif-golden-age",
+    "motif-eschatology",
+    "motif-tree-of-life",
+    "motif-first-man"
+   ],
+   "sources": [
+    "pri-paradise",
+    "aca-patterns-religion",
+    "aca-eternal-return"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) '乐园'概念在犹太—基督教（伊甸园）、伊斯兰（天园）与其他传统中形态各异，本条作母题通述；2) 历史—地理原型（如两河流域）的考据有争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "乐园/原初花园母题描述一个理想化的原初状态：丰饶、不朽、人与神和谐共处，典型如《创世记》伊甸园（含生命树与智慧树）、伊斯兰天园（Firdaws）、波斯'对宫'（pairidaeza，'乐园'词源）、以及希腊的极乐净土（Elysium）。叙事常以'失去乐园'（因违禁而堕落）与'复归乐园'（末世救赎）展开，与黄金时代、生命树、末世论等母题紧密相连。",
+   "versions": [
+    "伊甸园叙事（创世记2–3章）的原初完美与失乐园。",
+    "伊斯兰天园与波斯'乐园'（pairidaeza）的概念层。",
+    "希腊极乐净土与黄金时代的古典层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《永恒回归的神话》中把乐园作为'原初完满时间'的象征，节庆是对它的回归。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教史",
+     "view": "乐园与'中心'（圣山、圣城）空间象征密切关联。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "圣经研究",
+     "view": "对伊甸园的历史地理原型与文学象征性质有讨论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "黄金时代",
+     "basis_source": "aca-eternal-return",
+     "note": "乐园与黄金时代同为原初完满的表述，作母题层面对照。"
+    },
+    {
+     "tradition": "伊斯兰教",
+     "basis_source": "pri-paradise",
+     "note": "天园（Jannah/Firdaws）与伊甸园作亚伯拉罕系对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>乐园母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>乐园（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>原初完满</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不朽和谐</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>失乐园</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>违禁堕落</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>复归</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>末世救赎</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "乐园的历史原型",
+     "views": [
+      {
+       "holder": "两河流域说",
+       "basis": "伊甸可能与美索不达米亚河谷有关。"
+      },
+      {
+       "holder": "纯文学象征说",
+       "basis": "乐园是神学象征而非地理写实。"
+      }
+     ]
+    },
+    {
+     "issue": "失乐园的解释",
+     "views": [
+      {
+       "holder": "道德坠落说",
+       "basis": "违禁导致罪与死的入世。"
+      },
+      {
+       "holder": "意识觉醒说",
+       "basis": "叙事象征人类自我意识的觉醒。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "'乐园'（paradise）一词源自波斯语 pairidaeza，意为'围墙围起的花园'。",
+     "source": "pri-paradise"
+    },
+    {
+     "claim": "伊甸园叙事含生命树与智慧树，是原初乐园母题的经典文本。",
+     "source": "pri-paradise"
     }
    ]
   }

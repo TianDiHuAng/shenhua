@@ -2313,6 +2313,84 @@
    "link_ok": true,
    "verified": true,
    "note": "库克群岛神话含 Mangaia 的 Avaiki 地下世界与 Rarotonga 的 Tangi'ia 等神谱；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-dying-rising",
+   "title": "死而复生神研究文献（Frazer《金枝》等）",
+   "author": "James Frazer 等",
+   "year": null,
+   "year_display": "19世纪末起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Dying-and-rising_god",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "死而复生神（如奥西里斯、塔穆兹、阿多尼斯、基督）的比较研究母题；2026-11-23 经 Wikipedia API 实测（Dying-and-rising deity→Dying-and-rising god）。"
+  },
+  {
+   "id": "pri-creatio-ex-nihilo",
+   "title": "从无创造（Creatio ex nihilo）教义文献",
+   "author": "佚名（神学家）",
+   "year": null,
+   "year_display": "古代—中世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Creatio_ex_nihilo",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "从无创造教义在犹太—基督教神学中的发展；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-divine-twins",
+   "title": "神圣孪生（Divine Twins）研究文献",
+   "author": "佚名（比较神话学者）",
+   "year": null,
+   "year_display": "比较神话学",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Divine_twins",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "印欧神圣孪生（如 Castor/Pollux、Romulus/Remus）比较母题；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-sky-earth",
+   "title": "天神与地母（Sky deity / Mother Earth）研究文献",
+   "author": "佚名（宗教现象学者）",
+   "year": null,
+   "year_display": "比较宗教学",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sky_deity",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "天父—地母神格的比较研究；2026-11-23 经 Wikipedia API 实测 Sky deity（Mother Earth 重定向）。"
+  },
+  {
+   "id": "pri-rain-thunder",
+   "title": "雷雨神（雷神）研究文献",
+   "author": "佚名（比较神话学者）",
+   "year": null,
+   "year_display": "比较神话学",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Thunder_deity",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雷神（如托尔、佩伦、因陀罗、宙斯）比较母题；借鉴既有 aca-gods-indo-europeans；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-paradise",
+   "title": "乐园/原初花园（Paradise）研究文献",
+   "author": "佚名（圣经与宗教研究）",
+   "year": null,
+   "year_display": "古代—中世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Paradise",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊甸园—乐园母题的比较研究；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }
