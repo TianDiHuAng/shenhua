@@ -3730,6 +3730,84 @@
    "link_ok": true,
    "verified": true,
    "note": "辨喜（Swami Vivekananda，1863–1902）是罗摩克里希纳的弟子，将吠檀多与瑜伽介绍到西方；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-mencius",
+   "title": "《孟子》",
+   "author": "孟子及弟子",
+   "year": null,
+   "year_display": "前4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mencius",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《孟子》记录孟子的言行与思想，儒家'性善论'与'仁政'的经典；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-xunzi",
+   "title": "《荀子》",
+   "author": "荀子",
+   "year": null,
+   "year_display": "前3世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Xunzi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《荀子》是荀子著作集，主张'性恶论'与'隆礼重法'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-mozi",
+   "title": "《墨子》",
+   "author": "墨子及后学",
+   "year": null,
+   "year_display": "前5—前3世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mozi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《墨子》是墨家经典，主张'兼爱''非攻''尚贤'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-hanfeizi",
+   "title": "《韩非子》",
+   "author": "韩非",
+   "year": null,
+   "year_display": "前3世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Han_Fei",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《韩非子》是法家集大成之作，主张'法术势'结合；2026-11-23 经 Wikipedia API 实测（Han Fei→Han Fei）。"
+  },
+  {
+   "id": "pri-zhuxi",
+   "title": "朱熹著作（《四书章句集注》与《朱子语类》）",
+   "author": "朱熹",
+   "year": null,
+   "year_display": "12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Zhu_Xi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "朱熹（1130–1200）是宋代理学集大成者，《四书章句集注》成为科举标准；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-wang-yangming",
+   "title": "王阳明著作（《传习录》）",
+   "author": "王守仁",
+   "year": null,
+   "year_display": "16世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Wang_Yangming",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "王阳明（1472–1529）是明代心学代表，主张'致良知''知行合一'，《传习录》是其语录；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

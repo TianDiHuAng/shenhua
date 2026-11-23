@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T17:21:21+08:00",
+  "generated": "2026-11-23T17:26:08+08:00",
   "summary": {
-    "total": 358,
+    "total": 364,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 155
+      "U4": 161
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 244
+      "补充": 250
     },
     "by_level": {
       "L1": 0,
-      "L2": 244,
+      "L2": 250,
       "L3": 114
     },
-    "l2_done": 358,
+    "l2_done": 364,
     "l3_done": 114,
-    "verified_sources": 241
+    "verified_sources": 247
   },
   "entries": [
     {
@@ -3953,6 +3953,72 @@
     {
       "id": "fig-vivekananda",
       "name": "辨喜",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-mencius",
+      "name": "孟子",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-xunzi",
+      "name": "荀子",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-mozi",
+      "name": "墨子",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-han-feizi",
+      "name": "韩非子",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-zhu-xi",
+      "name": "朱熹",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-wang-yangming",
+      "name": "王阳明",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

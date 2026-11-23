@@ -12521,6 +12521,450 @@
      "source": "pri-vivekananda"
     }
    ]
+  },
+  {
+   "id": "fig-mencius",
+   "title": "孟子",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "儒家思想家，'性善论'与'仁政'的倡导者。",
+   "related": [
+    "fig-confucius",
+    "fig-xunzi",
+    "rel-confucianism"
+   ],
+   "sources": [
+    "pri-mencius",
+    "pri-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国哲学文本成书年代与作者归属学界有讨论；2) 各学派立场不同，须区分描述；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "孟子（约前372—前289）是战国时期儒家思想家，被后世尊为'亚圣'。《孟子》一书记录其言行，系统阐述了'性善论'（人皆有不忍人之心）、'仁政'（民贵君轻）、'养气'（浩然之气）等思想，发展了孔子的仁学并赋予其政治哲学内涵。孟子在宋代以后被列入'四书'，是中国传统教育与科举的核心文本之一，对东亚儒家思想圈影响深远。",
+   "versions": [
+    "孟子（约前372—前289）是战国时期儒家思想家，被后世尊为'亚圣'。《孟子》一书记录其言行，系统阐述了'性善论'（人皆有不忍人之心）、'仁政'（民贵君轻）、'养气'（浩然之气）等思想，发展了孔子的仁学并赋予其政治哲学内涵。孟子在宋代以后被列入'四书'，是中国传统教育与科举的核心文本之一，对东亚儒家思想圈影响深远。"
+   ],
+   "interpretations": [
+    {
+     "holder": "孟子本人",
+     "school": "文本传统",
+     "view": "《孟子》是其言行与思想的第一手记录。"
+    },
+    {
+     "holder": "朱熹",
+     "school": "宋代理学",
+     "view": "《孟子》被朱熹列入'四书'，成为科举标准。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "《中国的宗教》中分析儒家的理性主义伦理。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-mencius",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>孟子形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>孟子（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>性善论</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不忍人之心</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>仁政</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>民贵君轻</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>浩然之气</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>养气工夫</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孟子要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "孟子的人性论",
+     "views": [
+      {
+       "holder": "性善说",
+       "basis": "孟子主张人性本善。"
+      },
+      {
+       "holder": "与荀子对照",
+       "basis": "荀子主张性恶，二者形成儒家内部张力。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "孟子是儒家'亚圣'，主张性善论与仁政。",
+     "source": "pri-mencius"
+    },
+    {
+     "claim": "《孟子》在宋代被列入'四书'。",
+     "source": "pri-mencius"
+    }
+   ]
+  },
+  {
+   "id": "fig-xunzi",
+   "title": "荀子",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "儒家思想家，'性恶论'与'隆礼重法'的倡导者。",
+   "related": [
+    "fig-confucius",
+    "fig-mencius",
+    "fig-han-feizi"
+   ],
+   "sources": [
+    "pri-xunzi",
+    "pri-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国哲学文本成书年代与作者归属学界有讨论；2) 各学派立场不同，须区分描述；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "荀子（约前313—前238）是战国末期儒家思想家，与孟子并称但立场相异：他主张'性恶论'（人之性恶，其善者伪也），强调后天教化与礼法的作用（'隆礼重法'），对先秦诸子（如墨家、道家、法家）有系统批判与吸收。其《荀子》32篇中《劝学》《天论》《礼论》等篇影响深远。荀子的思想因'性恶论'在宋明理学时代受到冷落，但清代以后重新受到重视，被视为儒家现实主义一脉的代表。",
+   "versions": [
+    "荀子（约前313—前238）是战国末期儒家思想家，与孟子并称但立场相异：他主张'性恶论'（人之性恶，其善者伪也），强调后天教化与礼法的作用（'隆礼重法'），对先秦诸子（如墨家、道家、法家）有系统批判与吸收。其《荀子》32篇中《劝学》《天论》《礼论》等篇影响深远。荀子的思想因'性恶论'在宋明理学时代受到冷落，但清代以后重新受到重视，被视为儒家现实主义一脉的代表。"
+   ],
+   "interpretations": [
+    {
+     "holder": "荀子本人",
+     "school": "文本传统",
+     "view": "《荀子》是其思想的第一手材料。"
+    },
+    {
+     "holder": "现代汉学",
+     "school": "哲学研究",
+     "view": "强调荀子对礼法制度与认识论的贡献。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "荀子的现实主义可作儒家理性化的另一面向。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-xunzi",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>荀子形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>荀子（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>性恶论</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>善者伪也</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>隆礼重法</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>制度教化</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>劝学</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>后天学习</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>荀子要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "荀子与孟子",
+     "views": [
+      {
+       "holder": "性恶 vs 性善",
+       "basis": "二者在人性论上对立。"
+      },
+      {
+       "holder": "同归儒家",
+       "basis": "都以成圣与治国为目标。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "荀子主张性恶论，强调礼法与后天教化。",
+     "source": "pri-xunzi"
+    },
+    {
+     "claim": "《荀子》在清代以后重新受到学界重视。",
+     "source": "pri-xunzi"
+    }
+   ]
+  },
+  {
+   "id": "fig-mozi",
+   "title": "墨子",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "墨家创始人，'兼爱''非攻'的倡导者。",
+   "related": [
+    "fig-confucius",
+    "rel-shenism",
+    "rel-confucianism"
+   ],
+   "sources": [
+    "pri-mozi",
+    "pri-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国哲学文本成书年代与作者归属学界有讨论；2) 各学派立场不同，须区分描述；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "墨子（约前470—前391）是墨家学派的创始人，出身平民，主张'兼爱'（无差别地互爱）、'非攻'（反对侵略战争）、'尚贤'（任人唯贤）、'节用''节葬'（反对奢侈与厚葬）与'天志''明鬼'（借天与鬼神赏善罚恶）。墨家在战国时期与儒家并称'显学'，其组织严密（巨子制度）、重视逻辑与实用技术（《墨经》含光学、力学知识）。墨家在秦汉以后式微，但其'兼爱'思想在近现代被重新评价（如与基督教博爱、社会主义思想的比较）。",
+   "versions": [
+    "墨子（约前470—前391）是墨家学派的创始人，出身平民，主张'兼爱'（无差别地互爱）、'非攻'（反对侵略战争）、'尚贤'（任人唯贤）、'节用''节葬'（反对奢侈与厚葬）与'天志''明鬼'（借天与鬼神赏善罚恶）。墨家在战国时期与儒家并称'显学'，其组织严密（巨子制度）、重视逻辑与实用技术（《墨经》含光学、力学知识）。墨家在秦汉以后式微，但其'兼爱'思想在近现代被重新评价（如与基督教博爱、社会主义思想的比较）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "墨子本人",
+     "school": "文本传统",
+     "view": "《墨子》是墨家思想的第一手材料。"
+    },
+    {
+     "holder": "现代汉学",
+     "school": "哲学研究",
+     "view": "强调墨家逻辑学（《墨经》）与科学思想的价值。"
+    },
+    {
+     "holder": "比较哲学",
+     "school": "宗教学",
+     "view": "'兼爱'常被拿来与基督教'博爱'作比较（不主张同源）。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-mozi",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>墨子形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>墨子（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>兼爱</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>无差别互爱</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>非攻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>反对侵略</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>墨经</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>逻辑与科学</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>墨子要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "墨家式微的原因",
+     "views": [
+      {
+       "holder": "内部说",
+       "basis": "巨子传承中断与组织分化。"
+      },
+      {
+       "holder": "外部说",
+       "basis": "秦汉大一统后与主流意识形态不合。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "墨子创立墨家，主张兼爱与非攻。",
+     "source": "pri-mozi"
+    },
+    {
+     "claim": "《墨经》保存了先秦逻辑与科学知识。",
+     "source": "pri-mozi"
+    }
+   ]
+  },
+  {
+   "id": "fig-han-feizi",
+   "title": "韩非子",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "法家集大成者，'法术势'理论的系统化者。",
+   "related": [
+    "fig-xunzi",
+    "fig-confucius",
+    "rel-shenism"
+   ],
+   "sources": [
+    "pri-hanfeizi",
+    "pri-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国哲学文本成书年代与作者归属学界有讨论；2) 各学派立场不同，须区分描述；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "韩非（约前280—前233）是战国末期法家思想家，综合商鞅的'法'、申不害的'术'、慎到的'势'，建立'法术势'相结合的法家理论体系，主张以法治国、中央集权与君主专制（《韩非子》55篇）。他的思想为秦始皇统一中国后的制度（郡县制、统一法令）提供了理论基础。韩非因才华遭李斯嫉妒，死于秦国狱中。法家虽在汉代以后不再成为官方意识形态，但其'外儒内法'的治理模式深刻影响了中国历代王朝。",
+   "versions": [
+    "韩非（约前280—前233）是战国末期法家思想家，综合商鞅的'法'、申不害的'术'、慎到的'势'，建立'法术势'相结合的法家理论体系，主张以法治国、中央集权与君主专制（《韩非子》55篇）。他的思想为秦始皇统一中国后的制度（郡县制、统一法令）提供了理论基础。韩非因才华遭李斯嫉妒，死于秦国狱中。法家虽在汉代以后不再成为官方意识形态，但其'外儒内法'的治理模式深刻影响了中国历代王朝。"
+   ],
+   "interpretations": [
+    {
+     "holder": "韩非本人",
+     "school": "文本传统",
+     "view": "《韩非子》是法家理论的系统文本。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "政治社会学",
+     "view": "法家的理性官僚制可作韦伯式'理性化'的东方案例。"
+    },
+    {
+     "holder": "现代政治哲学",
+     "school": "思想史",
+     "view": "强调法家与马基雅维利主义的比较（不主张影响关系）。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hanfeizi",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>韩非子形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>韩非子（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法术势</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>治国体系</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中央集权</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>君主专制</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>秦制基础</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>制度化</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>韩非子要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "法家的性质",
+     "views": [
+      {
+       "holder": "法治说",
+       "basis": "强调法律的普遍适用。"
+      },
+      {
+       "holder": "君主工具说",
+       "basis": "法术势本质是君主统治工具。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "韩非是法家集大成者，系统化了'法术势'理论。",
+     "source": "pri-hanfeizi"
+    },
+    {
+     "claim": "法家思想为秦统一后的制度提供了理论基础。",
+     "source": "pri-hanfeizi"
+    }
+   ]
+  },
+  {
+   "id": "fig-zhu-xi",
+   "title": "朱熹",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "宋代理学集大成者，《四书章句集注》作者。",
+   "related": [
+    "rel-confucianism",
+    "fig-confucius",
+    "fig-wang-yangming"
+   ],
+   "sources": [
+    "pri-zhuxi",
+    "pri-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国哲学文本成书年代与作者归属学界有讨论；2) 各学派立场不同，须区分描述；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "朱熹（1130—1200）是南宋理学家，程朱理学的集大成者：他以'理'为宇宙本体（'理一分殊'），主张'存天理、灭人欲'的修身工夫与'格物致知'的认识方法，集成并注释'四书'（《大学》《中庸》《论语》《孟子》），其《四书章句集注》自元代起成为科举考试的标准注本，对中国与东亚（朝鲜、日本、越南）的思想与教育影响深远。朱熹与陆九渊的'鹅湖之会'（理 vs 心的争论）是理学史上的著名事件。",
+   "versions": [
+    "朱熹（1130—1200）是南宋理学家，程朱理学的集大成者：他以'理'为宇宙本体（'理一分殊'），主张'存天理、灭人欲'的修身工夫与'格物致知'的认识方法，集成并注释'四书'（《大学》《中庸》《论语》《孟子》），其《四书章句集注》自元代起成为科举考试的标准注本，对中国与东亚（朝鲜、日本、越南）的思想与教育影响深远。朱熹与陆九渊的'鹅湖之会'（理 vs 心的争论）是理学史上的著名事件。"
+   ],
+   "interpretations": [
+    {
+     "holder": "朱熹本人",
+     "school": "哲学文本",
+     "view": "《四书章句集注》《朱子语类》是其思想的核心材料。"
+    },
+    {
+     "holder": "现代新儒家",
+     "school": "哲学研究",
+     "view": "宋明理学是现代新儒家的重要思想资源。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "理学可作儒家理性化与新教伦理比较的参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-zhuxi",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>朱熹形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>朱熹（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>理一分殊</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙论</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>格物致知</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>认识论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>四书集注</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>科举标准</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>朱熹要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "理学与心学",
+     "views": [
+      {
+       "holder": "程朱理学",
+       "basis": "主张'即物穷理'。"
+      },
+      {
+       "holder": "陆王心学",
+       "basis": "主张'心即理'，反求诸己。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "朱熹是宋代理学集大成者，《四书章句集注》成为科举标准。",
+     "source": "pri-zhuxi"
+    },
+    {
+     "claim": "朱熹主张'理一分殊'与'格物致知'。",
+     "source": "pri-zhuxi"
+    }
+   ]
+  },
+  {
+   "id": "fig-wang-yangming",
+   "title": "王阳明",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "明代心学代表，'致良知''知行合一'的倡导者。",
+   "related": [
+    "rel-confucianism",
+    "fig-zhu-xi",
+    "fig-confucius"
+   ],
+   "sources": [
+    "pri-wang-yangming",
+    "pri-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国哲学文本成书年代与作者归属学界有讨论；2) 各学派立场不同，须区分描述；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "王守仁（1472—1529，号阳明）是明代思想家、军事家，心学（阳明学）的集大成者：他继承陆九渊'心即理'的立场，提出'致良知'（良知是人人固有的道德判断能力，只需扩充践行）与'知行合一'（知与行不可分，真知必行）的核心命题，反对朱熹'向外求理'的格物方法。王阳明曾平定宁王之乱，其思想经后学传播影响广泛，并近代影响日本明治维新时期的思想家（如吉田松阴）。",
+   "versions": [
+    "王守仁（1472—1529，号阳明）是明代思想家、军事家，心学（阳明学）的集大成者：他继承陆九渊'心即理'的立场，提出'致良知'（良知是人人固有的道德判断能力，只需扩充践行）与'知行合一'（知与行不可分，真知必行）的核心命题，反对朱熹'向外求理'的格物方法。王阳明曾平定宁王之乱，其思想经后学传播影响广泛，并近代影响日本明治维新时期的思想家（如吉田松阴）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "王阳明本人",
+     "school": "心学文本",
+     "view": "《传习录》是其思想的核心记录。"
+    },
+    {
+     "holder": "现代新儒家",
+     "school": "哲学研究",
+     "view": "阳明心学是现代新儒家的重要资源。"
+    },
+    {
+     "holder": "日本阳明学",
+     "school": "比较思想",
+     "view": "阳明学在幕末日本被吸收为变革思想（不主张同源）。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-wang-yangming",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>王阳明形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>王阳明（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>致良知</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>固有道德</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>知行合一</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>真知必行</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>心即理</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>反求诸己</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王阳明要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阳明学与朱子学",
+     "views": [
+      {
+       "holder": "心学",
+       "basis": "良知在内，反求诸己。"
+      },
+      {
+       "holder": "理学",
+       "basis": "理在物，即物穷理。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "王阳明是明代心学代表，主张致良知与知行合一。",
+     "source": "pri-wang-yangming"
+    },
+    {
+     "claim": "《传习录》是阳明学的核心文本。",
+     "source": "pri-wang-yangming"
+    }
+   ]
   }
  ]
 }
