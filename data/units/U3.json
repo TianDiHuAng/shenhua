@@ -2960,6 +2960,195 @@
      "source": "pri-tain"
     }
    ]
+  },
+  {
+   "id": "motif-first-man",
+   "title": "原初人（第一人）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "人类始祖（第一男/女人）由神特别创造的跨传统创世母题。",
+   "related": [
+    "motif-creation",
+    "motif-world-parents",
+    "myth-ashanti"
+   ],
+   "sources": [
+    "pri-first-man",
+    "aca-patterns-religion",
+    "aca-golden-bough"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) '第一人'在各传统的名称与身份（Adapa/Adam/原初人）差异大，本条只作母题通述；2) '原初人'与'世界父母分离'母题的边界依文本而有重叠；3) 描述性立场。",
+   "year": null,
+   "source_text": "原初人母题指人类始祖由神以特殊材料（土、骨、泥、芦苇）单独创造的叙事。典型包括：希伯来《创世记》的亚当（尘土）、美索不达米亚的 Adapa（泥/智慧）、阿特拉哈西斯（泥土与神血）、希腊的丢卡利翁（洪水后造人）、约鲁巴的 Oduduwa 等。原初人常同时是'文化开端者'与'必死性/罪性开端'的双重角色。",
+   "versions": [
+    "希伯来版：神以尘土造亚当、以肋骨造夏娃，置伊甸园。",
+    "美索不达米亚版：Adapa 为智慧渔夫，因拒绝神食而失永生。",
+    "非洲与大洋洲版：第一人多从土/树/芦苇中出现，与当地创世材料相关。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《永恒回归的神话》中把'原初人'作为'原初范式'的具现：第一人的作为确立后世人类的存在模式。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "Frazer 在《金枝》中把'第一人'与祭司王/神圣王权的起源叙事关联，属框架参照。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "Jacobsen 依 Adapa 等材料指出美索不达米亚'第一人'形象与希伯来亚当的平行，但神学含义不同，不主张直接借用。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "美索不达米亚神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "Adapa/阿特拉哈西斯与亚当的'土造人'母题作平行描述。"
+    },
+    {
+     "tradition": "阿散蒂神话",
+     "basis_source": "pri-first-man",
+     "note": "西非'第一人从土中出现'叙事与近东土造母题作一般对照，不主张传播。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>原初人母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>原初人（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>土/泥造人</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>材质多样</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智慧始祖</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Adapa型</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>必死开端</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>双重角色</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "土造母题的分布解释",
+     "views": [
+      {
+       "holder": "共同遗产说",
+       "basis": "近东诸传统中土造人母题提示共同文化背景。"
+      },
+      {
+       "holder": "独立发生说",
+       "basis": "'用土造人'是农业社会自然联想，可独立产生。"
+      }
+     ]
+    },
+    {
+     "issue": "原初人的罪性角色",
+     "views": [
+      {
+       "holder": "原罪说",
+       "basis": "希伯来传统中第一人行为确立罪与死的入世。"
+      },
+      {
+       "holder": "典范说",
+       "basis": "其他传统中第一人多是文化开创者而非罪性源头。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "《创世记》以尘土造亚当是希伯来创世叙事的人类起源文本。",
+     "source": "pri-first-man"
+    },
+    {
+     "claim": "美索不达米亚 Adapa 叙事中，第一位'王/智慧人'因拒绝神食而失去永生机会。",
+     "source": "pri-first-man"
+    }
+   ]
+  },
+  {
+   "id": "motif-name-magic",
+   "title": "真名与命名魔法",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "通过知晓或操纵真名获得支配力的跨传统母题。",
+   "related": [
+    "motif-shapeshift",
+    "motif-divine-weapon",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-onomancy",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及 Ren（名）概念与《所罗门之钥》天使名讳等分属不同传统，本条作母题并列，不主张同源；2) 命名魔法在民间实践中的具体形态待专门文献；3) 描述性立场。",
+   "year": null,
+   "source_text": "真名魔法母题认为：知晓某人/神灵的'真名'即可对其施加支配或与之沟通。典型包括古埃及的 Ren（真名是人格的一部分，抹去名字即抹去存在）、《所罗门之钥》中以天使与恶魔名讳行仪式、印度与犹太密教中的'神名'念诵（如 tenshrin、YHWH 的发音禁忌）、以及民间故事中'猜出真名即获得控制'（如《雷蒙德与莉莉丝》的 Rumpelstiltskin 型）。",
+   "versions": [
+    "埃及版：Ren 是人格构成要素，'铭记其名'即延续存在，神名具宇宙效力。",
+    "所罗门魔法传统版：《所罗门之钥》列出七十二恶魔名与仪式调用法。",
+    "民间故事版：主角靠 discovering 对方真名而摆脱契约或获得支配。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《比较宗教的模式》中把'名'视为神圣显现的语言载体，真名即本质。"
+    },
+    {
+     "holder": "Rudolf Otto",
+     "school": "宗教现象学",
+     "view": "Otto《神圣的观念》中'神名'的 tremendum 与 fascinosum 面向可作神名力量的现象学参照。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "埃及学通说",
+     "school": "埃及宗教",
+     "view": "Ren 与身体、影子、ka 并列为人格要素，'命名'具创世与维系秩序的效力。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "犹太密教",
+     "basis_source": "pri-onomancy",
+     "note": "神名（如四字神名）的发音禁忌与力量观作一般参照。"
+    },
+    {
+     "tradition": "印度密教",
+     "basis_source": "aca-patterns-religion",
+     "note": "mantra 与'名'的宇宙效力作母题层面对照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>真名魔法母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>真名魔法（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Ren 真名</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>人格要素</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>名讳调用</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>所罗门传统</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>猜名支配</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>民间故事</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "真名魔法的跨文化解释",
+     "views": [
+      {
+       "holder": "共同思维结构说",
+       "basis": "'名=本质'是人类语言的普遍隐喻。"
+      },
+      {
+       "holder": "具体传播说",
+       "basis": "近东—地中海间的名讳魔法有可追踪的交流史。"
+      }
+     ]
+    },
+    {
+     "issue": "该母题在'宗教'与'魔法'间的分类",
+     "views": [
+      {
+       "holder": "宗教修行说",
+       "basis": "神名念诵属正统宗教实践。"
+      },
+      {
+       "holder": "魔法技术说",
+       "basis": "以名控制超自然属魔法范畴。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "古埃及 Ren（真名）被视为人格构成要素，记忆其名即维系其存在。",
+     "source": "pri-onomancy"
+    },
+    {
+     "claim": "《所罗门之钥》是文艺复兴时期以天使/恶魔名讳行仪式的魔法文本汇编。",
+     "source": "pri-onomancy"
+    }
+   ]
   }
  ]
 }

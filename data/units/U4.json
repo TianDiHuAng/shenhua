@@ -5946,6 +5946,198 @@
      "source": "pri-book-dead"
     }
    ]
+  },
+  {
+   "id": "fig-amun",
+   "title": "阿蒙（阿蒙-拉）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及'隐藏者'神，与拉结合为阿蒙-拉，新王国的至高神。",
+   "related": [
+    "fig-ra",
+    "fig-osiris",
+    "fig-hathor",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-amun",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 阿蒙从底比斯地方神上升为帝国主神的过程跨中王国—新王国，与政治史绑定；2) 与拉、阿顿（Akhenaten 改革）的关系复杂，本条分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "阿蒙（Amun，'隐藏/不可见者'）原为底比斯地方神，中王国起与太阳神拉结合为'阿蒙-拉'，新王国（约前16–前11世纪）成为帝国至高神，与王权紧密结合：法老被视为阿蒙之子，卡纳克神庙是其崇拜中心，阿蒙祭司集团拥有巨大经济与政治权力。阿肯那顿改革（阿顿崇拜）曾短暂废黜阿蒙，图坦卡蒙时期复辟。",
+   "versions": [
+    "中王国底比斯文献中阿蒙作为地方神与造物神的早期层。",
+    "新王国卡纳克神庙铭文中的阿蒙-拉帝国主神层。",
+    "阿肯那顿（前14世纪）以阿顿取代阿蒙的改革层及后来的复辟。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Breasted（布雷斯特德）",
+     "school": "埃及学",
+     "view": "Breasted《Ancient Records》译注卡纳克铭文，确立阿蒙-拉与帝国意识形态关系的研究基础。"
+    },
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及神学",
+     "view": "Hornung 强调埃及神祇的'多面一体'逻辑：阿蒙-拉的合成不是简单合并而是权能的叠合。"
+    },
+    {
+     "holder": "Jan Assmann",
+     "school": "埃及宗教与记忆研究",
+     "view": "Assmann 在《埃及的宗教》中把阿肯那顿改革解读为'一神论革命'及其失败，阿蒙的复辟标志传统宇宙秩序的回归。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "希腊神话",
+     "basis_source": "aca-treasures-darkness",
+     "note": "阿蒙与宙斯的等同（亚历山大时期'宙斯-阿蒙'）是希腊—埃及接触层现象，作文化接触描述。"
+    },
+    {
+     "tradition": "美索不达米亚神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "'隐藏而超越的神'与恩利尔的至高神格作母题层面对照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿蒙形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿蒙（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>隐藏者</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Amun本义</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿蒙-拉</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>至高合成</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡纳克</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>帝国中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿蒙要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨王朝，神格叠加，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿蒙-拉合成的时点",
+     "views": [
+      {
+       "holder": "中王国说",
+       "basis": "底比斯文献中已见结合。"
+      },
+      {
+       "holder": "新王国说",
+       "basis": "帝国期才成为制度性主神。"
+      }
+     ]
+    },
+    {
+     "issue": "阿肯那顿改革的宗教性质",
+     "views": [
+      {
+       "holder": "一神论革命说",
+       "basis": "Assmann 等视为排他性一神尝试。"
+      },
+      {
+       "holder": "政治改革说",
+       "basis": "强调削弱阿蒙祭司权力的政治动机。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿蒙-拉在新王国是帝国至高神，卡纳克神庙为其崇拜中心。",
+     "source": "pri-amun"
+    },
+    {
+     "claim": "阿肯那顿（约前14世纪）以阿顿崇拜短暂取代阿蒙，图坦卡蒙时期复辟。",
+     "source": "pri-amun"
+    }
+   ]
+  },
+  {
+   "id": "fig-neith",
+   "title": "奈特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及塞易斯的编织女神，兼具创世、战争与编织职能。",
+   "related": [
+    "fig-amun",
+    "fig-osiris",
+    "myth-egyptian",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-neith",
+    "pri-pyramid-texts",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 奈特'以织造创世'的说法依塞易斯神学文本，与其他埃及创世版本并存；2) 古典作家（如柏拉图《蒂迈欧》提及 Neith/Athena）的等同属希腊化接触层；3) 描述性立场。",
+   "year": null,
+   "source_text": "奈特（Neith）是塞易斯（Sais，尼罗河三角洲）的编织女神，兼具战争（持弓箭、'弓之女'）与创世职能：塞易斯神学称她'以织造创造世界'，织机象征宇宙秩序的编织。她也是丧葬守护神（与伊西斯、奈芙蒂斯等并列为四守护女神之一）。古典时期希腊人把奈特与雅典娜等同（柏拉图《蒂迈欧》提及雅典/塞易斯的关联）。",
+   "versions": [
+    "早王朝—古王国时期奈特作为塞易斯主神与战争女神的早期层。",
+    "塞易斯神学（后期埃及）'以织造创世'与'七箭'宇宙论文本层。",
+    "希腊化时期与雅典娜等同的接触层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及神学",
+     "view": "Hornung 把奈特的编织创世视为埃及'以工艺隐喻创世'（与普塔的思想创世、阿特姆的自现并列）的一种。"
+    },
+    {
+     "holder": "Plutarch（普鲁塔克）",
+     "school": "古典记录",
+     "view": "普鲁塔克《伊西斯与奥西里斯》记录塞易斯神庙铭文（'我是一切过去、现在、未来之物'），是希腊化视角的奈特材料。"
+    },
+    {
+     "holder": "埃及学通说",
+     "school": "埃及宗教",
+     "view": "奈特的神格兼具编织、战争与母性，反映地方神向泛埃及神格整合的过程。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "希腊神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "奈特—雅典娜的等同是希腊化宗教接触的典型案例，作文化接触层描述。"
+    },
+    {
+     "tradition": "美索不达米亚神话",
+     "basis_source": "pri-neith",
+     "note": "'编织命运'与命运女神（如伊什塔尔织造）作母题层面对照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奈特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奈特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>编织创世</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>织机宇宙</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战争女神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>弓之女</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塞易斯</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奈特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨王朝，神格叠加，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "'织造创世'的地位",
+     "views": [
+      {
+       "holder": "塞易斯正统说",
+       "basis": "是埃及创世论的重要版本之一。"
+      },
+      {
+       "holder": "地方神学说",
+       "basis": "属塞易斯地方神学，未成为全国性正统。"
+      }
+     ]
+    },
+    {
+     "issue": "奈特与雅典娜的关系",
+     "views": [
+      {
+       "holder": "等同说",
+       "basis": "古典作家明确把两者等同。"
+      },
+      {
+       "holder": "接触层说",
+       "basis": "等同是希腊化解释，二者原生神格不同。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "塞易斯神庙铭文称奈特'以织造创造世界'，是埃及创世论的地方版本。",
+     "source": "pri-neith"
+    },
+    {
+     "claim": "奈特在希腊化时期与雅典娜等同，柏拉图《蒂迈欧》提及两地的神圣关联。",
+     "source": "pri-neith"
+    }
+   ]
   }
  ]
 }

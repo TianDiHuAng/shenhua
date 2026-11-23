@@ -4116,6 +4116,382 @@
      "source": "pri-heathenry"
     }
    ]
+  },
+  {
+   "id": "rel-hussite",
+   "title": "胡斯派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "15世纪波希米亚以扬·胡斯命名的宗教改革运动及其分支。",
+   "related": [
+    "rel-lutheran",
+    "rel-catholicism",
+    "rel-protestantism"
+   ],
+   "sources": [
+    "pri-hussite",
+    "aca-protestant-ethic"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 胡斯派分支（塔波尔派/圣杯派/波希米亚弟兄会）差异大；2) 胡斯1415年火刑与胡斯战争（1419–1434）按公开史实记录；3) 描述性立场。",
+   "year": null,
+   "source_text": "胡斯派是15世纪波希米亚宗教改革运动，以扬·胡斯（约1369–1415）命名。胡斯受威克里夫影响，批评教会世俗化与赎罪券，1415年在康斯坦茨会议被火刑。1420年《十二条款》系统表达改革诉求（圣经权威、平信徒圣餐杯等）。胡斯战争（1419–1434）后分裂为塔波尔派（激进）、圣杯派（温和）与后来的波希米亚弟兄会。",
+   "versions": [
+    "胡斯本人文本（如《论教会》）与康斯坦茨审判记录。",
+    "《十二条款》(1420) 是胡斯派共同纲领文本。",
+    "1436年《巴塞尔协定》后的圣杯派国教会形态。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Jan Hus",
+     "school": "改革家自述",
+     "view": "胡斯以'返回圣经与早期教会'为改革纲领，属创立者文本。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "Weber 框架下胡斯派与路德宗同属'新教伦理' Protestant asceticism 的前史，但二者社会承载不同。"
+    },
+    {
+     "holder": "František Šmahel",
+     "school": "波希米亚宗教史",
+     "view": "Šmahel 强调胡斯派内部社会—神学光谱（塔波尔派的千禧年主义 vs 圣杯派建制化）。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "信义宗",
+     "basis_source": "aca-protestant-ethic",
+     "note": "胡斯派与路德宗在'圣经权威/平信徒圣餐'上有前后呼应，路德本人承认受胡斯影响，作历史关联描述。"
+    },
+    {
+     "tradition": "天主教",
+     "basis_source": "pri-hussite",
+     "note": "康斯坦茨会议对胡斯的审判是教会权威与改革诉求冲突的史实案例。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>胡斯派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>胡斯派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>扬·胡斯</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1415火刑</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>十二条款</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1420纲领</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三分支</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>塔波尔/圣杯/弟兄会</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>胡斯派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "胡斯派与路德宗的关系",
+     "views": [
+      {
+       "holder": "先驱说",
+       "basis": "胡斯是宗教改革的先驱，路德派承认其影响。"
+      },
+      {
+       "holder": "独立说",
+       "basis": "胡斯派根植波希米亚本土语境，与德意志改革路径不同。"
+      }
+     ]
+    },
+    {
+     "issue": "圣餐'两杯'（平信徒领杯）的教义地位",
+     "views": [
+      {
+       "holder": " essential 说",
+       "basis": "圣杯派视为教会改革的必要标志。"
+      },
+      {
+       "holder": "adiaphora 说",
+       "basis": "部分神学家视仪式形式为次要事项。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "扬·胡斯1415年在康斯坦茨会议被处以火刑。",
+     "source": "pri-hussite"
+    },
+    {
+     "claim": "1420年《十二条款》是胡斯派改革诉求的系统文本。",
+     "source": "pri-hussite"
+    }
+   ]
+  },
+  {
+   "id": "rel-unitarian",
+   "title": "一神论派与普世一神论（UU）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "否认三位一体、强调理性与宗教自由，后发展为普世一神论的自由宗教传统。",
+   "related": [
+    "rel-protestantism",
+    "rel-mormonism",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-unitarian",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 一神论派（16世纪波兰索齐尼派→英美）与普世一神论（1961 UUA 合并）是不同历史阶段；2) UU 的'自由宗教'立场使信条宽松，描述须避免强加统一教义；3) 描述性立场。",
+   "year": null,
+   "source_text": "一神论派（Unitarianism）源于16世纪波兰的索齐尼派（Socinianism）与英国激进改革派，否认三位一体与基督神性，强调上帝唯一、理性与宗教自由。19世纪英美一神论协会形成；1961年美国一神论者协会与普世教会合并为普世一神论者协会（UUA），UUA 以'自由追寻真理与意义'为原则，接纳多元信仰来源（含佛教、犹太教、人道主义）。",
+   "versions": [
+    "索齐尼派（16世纪波兰）的《拉科夫教理问答》(1605) 是早期系统文本。",
+    "19世纪英美一神论协会（美国1825年）建制化。",
+    "1961年 UUA 合并后'自由宗教'形态，七项原则与目的（1985/1998修订）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "Prothero 在《God Is Not One》中把一神论/UU 作为'自由宗教'典型，强调其与常规宗教'信条—归属'模式的差异。"
+    },
+    {
+     "holder": "Socinus（索齐努斯）",
+     "school": "早期一神论",
+     "view": "索齐尼派以理性解经否认三位一体，是早期一神论系统化者。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "Weber 把一神论等'理性化宗教'归入新教理性主义谱系，但 UU 的多元性超出该框架。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "基督教主流",
+     "basis_source": "aca-god-is-not-one",
+     "note": "三位一体教义的分歧是一神论与主流基督教的结构分界。"
+    },
+    {
+     "tradition": "佛教",
+     "basis_source": "pri-unitarian",
+     "note": "UU 对佛教等多元传统的开放是当代自由宗教的特征，属接触层描述而非同源主张。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>一神论/UU结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>一神论/UU（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>否认三位一体</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>上帝唯一</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>理性与自由</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宗教自由</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>1961 UUA</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>合并建制</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>一神论/UU要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "UU 是否为基督教宗派",
+     "views": [
+      {
+       "holder": "基督教分支说",
+       "basis": "历史源流来自基督教内部改革。"
+      },
+      {
+       "holder": "自由宗教说",
+       "basis": "UUA 已超越基督教边界，接纳多信仰来源。"
+      }
+     ]
+    },
+    {
+     "issue": "'原则'与'信条'的地位",
+     "views": [
+      {
+       "holder": "原则约束说",
+       "basis": "七项原则是共同体的伦理准则。"
+      },
+      {
+       "holder": "个人自由说",
+       "basis": "原则不具信条的强制性，个人自主优先。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "1961年美国一神论者协会与普世教会合并成立普世一神论者协会（UUA）。",
+     "source": "pri-unitarian"
+    },
+    {
+     "claim": "一神论派历史上的索齐尼派《拉科夫教理问答》(1605) 是否认三位一体的系统文本。",
+     "source": "pri-unitarian"
+    }
+   ]
+  },
+  {
+   "id": "rel-hellenism",
+   "title": "现代希腊多神教（Hellenism）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "以古典希腊神祇与仪式重构为核心的当代多神教复兴运动。",
+   "related": [
+    "myth-greek",
+    "rel-heathenry",
+    "rel-kemeticism"
+   ],
+   "sources": [
+    "pri-hellenism",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 各组织（Supreme Council of Ethnikoi Hellenes / Hellenic Polytheistic Reconstructionism）路径差异；2) '复兴'与'重构'的再造性质须如实标注；3) 描述性立场。",
+   "year": null,
+   "source_text": "现代希腊多神教（Hellenism）是当代以古典希腊神话与仪式为参照的重建型多神教：崇奉宙斯、雅典娜、阿佛洛狄忒等奥林匹斯神祇及克托尼俄斯神、宁芙等，实践包括祭礼（thysia）、祈祷与节庆（如 Panathenaia 重建）。1990年代希腊的 Ethnikoi Hellenes 最高委员会等组织成立，2010年代获希腊法院承认。其实践以古典文献与考古为依据，属现代重构而非古代传承的延续。",
+   "versions": [
+    "希腊本土 Ethnikoi Hellenes（民族希腊人）组织，强调民族性与神祇崇拜。",
+    "英语世界 Hellenic Polytheistic Reconstructionism（HPR），强调文献考据与仪式重建。",
+    "折中灵性取向的希腊多神实践，与其他异教运动交叉。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Jane Ellen Harrison",
+     "school": "古典宗教研究",
+     "view": "Harrison《希腊宗教研究导论》对仪式—神话关系的分析是现代重建运动的重要学术参照。"
+    },
+    {
+     "holder": "现代重建者自述",
+     "school": "运动内部",
+     "view": "主张'以古为师'（reconstructionism），重建以文献与考古证据为准。"
+    },
+    {
+     "holder": "Ronald Hutton",
+     "school": "现代异教研究",
+     "view": "Hutton 的现代异教框架把 Hellenism 视为对古典文本的当代再创造，'连续性'叙事需批判。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "日耳曼新异教",
+     "basis_source": "pri-hellenism",
+     "note": "同属'以古典文本为依据'的重建型异教，神话与仪式正典的性质作平行描述。"
+    },
+    {
+     "tradition": "古典希腊宗教",
+     "basis_source": "aca-greek-religion",
+     "note": "现代实践与古代宗教须区分：前者是参照后者而成的当代重建。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>现代希腊多神教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>现代希腊多神教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥林匹斯神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宙斯等</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>仪式重建</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>thysia祭礼</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>1990年代</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>组织化</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>现代希腊多神教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "'重建' vs '连续性'",
+     "views": [
+      {
+       "holder": "重建说",
+       "basis": "承认古代传承断层，以文献重建。"
+      },
+      {
+       "holder": "延续说（部分团体）",
+       "basis": "主张某程度的精神延续。"
+      }
+     ]
+    },
+    {
+     "issue": "民族性与普世性",
+     "views": [
+      {
+       "holder": "民族取向",
+       "basis": "强调希腊民族身份与本土神祇。"
+      },
+      {
+       "holder": "普世取向",
+       "basis": "欢迎任何认同者参与，不限族裔。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "希腊 Ethnikoi Hellenes 最高委员会在1990年代成立，是当代希腊多神教组织化标志。",
+     "source": "pri-hellenism"
+    },
+    {
+     "claim": "2010年代希腊法院承认希腊多神教团体的宗教地位。",
+     "source": "pri-hellenism"
+    }
+   ]
+  },
+  {
+   "id": "rel-kemeticism",
+   "title": "埃及多神复兴（Kemetism）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "以古埃及宗教（Kemet）为复兴对象的当代多神教运动。",
+   "related": [
+    "myth-egyptian",
+    "rel-hellenism",
+    "rel-heathenry"
+   ],
+   "sources": [
+    "pri-kemetic",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) Kemetism 分支（Kemetic Orthodoxy / 折中型）实践差异大；2) 古埃及文字与仪式的重构难度高，须如实标注再造性质；3) 描述性立场。",
+   "year": null,
+   "source_text": "Kemetism（埃及多神复兴）是20世纪后期兴起的、以古埃及宗教（Kemet，'黑土地'）为复兴对象的多神教运动：崇奉拉、伊西斯、奥西里斯、阿努比斯、塞特等神祇（不同支系对塞特评价分歧极大），实践包括神像供奉、节庆（如 Khoiak 节）与祈祷。1990年代后组织化（如 Kemetic Orthodoxy 1988），实践依埃及学文献与铭文重构，属现代再造而非古代传统的直接延续。",
+   "versions": [
+    "Kemetic Orthodoxy（1988起，Tamara Siuda 创立，强调正统仪式传承）。",
+    "折中型（eclectic Kemeticism），结合通灵、魔法与其他异教元素。",
+    "以学术埃及学为依据的重建派，强调文献忠实度。"
+   ],
+   "interpretations": [
+    {
+     "holder": "现代 Kemet 祭司团体自述",
+     "school": "运动内部",
+     "view": "主张通过仪式重建' Ma'at（秩序/真理）'的宇宙伦理。"
+    },
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "Hornung《埃及诸神》等学术著作为 Kemetism 提供文本参照，但学界不认可其'传承'主张。"
+    },
+    {
+     "holder": "Ronald Hutton",
+     "school": "现代异教研究",
+     "view": "把 Kemetism 与其他重建型异教并列为对古代文本的当代再创造。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "现代希腊多神教",
+     "basis_source": "pri-kemetic",
+     "note": "同为'以古代文献为依据'的重建型异教，正典性质与再造机制作平行描述。"
+    },
+    {
+     "tradition": "古埃及宗教",
+     "basis_source": "aca-patterns-religion",
+     "note": "现代实践与古代宗教须区分，避免把现代重构当古代原貌。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>Kemetism结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>Kemetism（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃及诸神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>拉/伊西斯等</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Ma'at</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>秩序伦理</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>1988起</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>组织化</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Kemetism要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "塞特（Set）的地位",
+     "views": [
+      {
+       "holder": "排斥说",
+       "basis": "以塞特为混沌与恶的表征，不纳入崇拜。"
+      },
+      {
+       "holder": "包容说",
+       "basis": "视塞特为必要的混沌力量与守护者。"
+      }
+     ]
+    },
+    {
+     "issue": "'正统'（Orthodoxy）主张",
+     "views": [
+      {
+       "holder": "正统说",
+       "basis": "Kemetic Orthodoxy 主张可追溯的仪式传承。"
+      },
+      {
+       "holder": "再造说",
+       "basis": "古埃及传统断裂严重，'正统'是当代建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "Kemetic Orthodoxy 于1988年创立，是 Kemetism 运动的主要组织之一。",
+     "source": "pri-kemetic"
+    },
+    {
+     "claim": "Kemetism 实践依埃及学文献与神庙铭文重构，属现代再造。",
+     "source": "pri-kemetic"
+    }
+   ]
   }
  ]
 }

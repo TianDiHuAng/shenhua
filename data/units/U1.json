@@ -5375,6 +5375,195 @@
      "source": "pri-lakota"
     }
    ]
+  },
+  {
+   "id": "myth-ashanti",
+   "title": "阿散蒂神话（阿坎宗教）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以西非阿坎人 Nyame 造世与 Ananse 蜘蛛 trickster 叙事为核心的口传传统。",
+   "related": [
+    "myth-yoruba",
+    "myth-zulu",
+    "motif-trickster"
+   ],
+   "sources": [
+    "pri-ashanti",
+    "aca-religions-american-indians",
+    "aca-golden-bough"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) Ananse 叙事经 Rattray 1920–30年代记录，转写与英语表述有研究者加工；2) Nyame 至高神与基督教上帝的接触史上互渗，须区分描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "阿坎（阿散蒂）宗教的最高神为 Nyame（'天'），造世者；其下与人类事务密切互动的诸神（abosom）与祖先（nsamanfo）构成实践层。Ananse（蜘蛛）是核心 trickster 与文化英雄：以诡计从 Nyame 购得诸 stellar 与故事（'Ananse 买天'叙事），既创造也破坏秩序。Rattray《Akan-Ashanti Folk-Tales》(1930) 是英文学界标准文本。",
+   "versions": [
+    "Rattray 记录的 Ananse 购天、Nyame 造人等叙事是主要成文材料。",
+    "'Ananse 故事'（anansesem）在现代加纳出版的版本带文学改写。",
+    "阿坎各支系（阿散蒂/芳蒂/阿基姆）的神名与叙事细节有差异。"
+   ],
+   "interpretations": [
+    {
+     "holder": "R. S. Rattray",
+     "school": "20世纪民族志",
+     "view": "Rattray《Ashanti》《Akan-Ashanti Folk-Tales》系统记录阿坎宗教与叙事，是英文学界基础材料，但带有殖民时期视角。"
+    },
+    {
+     "holder": "Robert S. Rattray 之后的 Evans-Pritchard 派",
+     "school": "非洲宗教人类学",
+     "view": "强调阿坎'至高神—诸神—祖先'三层结构与日常仪式的关联，反对把 Nyame 简化为'上帝'。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《比较宗教的模式》中把 Ananse 作为 trickster 的非洲代表案例，属母题层面参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "约鲁巴神话",
+     "basis_source": "aca-golden-bough",
+     "note": "同属西非，至高神—神灵—祖先结构与 Orisha 体系作平行描述。"
+    },
+    {
+     "tradition": "拉科塔神话",
+     "basis_source": "aca-religions-american-indians",
+     "note": "trickster 母题（Ananse vs Coyote/Iktomi）作现象学对照，不主张关联。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿散蒂神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿散蒂神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Nyame</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>最高造世神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Ananse</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>蜘蛛 trickster</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祖先</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>实践层</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿散蒂神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Nyame 是否为原生至高神",
+     "views": [
+      {
+       "holder": "原生说",
+       "basis": "至高天神概念见于早期记录，与基督教无关。"
+      },
+      {
+       "holder": "互渗说",
+       "basis": "现存 'Nyame' 概念含传教语境再表述。"
+      }
+     ]
+    },
+    {
+     "issue": "Ananse 的道德定位",
+     "views": [
+      {
+       "holder": "文化英雄说",
+       "basis": "购天叙事中 Ananse 为人类带来恩惠。"
+      },
+      {
+       "holder": "纯 trickster 说",
+       "basis": "Ananse 行为以自利和颠覆秩序为主。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "Rattray《Akan-Ashanti Folk-Tales》(1930) 收录 Ananse 叙事，是阿坎口传最大宗的早期英译文本。",
+     "source": "pri-ashanti"
+    },
+    {
+     "claim": "阿坎宗教结构通常描述为 Nyame（最高神）—abosom（诸神）—nsamanfo（祖先）三层。",
+     "source": "pri-ashanti"
+    }
+   ]
+  },
+  {
+   "id": "myth-hausa",
+   "title": "豪萨神话（Maguzawa 传统）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "西非豪萨地区以 Allah 至高神与 Iskoki 风灵附体仪式为核心的传统。",
+   "related": [
+    "myth-ashanti",
+    "myth-zulu",
+    "motif-trickster"
+   ],
+   "sources": [
+    "pri-hausa",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 豪萨传统宗教（Maguzawa）与伊斯兰教在豪萨地区的长期互动须区分层次描述；2) Bori 附体仪式细节属实践知识，公开记录有限；3) 描述性立场。",
+   "year": null,
+   "source_text": "豪萨传统宗教现存形态以 Maguzawa（未伊斯兰化的豪萨人）群体保存最完整：至高神称 Allah（造世与降雨），其下有大量 Iskoki（风灵，含 Bori、Dodo 等类），各有专属祭仪与附体（Bori 仪式中灵体'骑'信徒，音乐与舞蹈是媒介）。伊斯兰教传入后，部分 Iskoki 被纳入'精灵（jinn）'框架，两种体系长期并存。",
+   "versions": [
+    "Maguzawa 口传中的创世与风灵叙事，19–20世纪经英译民族志记录。",
+    "伊斯兰化豪萨社会中 Bori 仪式以'精灵'话语续存，名称与功能发生变化。",
+    "讨论 Bori 仪式与苏非教团（如 Qadiriyya）在豪萨地区的关系。"
+   ],
+   "interpretations": [
+    {
+     "holder": "M. G. Smith",
+     "school": "豪萨民族志",
+     "view": "Smith 的《The Affairs of Daura》等确立豪萨宗教—政治结构的民族志基础。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "I. M. Lewis",
+     "school": "宗教人类学",
+     "view": "Lewis 在《Ecstatic Religion》中把 Bori 附体作为'弱势群体的宗教表达'分析，属功能主义框架。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《萨满教》中对北非—西非附体仪式作一般现象学参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "阿散蒂神话",
+     "basis_source": "aca-shamanism",
+     "note": "西非两大传统的至高神—灵体结构作平行描述，不主张同源。"
+    },
+    {
+     "tradition": "伊斯兰教",
+     "basis_source": "pri-hausa",
+     "note": "风灵 (Iskoki) 与 jinn 概念的长期互渗是区域宗教接触的典型案例，作描述性处理。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>豪萨神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>豪萨神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Allah</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>至高造世神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Iskoki</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>风灵</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Bori</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>附体仪式</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>豪萨神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Bori 仪式的伊斯兰化解释",
+     "views": [
+      {
+       "holder": " Continuity 说",
+       "basis": "Bori 是前伊斯兰传统的延续，仅外壳改称精灵。"
+      },
+      {
+       "holder": "重构说",
+       "basis": "现存 Bori 形态是伊斯兰语境下的重新组合。"
+      }
+     ]
+    },
+    {
+     "issue": "Maguzawa 的身份边界",
+     "views": [
+      {
+       "holder": "族群说",
+       "basis": "Maguzawa 是保留旧教的特定群体。"
+      },
+      {
+       "holder": "实践说",
+       "basis": "Maguzawa 定义依仪式实践而非族群血缘。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "豪萨地区 Bori 仪式中，附体灵体各有名号、专属乐曲与信众群体。",
+     "source": "pri-hausa"
+    },
+    {
+     "claim": "伊斯兰传入后豪萨地区形成伊斯兰高层与 Maguzawa 传统长期并存的宗教格局。",
+     "source": "pri-hausa"
+    }
+   ]
   }
  ]
 }
