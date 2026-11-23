@@ -4378,11 +4378,12 @@
    "tier": "重要",
    "period": "ancient",
    "summary": "雅努斯是罗马神话的门户、开端与过渡之神，具双面（或四面）形象，一月（Ianuarius）以其命名。",
-   "source_text": "雅努斯见于罗马宗教与文学记载：他守护门户、通道与开端，战时战神庙门开启、和平时关闭；其双面形象象征过去与未来、内与外。",
+   "source_text": "雅努斯（Janus）是罗马宗教中门的守护神，象征开端、过渡与门槛，以双面（一面向前一面向后）形象著称，被称为'入口之神'（Janitor）。他的神庙在罗马广场，战时开门、和平时关门（这个仪式是罗马重要的政治—宗教象征）。一月（January/Januarius）以其命名，罗马人在新年向他献祭。雅努斯是罗马本土神，无对应的希腊神。",
    "versions": [
     "雅努斯在罗马本土神系中地位古老，与希腊神系无直接对应。",
     "其双面形象的解释（过去/未来、内/外）古今说法不一。",
-    "雅努斯庙门的开闭与国家战和状态相关。"
+    "雅努斯庙门的开闭与国家战和状态相关。",
+    "雅努斯（Janus）是罗马宗教中门的守护神，象征开端、过渡与门槛，以双面（一面向前一面向后）形象著称，被称为'入口之神'（Janitor）。他的神庙在罗马广场，战时开门、和平时关门（这个仪式是罗马重要的政治—宗教象征）。一月（January/Januarius）以其命名，罗马人在新年向他献祭。雅努斯是罗马本土神，无对应的希腊神。"
    ],
    "interpretations": [
     {
@@ -4399,6 +4400,21 @@
      "holder": "Georges Dumézil",
      "school": "印欧比较神话学",
      "view": "（据《印欧人的神》）Dumézil 在印欧框架内讨论罗马主权神祇的结构，雅努斯常被纳入其分析，属学派比较，学界有讨论。"
+    },
+    {
+     "holder": "Livy",
+     "school": "古典史家",
+     "view": "《罗马史》记载雅努斯神庙门在战和之际的开闭仪式。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "把雅努斯置于罗马宗教的'功能—边界'结构中分析。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "作为无希腊对应的罗马本土神，体现罗马宗教的独特性。"
     }
    ],
    "comparisons": [
@@ -4416,16 +4432,17 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>雅努斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>雅努斯示意</text><rect x='290' y='92' width='180' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='122' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雅努斯</text><line x1='380' y1='138' x2='380' y2='174' stroke='currentColor' opacity='0.5'/><line x1='170' y1='174' x2='590' y2='174' stroke='currentColor' opacity='0.5'/><line x1='170' y1='174' x2='170' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='174' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><line x1='590' y1='174' x2='590' y2='212' stroke='currentColor' opacity='0.5'/><rect x='80' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>门户·通道</text><text x='170' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>守护边界</text><rect x='290' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>开端·过渡</text><text x='380' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>一月命名</text><rect x='500' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>双面形象</text><text x='590' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>过去/未来</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>罗马本土神，与希腊神系无直接对应</text></svg>",
    "related": [
     "myth-roman",
-    "fig-zeus",
-    "rel-ancient-greek"
+    "fig-zeus"
    ],
    "sources": [
     "enc-brit-mythology",
     "ins-world-history",
-    "aca-greek-religion"
+    "aca-greek-religion",
+    "pri-janus",
+    "pri-livy-rome"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 双面形象的解释古今说法不一，正文并列；2) 印欧比较为学派框架；3) 百科/机构来源未在线核验，标弱参照。",
+   "pending_notes": "1) 双面形象的解释古今说法不一，正文并列；2) 印欧比较为学派框架；3) 百科/机构来源未在线核验，标弱参照。 1) 材料跨古风—罗马时期多个文本层，具体读法依版本；2) 神祇的希腊—罗马对应须区分本土与借入，不简单等同；3) 描述性立场。",
    "year": null,
    "controversies": [
     {
@@ -4453,6 +4470,19 @@
        "basis": "Dumézil 等尝试在印欧主权结构中安置其位置，学界有讨论。"
       }
      ]
+    },
+    {
+     "issue": "雅努斯的起源",
+     "views": [
+      {
+       "holder": "本土神说",
+       "basis": "罗马固有，无希腊对应。"
+      },
+      {
+       "holder": "印欧结构说",
+       "basis": "可作印欧边界神的比较参照。"
+      }
+     ]
     }
    ],
    "data_points": [
@@ -4463,6 +4493,14 @@
     {
      "claim": "一月（Ianuarius）以其命名，雅努斯庙门的开闭与战和状态相关。",
      "basis_source": "ins-world-history"
+    },
+    {
+     "claim": "雅努斯是罗马的门与过渡之神，以双面形象著称。",
+     "source": "pri-janus"
+    },
+    {
+     "claim": "January 月名源自雅努斯（Januarius）。",
+     "source": "pri-janus"
     }
    ]
   },
@@ -7285,6 +7323,378 @@
     {
      "claim": "阿纳特崇拜在新王国时期传入埃及。",
      "source": "pri-anat"
+    }
+   ]
+  },
+  {
+   "id": "fig-artemis",
+   "title": "阿尔忒弥斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊狩猎与月亮女神，奥林匹斯十二神之一。",
+   "related": [
+    "fig-apollo",
+    "myth-greek",
+    "fig-hera"
+   ],
+   "sources": [
+    "pri-artemis",
+    "aca-greek-religion",
+    "aca-greek-myth-thought"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古风—罗马时期多个文本层，具体读法依版本；2) 神祇的希腊—罗马对应须区分本土与借入，不简单等同；3) 描述性立场。",
+   "year": null,
+   "source_text": "阿尔忒弥斯（Artemis）是希腊奥林匹斯十二神之一，狩猎、荒野、月亮与少女的女神，阿波罗的孪生姐姐。她以贞洁著称，伴以宁芙与猎犬；神话中她惩罚冒犯者（如阿克泰翁被变为鹿、尼俄柏子女被杀），也庇护孩童与产妇。在以弗所（Ephesus）她的神庙是古代七大奇迹之一，那里的崇拜形象与希腊本土的狩猎女神形象差异显著。罗马对应的神为狄安娜（Diana）。",
+   "versions": [
+    "阿尔忒弥斯（Artemis）是希腊奥林匹斯十二神之一，狩猎、荒野、月亮与少女的女神，阿波罗的孪生姐姐。她以贞洁著称，伴以宁芙与猎犬；神话中她惩罚冒犯者（如阿克泰翁被变为鹿、尼俄柏子女被杀），也庇护孩童与产妇。在以弗所（Ephesus）她的神庙是古代七大奇迹之一，那里的崇拜形象与希腊本土的狩猎女神形象差异显著。罗马对应的神为狄安娜（Diana）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "《希腊宗教》中把阿尔忒弥斯读作'边界与过渡'的女神，守护荒野—文明边缘。"
+    },
+    {
+     "holder": "Jean Ducat 等",
+     "school": "古典学",
+     "view": "强调阿尔忒弥斯崇拜的地域差异（如以弗所 vs 阿卡迪亚）。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "月亮与贞洁女神可作母题层面的一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-artemis",
+     "note": "与相关传统作母题层面的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿尔忒弥斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿尔忒弥斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>狩猎荒野</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>处女女神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>月亮</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与阿波罗孪生</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>以弗所</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神庙崇拜</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿尔忒弥斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿尔忒弥斯与狄安娜",
+     "views": [
+      {
+       "holder": "对应说",
+       "basis": "罗马狄安娜是阿尔忒弥斯的对应神。"
+      },
+      {
+       "holder": "差异说",
+       "basis": "本土特征不同，不宜简单等同。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿尔忒弥斯是希腊狩猎、荒野与月亮的女神，奥林匹斯十二神之一。",
+     "source": "pri-artemis"
+    },
+    {
+     "claim": "以弗所的阿尔忒弥斯神庙是古代七大奇迹之一。",
+     "source": "pri-artemis"
+    }
+   ]
+  },
+  {
+   "id": "fig-nike",
+   "title": "尼刻",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊胜利女神，古典艺术的常见形象。",
+   "related": [
+    "fig-athena",
+    "myth-greek",
+    "fig-zeus"
+   ],
+   "sources": [
+    "pri-nike",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古风—罗马时期多个文本层，具体读法依版本；2) 神祇的希腊—罗马对应须区分本土与借入，不简单等同；3) 描述性立场。",
+   "year": null,
+   "source_text": "尼刻（Nike，'胜利'）是希腊的胜利女神，宙斯与斯提克斯之女，常在战场上与雅典娜、宙斯一同被祈求。她并非有独立神话叙事的主神，而更多是胜利的人格化显现，广泛应用于艺术与政治宣传：萨莫色雷斯的尼刻雕像（Nike of Samothrace）、帕特农神庙的尼刻神庙与雅典娜·尼刻崇拜都是其代表。罗马对应神为维多利亚（Victoria）。",
+   "versions": [
+    "尼刻（Nike，'胜利'）是希腊的胜利女神，宙斯与斯提克斯之女，常在战场上与雅典娜、宙斯一同被祈求。她并非有独立神话叙事的主神，而更多是胜利的人格化显现，广泛应用于艺术与政治宣传：萨莫色雷斯的尼刻雕像（Nike of Samothrace）、帕特农神庙的尼刻神庙与雅典娜·尼刻崇拜都是其代表。罗马对应神为维多利亚（Victoria）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "《希腊宗教》中把尼刻视为胜利的人格化与神佑象征。"
+    },
+    {
+     "holder": "古典艺术史",
+     "school": "艺术史",
+     "view": "尼刻形象在古典—希腊化艺术中广泛出现，反映城邦与王权的胜利意识形态。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "胜利女神作为神助的象征可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-nike",
+     "note": "与相关传统作母题层面的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>尼刻形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>尼刻（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>胜利人格化</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神佑象征</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雅典娜尼刻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神庙崇拜</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>萨莫色雷斯</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>著名雕像</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼刻要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "尼刻的地位",
+     "views": [
+      {
+       "holder": "独立神祇说",
+       "basis": "是有独立谱系的女神。"
+      },
+      {
+       "holder": "属性显现说",
+       "basis": "更是胜利概念的人格化。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "尼刻是希腊胜利女神，宙斯与斯提克斯之女。",
+     "source": "pri-nike"
+    },
+    {
+     "claim": "萨莫色雷斯的尼刻是古典艺术的著名雕像。",
+     "source": "pri-nike"
+    }
+   ]
+  },
+  {
+   "id": "fig-eros",
+   "title": "厄洛斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊爱与欲望神，赫西俄德《神谱》中的原初神之一。",
+   "related": [
+    "fig-aphrodite",
+    "myth-greek",
+    "motif-hierogamy"
+   ],
+   "sources": [
+    "pri-eros",
+    "pri-theogony",
+    "aca-greek-myth-thought"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古风—罗马时期多个文本层，具体读法依版本；2) 神祇的希腊—罗马对应须区分本土与借入，不简单等同；3) 描述性立场。",
+   "year": null,
+   "source_text": "厄洛斯（Eros）在希腊神话中有两层形象：赫西俄德《神谱》中他是混沌之后涌现的原初神，代表宇宙的爱欲结合力；古典时期他更多被描绘为爱与美之神阿佛洛狄忒之子，带翅膀的幼童形象（男孩丘比特的原型），以金箭使人坠入爱河。柏拉图《会饮》把厄洛斯升华为对美与善的哲学欲求。罗马对应神为丘比特（Cupid）。",
+   "versions": [
+    "厄洛斯（Eros）在希腊神话中有两层形象：赫西俄德《神谱》中他是混沌之后涌现的原初神，代表宇宙的爱欲结合力；古典时期他更多被描绘为爱与美之神阿佛洛狄忒之子，带翅膀的幼童形象（男孩丘比特的原型），以金箭使人坠入爱河。柏拉图《会饮》把厄洛斯升华为对美与善的哲学欲求。罗马对应神为丘比特（Cupid）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Hesiod",
+     "school": "古典文本",
+     "view": "《神谱》把厄洛斯列为最早的神之一，象征宇宙结合力。"
+    },
+    {
+     "holder": "Plato",
+     "school": "哲学",
+     "view": "《会饮》中把厄洛斯解读为对美与善的欲求，是哲学爱的原型。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "《希腊宗教》中讨论厄洛斯从宇宙论到爱情神的演变。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-eros",
+     "note": "与相关传统作母题层面的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>厄洛斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>厄洛斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>原初爱欲</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙结合力</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>爱神之子</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>有翼幼童</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>柏拉图升华</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>哲学欲求</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>厄洛斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "厄洛斯的两层形象",
+     "views": [
+      {
+       "holder": "原初神说",
+       "basis": "赫西俄德《神谱》的宇宙力。"
+      },
+      {
+       "holder": "爱神之子说",
+       "basis": "古典文学的阿佛洛狄忒之子。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "赫西俄德《神谱》把厄洛斯列为原初神之一。",
+     "source": "pri-eros"
+    },
+    {
+     "claim": "古典时期厄洛斯被描绘为阿佛洛狄忒之子的有翼幼童。",
+     "source": "pri-eros"
+    }
+   ]
+  },
+  {
+   "id": "fig-vesta",
+   "title": "维斯塔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马灶神与圣火守护者，维斯塔贞女制度的核心。",
+   "related": [
+    "myth-roman",
+    "fig-janus",
+    "fig-hera"
+   ],
+   "sources": [
+    "pri-vesta",
+    "pri-livy-rome"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古风—罗马时期多个文本层，具体读法依版本；2) 神祇的希腊—罗马对应须区分本土与借入，不简单等同；3) 描述性立场。",
+   "year": null,
+   "source_text": "维斯塔（Vesta）是罗马的灶神（炉火女神），对应希腊的赫斯提亚（Hestia）。她的圣火由维斯塔贞女（Vestal Virgins）守护，圣火的延续被视为罗马国家存续的象征——若圣火熄灭被视为凶兆。维斯塔贞女是罗马罕见的女性专职祭司团体，享有特殊地位与特权，其贞洁誓约若被违反将受严厉惩罚。维斯塔崇拜融入罗马的公共宗教与家内祭祀的核心。",
+   "versions": [
+    "维斯塔（Vesta）是罗马的灶神（炉火女神），对应希腊的赫斯提亚（Hestia）。她的圣火由维斯塔贞女（Vestal Virgins）守护，圣火的延续被视为罗马国家存续的象征——若圣火熄灭被视为凶兆。维斯塔贞女是罗马罕见的女性专职祭司团体，享有特殊地位与特权，其贞洁誓约若被违反将受严厉惩罚。维斯塔崇拜融入罗马的公共宗教与家内祭祀的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Livy",
+     "school": "古典史家",
+     "view": "《罗马史》中记载维斯塔贞女与圣火的相关事件。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "把维斯塔—赫斯提亚的炉火崇拜置于印欧家庭—国家结构比较。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "炉火崇拜是印欧宗教的共同遗产之一。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-vesta",
+     "note": "与相关传统作母题层面的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>维斯塔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>维斯塔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>灶神圣火</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>国家象征</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>维斯塔贞女</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>女性祭司</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>赫斯提亚对应</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>希腊炉火神</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>维斯塔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "圣火的政治意义",
+     "views": [
+      {
+       "holder": "国家存续说",
+       "basis": "圣火象征罗马的延续。"
+      },
+      {
+       "holder": "家内扩展说",
+       "basis": "由家内炉火崇拜扩展为国家礼仪。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "维斯塔是罗马灶神，其圣火由维斯塔贞女守护。",
+     "source": "pri-vesta"
+    },
+    {
+     "claim": "圣火延续被视为罗马国家存续的象征。",
+     "source": "pri-vesta"
+    }
+   ]
+  },
+  {
+   "id": "fig-ceres",
+   "title": "刻瑞斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马农业与谷物女神，与希腊德墨忒尔对应。",
+   "related": [
+    "myth-roman",
+    "fig-demeter",
+    "motif-dying-rising"
+   ],
+   "sources": [
+    "pri-ceres",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古风—罗马时期多个文本层，具体读法依版本；2) 神祇的希腊—罗马对应须区分本土与借入，不简单等同；3) 描述性立场。",
+   "year": null,
+   "source_text": "刻瑞斯（Ceres）是罗马的农业与谷物女神，对应希腊的德墨忒尔（Demeter）。她的名字被认为是'谷物'（cereal）一词的来源。刻瑞斯与女儿普洛塞庇娜（Proserpina，对应珀耳塞福涅）的神话（女儿被冥王普鲁托劫走、母女每半年团聚）解释了季节的循环——这一叙事经西塞罗等罗马作家的转述而广为人知。刻瑞斯崇拜在罗马共和—帝国时期与平民政治及粮食供应密切相关。",
+   "versions": [
+    "刻瑞斯（Ceres）是罗马的农业与谷物女神，对应希腊的德墨忒尔（Demeter）。她的名字被认为是'谷物'（cereal）一词的来源。刻瑞斯与女儿普洛塞庇娜（Proserpina，对应珀耳塞福涅）的神话（女儿被冥王普鲁托劫走、母女每半年团聚）解释了季节的循环——这一叙事经西塞罗等罗马作家的转述而广为人知。刻瑞斯崇拜在罗马共和—帝国时期与平民政治及粮食供应密切相关。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Cicero",
+     "school": "古典作家",
+     "view": "其著作转述了刻瑞斯与普洛塞庇娜的神话与崇拜。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "刻瑞斯—德墨忒尔对应是希腊—罗马宗教借入的典型案例。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "农业女神与三功能中的生产功能相关。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-ceres",
+     "note": "与相关传统作母题层面的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>刻瑞斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>刻瑞斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>谷物女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>cereal词源</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母女神话</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>季节循环</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>德墨忒尔对应</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>希腊借入</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>刻瑞斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "刻瑞斯与德墨忒尔",
+     "views": [
+      {
+       "holder": "对应说",
+       "basis": "罗马刻瑞斯借自希腊德墨忒尔。"
+      },
+      {
+       "holder": "本土底层说",
+       "basis": "罗马本土有独立的农业女神传统。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "刻瑞斯是罗马农业与谷物女神，cereal一词源自其名。",
+     "source": "pri-ceres"
+    },
+    {
+     "claim": "刻瑞斯与普洛塞庇娜的神话解释季节循环。",
+     "source": "pri-ceres"
     }
    ]
   }

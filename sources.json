@@ -2547,6 +2547,84 @@
    "link_ok": true,
    "verified": true,
    "note": "阿纳特（Anat）是迦南战争与丰饶女神，乌加里特巴力循环中的重要角色；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-artemis",
+   "title": "阿尔忒弥斯文献（荷马颂歌与神话汇编）",
+   "author": "佚名（希腊）/Apollodorus 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Artemis",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿尔忒弥斯（Artemis）是希腊狩猎与月亮女神，奥林匹斯十二神之一；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nike",
+   "title": "尼刻文献（希腊胜利女神）",
+   "author": "佚名（希腊）",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nike_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "尼刻（Nike）是希腊胜利女神，常见于古典艺术（如萨莫色雷斯的胜利女神像）；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-eros",
+   "title": "厄洛斯文献（希腊爱欲神）",
+   "author": "佚名（希腊）/Hesiod 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Eros",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "厄洛斯（Eros）是希腊爱与欲望神，赫西俄德《神谱》中的原初神之一；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-janus",
+   "title": "雅努斯文献（罗马门神）",
+   "author": "佚名（罗马）",
+   "year": null,
+   "year_display": "罗马王政—帝国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Janus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雅努斯（Janus）是罗马的门与过渡之神，双面形象，January 月名来源；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-vesta",
+   "title": "维斯塔文献（罗马灶神与圣火）",
+   "author": "佚名（罗马）",
+   "year": null,
+   "year_display": "罗马王政—帝国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Vesta_(goddess)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "维斯塔（Vesta）是罗马灶神，维斯塔贞女守护的圣火象征罗马的存续；2026-11-23 经 Wikipedia API 实测（Vesta (mythology)→Vesta (goddess)）。"
+  },
+  {
+   "id": "pri-ceres",
+   "title": "刻瑞斯文献（罗马谷神）",
+   "author": "佚名（罗马）",
+   "year": null,
+   "year_display": "罗马王政—帝国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ceres_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "刻瑞斯（Ceres）是罗马农业与谷神，与希腊德墨忒尔对应，Ceres 词源为'谷物'（cereal）；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

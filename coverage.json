@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T15:46:55+08:00",
+  "generated": "2026-11-23T15:52:14+08:00",
   "summary": {
-    "total": 270,
+    "total": 275,
     "by_unit": {
       "U1": 79,
       "U2": 63,
       "U3": 42,
-      "U4": 86
+      "U4": 91
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 156
+      "补充": 161
     },
     "by_level": {
       "L1": 0,
-      "L2": 156,
+      "L2": 161,
       "L3": 114
     },
-    "l2_done": 270,
+    "l2_done": 275,
     "l3_done": 114,
-    "verified_sources": 150
+    "verified_sources": 156
   },
   "entries": [
     {
@@ -2615,7 +2615,7 @@
       "tier": "重要",
       "level": "L3",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -2990,6 +2990,61 @@
       "level": "L2",
       "status": "done",
       "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-artemis",
+      "name": "阿尔忒弥斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-nike",
+      "name": "尼刻",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-eros",
+      "name": "厄洛斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-vesta",
+      "name": "维斯塔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-ceres",
+      "name": "刻瑞斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     }
