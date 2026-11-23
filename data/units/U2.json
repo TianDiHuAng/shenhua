@@ -876,16 +876,21 @@
    ],
    "sources": [
     "enc-wiki-world-religion",
-    "enc-brit-hinduism"
+    "enc-brit-hinduism",
+    "pri-sikh",
+    "aca-god-is-not-one"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 教派与实践差异待专门文献核对；2) 三位学者观点为概括，百科来源未在线核验已标弱参照；3) 不替信仰表态。",
+   "pending_notes": "1) 教派与实践差异待专门文献核对；2) 三位学者观点为概括，百科来源未在线核验已标弱参照；3) 不替信仰表态。 1) 十代古鲁与经典编次按公开史实描述；2) '锡克教是印度教/伊斯兰教的综合'是简化说法，学界强调其独特性；3) 描述性立场，不评判信仰真伪。",
    "year": null,
-   "source_text": "锡克教是起源于南亚的宗教传统，以《古鲁·格兰特·萨希卜》为核心经典，强调一神、师承与平等。本站采用学术描述性立场，不评判信仰真伪。",
+   "source_text": "锡克教（Sikhism）15–18世纪兴起于印度旁遮普，以那纳克（Nanak，1469–1539）为第一位古鲁，共十代古鲁。核心教义为一神（Waheguru）、平等、诚实劳动与记忆神名（Naam Japo）；反对种姓歧视与偶像崇拜。第五代古鲁阿尔詹1604年编次《古鲁·格兰特·萨希卜》，第十代古鲁戈宾德·辛格1708年定本并确立经典为'永恒古鲁'，另创卡尔萨（Khalsa）武士团制度（1699年）。",
    "versions": [
     "锡克教传统以十位古鲁的传承为历史叙事核心，第十位古鲁后经典成为社群权威的中心。",
     "不同教派与社群在实践与组织上各有侧重，是历史发展的结果。",
-    "锡克教与印度教、伊斯兰教在历史语境中互动，但教义上保持自身传统。"
+    "锡克教与印度教、伊斯兰教在历史语境中互动，但教义上保持自身传统。",
+    "那纳克的口传与《贾纳姆萨基》传统传记材料。",
+    "1604年《古鲁·格兰特·萨希卜》初编与1708年定本。",
+    "1699年卡尔萨制度确立后的社群组织形态。"
    ],
    "interpretations": [
     {
@@ -902,6 +907,21 @@
      "holder": "Mircea Eliade",
      "school": "宗教现象学",
      "view": "（据《神圣与世俗》）Eliade 以神圣文本与师承在宗教史中的角色为参照，提示锡克教经典权威的现象学意义；属框架性对照。"
+    },
+    {
+     "holder": "Guru Nanak",
+     "school": "创立者",
+     "view": "那纳克以'神面前无高低'的平等观与 Naam 实践为核心，属创立者文本。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "Prothero 在《God Is Not One》中把锡克教作为独立宗教而非印度教支派，强调其独特目标（'与神合一而不失个体性'）。"
+    },
+    {
+     "holder": "W. H. McLeod",
+     "school": "锡克研究",
+     "view": "McLeod 以史料考据方法研究锡克教的起源与经典形成。（该学者著作未录入来源库，书名待补）"
     }
    ],
    "comparisons": [
@@ -943,6 +963,32 @@
        "basis": "强调历史上与周边传统的互动与共享词汇，但不因此否定独立性。"
       }
      ]
+    },
+    {
+     "issue": "锡克教的宗教分类",
+     "views": [
+      {
+       "holder": "独立宗教说",
+       "basis": "有独立经典、古鲁传统与社群制度。"
+      },
+      {
+       "holder": "印度教支派说",
+       "basis": "部分学术分类仍归为印度教内的一支。"
+      }
+     ]
+    },
+    {
+     "issue": "卡尔萨的宗教地位",
+     "views": [
+      {
+       "holder": "核心制度说",
+       "basis": "卡尔萨是锡克身份的核心标志。"
+      },
+      {
+       "holder": "历史发展说",
+       "basis": "卡尔萨是特定历史阶段的制度产物。"
+      }
+     ]
     }
    ],
    "data_points": [
@@ -953,6 +999,14 @@
     {
      "claim": "锡克教强调一神、师承与平等，与南亚宗教背景相关。",
      "basis_source": "enc-brit-hinduism"
+    },
+    {
+     "claim": "《古鲁·格兰特·萨希卜》1604年初编、1708年由第十代古鲁定本。",
+     "source": "pri-sikh"
+    },
+    {
+     "claim": "1699年第十代古鲁戈宾德·辛格创立卡尔萨武士团制度。",
+     "source": "pri-sikh"
     }
    ]
   },
@@ -3551,7 +3605,6 @@
    "summary": "以撒玛利亚摩西五经与基利心山圣所为中心的以色列古宗教支派，存续至今。",
    "related": [
     "rel-judaism",
-    "rel-judaism",
     "rel-samaritan",
     "fig-moses"
    ],
@@ -3646,8 +3699,7 @@
    "summary": "8世纪兴起，否认拉比口传律法权威、唯以希伯来圣经为据的犹太教派。",
    "related": [
     "rel-judaism",
-    "rel-samaritan",
-    "rel-judaism"
+    "rel-samaritan"
    ],
    "sources": [
     "aca-myth-legend-custom"
@@ -3833,7 +3885,7 @@
     "rel-tenrikyo",
     "myth-celtic",
     "motif-hierogamy",
-    "myth-aboriginal"
+    "myth-australian"
    ],
    "sources": [
     "pri-gardner-wicca"
@@ -3924,7 +3976,6 @@
    "period": "modern",
    "summary": "以路德《奥格斯堡信纲》为信条基准的宗教改革主流宗派。",
    "related": [
-    "rel-protestantism",
     "rel-protestantism",
     "rel-anglican"
    ],
@@ -4665,100 +4716,6 @@
     {
      "claim": "Kemetism 实践依埃及学文献与神庙铭文重构，属现代再造。",
      "source": "pri-kemetic"
-    }
-   ]
-  },
-  {
-   "id": "rel-sikh",
-   "title": "锡克教",
-   "level": "L2",
-   "tier": "补充",
-   "period": "modern",
-   "summary": "以《古鲁·格兰特·萨希卜》为永恒古鲁的印度旁遮普一神教传统。",
-   "related": [
-    "rel-hinduism",
-    "rel-islam",
-    "rel-buddhism"
-   ],
-   "sources": [
-    "pri-sikh",
-    "aca-god-is-not-one"
-   ],
-   "needs_verification": true,
-   "pending_notes": "1) 十代古鲁与经典编次按公开史实描述；2) '锡克教是印度教/伊斯兰教的综合'是简化说法，学界强调其独特性；3) 描述性立场，不评判信仰真伪。",
-   "year": null,
-   "source_text": "锡克教（Sikhism）15–18世纪兴起于印度旁遮普，以那纳克（Nanak，1469–1539）为第一位古鲁，共十代古鲁。核心教义为一神（Waheguru）、平等、诚实劳动与记忆神名（Naam Japo）；反对种姓歧视与偶像崇拜。第五代古鲁阿尔詹1604年编次《古鲁·格兰特·萨希卜》，第十代古鲁戈宾德·辛格1708年定本并确立经典为'永恒古鲁'，另创卡尔萨（Khalsa）武士团制度（1699年）。",
-   "versions": [
-    "那纳克的口传与《贾纳姆萨基》传统传记材料。",
-    "1604年《古鲁·格兰特·萨希卜》初编与1708年定本。",
-    "1699年卡尔萨制度确立后的社群组织形态。"
-   ],
-   "interpretations": [
-    {
-     "holder": "Guru Nanak",
-     "school": "创立者",
-     "view": "那纳克以'神面前无高低'的平等观与 Naam 实践为核心，属创立者文本。"
-    },
-    {
-     "holder": "Stephen Prothero",
-     "school": "比较宗教学",
-     "view": "Prothero 在《God Is Not One》中把锡克教作为独立宗教而非印度教支派，强调其独特目标（'与神合一而不失个体性'）。"
-    },
-    {
-     "holder": "W. H. McLeod",
-     "school": "锡克研究",
-     "view": "McLeod 以史料考据方法研究锡克教的起源与经典形成。（该学者著作未录入来源库，书名待补）"
-    }
-   ],
-   "comparisons": [
-    {
-     "tradition": "印度教",
-     "basis_source": "aca-god-is-not-one",
-     "note": "锡克教与印度教共享部分术语（如 karma、moksha）但教义立场不同，作平行描述。"
-    },
-    {
-     "tradition": "伊斯兰教",
-     "basis_source": "pri-sikh",
-     "note": "一神论与反偶像崇拜的相似性是接触层面的一般参照，不主张同源。"
-    }
-   ],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>锡克教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>锡克教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Waheguru</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>唯一神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>古鲁·格兰特</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>永恒古鲁</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡尔萨</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1699武士团</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>锡克教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
-   "controversies": [
-    {
-     "issue": "锡克教的宗教分类",
-     "views": [
-      {
-       "holder": "独立宗教说",
-       "basis": "有独立经典、古鲁传统与社群制度。"
-      },
-      {
-       "holder": "印度教支派说",
-       "basis": "部分学术分类仍归为印度教内的一支。"
-      }
-     ]
-    },
-    {
-     "issue": "卡尔萨的宗教地位",
-     "views": [
-      {
-       "holder": "核心制度说",
-       "basis": "卡尔萨是锡克身份的核心标志。"
-      },
-      {
-       "holder": "历史发展说",
-       "basis": "卡尔萨是特定历史阶段的制度产物。"
-      }
-     ]
-    }
-   ],
-   "data_points": [
-    {
-     "claim": "《古鲁·格兰特·萨希卜》1604年初编、1708年由第十代古鲁定本。",
-     "source": "pri-sikh"
-    },
-    {
-     "claim": "1699年第十代古鲁戈宾德·辛格创立卡尔萨武士团制度。",
-     "source": "pri-sikh"
     }
    ]
   },

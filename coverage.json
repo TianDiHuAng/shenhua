@@ -1,24 +1,24 @@
 {
-  "generated": "2026-11-23T15:32:50+08:00",
+  "generated": "2026-11-23T15:37:36+08:00",
   "summary": {
-    "total": 266,
+    "total": 264,
     "by_unit": {
-      "U1": 80,
-      "U2": 64,
+      "U1": 79,
+      "U2": 63,
       "U3": 42,
       "U4": 80
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 152
+      "补充": 150
     },
     "by_level": {
       "L1": 0,
-      "L2": 152,
+      "L2": 150,
       "L3": 114
     },
-    "l2_done": 266,
+    "l2_done": 264,
     "l3_done": 114,
     "verified_sources": 144
   },
@@ -250,7 +250,7 @@
       "tier": "重要",
       "level": "L3",
       "status": "done",
-      "sources_count": 2,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -673,17 +673,6 @@
       "last_updated": "2026-11-23"
     },
     {
-      "id": "myth-aboriginal",
-      "name": "澳大利亚原住民神话",
-      "unit": "U1",
-      "tier": "补充",
-      "level": "L2",
-      "status": "done",
-      "sources_count": 3,
-      "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
-    },
-    {
       "id": "myth-cherokee",
       "name": "切罗基神话",
       "unit": "U1",
@@ -1009,7 +998,7 @@
       "tier": "重要",
       "level": "L3",
       "status": "done",
-      "sources_count": 2,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1500,17 +1489,6 @@
     {
       "id": "rel-kemeticism",
       "name": "埃及多神复兴（Kemetism）",
-      "unit": "U2",
-      "tier": "补充",
-      "level": "L2",
-      "status": "done",
-      "sources_count": 2,
-      "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
-    },
-    {
-      "id": "rel-sikh",
-      "name": "锡克教",
       "unit": "U2",
       "tier": "补充",
       "level": "L2",
@@ -3012,7 +2990,6 @@
         "myth-papuan",
         "myth-navajo",
         "myth-iroquois",
-        "myth-aboriginal",
         "myth-cherokee",
         "myth-zulu",
         "myth-scythian",
@@ -3088,7 +3065,6 @@
         "rel-unitarian",
         "rel-hellenism",
         "rel-kemeticism",
-        "rel-sikh",
         "rel-shenism",
         "rel-ahmadiyya",
         "rel-ismaili",
@@ -7250,76 +7226,6 @@
         "status": "empty"
       },
       {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-creation",
-        "period": "oral",
-        "expected": true,
-        "status": "L2"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-flood",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-underworld",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-herojourney",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-sun",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-mother-goddess",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-dragon",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-worldtree",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-eschatology",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "myth-aboriginal",
-        "motif": "motif-trickster",
-        "period": "oral",
-        "expected": false,
-        "status": "empty"
-      },
-      {
         "tradition": "myth-cherokee",
         "motif": "motif-creation",
         "period": "oral",
@@ -12564,76 +12470,6 @@
       },
       {
         "tradition": "rel-kemeticism",
-        "motif": "motif-trickster",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-creation",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-flood",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-underworld",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-herojourney",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-sun",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-mother-goddess",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-dragon",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-worldtree",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
-        "motif": "motif-eschatology",
-        "period": "modern",
-        "expected": false,
-        "status": "empty"
-      },
-      {
-        "tradition": "rel-sikh",
         "motif": "motif-trickster",
         "period": "modern",
         "expected": false,

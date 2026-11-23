@@ -1533,7 +1533,6 @@
     "myth-hittite",
     "myth-norse",
     "motif-cosmic-combat",
-    "myth-norse",
     "motif-creation"
    ],
    "sources": [
@@ -2060,16 +2059,22 @@
    ],
    "sources": [
     "enc-wiki-list-myth",
-    "ins-world-history"
+    "ins-world-history",
+    "pri-the-dreaming",
+    "aca-shamanism",
+    "aca-eternal-return"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 外部记录的完整性与准确性有限，正文已标注；2) Stanner、Strehlow 著作未录入 sources.json，已标注；3) 材料涉及文化敏感性，本站仅作学术描述；4) 跨区域比较为弱参照，待补专门文献；“梦创时代（Dreaming）”采用中文为主、英文括注。",
+   "pending_notes": "1) 外部记录的完整性与准确性有限，正文已标注；2) Stanner、Strehlow 著作未录入 sources.json，已标注；3) 材料涉及文化敏感性，本站仅作学术描述；4) 跨区域比较为弱参照，待补专门文献；“梦创时代（Dreaming）”采用中文为主、英文括注。 1) 梦幻时代是数百部族传统的总称，各部族叙事差异极大，本文只作通述；2) 彩虹蛇等形象的区域差异待专门文献；3) 涉及圣地与传承知识，公开记录有限，如实标注；4) 描述性立场。",
    "year": null,
-   "source_text": "澳大利亚原住民神话以“梦创时代”（Dreaming）的祖先叙事与宇宙观为核心，主要通过口传、仪式与岩画传统保存。材料记录涉及殖民语境与文化敏感性，本站以学术描述性立场整理，不评判信仰真伪。",
+   "source_text": "澳大利亚原住民神话是对数百个部族口传传统的总称，其核心概念为梦幻时代（The Dreaming/Dreamtime）：祖先存在（Ancestral Beings）在创世期穿行大地，留下山川、律法与仪式，今日世界是其延续。叙事以歌、画、舞、圣地为载体（'歌之路径'songlines），不构成单一正典。",
    "versions": [
     "不同原住民群体的梦创叙事各有地方差异，祖先神话与特定地域紧密关联。",
     "口传与仪式知识多为社群内部传承，外部记录的完整性与准确性有限。",
-    "殖民时期记录与当代原住民社群的叙述之间存在语境差异，解读需谨慎。"
+    "殖民时期记录与当代原住民社群的叙述之间存在语境差异，解读需谨慎。",
+    "阿伦塔（Arrernte）等中部沙漠部族的版本经斯宾塞与吉伦1899年起记录，是早期学术文本之一。",
+    "金伯利与阿纳姆地地区的版本以彩虹蛇与闪电祖先为核心形象。",
+    "当代原住民作者把梦幻时代叙事用英语写作重新表达，形成新的文本层次。"
    ],
    "interpretations": [
     {
@@ -2086,6 +2091,21 @@
      "holder": "Mircea Eliade",
      "school": "宗教现象学",
      "view": "（据《永恒回归的神话》）Eliade 认为神话时间可经仪式重演而被更新，为理解“梦创时代”提供现象学参照，不直接等同于对该传统的专门结论。"
+    },
+    {
+     "holder": "Baldwin Spencer 与 F. J. Gillen",
+     "school": "19世纪末民族志",
+     "view": "斯宾塞与吉伦对阿伦塔传统的记录奠定早期文本基础，但以当时术语（如 Alcheringa）表述，今已修正。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "W. E. H. Stanner",
+     "school": "宗教人类学",
+     "view": "Stanner 提出'每事皆有所属之梦'的表述，强调梦幻时代不是过去而是持续的'现在时'结构。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《永恒回归的神话》中把澳洲材料作为'神圣开端—当代重复'结构的核心案例，属现象学框架参照。"
     }
    ],
    "comparisons": [
@@ -2127,6 +2147,32 @@
        "basis": "通俗叙述常简化为遥远的创世时代，学界指出属误读。"
       }
      ]
+    },
+    {
+     "issue": "Dreaming/Dreamtime 的术语适切性",
+     "views": [
+      {
+       "holder": "沿用说",
+       "basis": "Dreaming 已是通行学术术语，沿用便于对话。"
+      },
+      {
+       "holder": "批判说",
+       "basis": "该词遮蔽原语概念（如 Tjukurpa、Altyerre），应尽量用部族语言原词。"
+      }
+     ]
+    },
+    {
+     "issue": "口传叙事的年代推定",
+     "views": [
+      {
+       "holder": "深时说",
+       "basis": "结合地质与口传证据（如海平面记忆）主张传统延续数万年。"
+      },
+      {
+       "holder": "审慎说",
+       "basis": "口传内容不可直接当编年史料，年代推定须逐案论证。"
+      }
+     ]
     }
    ],
    "data_points": [
@@ -2137,6 +2183,14 @@
     {
      "claim": "材料记录涉及殖民语境与文化敏感性。",
      "basis_source": "ins-world-history"
+    },
+    {
+     "claim": "澳大利亚原住民文化是全球公认延续时间最长的连续文化传统之一，口传叙事仍活态传承。",
+     "source": "pri-the-dreaming"
+    },
+    {
+     "claim": "'歌之路径'（songlines）把叙事与地理路径绑定，是梦幻时代叙事的空间组织方式。",
+     "source": "pri-the-dreaming"
     }
    ]
   },
@@ -3041,7 +3095,7 @@
    "related": [
     "myth-armenian",
     "myth-micronesian",
-    "myth-aboriginal",
+    "myth-australian",
     "motif-world-parents",
     "myth-japanese",
     "motif-herojourney"
@@ -4341,7 +4395,7 @@
    "summary": "以《迪内巴霍》（变迁叙事）为核心的北美原住民最大神话传统。",
    "related": [
     "myth-iroquois",
-    "myth-aboriginal",
+    "myth-australian",
     "motif-creation",
     "motif-eternal-return"
    ],
@@ -4524,102 +4578,6 @@
    ]
   },
   {
-   "id": "myth-aboriginal",
-   "title": "澳大利亚原住民神话",
-   "level": "L2",
-   "tier": "补充",
-   "period": "oral",
-   "summary": "以梦幻时代（The Dreaming）创世与祖先叙事为核心的口传传统总称。",
-   "related": [
-    "motif-eternal-return",
-    "motif-rainbow-serpent",
-    "myth-maori",
-    "motif-creation"
-   ],
-   "sources": [
-    "pri-the-dreaming",
-    "aca-shamanism",
-    "aca-eternal-return"
-   ],
-   "needs_verification": true,
-   "pending_notes": "1) 梦幻时代是数百部族传统的总称，各部族叙事差异极大，本文只作通述；2) 彩虹蛇等形象的区域差异待专门文献；3) 涉及圣地与传承知识，公开记录有限，如实标注；4) 描述性立场。",
-   "year": null,
-   "source_text": "澳大利亚原住民神话是对数百个部族口传传统的总称，其核心概念为梦幻时代（The Dreaming/Dreamtime）：祖先存在（Ancestral Beings）在创世期穿行大地，留下山川、律法与仪式，今日世界是其延续。叙事以歌、画、舞、圣地为载体（'歌之路径'songlines），不构成单一正典。",
-   "versions": [
-    "阿伦塔（Arrernte）等中部沙漠部族的版本经斯宾塞与吉伦1899年起记录，是早期学术文本之一。",
-    "金伯利与阿纳姆地地区的版本以彩虹蛇与闪电祖先为核心形象。",
-    "当代原住民作者把梦幻时代叙事用英语写作重新表达，形成新的文本层次。"
-   ],
-   "interpretations": [
-    {
-     "holder": "Baldwin Spencer 与 F. J. Gillen",
-     "school": "19世纪末民族志",
-     "view": "斯宾塞与吉伦对阿伦塔传统的记录奠定早期文本基础，但以当时术语（如 Alcheringa）表述，今已修正。（该学者著作未录入来源库，书名待补）"
-    },
-    {
-     "holder": "W. E. H. Stanner",
-     "school": "宗教人类学",
-     "view": "Stanner 提出'每事皆有所属之梦'的表述，强调梦幻时代不是过去而是持续的'现在时'结构。（该学者著作未录入来源库，书名待补）"
-    },
-    {
-     "holder": "Mircea Eliade",
-     "school": "宗教现象学",
-     "view": "Eliade 在《永恒回归的神话》中把澳洲材料作为'神圣开端—当代重复'结构的核心案例，属现象学框架参照。"
-    }
-   ],
-   "comparisons": [
-    {
-     "tradition": "毛利神话",
-     "basis_source": "aca-shamanism",
-     "note": "大洋洲两大口传体系的一般对照（创世祖先/神谱），不主张同源。"
-    },
-    {
-     "tradition": "北欧神话",
-     "basis_source": "aca-eternal-return",
-     "note": "以'开端即典范'的永恒回归结构作现象学对照，属框架性参照。"
-    }
-   ],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>梦幻时代结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>梦幻时代（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祖先存在</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世穿行</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>歌之路径</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>叙事地图</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣地</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神圣载体</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>梦幻时代要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，细节见正文与待核实说明</text></svg>",
-   "controversies": [
-    {
-     "issue": "Dreaming/Dreamtime 的术语适切性",
-     "views": [
-      {
-       "holder": "沿用说",
-       "basis": "Dreaming 已是通行学术术语，沿用便于对话。"
-      },
-      {
-       "holder": "批判说",
-       "basis": "该词遮蔽原语概念（如 Tjukurpa、Altyerre），应尽量用部族语言原词。"
-      }
-     ]
-    },
-    {
-     "issue": "口传叙事的年代推定",
-     "views": [
-      {
-       "holder": "深时说",
-       "basis": "结合地质与口传证据（如海平面记忆）主张传统延续数万年。"
-      },
-      {
-       "holder": "审慎说",
-       "basis": "口传内容不可直接当编年史料，年代推定须逐案论证。"
-      }
-     ]
-    }
-   ],
-   "data_points": [
-    {
-     "claim": "澳大利亚原住民文化是全球公认延续时间最长的连续文化传统之一，口传叙事仍活态传承。",
-     "source": "pri-the-dreaming"
-    },
-    {
-     "claim": "'歌之路径'（songlines）把叙事与地理路径绑定，是梦幻时代叙事的空间组织方式。",
-     "source": "pri-the-dreaming"
-    }
-   ]
-  },
-  {
    "id": "myth-cherokee",
    "title": "切罗基神话",
    "level": "L2",
@@ -4722,7 +4680,6 @@
    "summary": "以 Unkulunkulu（太初者）创世与祖先（amadlozi）崇奉为核心的南非祖鲁传统。",
    "related": [
     "myth-yoruba",
-    "motif-creation",
     "motif-creation"
    ],
    "sources": [
@@ -5857,7 +5814,7 @@
    "period": "oral",
    "summary": "以蛇神德盖（Degei）创世与祖先神灵（kalou-vu）崇拜为核心的美拉尼西亚传统。",
    "related": [
-    "myth-aboriginal",
+    "myth-australian",
     "myth-maori",
     "motif-creation"
    ],
