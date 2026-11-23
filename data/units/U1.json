@@ -7040,6 +7040,302 @@
      "source": "pri-lao"
     }
    ]
+  },
+  {
+   "id": "myth-igbo",
+   "title": "伊博神话（Odinani）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 Chukwu 至高神与地母 ala 为核心的尼日利亚伊博传统。",
+   "related": [
+    "myth-ashanti",
+    "myth-yoruba",
+    "myth-efik"
+   ],
+   "sources": [
+    "pri-odinani",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经民族志记录，转写有研究者加工；2) 部族/支系版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "伊博（Igbo）传统宗教被称为 Odinani：至高造物神 Chukwu（'伟大的灵'）居于天界，地母 ala（Ani）掌管土地、丰饶与道德秩序，Mmuo 是灵界（含祖先与自然界神灵），人的命运（chi）在出生前被设定。伊博宇宙观强调天—地—灵界三域的关联与'维持平衡'的仪式实践。20世纪以来 Odinani 概念经伊博学者系统阐述，并成为伊博文化身份的重要组成。",
+   "versions": [
+    "伊博（Igbo）传统宗教被称为 Odinani：至高造物神 Chukwu（'伟大的灵'）居于天界，地母 ala（Ani）掌管土地、丰饶与道德秩序，Mmuo 是灵界（含祖先与自然界神灵），人的命运（chi）在出生前被设定。伊博宇宙观强调天—地—灵界三域的关联与'维持平衡'的仪式实践。20世纪以来 Odinani 概念经伊博学者系统阐述，并成为伊博文化身份的重要组成。"
+   ],
+   "interpretations": [
+    {
+     "holder": "伊博口传传统",
+     "school": "本土叙事",
+     "view": "Chukwu/ala/chi 是其宇宙论的核心概念。"
+    },
+    {
+     "holder": "现代伊博研究",
+     "school": "区域研究",
+     "view": "强调 Odinani 作为现代重构的系统化宗教概念。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天—地—灵三域结构可作宇宙论参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-odinani",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊博神话（Odinani）结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊博神话（Odinani）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Chukwu</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>至高天神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>ala</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>地母</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>chi</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>个人命运</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊博神话（Odinani）要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Odinani 的性质",
+     "views": [
+      {
+       "holder": "古老传统说",
+       "basis": "是伊博固有的宗教体系。"
+      },
+      {
+       "holder": "现代重构说",
+       "basis": "系统化表述是近现代学者的整理。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊博传统宗教以 Chukwu 与地母 ala 为核心。",
+     "source": "pri-odinani"
+    },
+    {
+     "claim": "chi（个人命运）是伊博宇宙观的重要概念。",
+     "source": "pri-odinani"
+    }
+   ]
+  },
+  {
+   "id": "myth-maasai",
+   "title": "马赛神话（Enkai 传统）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以东非马赛人 Enkai 天神与祖先崇拜为核心的牧民传统。",
+   "related": [
+    "myth-zulu",
+    "myth-ashanti",
+    "motif-skyfather"
+   ],
+   "sources": [
+    "pri-maasai",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经民族志记录，转写有研究者加工；2) 部族/支系版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "马赛（Maasai）是东非的游牧民族，其宗教以 Enkai（或 Engai，天神）为核心：Enkai 被视为造物主与降雨者，具有黑（恩惠）与红（愤怒）两面；祖先（'iloik'）崇拜与年龄组（age-set）制度是社会实践的核心，预言者/医者（laibon）承担仪式与沟通职能。神话与牛（财富与神圣 gift）紧密相连——传说 Enkai 把牛赐予马赛人，因此牛在仪式与日常中具有核心地位。",
+   "versions": [
+    "马赛（Maasai）是东非的游牧民族，其宗教以 Enkai（或 Engai，天神）为核心：Enkai 被视为造物主与降雨者，具有黑（恩惠）与红（愤怒）两面；祖先（'iloik'）崇拜与年龄组（age-set）制度是社会实践的核心，预言者/医者（laibon）承担仪式与沟通职能。神话与牛（财富与神圣 gift）紧密相连——传说 Enkai 把牛赐予马赛人，因此牛在仪式与日常中具有核心地位。"
+   ],
+   "interpretations": [
+    {
+     "holder": "马赛口传传统",
+     "school": "本土叙事",
+     "view": "Enkai 与牛的叙事是其宗教核心。"
+    },
+    {
+     "holder": "现代东非研究",
+     "school": "区域研究",
+     "view": "强调马赛宗教与游牧生活的适应关系。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天神与王权/牧民的关系可作比较参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-maasai",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>马赛神话（Enkai 传统）结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>马赛神话（Enkai 传统）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Enkai</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天神降雨者</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祖先崇拜</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>iloik</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>牛的神圣性</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Enkai之赐</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马赛神话（Enkai 传统）要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Enkai 的两面",
+     "views": [
+      {
+       "holder": "黑白二元说",
+       "basis": "Enkai 有恩惠与愤怒两面。"
+      },
+      {
+       "holder": "统一神说",
+       "basis": "两面是同一神的不同显现。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "马赛宗教以 Enkai 天神为核心，牛被视为神圣的恩赐。",
+     "source": "pri-maasai"
+    },
+    {
+     "claim": "年龄组制度与 laibon（仪式专家）是其社会实践核心。",
+     "source": "pri-maasai"
+    }
+   ]
+  },
+  {
+   "id": "myth-dahomey",
+   "title": "达荷美神话（伏都传统）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 Mawu-Lisa 双神与伏都（Vodun）为核心的西非丰族传统。",
+   "related": [
+    "myth-ashanti",
+    "myth-yoruba",
+    "myth-igbo"
+   ],
+   "sources": [
+    "pri-dahomey",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经民族志记录，转写有研究者加工；2) 部族/支系版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "达荷美（Dahomey，今贝宁）的丰族（Fon）宗教以 Mawu-Lisa 双神为核心——Mawu（月、女性、温柔）与 Lisa（日、男性、力量）合为一对创世神，其子代衍生出众多神灵（vodun/vodú），雷电神 Shango、Python 神 Dangbe 等各有崇拜。'伏都'(Vodun，'灵') 是达荷美宗教的核心概念，涉及神灵附体、祭仪与秘密社团；达荷美王国（约1600–1900）的王权仪式与祖先崇拜紧密相连。达荷美伏都随大西洋奴隶贸易传播至海地等地，形成海外伏都（Vodou）传统。",
+   "versions": [
+    "达荷美（Dahomey，今贝宁）的丰族（Fon）宗教以 Mawu-Lisa 双神为核心——Mawu（月、女性、温柔）与 Lisa（日、男性、力量）合为一对创世神，其子代衍生出众多神灵（vodun/vodú），雷电神 Shango、Python 神 Dangbe 等各有崇拜。'伏都'(Vodun，'灵') 是达荷美宗教的核心概念，涉及神灵附体、祭仪与秘密社团；达荷美王国（约1600–1900）的王权仪式与祖先崇拜紧密相连。达荷美伏都随大西洋奴隶贸易传播至海地等地，形成海外伏都（Vodou）传统。"
+   ],
+   "interpretations": [
+    {
+     "holder": "丰族口传传统",
+     "school": "本土叙事",
+     "view": "Mawu-Lisa 双神创世是核心神话。"
+    },
+    {
+     "holder": "伏都研究",
+     "school": "宗教学",
+     "view": "强调达荷美 Vodun 与海地 Vodou 的传播与重构关系。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "双神与神灵谱系可作创世母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-dahomey",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>达荷美神话（伏都传统）结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>达荷美神话（伏都传统）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Mawu-Lisa</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>双创世神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伏都 Vodun</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神灵体系</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>跨洋传播</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>海地伏都</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>达荷美神话（伏都传统）要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Mawu 与 Lisa",
+     "views": [
+      {
+       "holder": "合一说",
+       "basis": "是同一神的双面。"
+      },
+      {
+       "holder": "二元说",
+       "basis": "是两个独立而 complementary 的神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "达荷美神话以 Mawu-Lisa 双神与伏都神灵体系为核心。",
+     "source": "pri-dahomey"
+    },
+    {
+     "claim": "达荷美伏都随奴隶贸易传播至海地，形成海外伏都。",
+     "source": "pri-dahomey"
+    }
+   ]
+  },
+  {
+   "id": "myth-luba",
+   "title": "卢巴神话（Baluba 传统）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以造物神与祖先灵、秘密社团为核心的刚果卢巴传统。",
+   "related": [
+    "myth-bantu",
+    "myth-efik",
+    "myth-ashanti"
+   ],
+   "sources": [
+    "pri-luba",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经民族志记录，转写有研究者加工；2) 部族/支系版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "卢巴（Luba，刚果民主共和国中部）的宗教传统以高高在上的造物神（如 Leza/Wele 等名称因支系而异）与祖先灵（mudimu）为核心：造物神被视为善的来源，但距人遥远，日常仪式主要面向祖先灵与自然界灵；秘密社团（如 Bwami）在维护社会秩序、道德教化和艺术传统（如卢巴雕像与王权象征）中扮演核心角色。卢巴王权的神话叙事（如神圣国王与王权徽记的起源）是其政治宗教的重要组成。",
+   "versions": [
+    "卢巴（Luba，刚果民主共和国中部）的宗教传统以高高在上的造物神（如 Leza/Wele 等名称因支系而异）与祖先灵（mudimu）为核心：造物神被视为善的来源，但距人遥远，日常仪式主要面向祖先灵与自然界灵；秘密社团（如 Bwami）在维护社会秩序、道德教化和艺术传统（如卢巴雕像与王权象征）中扮演核心角色。卢巴王权的神话叙事（如神圣国王与王权徽记的起源）是其政治宗教的重要组成。"
+   ],
+   "interpretations": [
+    {
+     "holder": "卢巴口传传统",
+     "school": "本土叙事",
+     "view": "造物神—祖先灵—秘密社团是其结构。"
+    },
+    {
+     "holder": "中部非洲民族志",
+     "school": "区域研究",
+     "view": "记录 Bwami 社团与卢巴王权仪式。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "'遥远至高神'模式可作宗教史参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-luba",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>卢巴神话（Baluba 传统）结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>卢巴神话（Baluba 传统）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>造物神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>遥远至高</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祖先灵</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>mudimu</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Bwami</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>秘密社团</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卢巴神话（Baluba 传统）要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "至高神的地位",
+     "views": [
+      {
+       "holder": "远古信仰说",
+       "basis": "造物神是原生信仰的核心。"
+      },
+      {
+       "holder": "淡化说",
+       "basis": "日常实践中祖先灵更重要。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "卢巴传统以造物神与祖先灵为核心，Bwami 社团维护社会秩序。",
+     "source": "pri-luba"
+    },
+    {
+     "claim": "卢巴王权神话与神圣国王的徽记起源相关。",
+     "source": "pri-luba"
+    }
+   ]
   }
  ]
 }

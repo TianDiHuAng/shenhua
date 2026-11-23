@@ -4120,6 +4120,58 @@
    "link_ok": true,
    "verified": true,
    "note": "小塞内卡（约前4—65）是罗马斯多葛派哲学家，《道德书简》影响基督教灵修思想；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-odinani",
+   "title": "伊博神话文献（Odinani 传统）",
+   "author": "佚名（伊博）/民族志记录",
+   "year": null,
+   "year_display": "口传，20世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Odinani",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊博（Igbo）传统宗教称 Odinani，以 Chukwu 至高神与 ala 地母、Mmuo 灵界为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-maasai",
+   "title": "马赛宗教文献（Enkai 传统）",
+   "author": "佚名（马赛）/民族志记录",
+   "year": null,
+   "year_display": "口传，20世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Maasai_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "马赛（Maasai）宗教以 Enkai（天神）与祖先崇拜为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-dahomey",
+   "title": "达荷美宗教文献（伏都传统）",
+   "author": "佚名（丰族/Fon）",
+   "year": null,
+   "year_display": "口传，19世纪起记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Dahomean_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "达荷美（Dahomey，今贝宁）宗教以伏都（Vodun）与 Mawu-Lisa 双神创世为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-luba",
+   "title": "卢巴宗教文献（Baluba 传统）",
+   "author": "佚名（卢巴）/民族志记录",
+   "year": null,
+   "year_display": "口传，20世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Baluba_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "卢巴（Luba，刚果）宗教以至高造物主与祖先灵、秘密社团（如 Bwami）为核心；2026-11-23 经 Wikipedia API 实测（Luba mythology→Baluba religion）。"
   }
  ]
 }

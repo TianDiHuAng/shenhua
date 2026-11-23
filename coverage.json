@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-23T17:47:04+08:00",
+  "generated": "2026-11-23T17:52:29+08:00",
   "summary": {
-    "total": 388,
+    "total": 392,
     "by_unit": {
-      "U1": 86,
+      "U1": 90,
       "U2": 75,
       "U3": 42,
       "U4": 185
@@ -11,16 +11,16 @@
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 274
+      "补充": 278
     },
     "by_level": {
       "L1": 0,
-      "L2": 274,
+      "L2": 278,
       "L3": 114
     },
-    "l2_done": 388,
+    "l2_done": 392,
     "l3_done": 114,
-    "verified_sources": 271
+    "verified_sources": 275
   },
   "entries": [
     {
@@ -961,6 +961,50 @@
     {
       "id": "myth-lao",
       "name": "老挝神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-igbo",
+      "name": "伊博神话（Odinani）",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-maasai",
+      "name": "马赛神话（Enkai 传统）",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-dahomey",
+      "name": "达荷美神话（伏都传统）",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-luba",
+      "name": "卢巴神话（Baluba 传统）",
       "unit": "U1",
       "tier": "补充",
       "level": "L2",
@@ -4381,6 +4425,10 @@
         "myth-tongan",
         "myth-dayak",
         "myth-lao",
+        "myth-igbo",
+        "myth-maasai",
+        "myth-dahomey",
+        "myth-luba",
         "rel-christianity",
         "rel-islam",
         "rel-judaism",
@@ -10495,6 +10543,286 @@
         "tradition": "myth-lao",
         "motif": "motif-trickster",
         "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-igbo",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-maasai",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dahomey",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-luba",
+        "motif": "motif-trickster",
+        "period": "oral",
         "expected": false,
         "status": "empty"
       },
