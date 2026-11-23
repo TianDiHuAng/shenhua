@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 196,
-    "total": 310,
+    "supplement_l2": 202,
+    "total": 316,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/310）；补充层 196 条 L2；来源 240 条"
+    "verdict": "核心与重要层 100% L3（114/316）；补充层 202 条 L2；来源 246 条"
   },
   "round_log": [
     {
@@ -809,6 +809,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次26：新增6印度教人物（迦梨/杜尔迦/拉克希米/萨拉斯瓦蒂/象头神/哈奴曼）；D15三重查重生效（0重复）；6来源核验；修复ganesha引用；310条0 errors",
       "verdict": "正常扩充（批次26，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-69",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次27：新增6印度教人物（罗摩/克里希纳/罗波那/梵天/苏利耶/阎摩）；6来源核验；D15查重0重复；check 0 errors",
+      "verdict": "正常扩充（批次27，6条）"
     }
   ]
 }

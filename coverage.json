@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T16:39:29+08:00",
+  "generated": "2026-11-23T16:44:29+08:00",
   "summary": {
-    "total": 310,
+    "total": 316,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 107
+      "U4": 113
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 196
+      "补充": 202
     },
     "by_level": {
       "L1": 0,
-      "L2": 196,
+      "L2": 202,
       "L3": 114
     },
-    "l2_done": 310,
+    "l2_done": 316,
     "l3_done": 114,
-    "verified_sources": 194
+    "verified_sources": 200
   },
   "entries": [
     {
@@ -3430,6 +3430,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-rama",
+      "name": "罗摩",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-krishna",
+      "name": "克里希纳",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-ravana",
+      "name": "罗波那",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-brahma",
+      "name": "梵天",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-surya",
+      "name": "苏利耶",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-yama",
+      "name": "阎摩",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     }

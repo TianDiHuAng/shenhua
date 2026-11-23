@@ -3119,6 +3119,84 @@
    "link_ok": true,
    "verified": true,
    "note": "哈奴曼（Hanumān）是《罗摩衍那》中的猴神英雄，忠诚与力量的象征；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-rama",
+   "title": "《罗摩衍那》（蚁垤）",
+   "author": "蚁垤（Vālmīki）",
+   "year": null,
+   "year_display": "古代史诗（约前5—前2世纪起）",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Rama",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《罗摩衍那》是印度两大史诗之一，蚁垤所作，讲述罗摩王子的一生；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-krishna",
+   "title": "克里希纳文献（《摩诃婆罗多》与《薄伽梵歌》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "古代—往世书",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Krishna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "克里希纳（Kṛṣṇa）是印度教毗湿奴化身，《摩诃婆罗多》与《薄伽梵歌》的核心人物；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ravana",
+   "title": "罗波那文献（《罗摩衍那》十首魔王）",
+   "author": "蚁垤等",
+   "year": null,
+   "year_display": "古代史诗",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ravana",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "罗波那（Rāvaṇa）是《罗摩衍那》中兰卡的十首罗刹王，劫走悉多；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-brahma",
+   "title": "梵天文献（往世书与《摩诃婆罗多》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "往世书传统",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Brahma",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "梵天（Brahmā）是印度教三相神中的创造之神，《往世书》中确立其地位；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-surya",
+   "title": "苏利耶文献（《梨俱吠陀》太阳神颂歌）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "吠陀—往世书",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Surya",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "苏利耶（Sūrya）是印度教太阳神，吠陀时期的重要神祇；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yama",
+   "title": "阎摩文献（《梨俱吠陀》与《摩诃婆罗多》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "吠陀—往世书",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yama",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阎摩（Yama）是印度教冥界与死亡之神，吠陀时期已出现，后成为阎罗王概念的基础；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

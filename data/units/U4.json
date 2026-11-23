@@ -8973,6 +8973,450 @@
      "source": "pri-hanuman"
     }
    ]
+  },
+  {
+   "id": "fig-rama",
+   "title": "罗摩",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《罗摩衍那》的男主角，毗湿奴的化身与理想王者。",
+   "related": [
+    "myth-hindu",
+    "fig-hanuman",
+    "fig-vishnu"
+   ],
+   "sources": [
+    "pri-rama",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨吠陀—史诗—往世书多个文本层，神格随时代演变；2) 不同教派对同一人物的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "罗摩（Rāma）是印度史诗《罗摩衍那》（蚁垤作）的男主角，阿逾陀国王子，毗湿奴（Vishnu）的化身。史诗讲述他因宫廷阴谋被放逐森林，妻子悉多（Sītā）被罗波那劫走，罗摩联合猴王与哈奴曼跨海征战兰卡、救回悉多、复位为王的故事。罗摩在印度教中是理想王者（Maryāda Puruṣottama，'守正道者'）与正义的化身，其崇拜（Ramaism）在北印度广布；他的故事亦随印度文化圈传播至东南亚（如泰国《拉玛坚》）。",
+   "versions": [
+    "罗摩（Rāma）是印度史诗《罗摩衍那》（蚁垤作）的男主角，阿逾陀国王子，毗湿奴（Vishnu）的化身。史诗讲述他因宫廷阴谋被放逐森林，妻子悉多（Sītā）被罗波那劫走，罗摩联合猴王与哈奴曼跨海征战兰卡、救回悉多、复位为王的故事。罗摩在印度教中是理想王者（Maryāda Puruṣottama，'守正道者'）与正义的化身，其崇拜（Ramaism）在北印度广布；他的故事亦随印度文化圈传播至东南亚（如泰国《拉玛坚》）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Vālmīki（蚁垤）",
+     "school": "史诗作者",
+     "view": "《罗摩衍那》确立罗摩的英雄范式。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "《千面英雄》框架下罗摩是'王者—英雄'的典型。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调罗摩崇拜在近现代印度政治—宗教中的复杂角色。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-rama",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>罗摩形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>罗摩（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>理想王者</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>MaryadaPurushottam</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>毗湿奴化身</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神性</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>救妻征战</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>兰卡之战</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗摩要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "罗摩的历史性",
+     "views": [
+      {
+       "holder": "历史核心说",
+       "basis": "可能基于古代王子传说。"
+      },
+      {
+       "holder": "纯神话文学说",
+       "basis": "是史诗与神学的建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "罗摩是《罗摩衍那》的男主角，毗湿奴化身。",
+     "source": "pri-rama"
+    },
+    {
+     "claim": "罗摩故事随印度文化圈传播至东南亚。",
+     "source": "pri-rama"
+    }
+   ]
+  },
+  {
+   "id": "fig-krishna",
+   "title": "克里希纳",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教毗湿奴化身，《薄伽梵歌》的讲述者。",
+   "related": [
+    "myth-hindu",
+    "fig-vishnu",
+    "fig-rama"
+   ],
+   "sources": [
+    "pri-krishna",
+    "aca-before-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨吠陀—史诗—往世书多个文本层，神格随时代演变；2) 不同教派对同一人物的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "克里希纳（Kṛṣṇa）是印度教毗湿奴（Vishnu）的化身，在《摩诃婆罗多》与《薄伽梵歌》（Bhagavad Gita）中作为阿周那（Arjuna）的战车御者，讲述关于 duty（dharma）、行动与解脱的教义——他展示宇宙形相（Viśvarūpa）的场景是印度教经典中的核心段落。克里希纳的生平（如童年偷奶油、与牧女 Radha 的爱情、战胜 Kansa 王）在往世书（如《薄伽梵往世书》）中详尽展开，其崇拜（Krishnaism）在印度广布，也是Bhakti（虔信）运动的核心。",
+   "versions": [
+    "克里希纳（Kṛṣṇa）是印度教毗湿奴（Vishnu）的化身，在《摩诃婆罗多》与《薄伽梵歌》（Bhagavad Gita）中作为阿周那（Arjuna）的战车御者，讲述关于 duty（dharma）、行动与解脱的教义——他展示宇宙形相（Viśvarūpa）的场景是印度教经典中的核心段落。克里希纳的生平（如童年偷奶油、与牧女 Radha 的爱情、战胜 Kansa 王）在往世书（如《薄伽梵往世书》）中详尽展开，其崇拜（Krishnaism）在印度广布，也是Bhakti（虔信）运动的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Vyasa（毗耶娑）",
+     "school": "传统编者",
+     "view": "传统上被视为《摩诃婆罗多》与《薄伽梵歌》的编纂者。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中可把化身（avatāra）作神圣降临的母题参照。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调克里希纳形象在史诗、往世书与bhakti传统中的演变。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-krishna",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>克里希纳形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>克里希纳（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>薄伽梵歌</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>讲述者</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>毗湿奴化身</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神性</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙形相</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Viśvarūpa</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>克里希纳要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "克里希纳的神性",
+     "views": [
+      {
+       "holder": "至高神说",
+       "basis": "克里希纳派视其为Svayam Bhagavan（至高主）。"
+      },
+      {
+       "holder": "化身说",
+       "basis": "主流毗湿奴派视其为毗湿奴化身。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "克里希纳在《薄伽梵歌》中作为阿周那的御者讲述教义。",
+     "source": "pri-krishna"
+    },
+    {
+     "claim": "克里希纳崇拜是印度教bhakti运动的核心。",
+     "source": "pri-krishna"
+    }
+   ]
+  },
+  {
+   "id": "fig-ravana",
+   "title": "罗波那",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《罗摩衍那》中兰卡的十首罗刹王。",
+   "related": [
+    "myth-hindu",
+    "fig-rama",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-ravana",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨吠陀—史诗—往世书多个文本层，神格随时代演变；2) 不同教派对同一人物的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "罗波那（Rāvaṇa）是《罗摩衍那》中的 antagonist：兰卡（Lanka）的十首罗刹王（Rakshasa），具二十臂，由苦行获得梵天的祝福而几乎不朽。他劫走罗摩之妻悉多，引发罗摩的跨海远征与兰卡大战，最终被罗摩杀死。罗波那在史诗中是'邪恶—傲慢'的化身，但在南印度、斯里兰卡与部分泰米尔传统中，他也被视为伟大的学者、音乐家与湿婆的忠实信徒，呈现出复杂的形象。",
+   "versions": [
+    "罗波那（Rāvaṇa）是《罗摩衍那》中的 antagonist：兰卡（Lanka）的十首罗刹王（Rakshasa），具二十臂，由苦行获得梵天的祝福而几乎不朽。他劫走罗摩之妻悉多，引发罗摩的跨海远征与兰卡大战，最终被罗摩杀死。罗波那在史诗中是'邪恶—傲慢'的化身，但在南印度、斯里兰卡与部分泰米尔传统中，他也被视为伟大的学者、音乐家与湿婆的忠实信徒，呈现出复杂的形象。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Vālmīki（蚁垤）",
+     "school": "史诗作者",
+     "view": "《罗摩衍那》确立罗波那的恶魔王形象。"
+    },
+    {
+     "holder": "泰米尔/斯里兰卡传统",
+     "school": "地方视角",
+     "view": "部分传统把罗波那读作悲剧英雄与文化英雄。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "罗波那可作'对立者/ guardian of the threshold'的参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ravana",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>罗波那形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>罗波那（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>十首罗刹</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>兰卡王</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>劫悉多</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>叙事导火索</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>复杂形象</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>学者与信徒</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗波那要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "罗波那的评价",
+     "views": [
+      {
+       "holder": "恶王说",
+       "basis": "北印度传统强调其邪恶与傲慢。"
+      },
+      {
+       "holder": "悲剧英雄说",
+       "basis": "部分南印度传统强调其学识与虔诚。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "罗波那是《罗摩衍那》中劫走悉多的兰卡十首罗刹王。",
+     "source": "pri-ravana"
+    },
+    {
+     "claim": "罗波那在部分南印度传统中有复杂而正面的形象。",
+     "source": "pri-ravana"
+    }
+   ]
+  },
+  {
+   "id": "fig-brahma",
+   "title": "梵天",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教三相神中的创造之神。",
+   "related": [
+    "myth-hindu",
+    "fig-vishnu",
+    "fig-shiva"
+   ],
+   "sources": [
+    "pri-brahma",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨吠陀—史诗—往世书多个文本层，神格随时代演变；2) 不同教派对同一人物的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "梵天（Brahmā）是印度教三相神（Trimurti）中的创造之神，与毗湿奴（保护）和湿婆（毁灭）并列。他常以四面（象征四部吠陀）、四臂、骑天鹅（hamsa）的形象出现，手持水壶、念珠、经书与莲花。梵天在往世书中确立其地位（并由'生主' Prajapati 等吠陀概念演化而来），是众神之父与宇宙的创造者。虽然他在神话中地位崇高，但实际崇拜（ temple ）相对稀少，印度教主流更侧重毗湿奴派与性力派。",
+   "versions": [
+    "梵天（Brahmā）是印度教三相神（Trimurti）中的创造之神，与毗湿奴（保护）和湿婆（毁灭）并列。他常以四面（象征四部吠陀）、四臂、骑天鹅（hamsa）的形象出现，手持水壶、念珠、经书与莲花。梵天在往世书中确立其地位（并由'生主' Prajapati 等吠陀概念演化而来），是众神之父与宇宙的创造者。虽然他在神话中地位崇高，但实际崇拜（ temple ）相对稀少，印度教主流更侧重毗湿奴派与性力派。"
+   ],
+   "interpretations": [
+    {
+     "holder": "往世书传统",
+     "school": "教派文献",
+     "view": "《梵天往世书》等确立梵天的神格与职能。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中把创造神的宇宙周期作参照。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调梵天神格从吠陀生主到往世书创造神的演变。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-brahma",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>梵天形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>梵天（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>四面四臂</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创造神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>骑天鹅</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>hamsa坐骑</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三相神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Trimurti</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>梵天要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "梵天的地位",
+     "views": [
+      {
+       "holder": "崇高神格说",
+       "basis": "神话中为众神之父与宇宙创造者。"
+      },
+      {
+       "holder": "崇拜稀少说",
+       "basis": "实际 temple  worship 不如毗湿奴/湿婆普及。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "梵天是印度教三相神中的创造之神。",
+     "source": "pri-brahma"
+    },
+    {
+     "claim": "梵天以四面四臂、骑天鹅的形象出现。",
+     "source": "pri-brahma"
+    }
+   ]
+  },
+  {
+   "id": "fig-surya",
+   "title": "苏利耶",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教太阳神，吠陀时期的重要神祇。",
+   "related": [
+    "myth-hindu",
+    "fig-indra",
+    "motif-sun"
+   ],
+   "sources": [
+    "pri-surya",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨吠陀—史诗—往世书多个文本层，神格随时代演变；2) 不同教派对同一人物的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "苏利耶（Sūrya）是印度教的太阳神，在《梨俱吠陀》中已是重要神祇（如《太阳神颂歌》），象征光明、真理与生命。他常被描绘为乘七马战车（由 Aruṇa 驾驭）穿越天空，持莲花，是宇宙秩序（ṛta）的维护者。苏利耶崇拜在吠陀时期突出，后其地位部分被毗湿奴与湿婆吸收，但在《摩诃婆罗多》中他的儿子 Karna 是重要角色，且太阳崇拜延续至近现代（如印度的 Sun Temple at Konark）。",
+   "versions": [
+    "苏利耶（Sūrya）是印度教的太阳神，在《梨俱吠陀》中已是重要神祇（如《太阳神颂歌》），象征光明、真理与生命。他常被描绘为乘七马战车（由 Aruṇa 驾驭）穿越天空，持莲花，是宇宙秩序（ṛta）的维护者。苏利耶崇拜在吠陀时期突出，后其地位部分被毗湿奴与湿婆吸收，但在《摩诃婆罗多》中他的儿子 Karna 是重要角色，且太阳崇拜延续至近现代（如印度的 Sun Temple at Konark）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "吠陀传统",
+     "school": "文本源头",
+     "view": "《梨俱吠陀》的苏利耶颂歌是早期太阳神崇拜的材料。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "太阳的每日行程与'永恒回归'的宇宙节律可作参照。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调太阳崇拜从吠陀到往世书的职能变化。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-surya",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>苏利耶形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>苏利耶（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>光明真理</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>七马战车</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天界巡行</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>ṛta秩序</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙律则</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苏利耶要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "苏利耶的演变",
+     "views": [
+      {
+       "holder": "吠陀主神说",
+       "basis": "早期是重要的吠陀神。"
+      },
+      {
+       "holder": "职能吸收说",
+       "basis": "后起神祇兴起后其地位相对下降。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "苏利耶是印度教太阳神，吠陀时期的重要神祇。",
+     "source": "pri-surya"
+    },
+    {
+     "claim": "苏利耶以七马战车穿越天空象征光明的运行。",
+     "source": "pri-surya"
+    }
+   ]
+  },
+  {
+   "id": "fig-yama",
+   "title": "阎摩",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教冥界与死亡之神，阎罗王概念的根源。",
+   "related": [
+    "myth-hindu",
+    "motif-underworld",
+    "fig-rama"
+   ],
+   "sources": [
+    "pri-yama",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨吠陀—史诗—往世书多个文本层，神格随时代演变；2) 不同教派对同一人物的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阎摩（Yama）是印度教的冥界与死亡之神，在《梨俱吠陀》中已出现——他是最早进入天界的凡人，由此成为死者之路的引导者与冥界（Yamaloka）之主。阎摩骑水牛、持棍棒与绳索（用于捆绑亡者），有两只犬（具四眼）作为使者。随着佛教传播，阎摩概念演变为东亚的'阎罗王'（Yama/Enma），成为地狱审判的支配者——这是宗教文化传播的典型案例。",
+   "versions": [
+    "阎摩（Yama）是印度教的冥界与死亡之神，在《梨俱吠陀》中已出现——他是最早进入天界的凡人，由此成为死者之路的引导者与冥界（Yamaloka）之主。阎摩骑水牛、持棍棒与绳索（用于捆绑亡者），有两只犬（具四眼）作为使者。随着佛教传播，阎摩概念演变为东亚的'阎罗王'（Yama/Enma），成为地狱审判的支配者——这是宗教文化传播的典型案例。"
+   ],
+   "interpretations": [
+    {
+     "holder": "吠陀传统",
+     "school": "文本源头",
+     "view": "《梨俱吠陀》中阎摩是死者之王与天界引路者。"
+    },
+    {
+     "holder": "佛教传播研究",
+     "school": "比较宗教学",
+     "view": "阎摩→阎罗王的演变是印度—东亚文化传播的典型。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "冥界之死神可作宇宙论与末世论的一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yama",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阎摩形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阎摩（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冥界之主</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Yamaloka</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>死者引导</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>四眼犬</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阎罗王</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>东亚演变</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阎摩要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阎摩的演变",
+     "views": [
+      {
+       "holder": "吠陀引路者说",
+       "basis": "早期是友好的死者引路者。"
+      },
+      {
+       "holder": "审判者说",
+       "basis": "后起成为冥界审判与惩罚之神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阎摩是印度教冥界与死亡之神，吠陀时期已出现。",
+     "source": "pri-yama"
+    },
+    {
+     "claim": "阎摩概念经佛教传播演变为东亚的阎罗王。",
+     "source": "pri-yama"
+    }
+   ]
   }
  ]
 }
