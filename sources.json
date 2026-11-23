@@ -1819,6 +1819,58 @@
    "link_ok": true,
    "verified": true,
    "note": "波罗的海神话依编年史（如《马祖尔编年史》）与 Dainas 民谣重构；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-hopi",
+   "title": "霍皮口传叙事集",
+   "author": "佚名（霍皮）/Courlander 等记录",
+   "year": null,
+   "year_display": "口传，20世纪起系统记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hopi_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "霍皮神话以地穴上升（四世界）与马斯乌姆（Masauwu）骨架人叙事为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-lakota",
+   "title": "拉科塔口传叙事集（瓦坎坦卡传统）",
+   "author": "佚名（拉科塔）/Black Elk 等口述",
+   "year": null,
+   "year_display": "口传，19世纪起文字记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Lakota_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "拉科塔神话以瓦坎坦卡（Wakȟáŋ Tȟáŋka，大神灵）、白牛妇（White Buffalo Calf Woman）叙事为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-mormon",
+   "title": "《摩尔门经》与《教义与圣约》",
+   "author": "小约瑟夫·史密斯（译述/启示文本）",
+   "year": 1830,
+   "year_display": "1830 / 1835",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mormonism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《摩尔门经》1830 年出版、《教义与圣约》1835 年初版；2026-11-23 经 Wikipedia API 实测条目存在。信仰立场描述性处理。"
+  },
+  {
+   "id": "pri-heathenry",
+   "title": "《埃达》与 Heathenry 复兴文献",
+   "author": "佚名（古诺斯）/现代组织文献",
+   "year": null,
+   "year_display": "原典中世纪；复兴 1970年代起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Heathenry_(new_religious_movement)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "Heathenry（日耳曼新异教）以《埃达》与萨迦为正典参照，1970年代冰岛 Ásatrúarfélagið 复兴；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

@@ -5754,6 +5754,198 @@
      "source": "pri-utnapishtim"
     }
    ]
+  },
+  {
+   "id": "fig-sekhmet",
+   "title": "塞赫麦特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及狮首女神，拉之眼、瘟疫与治愈的双重神格。",
+   "related": [
+    "fig-hathor",
+    "fig-horus",
+    "fig-bastet",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-book-dead",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 塞赫麦特与哈托尔/泰夫努特/穆特等'拉之眼'合并与分离的谱系依各神庙文本，不能一概而论；2) 逐日女神祭司（每日期一尊塞赫麦特）制度依哈索尔丹德拉文献；3) 描述性立场。",
+   "year": null,
+   "source_text": "塞赫麦特（Seḫmet，'强力者'）是狮首女神，'拉之眼'的毁灭面：拉遣她毁灭不顺的人类，血液之狂令拉以染血啤酒止息（《天上牛女》神话），此后她兼具瘟疫散布者与治愈者双重神格——瘟疫与医术同归其掌。新王国时期她是王权战争守护神（如图特摩斯三世叙事），每年'逐日女神'祭司制度以哈索尔神庙为中心。",
+   "versions": [
+    "《天上牛女》（Nut/Tefnut 神话）中拉之眼的毁灭—止息叙事（新王国 tomb 装饰文本）。",
+    "金字塔文本时代早期与王权护卫相关的断片层。",
+    "哈索尔神庙（丹德拉）的'逐日女神'节庆铭文制度层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "Frankfort 在《Ancient Egyptian Religion》中把'拉之眼'读作太阳神权能的人格化投射，毁灭与保护一体。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "比较神话学",
+     "view": "Jacobsen 把毁灭—止息结构读作'狂暴神力的驯化与安置'，属两河流域与埃及的神力运作比较参照。"
+    },
+    {
+     "holder": "Geraldine Pinch",
+     "school": "埃及神话手册",
+     "view": "Pinch 强调塞赫麦特的'医学守护神'面向：瘟疫与治愈同源，反映埃及病因学。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "印度神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "毁灭—止息一体女神（如难近母的狂暴与福佑）作母题层面一般对照，不主张关联。"
+    },
+    {
+     "tradition": "美索不达米亚神话",
+     "basis_source": "aca-treasures-darkness",
+     "note": "神遣灾疫后止息的结构与阿特拉哈西斯三灾作叙事结构对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>塞赫麦特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>塞赫麦特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉之眼</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>毁灭神格</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>染血啤酒</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>止息叙事</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>瘟疫/治愈</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>双重职能</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塞赫麦特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料经拉美西斯四世时期等抄本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "塞赫麦特与哈托尔的关系",
+     "views": [
+      {
+       "holder": "同体说",
+       "basis": "'拉之眼'框架下两女神为同一权能的两种形象。"
+      },
+      {
+       "holder": "并行说",
+       "basis": "两女神神格独立，合并属特定文本的策略性等同。"
+      }
+     ]
+    },
+    {
+     "issue": "染血啤酒叙事的功能",
+     "views": [
+      {
+       "holder": "节庆起源说",
+       "basis": "解释'无拘节'（醉酒节）的制度起源。"
+      },
+      {
+       "holder": "神力制衡说",
+       "basis": "说明毁灭性神力的仪式性安顿。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "新王国时期每年有约 360+ 天的'逐日女神'祭礼（哈索尔神庙铭文），每日期奉一尊塞赫麦特像。",
+     "source": "pri-book-dead"
+    },
+    {
+     "claim": "图特摩斯三世等把战争胜利归于塞赫麦特的战力庇护。",
+     "source": "pri-book-dead"
+    }
+   ]
+  },
+  {
+   "id": "fig-hathor",
+   "title": "哈托尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及牛角日轮女神，爱、音乐、欢乐与西方来世的双重神格。",
+   "related": [
+    "fig-sekhmet",
+    "fig-isis",
+    "fig-bastet",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-pyramid-texts",
+    "pri-book-dead",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 哈托尔与伊西斯的'融合'是希腊化时期现象，前置有误的风险已在新王国文献分层处理；2) 丹德拉神庙铭文引用待逐条核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "哈托尔（Ḥwt-ḥr，'荷鲁斯之家'）是牛角日轮女神：爱、美、音乐、醉酒节与母性呵护的女神，同时是西方来世的接引者（'西方的女主人'），在西奈（ turquoise 矿区）是矿工守护神。金字塔文本中她已接引亡王；新王国'拉之眼'神话中她是塞赫麦特的福佑面；丹德拉神庙是其崇拜中心。",
+   "versions": [
+    "金字塔文本的接引层：哈托尔以'西方的女主人'身份接引亡王升天。",
+    "《天上牛女》叙事层的福佑面（拉止怒后转化的欢乐女神）。",
+    "丹德拉（Dendera）神庙铭文的节庆—疗愈制度层（'逐日女神'、游船访埃德富）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "R. O. Faulkner",
+     "school": "埃及文献学",
+     "view": "Faulkner 的金字塔文本译注确立早期哈托尔材料的基础读法。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及神学",
+     "view": "Hornung 在《埃及诸神》中强调哈托尔的'多面一体'性：同一女神整合欢乐与来世接引，符合埃及神观的并置逻辑。"
+    },
+    {
+     "holder": "Barbara Richter",
+     "school": "'拉之眼'研究",
+     "view": "Richter 专研'拉之眼'谱系，把哈托尔—塞赫麦特—泰夫努特—穆特视为同一权能的文本变体网络。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "希腊神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "托勒密期哈托尔与阿佛洛狄忒的等同是希腊—埃及融合现象，作文化接触层参照而非原生等式。"
+    },
+    {
+     "tradition": "印度神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "爱与母性/来世接引的双重神格与吉祥天女等作母题层面一般对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>哈托尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>哈托尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>牛角日轮</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>形象标志</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西方女主人</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>来世接引</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>醉酒节</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>欢乐职能</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈托尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料经拉美西斯四世时期等抄本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "哈托尔与伊西斯的谱系",
+     "views": [
+      {
+       "holder": "融合说",
+       "basis": "希腊化—罗马期两者融合加深，前史独立。"
+      },
+      {
+       "holder": "部分重叠说",
+       "basis": "母性—王后职能在新王国已部分重叠。"
+      }
+     ]
+    },
+    {
+     "issue": "'西方的女主人'与冥界主权",
+     "views": [
+      {
+       "holder": "接引者说",
+       "basis": "哈托尔是来世边界的接引与护佑者，非冥界主宰（奥西里斯才是）。"
+      },
+      {
+       "holder": "早期主权说",
+       "basis": "金字塔文本时代或存在更早的冥界女性主权层。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "哈托尔是西奈 turquoise 矿区的守护神，矿区留下从古王国到新王国的祭献铭文。",
+     "source": "pri-pyramid-texts"
+    },
+    {
+     "claim": "丹德拉神庙是哈托尔崇拜中心，其'新年游船'铭文记录访埃德富荷鲁斯神庙的节庆路径。",
+     "source": "pri-book-dead"
+    }
+   ]
   }
  ]
 }

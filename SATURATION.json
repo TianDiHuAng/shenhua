@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 105,
-    "total": 219,
+    "supplement_l2": 110,
+    "total": 224,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/219）；补充层 105 条 L2；来源 140 条（联网核验）"
+    "verdict": "核心与重要层 100% L3（114/224）；补充层 110 条 L2；来源 144 条（联网核验）"
   },
   "round_log": [
     {
@@ -584,6 +584,18 @@
       "new_gaps_found": 4,
       "gap_detail": "扩充批次9：新增4条（夏威夷/塔希提/波罗的海/现代德鲁伊）；finnish/methodism 与既有条目合并深化（避免重复）；5个新来源经 Wikipedia API 核验；check 0 errors",
       "verdict": "正常扩充（批次9，4新+2深化）"
+    },
+    {
+      "round": "AUTONOMOUS-50",
+      "date": "2026-11-23",
+      "methods_run": [
+        "读者问题",
+        "权威大纲",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "扩充批次10：新增6条（霍皮/拉科塔/日耳曼新异教/塞赫麦特/哈托尔 + mormonism与既有L3合并深化）；4个新来源经 Wikipedia API 核验；check 0 errors；修正 scope 历史合计误差",
+      "verdict": "正常扩充（批次10，6条）"
     }
   ]
 }

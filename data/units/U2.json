@@ -1337,21 +1337,29 @@
    "summary": "源于 19 世纪美国的基督教复原运动分支。",
    "related": [
     "rel-bahai",
-    "rel-tibetan-buddhism"
+    "rel-tibetan-buddhism",
+    "rel-protestantism",
+    "rel-lutheran",
+    "motif-cosmic-combat"
    ],
    "sources": [
     "enc-wiki-world-religion",
     "ins-pluralism",
-    "enc-brit-islam"
+    "enc-brit-islam",
+    "pri-mormon",
+    "aca-god-is-not-one"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 历史发展与组织演变待专门文献核对；2) Jan Shipps、Max Weber 的代表著作未录入 sources.json，其论点为概括；3) 两张比较均为弱参照，待补专门文献。",
+   "pending_notes": "1) 历史发展与组织演变待专门文献核对；2) Jan Shipps、Max Weber 的代表著作未录入 sources.json，其论点为概括；3) 两张比较均为弱参照，待补专门文献。 1) 摩尔门经的古代史主张与考古/学界共识分歧巨大，本条只作'该派经文自述'处理；2) 多重婚姻史（1852–1890/1904）按公开史实记录；3) 教派分支（犹他系/密苏里系/RLDS）差异待专门文献；4) 描述性立场，不评判信仰真伪。",
    "year": null,
-   "source_text": "耶稣基督后期圣徒教会（摩门教）源于19世纪美国的基督教复原运动，以《摩门经》等经典与约瑟·斯密的教导为基础。本站采用学术描述性立场，不评判信仰真伪。",
+   "source_text": "后期圣徒运动（LDS，俗称摩尔门教）由小约瑟夫·史密斯创立：1830年出版《摩尔门经》（自述为古代美洲先民的记事与基督访美的记录），随后以'活先知'（总会会长）与持续启示为权威结构；《教义与圣约》《无价珍珠》与圣经并列为四正典。核心教义包括前生存在、永恒婚姻、死者代洗、三级天国等，盐湖城总会为最大支系。",
    "versions": [
     "该传统的形成与19世纪美国第二次大觉醒的社会语境相关，强调复原早期基督教。",
     "其经典体系包括《摩门经》及后续启示文献，不同宗派对经典的采信有差异。",
-    "该传统内部在经典采信、先知继承与教义侧重上形成多个分支，主要宗派对《摩门经》与后续启示的权威有不同理解。"
+    "该传统内部在经典采信、先知继承与教义侧重上形成多个分支，主要宗派对《摩门经》与后续启示的权威有不同理解。",
+    "犹他系 LDS 教会（最大支系，1847年杨百翰西迁后建制）。",
+    "基督社区（Community of Christ，原 RLDS，密苏里系）路线差异明显。",
+    "原教旨支系（FLDS 等）延续早期多重婚姻实践，被主流教会开除。"
    ],
    "interpretations": [
     {
@@ -1368,6 +1376,21 @@
      "holder": "Max Weber",
      "school": "宗教社会学",
      "view": "（据《新教伦理与资本主义精神》）Weber 的宗教社会学为理解新兴宗教与社会结构的关系提供框架，具体到摩门教的结论待核对。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "Prothero 在《God Is Not One》中把后期圣徒运动作为美国本土宗教的代表性案例，强调其独特宇宙论（神人同形论）而非简单归为基督教支派。"
+    },
+    {
+     "holder": "Jan Shipps",
+     "school": "摩尔门研究",
+     "view": "Shipps 把该运动定性为'美国本土的世界宗教候选者'，强调其经文—先知结构的新宗教性。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Richard Bushman",
+     "school": "摩尔门史",
+     "view": "Bushman《Rough Stone Rolling》以史家立场处理史密斯生平，'信仰者传记'与'外部史学'并用。（该学者著作未录入来源库，书名待补）"
     }
    ],
    "comparisons": [
@@ -1409,6 +1432,32 @@
        "basis": "多视其为 19 世纪美国的新兴宗教运动，教义差异显著。"
       }
      ]
+    },
+    {
+     "issue": "摩尔门经的古代史主张",
+     "views": [
+      {
+       "holder": "信仰立场说",
+       "basis": "教会立场：古代先民真实记录。"
+      },
+      {
+       "holder": "19世纪文本说",
+       "basis": "学界主流：19世纪美国语境的文本产物，与中美洲考古证据不匹配。"
+      }
+     ]
+    },
+    {
+     "issue": "运动是否属基督教",
+     "views": [
+      {
+       "holder": "基督教分支说",
+       "basis": "以基督为中心的教义结构归入广义基督教。"
+      },
+      {
+       "holder": "新宗教说",
+       "basis": "神人同形论与持续启示构成独立宗教系统。"
+      }
+     ]
     }
    ],
    "data_points": [
@@ -1419,6 +1468,14 @@
     {
      "claim": "其经典体系包括《摩门经》及后续启示文献，各宗派采信有差异。",
      "basis_source": "ins-pluralism"
+    },
+    {
+     "claim": "《摩尔门经》1830年出版，是后期圣徒运动的奠基经文。",
+     "source": "pri-mormon"
+    },
+    {
+     "claim": "1890年总会宣言（Manifesto）中止多重婚姻的公开实践。",
+     "source": "pri-mormon"
     }
    ]
   },
@@ -3961,6 +4018,102 @@
     {
      "claim": "凯撒《高卢战记》记载的古代德鲁伊（人祭、天文知识）是古代史料的主要来源，但带罗马政治语境。",
      "source": "pri-iroquois-creation"
+    }
+   ]
+  },
+  {
+   "id": "rel-heathenry",
+   "title": "日耳曼新异教（Heathenry/Ásatrú）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "以《埃达》与萨迦为正典参照的日耳曼多神教复兴运动（1970年代起）。",
+   "related": [
+    "myth-norse",
+    "rel-wicca",
+    "rel-druidry",
+    "fig-thor"
+   ],
+   "sources": [
+    "pri-heathenry",
+    "pri-poetic-eddas",
+    "pri-prose-eddas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 各组织（冰岛 Ásatrúarfélagið、美国 Theodism、泛德欧 Forn Sed）教义光谱宽；2) 'folkish vs universalist'路线之争如实记录；3) 描述性立场。",
+   "year": null,
+   "source_text": "日耳曼新异教（Heathenry，冰岛称 Ásatrú，北欧称 Forn Sed/Ásatrú）是20世纪中后期复兴的日耳曼多神教运动：以《诗体埃达》《散文埃达》与萨迦为正典参照，崇奉奥丁、托尔、弗雷等北欧神系（Æsir 与 Vanir），实践包括 blót 祭礼、symbel 酒仪与季节庆典。1972 年冰岛 Ásatrúarfélagið 获官方承认是制度化标志。",
+   "versions": [
+    "冰岛 Ásatrúarfélagið（1972，Jörmungrund 学派背景，自然与传承取向）。",
+    "美国 Theodism（1976 起，'部落制'重构路径）与 Troth（universalist 取向）。",
+    "北欧 Forn Sed（挪威/丹麦，民间传统整合路径）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sveinbjörn Beinteinsson",
+     "school": "冰岛 Ásatrú 创立者",
+     "view": "Beinteinsson 以诗人与 allsherjargoði 身份重建冰岛多神教官方地位，属创立者实践文本。（该人物著述未录入来源库）"
+    },
+    {
+     "holder": "Michael Strmiska",
+     "school": "现代异教研究",
+     "view": "Strmiska 把 Heathenry 置于全球'现代异教'（modern Paganism）比较框架，强调重构与体验的双重性。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Jens Peter Schjødt",
+     "school": "北欧宗教史",
+     "view": "Schjødt 等学术埃达研究为 Heathenry 提供文本基础，同时提醒复兴实践的史料限度。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "威卡教",
+     "basis_source": "pri-heathenry",
+     "note": "同为现代异教运动，威卡基于仪式魔法传统而 Heathenry 基于民族文学正典，作平行描述。"
+    },
+    {
+     "tradition": "北欧神话",
+     "basis_source": "pri-poetic-eddas",
+     "note": "复兴实践以中世纪文本为参照，但中世纪文本本身已是基督教化后的记录，须区分描述。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>日耳曼新异教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>日耳曼新异教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃达正典</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文本参照</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>blót祭礼</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>实践核心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>1972冰岛</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>官方承认</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>日耳曼新异教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "folkish vs universalist 路线",
+     "views": [
+      {
+       "holder": "folkish 说",
+       "basis": "主张传承限定于日耳曼遗产人群（此立场有种族主义滥用史，主流组织明确切割）。"
+      },
+      {
+       "holder": "universalist 说",
+       "basis": "主张向所有认同者开放，为冰岛等主流组织立场。"
+      }
+     ]
+    },
+    {
+     "issue": "与中世纪文本的距离",
+     "views": [
+      {
+       "holder": "忠实重构说",
+       "basis": "依埃达重建仪式细节。"
+      },
+      {
+       "holder": "活态创新说",
+       "basis": "承认中世纪记录的断层，实践本质是当代创造。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "1972年冰岛 Ásatrúarfélagið 成立，1973年获冰岛政府承认。",
+     "source": "pri-heathenry"
+    },
+    {
+     "claim": "Heathenry 各组织普遍与极权挪用划清界限（冰岛组织 2017 年后多次公开声明）。",
+     "source": "pri-heathenry"
     }
    ]
   }

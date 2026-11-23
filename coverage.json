@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T13:55:35+08:00",
+  "generated": "2026-11-23T14:41:26+08:00",
   "summary": {
-    "total": 219,
+    "total": 224,
     "by_unit": {
-      "U1": 66,
-      "U2": 50,
+      "U1": 68,
+      "U2": 51,
       "U3": 35,
-      "U4": 68
+      "U4": 70
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 105
+      "补充": 110
     },
     "by_level": {
       "L1": 0,
-      "L2": 105,
+      "L2": 110,
       "L3": 114
     },
-    "l2_done": 219,
+    "l2_done": 224,
     "l3_done": 114,
-    "verified_sources": 94
+    "verified_sources": 98
   },
   "entries": [
     {
@@ -750,6 +750,28 @@
       "last_updated": "2026-11-23"
     },
     {
+      "id": "myth-hopi",
+      "name": "霍皮神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-lakota",
+      "name": "拉科塔神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
       "id": "rel-christianity",
       "name": "基督教",
       "unit": "U2",
@@ -910,7 +932,7 @@
       "tier": "重要",
       "level": "L3",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1296,6 +1318,17 @@
       "level": "L2",
       "status": "done",
       "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-heathenry",
+      "name": "日耳曼新异教（Heathenry/Ásatrú）",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -2431,6 +2464,28 @@
       "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-sekhmet",
+      "name": "塞赫麦特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-hathor",
+      "name": "哈托尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     }
   ],
   "matrix": {
@@ -2502,6 +2557,8 @@
         "myth-hawaiian",
         "myth-tahitian",
         "myth-baltic",
+        "myth-hopi",
+        "myth-lakota",
         "rel-christianity",
         "rel-islam",
         "rel-judaism",
@@ -2551,7 +2608,8 @@
         "rel-wicca",
         "rel-lutheran",
         "rel-anglican",
-        "rel-druidry"
+        "rel-druidry",
+        "rel-heathenry"
       ],
       "motifs": [
         "motif-creation",
@@ -7195,6 +7253,146 @@
         "status": "empty"
       },
       {
+        "tradition": "myth-hopi",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hopi",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lakota",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
         "tradition": "rel-christianity",
         "motif": "motif-creation",
         "period": "ancient",
@@ -10689,6 +10887,76 @@
       },
       {
         "tradition": "rel-druidry",
+        "motif": "motif-trickster",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-heathenry",
         "motif": "motif-trickster",
         "period": "modern",
         "expected": false,
