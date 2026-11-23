@@ -2092,6 +2092,71 @@
    "link_ok": true,
    "verified": true,
    "note": "约鲁巴宗教以 Ifa 占卜典籍（Odu Ifa）与 Orisha 神谱为核心；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-estonian",
+   "title": "爱沙尼亚神话文献汇编（《卡勒维波埃格》与民谣）",
+   "author": "佚名（爱沙尼亚）/Freyberger 等记录",
+   "year": null,
+   "year_display": "口传，19世纪起记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Estonian_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "爱沙尼亚神话依民谣与《卡勒维波埃格》(Kalevipoeg, 1862 Kreutzwald 编撰)保存；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-burmese",
+   "title": "缅甸神话文献汇编（《琉璃宫史》等）",
+   "author": "佚名（缅甸）/编年史传统",
+   "year": null,
+   "year_display": "18世纪编年史+口传",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Burmese_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "缅甸神话以《琉璃宫史》(Hmannan Yazawin, 1832) 与口传四天王（Lokanat）叙事为核心；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-fijian",
+   "title": "斐济口传叙事集（Degei 传统）",
+   "author": "佚名（斐济）/传教士与民族志记录",
+   "year": null,
+   "year_display": "口传，19世纪起记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Fijian_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "斐济神话以蛇神 Degei 创世与诸神（ Kalou-vu ）谱系为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-balinese",
+   "title": "巴厘神话文献汇编（Kakawin 与口传）",
+   "author": "佚名（巴厘）/手抄本传统",
+   "year": null,
+   "year_display": "爪哇—巴厘手抄本（Kakawin）+口传",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Balinese_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "巴厘神话以印度教—本土融合神谱（如 Sang Hyang Widhi、Barong/Rangda）与 Kakawin 文本为核心；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-bengali",
+   "title": "孟加拉神话文献汇编（《摩诃婆罗多》地方化与 Puranas）",
+   "author": "佚名（孟加拉）/地方传统",
+   "year": null,
+   "year_display": "往世书传统+地方口传",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Bengali_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "孟加拉神话以地方女神（如 Kali、Durga、Manasa）与往世书—民间传统融合为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
