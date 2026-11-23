@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 150,
-    "total": 264,
+    "supplement_l2": 156,
+    "total": 270,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/264）；补充层 150 条 L2；来源 190 条"
+    "verdict": "核心与重要层 100% L3（114/270）；补充层 156 条 L2；来源 196 条（联网核验）"
   },
   "round_log": [
     {
@@ -690,6 +690,18 @@
       "gap_detail": "体检F：difflib 相似度检测发现2组真重复（myth-aboriginal/rel-sikh 与早批次条目），已合并并修复4处引用；264条目0 errors",
       "physical_check": "title_dups=0, id_similar_false_positives=6(japanese/javanese等实为不同条目)",
       "verdict": "体检F维护（无新增）"
+    },
+    {
+      "round": "AUTONOMOUS-59",
+      "date": "2026-11-23",
+      "methods_run": [
+        "联网人物大纲差集",
+        "标题相似度严格查重",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次18：新增6人物（亚述/纳布/哈达德/阿佩普/巴力/阿纳特）；首次用 difflib 标题相似度严格查重（0冲突）；6来源核验；check 0 errors",
+      "verdict": "正常扩充（批次18，6条）"
     }
   ]
 }

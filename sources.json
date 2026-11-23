@@ -2469,6 +2469,84 @@
    "link_ok": true,
    "verified": true,
    "note": "沙马什（Shamash）是两河太阳神与正义之神（《汉谟拉比法典》浮雕中接受权杖）；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-ashur-god",
+   "title": "亚述神文献（Ashur 神庙文本）",
+   "author": "佚名（亚述）",
+   "year": null,
+   "year_display": "前2千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ashur_(god)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "亚述（Ashur）是亚述帝国的国家主神，与亚述城及帝国王权绑定；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nabu",
+   "title": "纳布文献（两河智慧与书写神）",
+   "author": "佚名（两河书吏）",
+   "year": null,
+   "year_display": "前2千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nabu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "纳布（Nabu）是两河智慧、书写与预言神，马尔杜克之子，玻尔西帕（Borsippa）主神；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-hadad",
+   "title": "哈达德文献（西北闪族风暴神）",
+   "author": "佚名（阿拉米/迦南）",
+   "year": null,
+   "year_display": "前2千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hadad",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "哈达德（Hadad/Haddu）是西北闪族风暴与雨神，与巴力关系密切，亚兰—大马士革主神；2026-11-23 经 Wikipedia API 实测（Adad→Hadad）。"
+  },
+  {
+   "id": "pri-apophis",
+   "title": "阿佩普文献（埃及混沌巨蛇）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—新王国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Apophis",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿佩普（Apep/Apophis）是埃及混沌巨蛇，太阳神拉夜间旅程的敌人，载于《冥界书》《门之书》等；2026-11-23 经 Wikipedia API 实测（Apep→Apophis）。"
+  },
+  {
+   "id": "pri-baal",
+   "title": "巴力文献（乌加里特与迦南文本）",
+   "author": "佚名（乌加里特书吏）",
+   "year": null,
+   "year_display": "前14–前12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Baal",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "巴力（Baal，'主'）是迦南风暴与丰饶神，乌加里特泥板核心神祇；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-anat",
+   "title": "阿纳特文献（乌加里特战争女神）",
+   "author": "佚名（乌加里特书吏）",
+   "year": null,
+   "year_display": "前14–前12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Anat",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿纳特（Anat）是迦南战争与丰饶女神，乌加里特巴力循环中的重要角色；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

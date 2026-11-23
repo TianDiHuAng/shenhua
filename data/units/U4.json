@@ -6840,6 +6840,453 @@
      "source": "pri-nephthys"
     }
    ]
+  },
+  {
+   "id": "fig-ashur",
+   "title": "亚述（神）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "亚述帝国的国家主神，与亚述城及帝国王权绑定。",
+   "related": [
+    "myth-mesopotamian",
+    "fig-enlil",
+    "fig-marduk"
+   ],
+   "sources": [
+    "pri-ashur-god",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在政治中的演变须分层描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "亚述（Ashur/Aššur）是亚述帝国的国家主神，与亚述城同名。他最初是城邦神，随亚述帝国的扩张上升为万神殿之首，被视为'众神之王'与帝国秩序的化身，兼具战争与丰饶职能。亚述王被视为亚述神在人间的代表（'神的牧人'），神庙与王权紧密结合。在新亚述时期（前9–前7世纪），亚述神被提升到近乎唯一的地位，与其他神祇的关系被重新解释为'众神皆亚述神之显相'。",
+   "versions": [
+    "亚述（Ashur/Aššur）是亚述帝国的国家主神，与亚述城同名。他最初是城邦神，随亚述帝国的扩张上升为万神殿之首，被视为'众神之王'与帝国秩序的化身，兼具战争与丰饶职能。亚述王被视为亚述神在人间的代表（'神的牧人'），神庙与王权紧密结合。在新亚述时期（前9–前7世纪），亚述神被提升到近乎唯一的地位，与其他神祇的关系被重新解释为'众神皆亚述神之显相'。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "在《黑暗中的珍宝》中分析两河神祇随政治中心转移而升降的规律。"
+    },
+    {
+     "holder": "现代亚述学",
+     "school": "古代史",
+     "view": "强调亚述神与帝国意识形态的高度绑定。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "帝国主神与王权的神圣化可作'宇宙—政治秩序'的一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-ashur-god",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>亚述（神）形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>亚述（神）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>国家主神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>帝国秩序</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王权代表</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神的牧人</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>万神之首</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>众神显相</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚述（神）要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "神格上升",
+     "views": [
+      {
+       "holder": "政治决定说",
+       "basis": "随帝国扩张而上升。"
+      },
+      {
+       "holder": "神学内在说",
+       "basis": "其至高性有独立的神学发展。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "亚述（Ashur）是亚述帝国的国家主神，与亚述城同名。",
+     "source": "pri-ashur-god"
+    },
+    {
+     "claim": "新亚述时期亚述神被提升到近乎唯一的地位。",
+     "source": "pri-ashur-god"
+    }
+   ]
+  },
+  {
+   "id": "fig-nabu",
+   "title": "纳布",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "两河智慧、书写与预言神，马尔杜克之子，玻尔西帕主神。",
+   "related": [
+    "fig-marduk",
+    "myth-mesopotamian",
+    "fig-enki"
+   ],
+   "sources": [
+    "pri-nabu",
+    "aca-sumerian-mythology"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在政治中的演变须分层描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "纳布（Nabu，希腊语写作 Nebo）是两河的智慧、书写与预言神，马尔杜克之子，玻尔西帕（Borsippa）的主神。他掌管文字、书记与命运泥板（与书写命运的传统相关），在新巴比伦时期地位显著上升，与马尔杜克共同构成巴比伦神系的 core。其象征物为楔形文字书写板与神笔，《圣经·以赛亚书》等提到巴比伦的 Nebo 崇拜。",
+   "versions": [
+    "纳布（Nabu，希腊语写作 Nebo）是两河的智慧、书写与预言神，马尔杜克之子，玻尔西帕（Borsippa）的主神。他掌管文字、书记与命运泥板（与书写命运的传统相关），在新巴比伦时期地位显著上升，与马尔杜克共同构成巴比伦神系的 core。其象征物为楔形文字书写板与神笔，《圣经·以赛亚书》等提到巴比伦的 Nebo 崇拜。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "把纳布读作两河'书记—智慧'神格的代表。"
+    },
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "相关苏美尔文本是理解纳布职能背景的材料。"
+    },
+    {
+     "holder": "现代两河研究",
+     "school": "古代史",
+     "view": "强调纳布在新巴比伦时期的地位上升。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-nabu",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>纳布形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>纳布（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智慧书写</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>命运泥板</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>预言神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Nebo崇拜</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马尔杜克之子</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>巴比伦神系</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>纳布要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "职能重心",
+     "views": [
+      {
+       "holder": "书记神说",
+       "basis": "核心是文字与书写。"
+      },
+      {
+       "holder": "命运神说",
+       "basis": "核心是掌管命运泥板。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "纳布是两河智慧、书写与预言神，马尔杜克之子。",
+     "source": "pri-nabu"
+    },
+    {
+     "claim": "纳布是玻尔西帕主神，新巴比伦时期地位显著上升。",
+     "source": "pri-nabu"
+    }
+   ]
+  },
+  {
+   "id": "fig-hadad",
+   "title": "哈达德",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "西北闪族风暴与雨神，与巴力关系密切，亚兰—大马士革主神。",
+   "related": [
+    "fig-baal",
+    "myth-ugaritic",
+    "motif-rain-thunder"
+   ],
+   "sources": [
+    "pri-hadad",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在政治中的演变须分层描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "哈达德（Hadad/Haddu）是西北闪族（阿摩利、亚兰、迦南）的风暴与雨神：在乌加里特文本中他是巴力的另一称谓或与之密切相关，在亚兰—大马士革他是国家主神（与雷姆蒙 Rimmon 相关），《圣经·列王纪》提到大马士革的哈达德神庙。他兼具降雨丰饶与雷霆战争的职能，是古代近东广布的风暴神传统的组成部分。",
+   "versions": [
+    "哈达德（Hadad/Haddu）是西北闪族（阿摩利、亚兰、迦南）的风暴与雨神：在乌加里特文本中他是巴力的另一称谓或与之密切相关，在亚兰—大马士革他是国家主神（与雷姆蒙 Rimmon 相关），《圣经·列王纪》提到大马士革的哈达德神庙。他兼具降雨丰饶与雷霆战争的职能，是古代近东广布的风暴神传统的组成部分。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mark S. Smith",
+     "school": "圣经与迦南宗教研究",
+     "view": "指出哈达德与巴力在闪族风暴神传统中的密切关系。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "比较神话学",
+     "view": "风暴神的丰饶—战争双重职能可作两河—闪族比较参照。"
+    },
+    {
+     "holder": "现代近东研究",
+     "school": "宗教史",
+     "view": "强调哈达德在亚兰城邦中的国家主神地位。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-hadad",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>哈达德形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>哈达德（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>风暴雨神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雷霆</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶战争</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>双重职能</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚兰主神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大马士革</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈达德要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "哈达德与巴力",
+     "views": [
+      {
+       "holder": "同一神说",
+       "basis": "二者是同一风暴神的不同称谓。"
+      },
+      {
+       "holder": "相近神说",
+       "basis": "关系密切但为不同神格。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "哈达德是西北闪族风暴与雨神，与巴力关系密切。",
+     "source": "pri-hadad"
+    },
+    {
+     "claim": "哈达德是亚兰—大马士革的国家主神。",
+     "source": "pri-hadad"
+    }
+   ]
+  },
+  {
+   "id": "fig-apep",
+   "title": "阿佩普",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及混沌巨蛇，太阳神拉夜间旅程的敌人。",
+   "related": [
+    "fig-ra",
+    "motif-cosmic-combat",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-apophis",
+    "pri-book-dead",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在政治中的演变须分层描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿佩普（Apep/Apophis）是埃及神话中的混沌巨蛇，象征混乱与破坏，是太阳神拉（Ra）在冥界夜间旅程中的主要敌人。载于《冥界书》（Amduat）、《门之书》等新王国丧葬文本：每日夜里阿佩普袭击太阳船，众神（如塞特、塞赫麦特）协助击退，太阳得以在黎明重生。这一'秩序（拉）—混沌（阿佩普）'的每日斗争是埃及宇宙论的核心叙事，并有相应的仪式（如'斩阿佩普'咒术）。",
+   "versions": [
+    "阿佩普（Apep/Apophis）是埃及神话中的混沌巨蛇，象征混乱与破坏，是太阳神拉（Ra）在冥界夜间旅程中的主要敌人。载于《冥界书》（Amduat）、《门之书》等新王国丧葬文本：每日夜里阿佩普袭击太阳船，众神（如塞特、塞赫麦特）协助击退，太阳得以在黎明重生。这一'秩序（拉）—混沌（阿佩普）'的每日斗争是埃及宇宙论的核心叙事，并有相应的仪式（如'斩阿佩普'咒术）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及冥界书》译注是理解阿佩普与太阳夜航的核心材料。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "把拉—阿佩普的斗争读作秩序战胜混沌的宇宙论。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》框架下把每日重演的宇宙斗争作仪式性参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-apophis",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿佩普形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿佩普（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>混沌巨蛇</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿佩普</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳之敌</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>夜航斗争</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>仪式斩蛇</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>咒术实践</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿佩普要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿佩普的性质",
+     "views": [
+      {
+       "holder": "混沌化身说",
+       "basis": "是混乱的拟人化。"
+      },
+      {
+       "holder": "外力敌人说",
+       "basis": "是具体的超自然敌对存在。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿佩普是埃及混沌巨蛇，太阳神拉夜航的主要敌人。",
+     "source": "pri-apophis"
+    },
+    {
+     "claim": "拉—阿佩普的斗争载于《冥界书》等新王国丧葬文本。",
+     "source": "pri-apophis"
+    }
+   ]
+  },
+  {
+   "id": "fig-baal",
+   "title": "巴力",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "迦南风暴与丰饶神，乌加里特泥板的核心神祇。",
+   "related": [
+    "myth-ugaritic",
+    "fig-hadad",
+    "fig-anat"
+   ],
+   "sources": [
+    "pri-baal",
+    "pri-ugaritic",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在政治中的演变须分层描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "巴力（Baal，'主/主人'）是迦南宗教的风暴与丰饶神，乌加里特（Ugarit）泥板文献的核心角色。'巴力循环'叙述他与海神亚姆（Yam）争夺王权、建宫殿、与死神莫特（Mot）的对抗与复归；他掌管雷雨与土地丰饶，其缺席导致旱灾。巴力崇拜在以色列王国时期与雅威崇拜的张力是《圣经·列王纪》等文献的重要议题。",
+   "versions": [
+    "巴力（Baal，'主/主人'）是迦南宗教的风暴与丰饶神，乌加里特（Ugarit）泥板文献的核心角色。'巴力循环'叙述他与海神亚姆（Yam）争夺王权、建宫殿、与死神莫特（Mot）的对抗与复归；他掌管雷雨与土地丰饶，其缺席导致旱灾。巴力崇拜在以色列王国时期与雅威崇拜的张力是《圣经·列王纪》等文献的重要议题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "H. L. Ginsberg",
+     "school": "闪语文献学",
+     "view": "乌加里特巴力文本译注确立基本读法。"
+    },
+    {
+     "holder": "Mark S. Smith",
+     "school": "圣经与迦南宗教研究",
+     "view": "强调以色列宗教与迦南宗教的连续性及差异，反对简单的'巴力 vs 雅威'二元对立。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "比较神话学",
+     "view": "把巴力—亚姆/莫特斗争与美索不达米亚宇宙斗争作结构对照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-baal",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>巴力形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>巴力（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>风暴丰饶</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雷雨之神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚姆/莫特</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙斗争</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌加里特</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>泥板核心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴力要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "巴力与雅威",
+     "views": [
+      {
+       "holder": "连续性说",
+       "basis": "早期以色列宗教与迦南宗教共享母题。"
+      },
+      {
+       "holder": "对立说",
+       "basis": "先知文学明确批判巴力崇拜。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "巴力是迦南风暴与丰饶神，乌加里特泥板的核心角色。",
+     "source": "pri-baal"
+    },
+    {
+     "claim": "巴力循环叙述其与亚姆、莫特的斗争与复归。",
+     "source": "pri-baal"
+    }
+   ]
+  },
+  {
+   "id": "fig-anat",
+   "title": "阿纳特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "迦南战争与丰饶女神，乌加里特巴力循环的重要角色。",
+   "related": [
+    "fig-baal",
+    "myth-ugaritic",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-anat",
+    "pri-ugaritic",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在政治中的演变须分层描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿纳特（Anat/Athtart）是迦南的战争与丰饶女神，乌加里特巴力循环中的重要角色：她以勇猛著称，为巴力复仇（击败亚姆与莫特），兼有性与母性职能（与阿西拉 Asherah 相关）。阿纳特崇拜在埃及新王国时期传入（作为战争女神），并影响后来的阿塔伽提斯（Atargatis）等叙利亚女神。其形象常与狮子、武器和丰饶符号相关。",
+   "versions": [
+    "阿纳特（Anat/Athtart）是迦南的战争与丰饶女神，乌加里特巴力循环中的重要角色：她以勇猛著称，为巴力复仇（击败亚姆与莫特），兼有性与母性职能（与阿西拉 Asherah 相关）。阿纳特崇拜在埃及新王国时期传入（作为战争女神），并影响后来的阿塔伽提斯（Atargatis）等叙利亚女神。其形象常与狮子、武器和丰饶符号相关。"
+   ],
+   "interpretations": [
+    {
+     "holder": "H. L. Ginsberg",
+     "school": "闪语文献学",
+     "view": "乌加里特阿纳特文本译注确立基本读法。"
+    },
+    {
+     "holder": "Mark S. Smith",
+     "school": "迦南宗教研究",
+     "view": "强调阿纳特与巴力、阿西拉的神谱关系。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "战争—丰饶双重女神可作母题层面的一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-anat",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿纳特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿纳特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战争女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>勇猛复仇</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶母性</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>性与生育</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃及传入</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>新王国崇拜</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿纳特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿纳特与阿西拉",
+     "views": [
+      {
+       "holder": "合一说",
+       "basis": "二者为同一女神的不同面相。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "是不同神格，职能有重叠。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿纳特是迦南战争与丰饶女神，乌加里特巴力循环的重要角色。",
+     "source": "pri-anat"
+    },
+    {
+     "claim": "阿纳特崇拜在新王国时期传入埃及。",
+     "source": "pri-anat"
+    }
+   ]
   }
  ]
 }
