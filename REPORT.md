@@ -1,20 +1,20 @@
-# REPORT.md — AUTONOMOUS-53（2026-11-23）
+# REPORT.md — AUTONOMOUS-54（2026-11-23）
 
-## 本轮主题：联网权威大纲差集法 + 批次13（245 条目）
-
-### 方法创新
-首次成功使用**联网权威大纲差集法**：通过 Python urllib 抓取 Wikipedia "List of mythologies"（288 个条目链接）与 "List of religions and spiritual traditions"（1912 个链接），与本库现有条目做差集，客观发现覆盖缺口。这兑现了 D14 联网恢复后 AUTONOMOUS.md 方法1（权威大纲对照）的执行。
+## 本轮主题：联网宗教大纲差集法 + 批次14（252 条目）
 
 ### 完成事项
-1. **批次12 推送完成**：远端 head `a92795039a76`。
-2. **差集发现**：大纲神话 130 个具体条目中，本库未覆盖的包括爱沙尼亚/缅甸/斐济/巴厘/孟加拉/亚美尼亚/格鲁吉亚/巴斯克等；经查重，后三者本库已有，取前 5 个新增。
-3. **批次13 扩充 +5 条（240→245）**：爱沙尼亚、缅甸、斐济、巴厘、孟加拉神话。
-4. 5 个新来源经 Wikipedia API 核验；修复 myth-thai-orig/myth-javanese-orig 占位（实际已有 myth-thai/myth-javanese）。
-5. check 0 errors；站点 256 页。
+1. **批次13 推送完成**：远端 head `d2abd75db445`。
+2. **批次14 扩充 +7 条（245→252）**（源自 Wikipedia "List of religions" 1912 条链接差集）：
+   - 伊斯兰分支 4：阿赫迈底亚、伊斯玛仪派、宰德派、伊巴德派。
+   - 基督教宗派 3：五旬节派、耶和华见证人、复临安息日会。
+   - 科普特正教会与既有 coptic-orthodoxy 合并深化。
+3. **8 个新来源**经 Wikipedia API 核验（Isma'ilism→Ismailism、Zaydi→Zaydism、Ibadi→Ibadism 等重定向确认）。
+4. 修复 3 处占位引用 + pentecostal 自引用。
+5. check 0 errors；站点 263 页。
 
 ### 现状
-- 条目 245（核心 40 全 L3 / 重要 74 全 L3 / 补充 131 L2），L3 累计 114。
-- 来源 166 条。
+- 条目 252（核心 40 全 L3 / 重要 74 全 L3 / 补充 138 L2），L3 累计 114。
+- 来源 174 条。
 
-### 下一步
-- 继续用权威大纲差集法从 1912 个宗教条目中发现缺口（筛选学术稳定、有文献依据者）。
+### 累积教训
+- 近似 id 误判（rel-coptic vs rel-coptic-orthodoxy、rel-mormon vs rel-mormonism）：查重须同时比对 id 与 title。

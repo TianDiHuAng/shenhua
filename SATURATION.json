@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 131,
-    "total": 245,
+    "supplement_l2": 138,
+    "total": 252,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/245）；补充层 131 条 L2；来源 166 条（联网核验）"
+    "verdict": "核心与重要层 100% L3（114/252）；补充层 138 条 L2；来源 174 条（联网核验）"
   },
   "round_log": [
     {
@@ -632,6 +632,18 @@
       "new_gaps_found": 5,
       "gap_detail": "批次13：从 Wikipedia 'List of mythologies'(288条) 联网抓取并与本库做差集，新增5条神话（爱沙尼亚/缅甸/斐济/巴厘/孟加拉）；5个新来源经 Wikipedia API 核验；发现 armenian/georgian/basque 已有故跳过；check 0 errors",
       "verdict": "正常扩充（批次13，5条；联网大纲法）"
+    },
+    {
+      "round": "AUTONOMOUS-54",
+      "date": "2026-11-23",
+      "methods_run": [
+        "联网权威大纲差集（宗教方法1）",
+        "读者问题",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 7,
+      "gap_detail": "批次14：Wikipedia 宗教大纲(1912链接)差集，新增7条（ahmadiyya/ismaili/zaydi/ibadi/pentecostal/jehovah/adventist）；coptic 与既有 coptic-orthodoxy 合并；8个新来源核验；修复占位与self引用；check 0 errors",
+      "verdict": "正常扩充（批次14，7条；联网宗教大纲法）"
     }
   ]
 }

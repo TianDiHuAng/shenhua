@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T15:04:50+08:00",
+  "generated": "2026-11-23T15:12:03+08:00",
   "summary": {
-    "total": 245,
+    "total": 252,
     "by_unit": {
       "U1": 76,
-      "U2": 57,
+      "U2": 64,
       "U3": 37,
       "U4": 75
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 131
+      "补充": 138
     },
     "by_level": {
       "L1": 0,
-      "L2": 131,
+      "L2": 138,
       "L3": 114
     },
-    "l2_done": 245,
+    "l2_done": 252,
     "l3_done": 114,
-    "verified_sources": 120
+    "verified_sources": 128
   },
   "entries": [
     {
@@ -1284,7 +1284,7 @@
       "tier": "补充",
       "level": "L2",
       "status": "done",
-      "sources_count": 2,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1886,6 +1886,83 @@
       "id": "motif-name-magic",
       "name": "真名与命名魔法",
       "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-ahmadiyya",
+      "name": "阿赫迈底亚",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-ismaili",
+      "name": "伊斯玛仪派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-zaydi",
+      "name": "宰德派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-ibadi",
+      "name": "伊巴德派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-pentecostal",
+      "name": "五旬节派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-jehovah",
+      "name": "耶和华见证人",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-adventist",
+      "name": "基督复临安息日会",
+      "unit": "U2",
       "tier": "补充",
       "level": "L2",
       "status": "done",
@@ -2854,7 +2931,14 @@
         "rel-hellenism",
         "rel-kemeticism",
         "rel-sikh",
-        "rel-shenism"
+        "rel-shenism",
+        "rel-ahmadiyya",
+        "rel-ismaili",
+        "rel-zaydi",
+        "rel-ibadi",
+        "rel-pentecostal",
+        "rel-jehovah",
+        "rel-adventist"
       ],
       "motifs": [
         "motif-creation",
@@ -12184,6 +12268,496 @@
         "tradition": "rel-shenism",
         "motif": "motif-trickster",
         "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ahmadiyya",
+        "motif": "motif-trickster",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ismaili",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-zaydi",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ibadi",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-pentecostal",
+        "motif": "motif-trickster",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "rel-jehovah",
+        "motif": "motif-trickster",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-adventist",
+        "motif": "motif-trickster",
+        "period": "modern",
         "expected": false,
         "status": "empty"
       }

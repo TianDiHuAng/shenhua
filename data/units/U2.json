@@ -3210,11 +3210,14 @@
    "tier": "补充",
    "period": "ancient",
    "summary": "科普特正教是埃及的东方正统教会，以亚历山大牧首为首，使用科普特礼仪，属东方正统教会（非迦克墩）传统。",
-   "source_text": "科普特正教源于埃及亚历山大教会，451年迦克墩会议后因基督论表述分歧而与帝国教会分立，形成东方正统教会群；其礼仪语言为科普特语与阿拉伯语。本文采用学术描述性立场。",
+   "source_text": "科普特正教会（Coptic Orthodox Church）是埃及最大的基督教教会，属东方正统教会（Oriental Orthodox，与东正教区分），传统上追溯至使徒马可在埃及的传教（1世纪）。该教会在451年迦克墩公会议后因基督论立场（主张'一性论' miaphysitism）与罗马/君士坦丁堡分离。科普特语（古埃及语的最后阶段）用于礼仪，修道传统深厚（如圣安东尼、圣帕科米乌斯），在埃及社会与身份认同中扮演核心角色。",
    "versions": [
     "451年迦克墩会议后，埃及教会与帝国教会分立，形成非迦克墩传统。",
     "科普特礼仪与修道传统（如沙漠教父）影响深远。",
-    "“科普特”既指教会也指埃及基督徒族群，具语言与族群双重含义。"
+    "“科普特”既指教会也指埃及基督徒族群，具语言与族群双重含义。",
+    "使徒马可传教与早期亚历山大教会的传统叙事。",
+    "451年迦克墩会议后的基督论分裂与东方正统教会形成。",
+    "中世纪至今在埃及的存续与现代 diaspora。"
    ],
    "interpretations": [
     {
@@ -3231,6 +3234,21 @@
      "holder": "Émile Durkheim",
      "school": "宗教社会学",
      "view": "（据《宗教生活的基本形式》）Durkheim 关于仪式与集体认同的理论，可分析科普特教会在族群认同中的功能。"
+    },
+    {
+     "holder": "St. Mark（使徒马可）",
+     "school": "教会传统",
+     "view": "依教会传统，马可是埃及教会的创立者，属该会的起源叙事。"
+    },
+    {
+     "holder": "St. Anthony（圣安东尼）",
+     "school": "修道传统",
+     "view": "3–4世纪的沙漠教父传统是科普特灵性的核心。"
+    },
+    {
+     "holder": "现代教会史",
+     "school": "宗教史",
+     "view": "强调迦克墩分裂的神学与政治背景，作学术描述。"
     }
    ],
    "comparisons": [
@@ -3253,11 +3271,51 @@
    ],
    "sources": [
     "enc-brit-christianity",
-    "enc-wiki-world-religion"
+    "enc-wiki-world-religion",
+    "pri-coptic",
+    "aca-gnostic-gospels"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 基督论表述分歧的细节待专门文献核对；2) 百科来源未在线核验，标弱参照；3) 描述性立场，不替信仰表态。",
-   "year": null
+   "pending_notes": "1) 基督论表述分歧的细节待专门文献核对；2) 百科来源未在线核验，标弱参照；3) 描述性立场，不替信仰表态。 1) related 中 rel-orthodoxy-orig 占位需核对；2) 科普特教会的使徒马可传统属该教会自述，按学术描述处理；3) 描述性立场。",
+   "year": null,
+   "controversies": [
+    {
+     "issue": "迦克墩分裂的性质",
+     "views": [
+      {
+       "holder": "基督论分歧说",
+       "basis": "一性论与二性论的教义差异是核心。"
+      },
+      {
+       "holder": "政治文化说",
+       "basis": "埃及地方身份与帝国教会的张力。"
+      }
+     ]
+    },
+    {
+     "issue": "'一性论'的表述",
+     "views": [
+      {
+       "holder": "Miaphysitism 说",
+       "basis": "该会自述为'一性'（复合而非混合），与'一性论'(Monophysitism) 不同。"
+      },
+      {
+       "holder": "传统标签说",
+       "basis": "历史上常被外部称作一性论。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "科普特正教会属东方正统教会，在451年迦克墩会议后与罗马/君士坦丁堡分离。",
+     "source": "pri-coptic"
+    },
+    {
+     "claim": "科普特语是古埃及语发展的最后阶段，至今用于科普特教会礼仪。",
+     "source": "pri-coptic"
+    }
+   ]
   },
   {
    "id": "rel-alevi",
@@ -4795,6 +4853,661 @@
     {
      "claim": "香火逻辑（神明灵验—供奉—还愿）是民间神庙实践的核心互动模式。",
      "source": "pri-shenism"
+    }
+   ]
+  },
+  {
+   "id": "rel-ahmadiyya",
+   "title": "阿赫迈底亚",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "1889年创立于英属印度的伊斯兰教复兴运动，以弥赛亚与改革主张著称。",
+   "related": [
+    "rel-islam",
+    "rel-sufism",
+    "rel-bahai"
+   ],
+   "sources": [
+    "pri-ahmadiyya",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 该派关于创始人弥赛亚地位的主张与主流伊斯兰教分歧极大，只作该派自述处理；2) 在巴基斯坦等地的法律处境（如1974年被宣布为非穆斯林）按公开史实记录；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿赫迈底亚（Ahmadiyya）1889年由米尔扎·古拉姆·艾哈迈德（1835–1908）在英属印度创立，源于伊斯兰教的复兴与改革思潮：创始人自称为'应许的弥赛亚'与'马赫迪'，主张以和平方式传播伊斯兰、复兴宗教实践。该派分为卡迪安尼派与拉合尔派（对创始人地位理解不同）。1974年巴基斯坦议会宣布卡迪安尼派为非穆斯林，其后经历多次法律与社会冲突。",
+   "versions": [
+    "卡迪安尼派：视创始人为弥赛亚与'黑田'式改革者，总部在伦敦（ migrated ）。",
+    "拉合尔派：视创始人为改革者而非严格意义上的先知。",
+    "20世纪以来在英联邦与非洲的传教扩张。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mirza Ghulam Ahmad",
+     "school": "创立者自述",
+     "view": "创始人以'应许的弥赛亚'自述，主张以笔与和平辩论传播伊斯兰。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "Prothero 把阿赫迈底亚作为伊斯兰内部多样性与改革运动的案例。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "区域研究",
+     "view": "强调该派在殖民语境下的兴起与南亚伊斯兰改革脉络。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "伊斯兰教主流",
+     "basis_source": "pri-ahmadiyya",
+     "note": "弥赛亚/先知地位的教义分歧是该派与主流伊斯兰的核心边界。"
+    },
+    {
+     "tradition": "巴哈伊教",
+     "basis_source": "aca-god-is-not-one",
+     "note": "同属19世纪南亚/波斯背景下的新宗教运动，作历史平行描述。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿赫迈底亚结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿赫迈底亚（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弥赛亚主张</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创始人自述</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>和平传教</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>改革方式</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>1974 Pakistan</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>法律处境</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿赫迈底亚要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "创始人的先知地位",
+     "views": [
+      {
+       "holder": "该派立场",
+       "basis": "创始人为'应许的弥赛亚'，地位特殊。"
+      },
+      {
+       "holder": "主流伊斯兰立场",
+       "basis": "穆罕默德是最后先知，否认其后先知。"
+      }
+     ]
+    },
+    {
+     "issue": "是否属伊斯兰教",
+     "views": [
+      {
+       "holder": "自我认同",
+       "basis": "该派自视为伊斯兰复兴运动。"
+      },
+      {
+       "holder": "外部判定",
+       "basis": "巴基斯坦等国法律判定为非穆斯林。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿赫迈底亚1889年由米尔扎·古拉姆·艾哈迈德在英属印度创立。",
+     "source": "pri-ahmadiyya"
+    },
+    {
+     "claim": "1974年巴基斯坦议会宣布卡迪安尼派为非穆斯林社群。",
+     "source": "pri-ahmadiyya"
+    }
+   ]
+  },
+  {
+   "id": "rel-ismaili",
+   "title": "伊斯玛仪派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "什叶派的分支，以法蒂玛王朝与尼扎里（阿萨辛）传统著称。",
+   "related": [
+    "rel-islam",
+    "rel-sufism",
+    "rel-ahmadiyya"
+   ],
+   "sources": [
+    "pri-ismaili",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 法蒂玛王朝、尼扎里派与现当代伊斯玛仪派（如阿迦汗系）差异大，本条作分支通述；2) '阿萨辛'label 的来源是十字军文献，带有他者叙事色彩，已作说明；3) 描述性立场。",
+   "year": null,
+   "source_text": "伊斯玛仪派（Ismailism）是什叶派的重要分支，因拥护伊斯玛仪·本·加法尔为第六伊玛仪的继承权而与十二伊玛目派分离（8世纪）。该派发展出强调'隐秘教义'（batin）与'学徒阶梯'的神学体系；10–12世纪建立法蒂玛王朝（北非—埃及），尼扎里派（Nizari，西方称'阿萨辛'）以阿拉穆特堡为中心活跃于波斯—叙利亚。当代伊斯玛仪派以阿迦汗四世/五世为精神领袖，分布于中亚、南亚与东非。",
+   "versions": [
+    "早期什叶派内部围绕伊玛目继承的分裂（8世纪）。",
+    "法蒂玛王朝（909–1171）的伊斯玛仪国教与学术中心（开罗 al-Azhar）。",
+    "尼扎里派（阿拉穆特时期，1090–1256）与现代阿迦汗系。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Isma'ili 传统",
+     "school": "内学（batin）",
+     "view": "强调经文的表层（zahir）与隐秘内层（batin）的区分，属该派神学核心。"
+    },
+    {
+     "holder": "Marshall Hodgson",
+     "school": "伊斯兰史",
+     "view": "Hodgson 在《The Venture of Islam》中把伊斯玛仪派放在伊斯兰'革命与重建'的历史脉络中。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "教派史",
+     "view": "强调伊斯玛仪派内部的多样性与历史分期，反对'秘密教团'式简化。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "十二伊玛目派",
+     "basis_source": "pri-ismaili",
+     "note": "伊玛目继承权的分歧是两派分野的核心。"
+    },
+    {
+     "tradition": "苏菲主义",
+     "basis_source": "aca-god-is-not-one",
+     "note": "隐秘教义与灵性阶梯的结构作一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊斯玛仪派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊斯玛仪派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊斯玛仪</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伊玛目继承</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>隐秘教义</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>batin之学</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法蒂玛王朝</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>历史政权</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊斯玛仪派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "'阿萨辛'的名称来源",
+     "views": [
+      {
+       "holder": "大麻说（旧说）",
+       "basis": "十字军文献称其成员吸食 hashish。"
+      },
+      {
+       "holder": "语言误读说",
+       "basis": "现代研究多认为源自当地语言词汇，'大麻'是误传。"
+      }
+     ]
+    },
+    {
+     "issue": "隐秘教义的范围",
+     "views": [
+      {
+       "holder": "精英秘传说",
+       "basis": "batin 之学仅传授给入门者。"
+      },
+      {
+       "holder": "普世救赎说",
+       "basis": "伊斯玛仪派宣称普世救赎的使命。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊斯玛仪派因8世纪伊玛目继承权争议从什叶派主流中分离。",
+     "source": "pri-ismaili"
+    },
+    {
+     "claim": "法蒂玛王朝（909–1171）以伊斯玛仪派为国教，建立开罗爱资哈尔清真寺。",
+     "source": "pri-ismaili"
+    }
+   ]
+  },
+  {
+   "id": "rel-zaydi",
+   "title": "宰德派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "什叶派中较为温和的分支，主要分布于也门，又称五伊玛目派。",
+   "related": [
+    "rel-islam",
+    "rel-ismaili",
+    "rel-ahmadiyya"
+   ],
+   "sources": [
+    "pri-zaydi",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宰德派与逊尼派在教法上有诸多接近之处，学派定位须描述性处理；2) 也门历史政治（如伊玛目国与胡塞运动）按公开史实记录；3) 描述性立场。",
+   "year": null,
+   "source_text": "宰德派（Zaydism）是什叶派分支，得名于宰德·本·阿里（Zayd ibn Ali，约695–740），因主张伊玛目应由任何具备资格的后裔担任（而非固定的世系）而与十二伊玛目派等分离。宰德派在教义与教法上较接近逊尼派（如不接受隐秘教义、承认部分圣门弟子权威），历史上主要分布于也门与伊朗北部（如 Tabaristan），20世纪也门伊玛目国被推翻后仍是重要的政治—宗教力量。",
+   "versions": [
+    "8世纪宰德·本·阿里的起义与神学主张。",
+    "也门伊玛目国（如 Zaydi Imamate）的历史形态。",
+    "当代也门政治中的宰德派复兴运动。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Zayd ibn Ali",
+     "school": "创立者",
+     "view": "以'劝善戒恶'与伊玛目资格论为核心，属创立者叙事。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "教派史",
+     "view": "强调宰德派'介于逊尼与什叶之间'的中间位置。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Bernard Haykel",
+     "school": "也门研究",
+     "view": "Haykel 研究也门宰德派的历史与当代政治。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "十二伊玛目派",
+     "basis_source": "pri-zaydi",
+     "note": "伊玛目资格与隐秘教义的分歧是两派差异核心。"
+    },
+    {
+     "tradition": "逊尼派",
+     "basis_source": "aca-god-is-not-one",
+     "note": "教法与圣训态度的接近性作平行描述。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>宰德派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>宰德派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宰德·本·阿里</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伊玛目资格论</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五伊玛目派</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>别称</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>也门</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>主要分布</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宰德派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "宰德派的教派归属",
+     "views": [
+      {
+       "holder": "什叶派分支说",
+       "basis": "承认阿里后裔的伊玛目地位。"
+      },
+      {
+       "holder": "中间派说",
+       "basis": "教法上接近逊尼，难以简单归类。"
+      }
+     ]
+    },
+    {
+     "issue": "伊玛目的资格",
+     "views": [
+      {
+       "holder": "功德资格说",
+       "basis": "任何有资格的阿里后裔皆可。"
+      },
+      {
+       "holder": "世系限定说",
+       "basis": "特定世系才有资格。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "宰德派因伊玛目资格论与十二伊玛目派等分离，得名于宰德·本·阿里。",
+     "source": "pri-zaydi"
+    },
+    {
+     "claim": "宰德派在教法与教义上较接近逊尼派，历史上主要分布于也门。",
+     "source": "pri-zaydi"
+    }
+   ]
+  },
+  {
+   "id": "rel-ibadi",
+   "title": "伊巴德派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "伊斯兰教早期分支，以阿曼为主要分布地，主张温和的中间路线。",
+   "related": [
+    "rel-islam",
+    "rel-ahmadiyya",
+    "rel-zaydi"
+   ],
+   "sources": [
+    "pri-ibadi",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊巴德派常被称为'温和派'或'第五教派'，但自称早于逊尼/什叶分化；2) 阿曼的政治—宗教关系按公开史实描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "伊巴德派（Ibadism）是伊斯兰教的早期分支，得名于阿卜杜拉·本·伊巴德（Abdullah ibn Ibad，7世纪），在7世纪的伊斯兰内战中采取既不赞同阿里也不反对他的'中间'立场，发展出独立的教义体系（如强调真主的超越性、以'真主之意'（irada）解释恶）。伊巴德派主要分布于阿曼（曾建立伊玛目国）、阿尔及利亚的姆扎卜谷与利比亚的奈富塞山。",
+   "versions": [
+    "7世纪内战中的'中间派'政治立场。",
+    "阿曼伊玛目国（如 Rustamid 王朝、后来的阿曼苏丹国）的历史形态。",
+    "北非姆扎卜谷（M'zab）的伊巴德社群。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Ibn Ibad（伊本·伊巴德）",
+     "school": "创立者",
+     "view": "以'中间主义'与真主超越性教义著称。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "教派史",
+     "view": "伊巴德派保存了伊斯兰早期神学争论的珍贵材料，学术价值高。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Wilfred Madelung",
+     "school": "早期伊斯兰史",
+     "view": "Madelung 把伊巴德派置于早期伊斯兰政治—神学分化的框架中研究。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "逊尼派",
+     "basis_source": "pri-ibadi",
+     "note": "同为伊斯兰主流分支，教义差异作平行描述。"
+    },
+    {
+     "tradition": "穆尔太齐赖派",
+     "basis_source": "aca-god-is-not-one",
+     "note": "真主超越性与意志问题的神学讨论作一般参照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊巴德派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊巴德派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊本·伊巴德</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创立者</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中间立场</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>内战态度</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿曼</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>主要分布</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊巴德派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "伊巴德派的名称与自我认同",
+     "views": [
+      {
+       "holder": "伊巴德派自称",
+       "basis": "自称是早于教派分化的'中间社群'。"
+      },
+      {
+       "holder": "外部分类",
+       "basis": "学界常列为伊斯兰教的独立分支。"
+      }
+     ]
+    },
+    {
+     "issue": "善恶与真主意志",
+     "views": [
+      {
+       "holder": "意志决定说",
+       "basis": "恶亦出于真主意志，但不等于真主喜悦。"
+      },
+      {
+       "holder": "人类责任说",
+       "basis": "强调人类行为的责任归属。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊巴德派得名于7世纪的阿卜杜拉·本·伊巴德，在伊斯兰早期内战中持中间立场。",
+     "source": "pri-ibadi"
+    },
+    {
+     "claim": "伊巴德派主要分布于阿曼，另在阿尔及利亚姆扎卜谷与利比亚有社群。",
+     "source": "pri-ibadi"
+    }
+   ]
+  },
+  {
+   "id": "rel-pentecostal",
+   "title": "五旬节派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "20世纪初兴起、强调圣灵洗礼与说方言的基督教灵恩运动。",
+   "related": [
+    "rel-protestantism",
+    "rel-methodism"
+   ],
+   "sources": [
+    "pri-pentecostal",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) related 中 rel-charismatic-orig 占位需核对；2) 五旬节派内部（古典五旬节/灵恩运动/第三波）差异待专门文献；3) 描述性立场。",
+   "year": null,
+   "source_text": "五旬节派（Pentecostalism）是20世纪初兴起的基督教灵恩运动，源于1906年洛杉矶阿祖萨街复兴（Azusa Street Revival）：强调'圣灵洗礼'的二次恩典experience、说方言（glossolalia）、信心医治与末世期盼，重视《使徒行传》的圣灵降临叙事为教会范式。五旬节派发展出多个宗派（如神召会 Assemblies of God），并深刻影响了全球基督教（尤其拉美、非洲与韩国的教会增长）。",
+   "versions": [
+    "1906年阿祖萨街复兴的早期灵恩体验。",
+    "古典五旬节派宗派化（1914年神召会成立）。",
+    "1960年代起的灵恩运动（Charismatic Movement）与第三波。"
+   ],
+   "interpretations": [
+    {
+     "holder": "William J. Seymour",
+     "school": "阿祖萨街复兴领袖",
+     "view": "Seymour 强调圣灵平等临在于所有信徒，属创立者实践。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "Weber 的'卡里斯马权威'（charisma）概念可用于分析复兴运动的领袖魅力结构。"
+    },
+    {
+     "holder": "William Kay 等",
+     "school": "五旬节研究",
+     "view": "强调五旬节派的全球增长与本土化特征。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "卫理公会",
+     "basis_source": "aca-varieties-religion",
+     "note": "同属'体验'取向的新教运动，卫斯理的'内心确据'与五旬节的'圣灵洗礼'作一般对照。"
+    },
+    {
+     "tradition": "早期基督教",
+     "basis_source": "pri-pentecostal",
+     "note": "《使徒行传》五旬节叙事是该运动的文本范式。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>五旬节派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>五旬节派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣灵洗礼</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>二次恩典</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>说方言</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>glossolalia</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿祖萨街</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1906复兴</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五旬节派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "说方言的性质",
+     "views": [
+      {
+       "holder": "属灵恩赐说",
+       "basis": "视方言为圣灵赐予的灵语。"
+      },
+      {
+       "holder": "心理学解释",
+       "basis": "视为宗教体验中的发音现象。"
+      }
+     ]
+    },
+    {
+     "issue": "信心医治的效力",
+     "views": [
+      {
+       "holder": "信仰实践说",
+       "basis": "祷告医治是信仰共同体的核心实践。"
+      },
+      {
+       "holder": "批判立场",
+       "basis": "对医治宣称持经验审查态度。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "1906年洛杉矶阿祖萨街复兴是五旬节派运动的标志性起点。",
+     "source": "pri-pentecostal"
+    },
+    {
+     "claim": "五旬节派强调《使徒行传》记载的圣灵降临为教会生活的范式。",
+     "source": "pri-pentecostal"
+    }
+   ]
+  },
+  {
+   "id": "rel-jehovah",
+   "title": "耶和华见证人",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "19世纪末源于圣经研习运动、以《新世界译本》与末世论著称的基督教新兴宗派。",
+   "related": [
+    "rel-protestantism",
+    "rel-mormonism"
+   ],
+   "sources": [
+    "pri-jehovah",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) related 中 rel-bible-orig 占位需核对；2) 该派的末世预言历史与组织纪律按公开史实描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "耶和华见证人（Jehovah's Witnesses）源于1870年代查尔斯·罗素（Charles Taze Russell）在美国发起的圣经研习运动，1931年采用现名。核心教义包括：上帝名为耶和华、拒绝三位一体、基督以肉眼不可见方式统治、1914年标志末世阶段的开始、哈米吉多顿后地上乐园；以自行翻译的《新世界译本》为权威圣经。该派以严格的组织纪律、逐户传道与拒服兵役著称，历史上多次末世日期预言失败。",
+   "versions": [
+    "1870年代圣经研习运动（罗素时期）。",
+    "1931年'耶和华见证人'名称确立与路福福德时期的末世论强化。",
+    "现代治理机构（Governing Body）与《新世界译本》多个修订版。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Charles Taze Russell",
+     "school": "创立者",
+     "view": "罗素以圣经数字学与末世推算为核心，属创立者文本。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "Prothero 把耶和华见证人作为'美国本土新宗教'的典型案例。"
+    },
+    {
+     "holder": "现代宗教研究",
+     "school": "新宗教研究",
+     "view": "强调该派的'世界放弃主义'与高度组织化的传道结构。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "主流基督教",
+     "basis_source": "pri-jehovah",
+     "note": "三位一体与末世论的分歧是该派与主流基督教的核心边界。"
+    },
+    {
+     "tradition": "后期圣徒运动",
+     "basis_source": "aca-god-is-not-one",
+     "note": "同属19世纪美国本土新宗教，作历史平行描述。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>耶和华见证人结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>耶和华见证人（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>耶和华</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>上帝之名</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>新世界译本</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>自译圣经</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>1914末世</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>末世论</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>耶和华见证人要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "末世日期预言",
+     "views": [
+      {
+       "holder": "信仰立场",
+       "basis": "预言失败被解释为对圣经理解的深化。"
+      },
+      {
+       "holder": "批判立场",
+       "basis": "多次具体的末世日期落空是其历史特征。"
+      }
+     ]
+    },
+    {
+     "issue": "三位一体教义",
+     "views": [
+      {
+       "holder": "该派立场",
+       "basis": "否认三位一体，视耶稣为上帝之子而非上帝本身。"
+      },
+      {
+       "holder": "主流基督教立场",
+       "basis": "视三位一体为核心正统教义。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "耶和华见证人源于19世纪70年代查尔斯·罗素的圣经研习运动。",
+     "source": "pri-jehovah"
+    },
+    {
+     "claim": "《新世界译本》是该派自行翻译使用的圣经版本。",
+     "source": "pri-jehovah"
+    }
+   ]
+  },
+  {
+   "id": "rel-adventist",
+   "title": "基督复临安息日会",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "19世纪中叶源于米勒派、以守安息日与基督复临为核心的新教宗派。",
+   "related": [
+    "rel-protestantism",
+    "rel-jehovah"
+   ],
+   "sources": [
+    "pri-adventist",
+    "aca-protestant-ethic"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 该派与米勒派'大失望'(1844) 的历史关联按公开史实记录；2) 怀爱伦著作的权威地位属该派自述；3) 描述性立场。",
+   "year": null,
+   "source_text": "基督复临安息日会（Seventh-day Adventist Church）1863年正式成立，源于19世纪中叶美国的米勒派（Millerite）运动——威廉·米勒预言基督将于1844年复临，落空后形成'大失望'。该派保留关于基督复临的核心期盼，强调守第七日安息日（星期六）、健康生活（含饮食规条）与圣经研习；怀爱伦（Ellen G. White）的著述在其传统中具重要权威。现为全球性宗派，在教育与医疗领域有广泛机构。",
+   "versions": [
+    "米勒派运动与1844年'大失望'的前史。",
+    "1863年宗派成立与安息日/复临教义定型。",
+    "怀爱伦著作与20世纪全球扩张（含教育机构）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Ellen G. White",
+     "school": "该派先知传统",
+     "view": "怀爱伦的'异象'与著述在该派传统中被视为圣灵的引导。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "Weber 的'新教伦理'与'天职'概念可作该派勤勉—节制伦理的分析参照。"
+    },
+    {
+     "holder": "现代教会史",
+     "school": "宗教史",
+     "view": "把该派置于19世纪美国'复原主义'与末世期盼的脉络中。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "耶和华见证人",
+     "basis_source": "pri-adventist",
+     "note": "同源于19世纪美国末世期盼运动，在复临/末世论上有平行关注点。"
+    },
+    {
+     "tradition": "浸信会",
+     "basis_source": "aca-protestant-ethic",
+     "note": "同属新教复原主义传统，洗礼与教会观作一般对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>复临安息日会结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>复临安息日会（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>基督复临</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>末世期盼</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>第七日安息日</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>星期六</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>怀爱伦</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>先知著述</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>复临安息日会要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "1844年预言落空的解释",
+     "views": [
+      {
+       "holder": "预表解释说",
+       "basis": "把'大失望'重新解释为圣经预言的应验（圣所洁净教义）。"
+      },
+      {
+       "holder": "历史批判说",
+       "basis": "视为预言失败后的认知重构。"
+      }
+     ]
+    },
+    {
+     "issue": "怀爱伦著作的权威",
+     "views": [
+      {
+       "holder": "先知权威说",
+       "basis": "著作被视为圣灵启示的'证言'。"
+      },
+      {
+       "holder": "圣经至上说",
+       "basis": "强调圣经为唯一最高权威，著作是辅助。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "基督复临安息日会1863年正式成立，源于米勒派1844年'大失望'。",
+     "source": "pri-adventist"
+    },
+    {
+     "claim": "守第七日（星期六）安息日是该派的标志性实践。",
+     "source": "pri-adventist"
     }
    ]
   }
