@@ -10745,6 +10745,450 @@
      "source": "pri-tenjin"
     }
    ]
+  },
+  {
+   "id": "fig-abraham",
+   "title": "亚伯拉罕",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "犹太教、基督教与伊斯兰教共同尊奉的族长。",
+   "related": [
+    "rel-judaism",
+    "rel-christianity",
+    "rel-islam"
+   ],
+   "sources": [
+    "pri-abraham",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 叙事主要见于希伯来圣经，文本成书年代与历史性学界有讨论；2) 犹太教/基督教/伊斯兰教对同一人物的定位不同，须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "亚伯拉罕（Abraham，原名 Abram）是《创世记》12–25章的核心人物，被犹太教视为希伯来人的始祖（'亚伯拉罕之约'——神应许其后代如星沙众多），被基督教视为'信心之父'，被伊斯兰教视为先知（Ibrāhīm）与麦加圣殿的重建者。其叙事包括迁徙迦南、与撒拉/夏甲的两个家庭分支、'绑定以撒'的考验等。三大亚伯拉罕宗教共同尊奉他，但对其生平与神学意义的理解各异。",
+   "versions": [
+    "亚伯拉罕（Abraham，原名 Abram）是《创世记》12–25章的核心人物，被犹太教视为希伯来人的始祖（'亚伯拉罕之约'——神应许其后代如星沙众多），被基督教视为'信心之父'，被伊斯兰教视为先知（Ibrāhīm）与麦加圣殿的重建者。其叙事包括迁徙迦南、与撒拉/夏甲的两个家庭分支、'绑定以撒'的考验等。三大亚伯拉罕宗教共同尊奉他，但对其生平与神学意义的理解各异。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《创世记》叙事",
+     "school": "文本传统",
+     "view": "确立亚伯拉罕之约与族长谱系。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "《God Is Not One》中把亚伯拉罕作为三大宗教的共同祖先符号分析。"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "文本研究",
+     "view": "对族长叙事的历史性与成书年代有持续讨论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-abraham",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>亚伯拉罕形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>亚伯拉罕（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚伯拉罕之约</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>后裔应许</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>信心之父</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>三教共尊</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>绑定以撒</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>关键考验</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚伯拉罕要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "亚伯拉罕的历史性",
+     "views": [
+      {
+       "holder": "历史族长说",
+       "basis": "基于古代近东族长传统。"
+      },
+      {
+       "holder": "文学建构说",
+       "basis": "叙事主要是神学—文学的建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "亚伯拉罕是犹太教、基督教与伊斯兰教共同尊奉的族长。",
+     "source": "pri-abraham"
+    },
+    {
+     "claim": "亚伯拉罕之约是其叙事的核心神学主题。",
+     "source": "pri-abraham"
+    }
+   ]
+  },
+  {
+   "id": "fig-isaac",
+   "title": "以撒",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "亚伯拉罕与撒拉之子，犹太教族长与'绑定'叙事的核心。",
+   "related": [
+    "fig-abraham",
+    "fig-jacob",
+    "rel-judaism"
+   ],
+   "sources": [
+    "pri-isaac",
+    "aca-myth-legend-custom"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 叙事主要见于希伯来圣经，文本成书年代与历史性学界有讨论；2) 犹太教/基督教/伊斯兰教对同一人物的定位不同，须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "以撒（Isaac，Yitzḥak）是亚伯拉罕与撒拉之子，《创世记》记载其应许而生、被父亲带去摩利亚地献祭（'绑定以撒'，后被天使阻止）的叙事——这一事件在犹太教传统中强调顺服与救赎，在基督教中常被视为基督牺牲的预表，在伊斯兰教中献祭者被理解为以实玛利（Ismāʿīl），存在传统差异。以撒的后裔通过雅各延续为以色列十二支派。",
+   "versions": [
+    "以撒（Isaac，Yitzḥak）是亚伯拉罕与撒拉之子，《创世记》记载其应许而生、被父亲带去摩利亚地献祭（'绑定以撒'，后被天使阻止）的叙事——这一事件在犹太教传统中强调顺服与救赎，在基督教中常被视为基督牺牲的预表，在伊斯兰教中献祭者被理解为以实玛利（Ismāʿīl），存在传统差异。以撒的后裔通过雅各延续为以色列十二支派。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《创世记》",
+     "school": "文本传统",
+     "view": "记载以撒的诞生、绑定与家族叙事。"
+    },
+    {
+     "holder": "犹太教传统",
+     "school": "释经",
+     "view": "'绑定以撒'(Akedah) 是重要的殉道与顺服象征。"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "文本研究",
+     "view": "对比《创世记》与伊斯兰传统中献祭者身份的差异。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-isaac",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>以撒形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>以撒（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>应许之子</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>撒拉所生</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>绑定</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Akedah考验</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>族谱延续</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雅各之父</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>以撒要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "献祭者的身份",
+     "views": [
+      {
+       "holder": "以撒说",
+       "basis": "犹太教与基督教传统：以撒。"
+      },
+      {
+       "holder": "以实玛利说",
+       "basis": "伊斯兰传统多理解为以实玛利。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "以撒是亚伯拉罕与撒拉之子，'绑定以撒'叙事的核心人物。",
+     "source": "pri-isaac"
+    },
+    {
+     "claim": "伊斯兰传统多把献祭者理解为以实玛利。",
+     "source": "pri-isaac"
+    }
+   ]
+  },
+  {
+   "id": "fig-jacob",
+   "title": "雅各",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "犹太教族长，又名以色列，十二支派的祖先。",
+   "related": [
+    "fig-isaac",
+    "fig-abraham",
+    "rel-judaism"
+   ],
+   "sources": [
+    "pri-jacob",
+    "aca-myth-legend-custom"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 叙事主要见于希伯来圣经，文本成书年代与历史性学界有讨论；2) 犹太教/基督教/伊斯兰教对同一人物的定位不同，须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "雅各（Jacob，Yaʿaqōv）是亚伯拉罕之孙、以撒之子，《创世记》25–50章的核心人物：他以'诡计'取得长子权与父亲的祝福（与兄长以扫的冲突），在逃亡中经历'雅各的 ladder'梦境（天梯），与天使摔跤后改名'以色列'（Yisra'el），其后裔形成以色列十二支派。雅各叙事在犹太教中是民族起源与'以色列'名称的来源，其复杂的道德形象是文本讨论的重点。",
+   "versions": [
+    "雅各（Jacob，Yaʿaqōv）是亚伯拉罕之孙、以撒之子，《创世记》25–50章的核心人物：他以'诡计'取得长子权与父亲的祝福（与兄长以扫的冲突），在逃亡中经历'雅各的 ladder'梦境（天梯），与天使摔跤后改名'以色列'（Yisra'el），其后裔形成以色列十二支派。雅各叙事在犹太教中是民族起源与'以色列'名称的来源，其复杂的道德形象是文本讨论的重点。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《创世记》",
+     "school": "文本传统",
+     "view": "记载雅各的欺骗、流亡、摔跤与改名叙事。"
+    },
+    {
+     "holder": "犹太教传统",
+     "school": "释经",
+     "view": "强调雅各从诡计者到'以色列'的转变。"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "文本研究",
+     "view": "对族长叙事的历史性与文学建构有讨论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-jacob",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>雅各形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>雅各（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天梯之梦</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与神立约</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>改名以色列</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>摔跤后</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>十二支派</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>后裔</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雅各要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "雅各的形象",
+     "views": [
+      {
+       "holder": "诡计者说",
+       "basis": "叙事强调其欺骗与夺权。"
+      },
+      {
+       "holder": "转变说",
+       "basis": "强调其从诡计到'以色列'的灵性成长。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "雅各又名以色列，是以色列十二支派传说中的祖先。",
+     "source": "pri-jacob"
+    },
+    {
+     "claim": "雅各与天使摔跤后改名的叙事是'以色列'名称的来源。",
+     "source": "pri-jacob"
+    }
+   ]
+  },
+  {
+   "id": "fig-noah",
+   "title": "诺亚",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《创世记》洪水叙事中的方舟建造者。",
+   "related": [
+    "motif-flood",
+    "fig-atrahasis",
+    "fig-utnapishtim"
+   ],
+   "sources": [
+    "pri-noah",
+    "aca-myth-legend-custom"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 叙事主要见于希伯来圣经，文本成书年代与历史性学界有讨论；2) 犹太教/基督教/伊斯兰教对同一人物的定位不同，须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "诺亚（Noah，Noaḥ）是《创世记》6–9章洪水叙事的中心人物：因'在耶和华眼中蒙恩'，他按神的指示建造方舟，携带家人与动物度过洪水，洪水后以彩虹为约的记号。诺亚洪水叙事与美索不达米亚的《阿特拉哈西斯》《吉尔伽美什》第11泥板洪水故事高度平行（方舟、放鸟、山泊等母题），是近东洪水传统的希伯来版本——学界对二者的传播与共源关系有持续讨论。",
+   "versions": [
+    "诺亚（Noah，Noaḥ）是《创世记》6–9章洪水叙事的中心人物：因'在耶和华眼中蒙恩'，他按神的指示建造方舟，携带家人与动物度过洪水，洪水后以彩虹为约的记号。诺亚洪水叙事与美索不达米亚的《阿特拉哈西斯》《吉尔伽美什》第11泥板洪水故事高度平行（方舟、放鸟、山泊等母题），是近东洪水传统的希伯来版本——学界对二者的传播与共源关系有持续讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《创世记》",
+     "school": "文本传统",
+     "view": "记载诺亚方舟与洪水后的约。"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "比较研究",
+     "view": "把诺亚洪水与美索不达米亚洪水叙事作平行比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中洪水可被读作宇宙周期的毁灭—重创。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-noah",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>诺亚形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>诺亚（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>方舟</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洪水得救</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>彩虹之约</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洪水后立约</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>近东平行</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洪水母题</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诺亚要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "洪水叙事的关系",
+     "views": [
+      {
+       "holder": "共源说",
+       "basis": "希伯来与两河洪水叙事共享近东传统。"
+      },
+      {
+       "holder": "独立说",
+       "basis": "相似母题可独立发生。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "诺亚是《创世记》洪水叙事中的方舟建造者。",
+     "source": "pri-noah"
+    },
+    {
+     "claim": "诺亚洪水叙事与美索不达米亚洪水传统高度平行。",
+     "source": "pri-noah"
+    }
+   ]
+  },
+  {
+   "id": "fig-david",
+   "title": "大卫",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "以色列联合王国的第二位国王，《诗篇》的传统作者。",
+   "related": [
+    "rel-judaism",
+    "fig-solomon",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-david",
+    "aca-myth-legend-custom"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 叙事主要见于希伯来圣经，文本成书年代与历史性学界有讨论；2) 犹太教/基督教/伊斯兰教对同一人物的定位不同，须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "大卫（David）是以色列联合王国的第二位国王（约前10世纪），《撒母耳记上》下记载其从牧羊少年、击败歌利亚、到成为国王的历程（包括与扫罗的冲突、crime of Bathsheba 等复杂叙事）。他统一以色列、建立耶路撒冷为政治—宗教中心，并被视为《诗篇》的主要作者（传统）。大卫在犹太教中是理想君王的范式、弥赛亚（Messiah，'大卫之子'）谱系的源头；在基督教中耶稣被称为'大卫之子'。",
+   "versions": [
+    "大卫（David）是以色列联合王国的第二位国王（约前10世纪），《撒母耳记上》下记载其从牧羊少年、击败歌利亚、到成为国王的历程（包括与扫罗的冲突、crime of Bathsheba 等复杂叙事）。他统一以色列、建立耶路撒冷为政治—宗教中心，并被视为《诗篇》的主要作者（传统）。大卫在犹太教中是理想君王的范式、弥赛亚（Messiah，'大卫之子'）谱系的源头；在基督教中耶稣被称为'大卫之子'。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《撒母耳记》",
+     "school": "文本传统",
+     "view": "记载大卫的一生与王国建立。"
+    },
+    {
+     "holder": "《诗篇》",
+     "school": "传统归属",
+     "view": "大卫被视为诗篇的主要作者（学界对此有讨论）。"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "历史研究",
+     "view": "对大卫王的历史性与王国规模有持续讨论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-david",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>大卫形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>大卫（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>击败歌利亚</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>少年英雄</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>耶路撒冷</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王国中心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弥赛亚谱系</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大卫之子</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大卫要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "大卫的历史性",
+     "views": [
+      {
+       "holder": "历史国王说",
+       "basis": "基于铁器时代以色列王国。"
+      },
+      {
+       "holder": "叙事塑造说",
+       "basis": "文本对其形象有文学—神学加工。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "大卫是以色列联合王国第二位国王，耶路撒冷为其中心。",
+     "source": "pri-david"
+    },
+    {
+     "claim": "大卫在犹太教中是弥赛亚谱系（大卫之子）的源头。",
+     "source": "pri-david"
+    }
+   ]
+  },
+  {
+   "id": "fig-solomon",
+   "title": "所罗门",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "大卫之子、以色列国王，以智慧与建造第一圣殿著称。",
+   "related": [
+    "fig-david",
+    "rel-judaism",
+    "rel-islam"
+   ],
+   "sources": [
+    "pri-solomon",
+    "aca-myth-legend-custom"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 叙事主要见于希伯来圣经，文本成书年代与历史性学界有讨论；2) 犹太教/基督教/伊斯兰教对同一人物的定位不同，须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "所罗门（Solomon，Shlomo）是大卫之子、以色列联合王国的第三位（也是最后一位统一）国王（约前10世纪），以智慧（《列王纪上》3章的'二妇争子'审判）与建造耶路撒冷第一圣殿（圣殿山）著称。《箴言》《传道书》《雅歌》传统上归于所罗门（作者归属有讨论）。他死后王国分裂为以色列（北）与犹大（南）。所罗门在犹太教、基督教与伊斯兰教（作为先知 Sulaymān）传统中均有地位。",
+   "versions": [
+    "所罗门（Solomon，Shlomo）是大卫之子、以色列联合王国的第三位（也是最后一位统一）国王（约前10世纪），以智慧（《列王纪上》3章的'二妇争子'审判）与建造耶路撒冷第一圣殿（圣殿山）著称。《箴言》《传道书》《雅歌》传统上归于所罗门（作者归属有讨论）。他死后王国分裂为以色列（北）与犹大（南）。所罗门在犹太教、基督教与伊斯兰教（作为先知 Sulaymān）传统中均有地位。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《列王纪上》",
+     "school": "文本传统",
+     "view": "记载所罗门的智慧、圣殿与王国衰落。"
+    },
+    {
+     "holder": "智慧文学传统",
+     "school": "文本归属",
+     "view": "《箴言》《传道书》《雅歌》传统归于所罗门。"
+    },
+    {
+     "holder": "现代圣经学",
+     "school": "历史研究",
+     "view": "对王国规模与圣殿年代有讨论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-solomon",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>所罗门形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>所罗门（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智慧审判</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>二妇争子</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>第一圣殿</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>耶路撒冷</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王国分裂</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>身后</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>所罗门要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "所罗门的智慧",
+     "views": [
+      {
+       "holder": "史实智慧说",
+       "basis": "以智慧治国与建设。"
+      },
+      {
+       "holder": "文学典型说",
+       "basis": "智慧形象是智慧文学的文学建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "所罗门以智慧审判与建造第一圣殿著称。",
+     "source": "pri-solomon"
+    },
+    {
+     "claim": "《箴言》等智慧文学传统上归于所罗门。",
+     "source": "pri-solomon"
+    }
+   ]
   }
  ]
 }

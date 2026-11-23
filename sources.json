@@ -3418,6 +3418,84 @@
    "link_ok": true,
    "verified": true,
    "note": "日本狐狸（kitsune）是民间信仰中的灵兽，与稻荷信仰、变化（化け狐）传说相关；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-abraham",
+   "title": "亚伯拉罕叙事（《创世记》12–25章）",
+   "author": "佚名（希伯来）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Abraham",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "亚伯拉罕是犹太教、基督教与伊斯兰教共同尊奉的族长，《创世记》12–25章叙事的核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-isaac",
+   "title": "以撒叙事（《创世记》）",
+   "author": "佚名（希伯来）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Isaac",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "以撒是亚伯拉罕与撒拉之子，犹太教族长，《创世记》'绑定以撒'叙事的核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-jacob",
+   "title": "雅各叙事（《创世记》25–50章）",
+   "author": "佚名（希伯来）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Jacob",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雅各（又名以色列）是犹太教族长，《创世记》中十二支派祖先叙事的核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-noah",
+   "title": "诺亚洪水叙事（《创世记》6–9章）",
+   "author": "佚名（希伯来）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Noah",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "诺亚是《创世记》洪水叙事中的方舟建造者，与美索不达米亚洪水传统平行；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-david",
+   "title": "大卫叙事（《撒母耳记》与诗篇）",
+   "author": "佚名（希伯来）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/David",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "大卫是以色列联合王国第二位国王，《撒母耳记》与《诗篇》的核心人物；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-solomon",
+   "title": "所罗门叙事（《列王纪上》与箴言）",
+   "author": "佚名（希伯来）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Solomon",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "所罗门是大卫之子、以色列国王，以智慧与建造第一圣殿著称；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
