@@ -1754,6 +1754,71 @@
    "link_ok": true,
    "verified": true,
    "note": "希罗多德《历史》4.2–4.13 是斯基泰神话核心史料；条目 URL 指向 Scythian religion（2026-11-23 经 Wikipedia API 实测存在）。"
+  },
+  {
+   "id": "pri-hawaiian",
+   "title": "夏威夷口传叙事集（Kumulipo 等）",
+   "author": "佚名（夏威夷）/Queen Liliʻuokalani 译",
+   "year": null,
+   "year_display": "口传，18–19世纪成文",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hawaiian_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《库穆利波》（Kumulipo）创世诗（约1700年成文于卡塔呼鲁帕卡抄本，1889年 Liliʻuokalani 王后英译）是夏威夷神谱核心；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-tahitian",
+   "title": "塔希提口传叙事集（Ta'aroa 传统）",
+   "author": "佚名（塔希提）/传教士与口述记录",
+   "year": null,
+   "year_display": "口传，19世纪起文字记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tahiti_and_Society_Islands_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "塔希提神话以 Ta'aroa（原初自我创生神）为核心；19 世纪经传教士与 Orso 等口述记录；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-kalevala-orig",
+   "title": "《卡勒瓦拉》（Kalevala）",
+   "author": "埃利亚斯·伦罗特（编撰）",
+   "year": 1835,
+   "year_display": "1835（第一版）/1849（增订版）",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kalevala",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "芬兰民族史诗，伦罗特搜集民间歌谣编撰（1849 增订版 50 诗章）；2026-11-23 经 Wikipedia API 实测。注意：编撰性质，属'编撰型原典'。"
+  },
+  {
+   "id": "pri-methodist",
+   "title": "《标准讲道》（Standard Sermons）与卫理公文献",
+   "author": "约翰·卫斯理",
+   "year": 1746,
+   "year_display": "1746 起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Methodism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "卫斯理《标准讲道》52 篇是卫理公信义基准；条目 URL 指向 Methodism 总条目（2026-11-23 经 Wikipedia API 实测），专书条目待补。"
+  },
+  {
+   "id": "pri-baltic",
+   "title": "波罗的海多神教文献汇编（民间歌谣与编年史）",
+   "author": "佚名（拉脱维亚/立陶宛）/编者见各条",
+   "year": null,
+   "year_display": "中世纪编年史+19世纪民谣集",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Baltic_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "波罗的海神话依编年史（如《马祖尔编年史》）与 Dainas 民谣重构；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

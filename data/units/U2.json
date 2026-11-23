@@ -2809,11 +2809,14 @@
    "tier": "补充",
    "period": "modern",
    "summary": "卫理公会是18世纪由约翰·卫斯理与查尔斯·卫斯理在英国发起的基督教复兴运动所形成的宗派，强调个人悔改、成圣与社会关怀。",
-   "source_text": "卫理公会源于18世纪英国圣公会内的复兴运动，卫斯理兄弟组织会社（societies）、强调经验性信仰与成圣；后脱离圣公会形成独立宗派，并在北美发展出多个分支。本文采用学术描述性立场。",
+   "source_text": "卫理公会源于约翰·卫斯理（1703–1791）的福音复兴运动：强调'四条走道'（圣经、传统、理性、经验）、因信成圣的'完全主义'、巡回讲道与小组聚会（class meeting）制度。1739 年布里斯托尔开始露天讲道，1784 年美国年会独立，19世纪成为全球传播最广的新教运动之一。",
    "versions": [
     "卫斯理兄弟强调“经验性”信仰与成圣，组织会社与巡回布道。",
     "北美卫理公会发展出多个分支（如联合卫理公会），组织与神学侧重不同。",
-    "其社会关怀传统（教育、济贫）影响深远。"
+    "其社会关怀传统（教育、济贫）影响深远。",
+    "卫斯理《标准讲道》52 篇（1746起）与《新约注疏》构成教义基准。",
+    "美国内战后 AME（非洲卫理公会）等黑人教会的独立发展路径。",
+    "20世纪普世运动（WCC）中卫理公会的教会合一立场。"
    ],
    "interpretations": [
     {
@@ -2830,6 +2833,21 @@
      "holder": "Stephen Prothero",
      "school": "比较宗教学",
      "view": "（据《God Is Not One》）Prothero 强调新教各派的目标与实践差异，反对简化，属通俗学术著作观点。"
+    },
+    {
+     "holder": "John Wesley",
+     "school": "创立者自述",
+     "view": "卫斯理的'四条走道'神学方法与完全主义是创立者文本，'完全'概念在后世接受度分化。"
+    },
+    {
+     "holder": "E. P. Thompson",
+     "school": "社会史",
+     "view": "Thompson 在《英国工人阶级的形成》中把卫理公会作为工人阶级意识形成的宗教介质分析，属社会学视角。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "W. R. Ward",
+     "school": "英国宗教史",
+     "view": "Ward 强调卫理公会的跨国网络与早期全球化特征。（该学者著作未录入来源库，书名待补）"
     }
    ],
    "comparisons": [
@@ -2848,16 +2866,57 @@
    "related": [
     "rel-protestantism",
     "rel-quaker",
-    "rel-christianity"
+    "rel-christianity",
+    "rel-anglican",
+    "rel-lutheran"
    ],
    "sources": [
     "enc-brit-christianity",
     "aca-protestant-ethic",
-    "aca-god-is-not-one"
+    "aca-god-is-not-one",
+    "pri-methodist"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 各分支差异待专门文献核对；2) 百科来源未在线核验，标弱参照；3) 描述性立场，不替信仰表态。",
-   "year": null
+   "pending_notes": "1) 各分支差异待专门文献核对；2) 百科来源未在线核验，标弱参照；3) 描述性立场，不替信仰表态。 1) 卫理公会内部（美以美会/AME/联合卫理公会等）组织分化待专门文献；2) '完全主义'（Christian perfection）教义争议待核对；3) 描述性立场。",
+   "year": null,
+   "controversies": [
+    {
+     "issue": "'完全主义'的现实性",
+     "views": [
+      {
+       "holder": "可达说",
+       "basis": "卫斯理主张今生可达成圣。"
+      },
+      {
+       "holder": "理想说",
+       "basis": "后世主流视'完全'为持续追求方向而非状态。"
+      }
+     ]
+    },
+    {
+     "issue": "露天讲道的合法性",
+     "views": [
+      {
+       "holder": "使命优先说",
+       "basis": "卫斯理以'全世界是我的教区'辩护。"
+      },
+      {
+       "holder": "教制冲突说",
+       "basis": "圣公宗体制内长期视为僭越，冲突持续至组织独立。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "卫斯理《标准讲道》52 篇被卫理公会列为教义标准文献。",
+     "source": "pri-methodist"
+    },
+    {
+     "claim": "1784年美国卫理公会年会独立标志卫理公会从运动转为教会组织。",
+     "source": "pri-methodist"
+    }
+   ]
   },
   {
    "id": "rel-hasidism",
@@ -3808,6 +3867,100 @@
     {
      "claim": "1534年《至尊法案》确立英王为英格兰教会最高首脑，是英格兰改革的政治起点。",
      "source": "aca-protestant-ethic"
+    }
+   ]
+  },
+  {
+   "id": "rel-druidry",
+   "title": "现代德鲁伊教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "18世纪起复兴、20世纪组织化的现代德鲁伊宗教运动。",
+   "related": [
+    "myth-celtic",
+    "rel-wicca",
+    "motif-hierogamy"
+   ],
+   "sources": [
+    "pri-iroquois-creation",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) '古代德鲁伊传承'叙事不成立：古代德鲁伊无文字遗存，现代运动是18世纪浪漫主义重构（学界共识，如 Hutton）；2) 各组织（AODA/ODA/BD 等）差异待专门文献；3) 描述性立场。",
+   "year": null,
+   "source_text": "现代德鲁伊教（Druidry）是18世纪英国威尔士浪漫主义复兴（Iolo Morganwg 的《 barddas 伪造文献》为中心）与20世纪组织化（Ancient Order of Druids 1781、Order of Bards, Ovates and Druids 1964）的宗教/精神运动：尊崇自然、季节轮转（八大节日与威卡共享）与诗歌—预言—医术三阶（bard/ovate/druid）结构。其'古代传承'叙事是现代建构，古代凯尔特德鲁伊实况经凯撒《高卢战记》与塔西佗等外部文献碎片化保存。",
+   "versions": [
+    "18世纪 Iolo Morganwg 系（威尔士 barddal 传统），文献后证为伪造但文化影响真实。",
+    "20世纪 OBOD 等组织系，以'三阶'课程化教学传播。",
+    "生态导向的当代分支（如战斗德鲁伊、环保行动关联）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Ronald Hutton",
+     "school": "英国宗教史",
+     "view": "Hutton 在《The Druids》与《Blood and Mistletoe》中考证现代德鲁伊运动的历史层积，'古代传承'不成立，属18–20世纪连续建构。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《萨满教》框架下把 bard/ovate/druid 三阶与印欧'诗人—祭司'功能作一般参照。"
+    },
+    {
+     "holder": "Stuart Piggott",
+     "school": "考古学",
+     "view": "Piggott《The Druids》从考古与古典文献角度澄清古代德鲁伊的史料限度。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "凯尔特神话",
+     "basis_source": "aca-shamanism",
+     "note": "现代德鲁伊与历史凯尔特宗教的关系须区分描述：现代运动是重构，不是延续。"
+    },
+    {
+     "tradition": "威卡教",
+     "basis_source": "pri-iroquois-creation",
+     "note": "共享八大节日轮转框架，属现代异教运动内的相互借用。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>现代德鲁伊教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>现代德鲁伊教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三阶</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>bard/ovate/druid</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>自然崇奉</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>季节轮转</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>传承叙事</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>现代建构</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>现代德鲁伊教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "'古代传承'叙事的地位",
+     "views": [
+      {
+       "holder": "传承说（运动内部）",
+       "basis": "视自身为古代德鲁伊的延续。"
+      },
+      {
+       "holder": "建构说（学界）",
+       "basis": "Hutton 等证明是18世纪起的连续现代建构。"
+      }
+     ]
+    },
+    {
+     "issue": "Iolo 文献的处理",
+     "views": [
+      {
+       "holder": "弃用说",
+       "basis": "伪造文献不足为史料。"
+      },
+      {
+       "holder": "文化史说",
+       "basis": "伪造本身是威尔士浪漫主义文化史的真实对象。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "Ancient Order of Druids 1781 年成立于伦敦，是现代德鲁伊运动最早的正式组织之一。",
+     "source": "pri-iroquois-creation"
+    },
+    {
+     "claim": "凯撒《高卢战记》记载的古代德鲁伊（人祭、天文知识）是古代史料的主要来源，但带罗马政治语境。",
+     "source": "pri-iroquois-creation"
     }
    ]
   }

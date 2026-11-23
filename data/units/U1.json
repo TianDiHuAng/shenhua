@@ -1379,21 +1379,29 @@
    "summary": "以《卡勒瓦拉》为核心的芬兰—卡累利阿神话。",
    "related": [
     "myth-persian",
-    "myth-slavic"
+    "myth-slavic",
+    "myth-baltic",
+    "motif-creation",
+    "motif-herojourney"
    ],
    "sources": [
     "pri-kalevala",
     "aca-comparative-myth",
-    "enc-wiki-list-myth"
+    "enc-wiki-list-myth",
+    "pri-kalevala-orig",
+    "aca-shamanism"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 编纂本的取舍与口传原貌的关系为学界议题，正文未列具体细节；2) 芬兰语系归属特殊，Puhvel 印欧比较的适用性已标注需谨慎；3) 乌戈尔比较为弱参照，待补专门文献。",
+   "pending_notes": "1) 编纂本的取舍与口传原貌的关系为学界议题，正文未列具体细节；2) 芬兰语系归属特殊，Puhvel 印欧比较的适用性已标注需谨慎；3) 乌戈尔比较为弱参照，待补专门文献。 1) 《卡勒瓦拉》是伦罗特1835/1849年编撰的'编撰型原典'，非口传直录，引用需注意编撰加工；2) 萨满咏唱（runolaulu）与卡累利阿传统的古老度学界有分层讨论；3) 描述性立场。",
    "year": null,
-   "source_text": "芬兰神话的核心材料是《卡勒瓦拉》，由 Elias Lönnrot 据芬兰—卡累利阿口传诗歌编纂而成，并非单一作者的原创。口传材料的地域变体与编纂者的取舍为学界讨论议题，本站如实标注。",
+   "source_text": "芬兰神话的主要文献载体是《卡勒瓦拉》：世界的创造（空气女儿/海洋孕育，伊尔马利宁锻造天穹并镶星）、万奈摩宁（Väinämöinen）的永恒贤者形象与'以歌降敌'的萨满式咏唱、三宝磨（Sampo）的锻造与争夺。芬兰—卡累利阿民间歌谣（runolaulu）经伦罗特搜集编撰成史诗，其萨满底层（如'落入子宫'的狩猎咒）与波罗的海—芬乌语系传统相连。",
    "versions": [
     "《卡勒瓦拉》1835 年初版、1849 年增订版，编纂者把不同地区与歌手演唱的诗歌连缀成篇。",
     "口传诗歌在流传中存在地域与演唱者差异，与编纂本的叙述并非一一对应。",
-    "芬兰神话与波罗的海、北欧传统有可比母题，具体关系为学界讨论议题。"
+    "芬兰神话与波罗的海、北欧传统有可比母题，具体关系为学界讨论议题。",
+    "《卡勒瓦拉》1835 年旧版与 1849 年增订版（50 诗章）结构不同。",
+    "卡累利阿地区的 runolaulu 歌谣版本比史诗更接近口传原生形态。",
+    "20世纪学术（如 Kuusi 等）按母题类型重析民间层与编撰层。"
    ],
    "interpretations": [
     {
@@ -1410,6 +1418,21 @@
      "holder": "Mircea Eliade",
      "school": "宗教现象学",
      "view": "（据《永恒回归的神话》）可从英雄与宇宙母题作现象学层面的参照，属框架性对照。"
+    },
+    {
+     "holder": "Elias Lönnrot",
+     "school": "编撰者",
+     "view": "伦罗特以医生身份搜集歌谣并编撰史诗，编排本身是文学工程，'原典'性质须谨慎对待。"
+    },
+    {
+     "holder": "Uno Harva（Holmberg）",
+     "school": "芬乌宗教比较",
+     "view": "Harva 在《芬兰—乌戈尔宗教》中把芬兰材料与萨米、鄂毕乌戈尔传统比较，强调狩猎—萨满底层。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Matt Kuusi 等",
+     "school": "民俗类型学",
+     "view": "Kuusi 等以母题类型学拆分史诗与歌谣层，反对把卡勒瓦拉直接当古材料。（该学者著作未录入来源库，书名待补）"
     }
    ],
    "comparisons": [
@@ -1451,6 +1474,32 @@
        "basis": "主张波罗的海—北欧区域接触可使母题相似，不排斥比较。"
       }
      ]
+    },
+    {
+     "issue": "卡勒瓦拉的'原典'地位",
+     "views": [
+      {
+       "holder": "编撰型原典说",
+       "basis": "承认编撰加工，但作为民族史诗的文化地位真实。"
+      },
+      {
+       "holder": "严格分层说",
+       "basis": "学术引用须回到 runolaulu 歌谣层，史诗不足为据。"
+      }
+     ]
+    },
+    {
+     "issue": "万奈摩宁的萨满身份",
+     "views": [
+      {
+       "holder": "萨满说",
+       "basis": "堕马入冥等叙事与萨满出神结构对应。"
+      },
+      {
+       "holder": "贤者说",
+       "basis": "更多是'永恒智者'文化英雄型，萨满色彩是底层。"
+      }
+     ]
     }
    ],
    "data_points": [
@@ -1461,6 +1510,14 @@
     {
      "claim": "口传诗歌在地域与演唱者层面存在差异，与编纂本非一一对应。",
      "basis_source": "aca-comparative-myth"
+    },
+    {
+     "claim": "《卡勒瓦拉》1849年增订版含50诗章，是芬兰语民族身份的基石文本。",
+     "source": "pri-kalevala-orig"
+    },
+    {
+     "claim": "runolaulu 歌谣以'八音步卡勒瓦拉格律'演唱，是芬兰—卡累利阿共享的口传载体。",
+     "source": "pri-kalevala-orig"
     }
    ]
   },
@@ -4841,6 +4898,290 @@
     {
      "claim": "斯基泰本土文献无存，材料全部经古典作家转述与考古图像补充。",
      "source": "pri-scythian"
+    }
+   ]
+  },
+  {
+   "id": "myth-hawaiian",
+   "title": "夏威夷神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以《库穆利波》创世诗与佩莱火山女神为核心的波利尼西亚夏威夷传统。",
+   "related": [
+    "myth-maori",
+    "myth-tahitian",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-hawaiian",
+    "aca-shamanism",
+    "aca-eternal-return"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 《库穆利波》的成文年代与文本层次（18世纪抄本 vs 更早口传）学界有讨论；2) 佩莱叙事的地方版本（各岛）差异大；3) 描述性立场。",
+   "year": null,
+   "source_text": "夏威夷神话以《库穆利波》（Kumulipo，'自深沉黑暗而来'）创世诗开篇：从原初黑暗中逐层诞生海洋生物、植物、直至人类，神谱与酋长世系在同一诗体中交织（酋长以神谱后裔身份获得合法性）。佩莱（Pele）火山女神与妹妹希伊亚卡（Hiʻiaka）的旅程叙事是流传最广的独立叙事群。",
+   "versions": [
+    "《库穆利波》以卡塔呼鲁帕卡抄本（约1700年）保存，1889 年由利留卡拉尼王后英译。",
+    "佩莱—希伊亚卡叙事各岛有异文，火山地名嵌入叙事。",
+    "库克船队后欧洲记录（如 Kamakau 的19世纪撰述）构成另一文本层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Martha Beckwith",
+     "school": "夏威夷文献学",
+     "view": "Beckwith《Hawaiian Mythology》(1940) 系统整理夏威夷神谱与叙事，确立英文学界基础。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Valerio Valeri",
+     "school": "宗教人类学",
+     "view": "Valeri 把夏威夷王权仪式与神谱的互构关系作为'王权宇宙论'的分析个案。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《永恒回归的神话》框架下把'黑暗—逐层诞生'读作创世降序结构的一般案例。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "毛利神话",
+     "basis_source": "aca-shamanism",
+     "note": "波利尼西亚同源神谱（瓦纳/塔内层）作谱系层面参照，夏威夷与毛利共享南岛底层。"
+    },
+    {
+     "tradition": "埃及神话",
+     "basis_source": "aca-eternal-return",
+     "note": "'原初之水/黑暗中逐层显现'与赫尔莫波利创世作母题层面一般对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>夏威夷神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>夏威夷神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>库穆利波</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世诗</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>佩莱</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>火山女神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神谱世系</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>酋长合法性</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>夏威夷神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，细节见正文与待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "《库穆利波》的政治功能",
+     "views": [
+      {
+       "holder": "合法性文书说",
+       "basis": "创世诗为酋长世系提供神谱背书。"
+      },
+      {
+       "holder": "宇宙论整体说",
+       "basis": "政治功能是文本用途之一，诗体本身是宇宙论总纲。"
+      }
+     ]
+    },
+    {
+     "issue": "佩莱叙事的年代",
+     "views": [
+      {
+       "holder": "晚起说",
+       "basis": "佩莱崇拜或随火山活动晚兴（大岛）。"
+      },
+      {
+       "holder": "古老说",
+       "basis": "南岛火山女神母题提示更早的起源。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "《库穆利波》抄本属约1700年，是波利尼西亚最长的创世诗文本之一。",
+     "source": "pri-hawaiian"
+    },
+    {
+     "claim": "夏威夷神谱与毛利/塔希提神谱共享大量同源神名（如 Wākea/Kāne 层）。",
+     "source": "pri-hawaiian"
+    }
+   ]
+  },
+  {
+   "id": "myth-tahitian",
+   "title": "塔希提神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 Ta'aroa 原初自我创生神为核心的社会群岛波利尼西亚传统。",
+   "related": [
+    "myth-hawaiian",
+    "myth-maori",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-tahitian",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 塔希提材料多经19世纪传教士（如 Ellis）记录，筛选性明显；2) Ta'aroa 与毛利 Tangaroa 的对应是南岛比较的标准议题，具体谱系有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "塔希提神话的核心是 Ta'aroa（塔希提语 Tangaroa 的同源形式）：原初自我创生神，居于蛋壳宇宙中，以自身躯体分离出天地与诸神。社会群岛各岛口传经19世纪传教士与本地口述者（Paʻofaʻi 等）记录；Maruru 仪式叙事与'奥罗'（Oro）战争和平之神崇拜是实践层核心。",
+   "versions": [
+    "传教士 William Ellis 记录的 Ta'aroa 创世版本（19世纪）。",
+    "本地口述者经 Teuira Henry 整理的《Ancient Tahiti》版本（1928）。",
+    "各岛（塔希提本岛/茉莉雅/赖阿特阿）口传异文，神名拼写不一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Teuira Henry",
+     "school": "波利尼西亚文献学",
+     "view": "Henry《Ancient Tahiti》汇编塔希提口传，是英文学界标准材料，但汇编过程有编辑整合。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Robert W. Williamson",
+     "school": "波利尼西亚民族志",
+     "view": "Williamson 对社会群岛宗教与玛拉埃（marae）仪式组织作系统民族志记录。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Katherine Routledge",
+     "school": "波利尼西亚研究",
+     "view": "Routledge 等强调以玛拉埃石台仪式空间理解神谱的空间性，属考古—民族志综合。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "毛利神话",
+     "basis_source": "aca-shamanism",
+     "note": "Ta'aroa/Tangaroa 同源神名对应是南岛语族比较的标准案例，作谱系参照。"
+    },
+    {
+     "tradition": "夏威夷神话",
+     "basis_source": "aca-shamanism",
+     "note": "'自我创生神分离躯体造世'与库穆利波降序创世作结构对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>塔希提神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>塔希提神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Ta'aroa</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>原初自生神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>躯体分离</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>造世</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥罗</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>战争和平神</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塔希提神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，细节见正文与待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Ta'aroa 至高神的地位",
+     "views": [
+      {
+       "holder": "原生至高说",
+       "basis": "Ta'aroa 是本土原初神，传教记录前的地位更高。"
+      },
+      {
+       "holder": "传教重构说",
+       "basis": "部分'至高神'色彩是传教士记录语境的产物。"
+      }
+     ]
+    },
+    {
+     "issue": "躯体造世的解释",
+     "views": [
+      {
+       "holder": "字面宇宙论说",
+       "basis": "神体即宇宙材料的字面描述。"
+      },
+      {
+       "holder": "献祭结构说",
+       "basis": "神体分离与献祭仪式同构，反映宇宙论与仪式的互文。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "Ta'aroa 与毛利 Tangaroa、夏威夷 Kanaloa 是南岛语系跨洋同源神名的标准案例。",
+     "source": "pri-tahitian"
+    },
+    {
+     "claim": "Teuira Henry《Ancient Tahiti》(1928) 是塔希提口传最系统的成文汇编。",
+     "source": "pri-tahitian"
+    }
+   ]
+  },
+  {
+   "id": "myth-baltic",
+   "title": "波罗的海神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "立陶宛与拉脱维亚的多神教传统，欧洲最后的非基督教化地区。",
+   "related": [
+    "myth-slavic",
+    "myth-norse",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-baltic",
+    "pri-kalevala-orig",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 波罗的海神话无原生正典，依编年史+民谣（Dainas）重构；2) 立陶宛1387年受洗、拉脱维亚13世纪十字军化，'最后异教'叙事带民族主义后期加工；3) 描述性立场。",
+   "year": null,
+   "source_text": "波罗的海神话是立陶宛与拉脱维亚的多神教传统：拉脱维亚以 Dainas 民谣（数万首四行诗）保存母题层（天神 Dievs、太阳 Saulė、月光 Meness 的天体婚配叙事），立陶宛以编年史记录仪式层（雷神 Perkūnas、Dievas、地神 Žemyna），1387 年立陶宛受洗是欧洲非基督教化的最后节点。两者材料性质不同，学界分开处理。",
+   "versions": [
+    "拉脱维亚 Dainas（19世纪 Barons 汇编约3.5万首）保存的天体婚配与太阳叙事。",
+    "立陶宛编年史（马耳堡编年史等）与使团记录的仪式叙事（如蛇崇拜、圣火）。",
+    "19–20世纪民族复兴对神话的系统化重构（如 Basanavičius 的编纂）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Krisjanis Barons",
+     "school": "民谣文献学",
+     "view": "Barons 的 Dainas 分类汇编（Latvju dainas, 1894–1906）奠定拉脱维亚神话材料基础。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "Dumézil 派把 Perkūnas 与印欧雷神层对照，属结构比较框架。"
+    },
+    {
+     "holder": "Vladas Žviklys 等立陶宛学者",
+     "school": "波罗的海宗教学",
+     "view": "强调立陶宛与拉脱维亚材料性质差异，反对早期混合重构。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "斯拉夫神话",
+     "basis_source": "aca-gods-indo-europeans",
+     "note": "Perkūnas 与佩伦的对应是印欧雷神比较的标准案例，作功能层面参照。"
+    },
+    {
+     "tradition": "北欧神话",
+     "basis_source": "aca-comparative-myth",
+     "note": "波罗的海与北欧的'太阳—月'婚配叙事作母题层面一般对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>波罗的海神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>波罗的海神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Perkūnas</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雷神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Dievs/Saulė</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天神太阳</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Dainas</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>民谣载体</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>波罗的海神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，细节见正文与待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Dainas 材料的古老度",
+     "views": [
+      {
+       "holder": "古老层说",
+       "basis": "部分民谣母题可上溯至前基督教层。"
+      },
+      {
+       "holder": "层积说",
+       "basis": "民谣经19世纪搜集与编辑，古老成分需逐首论证。"
+      }
+     ]
+    },
+    {
+     "issue": "'欧洲最后异教'叙事",
+     "views": [
+      {
+       "holder": "史实说",
+       "basis": "1387年立陶宛受洗确为欧洲非基督教化最晚节点之一。"
+      },
+      {
+       "holder": "民族主义加工说",
+       "basis": "'最后的异教徒'身份在19世纪民族复兴中被放大。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "Krisjanis Barons 汇编的 Dainas 约3.5万首，是拉脱维亚神话最大宗材料。",
+     "source": "pri-baltic"
+    },
+    {
+     "claim": "立陶宛1387年受洗是欧洲大陆非基督教化的最后主要节点之一。",
+     "source": "pri-baltic"
     }
    ]
   }

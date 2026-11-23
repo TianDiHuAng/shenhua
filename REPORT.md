@@ -1,22 +1,21 @@
-# REPORT.md — AUTONOMOUS-48（2026-11-23）
+# REPORT.md — AUTONOMOUS-49（2026-11-23）
 
-## 本轮主题：扩充批次8（215 条目）
+## 本轮主题：扩充批次9（219 条目）
 
 ### 完成事项
-1. **批次7 推送完成**：远端 head `fc6987c6ff03`，207 条目版同步 GitHub（tree 对比 + 增量 blob 上传，12 个变更文件）。
-2. **批次8 扩充 +8 条（207→215）**：
-   - U1 神话 3：切罗基（水甲虫捞土）、祖鲁（Unkulunkulu）、斯基泰（希罗多德三版本）。
-   - U2 宗教 2：信义宗、圣公宗。
-   - U3 母题 1：神赐武器。
-   - U4 人物 2：阿特拉哈西斯、乌特纳皮什提姆。
-3. **新增 6 个原典来源**（切罗基/祖鲁/阿特拉哈西斯/乌特纳皮什提姆/夺牛记/希罗多德第4卷），全部经 **Wikipedia API 联网核验**（Cherokee mythology→Cherokee spiritual beliefs、Divine weapon missing 已规避）。
-4. **占位引用修复**：8 处 -orig 占位 related 映射到实际条目（rel-protestantism/rel-catholicism/rel-methodism 等）。
-5. check.py 0 errors / 0 warnings；站点 226 页。
+1. **批次8 推送完成**：远端 head `2d4550379c66`（43 个变更文件增量推送）。
+2. **批次9 扩充 +4 新条 +2 深化（215→219）**：
+   - U1 神话新 3：夏威夷（库穆利波+佩莱）、塔希提（Ta'aroa）、波罗的海（Perkūnas+Dainas）。
+   - U2 宗教新 1：现代德鲁伊教。
+   - 深化 2：myth-finnish（L3 既有）与 rel-methodism（L2 既有）——本轮发现的重复写入已与既有条目合并，内容吸收（versions/interpretations/controversies/data_points/sources）。
+3. **新增 5 个原典来源**（夏威夷/塔希提/卡勒瓦拉编撰注记/卫理公会文献/波罗的海汇编），全部经 Wikipedia API 核验。
+4. 过程防错：批次9 选目时先比对既有 id，finnish/methodism 转为"深化"而非重复建档。
+5. check.py 0 errors / 0 warnings；站点 230 页。
 
 ### 现状
-- 条目 215（核心 40 全 L3 / 重要 74 全 L3 / 补充 101 L2），L3 累计 114。
-- 来源 135 条，全数联网核验或声明。
+- 条目 219（核心 40 全 L3 / 重要 74 全 L3 / 补充 105 L2），L3 累计 114。
+- 来源 140 条。
 
-### 下一步候选
-- 批次9：非洲系（yoruba 关联）、波利尼西亚系（hawaiian/tahiti）、rel-druidry、rel-methodism 详化。
-- 补充层 L3 深化（101 条待指令）。
+### 教训（供后续批次）
+- 新增条目前必须先 `grep` 既有 id（批次7 的 slavic/maori、批次9 的 finnish/methodism 均险些重复）。
+- "编撰型原典"（卡勒瓦拉）需在 note 中显式标注编撰性质。

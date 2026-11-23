@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T13:39:52+08:00",
+  "generated": "2026-11-23T13:55:35+08:00",
   "summary": {
-    "total": 215,
+    "total": 219,
     "by_unit": {
-      "U1": 63,
-      "U2": 49,
+      "U1": 66,
+      "U2": 50,
       "U3": 35,
       "U4": 68
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 101
+      "补充": 105
     },
     "by_level": {
       "L1": 0,
-      "L2": 101,
+      "L2": 105,
       "L3": 114
     },
-    "l2_done": 215,
+    "l2_done": 219,
     "l3_done": 114,
-    "verified_sources": 89
+    "verified_sources": 94
   },
   "entries": [
     {
@@ -184,7 +184,7 @@
       "tier": "重要",
       "level": "L3",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -717,6 +717,39 @@
       "last_updated": "2026-11-23"
     },
     {
+      "id": "myth-hawaiian",
+      "name": "夏威夷神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-tahitian",
+      "name": "塔希提神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-baltic",
+      "name": "波罗的海神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
       "id": "rel-christianity",
       "name": "基督教",
       "unit": "U2",
@@ -1108,7 +1141,7 @@
       "tier": "补充",
       "level": "L2",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1252,6 +1285,17 @@
       "level": "L2",
       "status": "done",
       "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-druidry",
+      "name": "现代德鲁伊教",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -2455,6 +2499,9 @@
         "myth-cherokee",
         "myth-zulu",
         "myth-scythian",
+        "myth-hawaiian",
+        "myth-tahitian",
+        "myth-baltic",
         "rel-christianity",
         "rel-islam",
         "rel-judaism",
@@ -2503,7 +2550,8 @@
         "rel-cathar",
         "rel-wicca",
         "rel-lutheran",
-        "rel-anglican"
+        "rel-anglican",
+        "rel-druidry"
       ],
       "motifs": [
         "motif-creation",
@@ -6937,6 +6985,216 @@
         "status": "empty"
       },
       {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-hawaiian",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tahitian",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-baltic",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
         "tradition": "rel-christianity",
         "motif": "motif-creation",
         "period": "ancient",
@@ -10361,6 +10619,76 @@
       },
       {
         "tradition": "rel-anglican",
+        "motif": "motif-trickster",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-druidry",
         "motif": "motif-trickster",
         "period": "modern",
         "expected": false,
