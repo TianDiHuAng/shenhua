@@ -5471,6 +5471,449 @@
      "source": "pri-adventist"
     }
    ]
+  },
+  {
+   "id": "rel-theravada",
+   "title": "上座部佛教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "以巴利三藏为经典、流行于南亚与东南亚的佛教古老传统。",
+   "related": [
+    "rel-buddhism",
+    "rel-zen",
+    "rel-tendai"
+   ],
+   "sources": [
+    "pri-theravada",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教义材料跨多个文本层，具体读法依版本；2) 教派内部差异与外部标签须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "上座部佛教（Theravada，'长老部'）是佛教的古老传统之一，以巴利语三藏（Tipitaka）为经典依据，主要流传于斯里兰卡、缅甸、泰国、老挝与柬埔寨。其修行目标为阿罗汉（arahant），强调戒定慧三学与内观（vipassana）；觉音（Buddhaghosa，5世纪）的《清净道论》(Visuddhimagga) 是其重要的论书体系化著作。近代'内观运动'（如 Goenka 系）源于上座部传统的现代化。",
+   "versions": [
+    "上座部佛教（Theravada，'长老部'）是佛教的古老传统之一，以巴利语三藏（Tipitaka）为经典依据，主要流传于斯里兰卡、缅甸、泰国、老挝与柬埔寨。其修行目标为阿罗汉（arahant），强调戒定慧三学与内观（vipassana）；觉音（Buddhaghosa，5世纪）的《清净道论》(Visuddhimagga) 是其重要的论书体系化著作。近代'内观运动'（如 Goenka 系）源于上座部传统的现代化。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Buddhaghosa",
+     "school": "论师",
+     "view": "《清净道论》系统化上座部的修行与教义体系。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "把上座部佛教读作'理性化'的救赎宗教，属社会学理想类型。"
+    },
+    {
+     "holder": "现代佛教学",
+     "school": "宗教研究",
+     "view": "强调上座部内部的地域差异与现代化运动。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-theravada",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>上座部佛教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>上座部佛教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴利三藏</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>根本经典</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿罗汉</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>修行目标</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>内观</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>vipassana</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>上座部佛教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "上座部与'小乘'",
+     "views": [
+      {
+       "holder": "上座部自称",
+       "basis": "用'上座部'强调传承正统。"
+      },
+      {
+       "holder": "'小乘'标签",
+       "basis": "大乘传统旧称，现代学界多避用。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "上座部佛教以巴利三藏为经典，流传于斯里兰卡与东南亚。",
+     "source": "pri-theravada"
+    },
+    {
+     "claim": "《清净道论》是觉音5世纪的重要论书。",
+     "source": "pri-theravada"
+    }
+   ]
+  },
+  {
+   "id": "rel-tendai",
+   "title": "天台宗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "以《法华经》为根本、智顗创宗的东亚佛教宗派。",
+   "related": [
+    "rel-buddhism",
+    "rel-zen",
+    "rel-shingon"
+   ],
+   "sources": [
+    "pri-tendai",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教义材料跨多个文本层，具体读法依版本；2) 教派内部差异与外部标签须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "天台宗以《妙法莲华经》为根本经典，由智顗（538–597）在中国创立，以'一念三千''三谛圆融'等教义体系著称，主张'诸法实相'与圆融中道。9世纪最澄将天台宗传入日本（比叡山延历寺），发展为日本天台宗，并衍生出净土、日莲等后续宗派的思想资源。天台宗的'教观双美'（教义与修行并重）是其传统特色。",
+   "versions": [
+    "天台宗以《妙法莲华经》为根本经典，由智顗（538–597）在中国创立，以'一念三千''三谛圆融'等教义体系著称，主张'诸法实相'与圆融中道。9世纪最澄将天台宗传入日本（比叡山延历寺），发展为日本天台宗，并衍生出净土、日莲等后续宗派的思想资源。天台宗的'教观双美'（教义与修行并重）是其传统特色。"
+   ],
+   "interpretations": [
+    {
+     "holder": "智顗",
+     "school": "中国创宗者",
+     "view": "以《法华玄义》《摩诃止观》等建立天台教观体系。"
+    },
+    {
+     "holder": "最澄",
+     "school": "日本传入者",
+     "view": "将天台宗传入日本并融合密教与戒律。"
+    },
+    {
+     "holder": "现代佛教学",
+     "school": "宗教研究",
+     "view": "强调天台对中国—日本佛教各宗的思想影响。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tendai",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>天台宗结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>天台宗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法华经</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>根本经典</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>一念三千</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心教义</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>比叡山</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>日本中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天台宗要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "天台与法华",
+     "views": [
+      {
+       "holder": "法华中心说",
+       "basis": "《法华经》是最高经典。"
+      },
+      {
+       "holder": "综合体系说",
+       "basis": "天台是综合多经的判教体系。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "天台宗由智顗创立，以《法华经》为根本经典。",
+     "source": "pri-tendai"
+    },
+    {
+     "claim": "最澄9世纪将天台宗传入日本。",
+     "source": "pri-tendai"
+    }
+   ]
+  },
+  {
+   "id": "rel-shingon",
+   "title": "真言宗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "空海传入日本、以即身成佛为特色的密教宗派。",
+   "related": [
+    "rel-buddhism",
+    "rel-tendai"
+   ],
+   "sources": [
+    "pri-shingon",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教义材料跨多个文本层，具体读法依版本；2) 教派内部差异与外部标签须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "真言宗（Shingon，'真言'即密咒）由空海（Kūkai，774–835）自唐代中国传入日本，以《大日经》《金刚顶经》为根本经典，属密教（Vajrayana）传统。其核心教义是'即身成佛'（在此身中成就佛果），通过三密相应（身、口、意与佛的身、口、意相应）的修法实现；高野山与东寺是其中心。真言宗对日本文化（如文字、艺术、仪礼）影响深远。",
+   "versions": [
+    "真言宗（Shingon，'真言'即密咒）由空海（Kūkai，774–835）自唐代中国传入日本，以《大日经》《金刚顶经》为根本经典，属密教（Vajrayana）传统。其核心教义是'即身成佛'（在此身中成就佛果），通过三密相应（身、口、意与佛的身、口、意相应）的修法实现；高野山与东寺是其中心。真言宗对日本文化（如文字、艺术、仪礼）影响深远。"
+   ],
+   "interpretations": [
+    {
+     "holder": "空海",
+     "school": "创宗者",
+     "view": "以《十住心论》《即身成佛义》等建立真言教义。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "密教的'宇宙—身体'对应可作象征体系参照。"
+    },
+    {
+     "holder": "现代密教研究",
+     "school": "宗教研究",
+     "view": "强调真言宗的日本本土化特征。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-shingon",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>真言宗结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>真言宗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>即身成佛</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心教义</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三密相应</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>修法</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>空海</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>传入者</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>真言宗要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "即身成佛的理解",
+     "views": [
+      {
+       "holder": "文字考据说",
+       "basis": "依经典严格解释'即身'。"
+      },
+      {
+       "holder": "体验诠释说",
+       "basis": "强调修法中的象征体验。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "真言宗由空海传入日本，以《大日经》《金刚顶经》为根本经典。",
+     "source": "pri-shingon"
+    },
+    {
+     "claim": "即身成佛与三密相应是其核心教义与修法。",
+     "source": "pri-shingon"
+    }
+   ]
+  },
+  {
+   "id": "rel-nichiren",
+   "title": "日莲宗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "13世纪日莲创立、以唱名《法华经》为核心的日式佛教宗派。",
+   "related": [
+    "rel-buddhism",
+    "rel-tendai",
+    "rel-pureland"
+   ],
+   "sources": [
+    "pri-nichiren",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教义材料跨多个文本层，具体读法依版本；2) 教派内部差异与外部标签须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "日莲宗（Nichiren Buddhism）由日莲（1222–1282）在13世纪日本创立：他依据《法华经》，主张'南无妙法莲华经'的唱名（daimoku）为末法时代的唯一修行正道，强调《法华经》的至高地位与'立正安国'的社会理想。日莲对净土、禅等宗派有激烈批判（'四大格言'），其rigorist立场影响日本佛教与新兴宗教（如创价学会源于日莲系）。",
+   "versions": [
+    "日莲宗（Nichiren Buddhism）由日莲（1222–1282）在13世纪日本创立：他依据《法华经》，主张'南无妙法莲华经'的唱名（daimoku）为末法时代的唯一修行正道，强调《法华经》的至高地位与'立正安国'的社会理想。日莲对净土、禅等宗派有激烈批判（'四大格言'），其rigorist立场影响日本佛教与新兴宗教（如创价学会源于日莲系）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "日莲",
+     "school": "创宗者",
+     "view": "以《立正安国论》等著作阐述法华信仰与国家理想。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把日莲宗作为'经典中心主义'佛教的典型案例。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "现代日本佛教研究",
+     "school": "宗教研究",
+     "view": "强调日莲宗的社会参与与新兴宗教关联。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nichiren",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>日莲宗结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>日莲宗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法华唱名</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>daimoku</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>立正安国</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>社会理想</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>末法意识</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>时代背景</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>日莲宗要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "日莲的批判",
+     "views": [
+      {
+       "holder": "正统维护说",
+       "basis": "批判是为维护法华正统。"
+      },
+      {
+       "holder": "宗派竞争说",
+       "basis": "反映日本佛教宗派竞争。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "日莲宗由日莲在13世纪创立，以唱名《法华经》为核心修行。",
+     "source": "pri-nichiren"
+    },
+    {
+     "claim": "创价学会等新兴宗教源于日莲系传统。",
+     "source": "pri-nichiren"
+    }
+   ]
+  },
+  {
+   "id": "rel-reformed",
+   "title": "归正宗（改革宗）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "以加尔文神学为核心的新教传统，强调上帝主权与因信称义。",
+   "related": [
+    "rel-protestantism",
+    "rel-presbyterian",
+    "rel-lutheran"
+   ],
+   "sources": [
+    "pri-reformed",
+    "aca-protestant-ethic"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教义材料跨多个文本层，具体读法依版本；2) 教派内部差异与外部标签须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "归正宗（Reformed/Reformed Christianity）是16世纪宗教改革中发展出的新教传统，以加尔文（John Calvin）《基督教要义》(1536) 与各国信纲（如《海德堡教理问答》1563、《比利时信条》）为文本基准：强调上帝的绝对主权、因信称义、圣经至上与'预选'（predestination）教义。归正宗在教会治理上多采长老制或会众制，对近代政治思想（如'契约论'）与工作伦理（Weber 命题）影响深远。",
+   "versions": [
+    "归正宗（Reformed/Reformed Christianity）是16世纪宗教改革中发展出的新教传统，以加尔文（John Calvin）《基督教要义》(1536) 与各国信纲（如《海德堡教理问答》1563、《比利时信条》）为文本基准：强调上帝的绝对主权、因信称义、圣经至上与'预选'（predestination）教义。归正宗在教会治理上多采长老制或会众制，对近代政治思想（如'契约论'）与工作伦理（Weber 命题）影响深远。"
+   ],
+   "interpretations": [
+    {
+     "holder": "John Calvin",
+     "school": "神学家",
+     "view": "《基督教要义》系统化改革宗神学。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "《新教伦理与资本主义精神》以加尔文宗为'理性化'伦理的典型。"
+    },
+    {
+     "holder": "Karl Barth",
+     "school": "20世纪神学家",
+     "view": "以'新正统'重构改革宗神学。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-reformed",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>归正宗（改革宗）结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>归正宗（改革宗）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>上帝主权</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心教义</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>因信称义</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>救赎论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>信纲文本</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>海德堡问答</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>归正宗（改革宗）要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "预选教义",
+     "views": [
+      {
+       "holder": "严格预定说",
+       "basis": "加尔文式的双重预定。"
+      },
+      {
+       "holder": "渐进修正说",
+       "basis": "后世多软化此教义。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "归正宗以加尔文《基督教要义》与《海德堡教理问答》为文本基准。",
+     "source": "pri-reformed"
+    },
+    {
+     "claim": "Weber 把加尔文宗作为新教工作伦理的典型。",
+     "source": "pri-reformed"
+    }
+   ]
+  },
+  {
+   "id": "rel-presbyterian",
+   "title": "长老会",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "以长老治会与《威斯敏斯特信纲》为特征的归正宗分支。",
+   "related": [
+    "rel-reformed",
+    "rel-anglican",
+    "rel-protestantism"
+   ],
+   "sources": [
+    "pri-presbyterian",
+    "aca-protestant-ethic"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教义材料跨多个文本层，具体读法依版本；2) 教派内部差异与外部标签须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "长老会（Presbyterianism）是归正宗的一支，以'长老治会'（由选举产生的长老组成各级教会会议，而非主教或个人）为组织特征：堂会—区会—总会的层级由长老与牧师共同组成。其代表信条是1646年英国威斯敏斯特会议制定的《威斯敏斯特信纲》与《大/小教理问答》。长老会在苏格兰（国教会）、北美、韩国等地影响深远，并深刻影响了代议制政治文化。",
+   "versions": [
+    "长老会（Presbyterianism）是归正宗的一支，以'长老治会'（由选举产生的长老组成各级教会会议，而非主教或个人）为组织特征：堂会—区会—总会的层级由长老与牧师共同组成。其代表信条是1646年英国威斯敏斯特会议制定的《威斯敏斯特信纲》与《大/小教理问答》。长老会在苏格兰（国教会）、北美、韩国等地影响深远，并深刻影响了代议制政治文化。"
+   ],
+   "interpretations": [
+    {
+     "holder": "威斯敏斯特会议",
+     "school": "信条制定",
+     "view": "《威斯敏斯特信纲》(1646) 是长老会的重要信条。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "长老制的'理性化组织'与加尔文宗伦理可作关联分析。"
+    },
+    {
+     "holder": "教会史研究",
+     "school": "宗教史",
+     "view": "强调长老会与苏格兰—北美政治文化的互动。（该学者著述未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-presbyterian",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>长老会结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>长老会（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>长老治会</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>代议组织</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>威斯敏斯特信纲</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1646信条</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苏格兰</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>国教会传统</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>长老会要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "教会治理",
+     "views": [
+      {
+       "holder": "长老制说",
+       "basis": "由长老集体治理。"
+      },
+      {
+       "holder": "与主教制对比",
+       "basis": "区别于圣公宗主教制。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "长老会以长老治会为组织特征。《威斯敏斯特信纲》(1646) 是其代表信条。",
+     "source": "pri-presbyterian"
+    },
+    {
+     "claim": "长老会在苏格兰、北美与韩国有广泛影响。",
+     "source": "pri-presbyterian"
+    }
+   ]
   }
  ]
 }

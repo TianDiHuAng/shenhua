@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 164,
-    "total": 278,
+    "supplement_l2": 170,
+    "total": 284,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/278）；补充层 164 条 L2；来源 205 条（孤儿来源12，均为机构备用）"
+    "verdict": "核心与重要层 100% L3（114/284）；补充层 170 条 L2；来源 211 条（联网核验）"
   },
   "round_log": [
     {
@@ -737,6 +737,18 @@
       "new_gaps_found": 0,
       "gap_detail": "孤儿来源审计：37个未引用来源中15个有稳定文献的原典/学术著作增补到16个相关条目（+27处引用），孤儿来源37→12（剩余为机构备用来源）；check 0 errors",
       "verdict": "质量维护（来源引用增强，无新增条目）"
+    },
+    {
+      "round": "AUTONOMOUS-63",
+      "date": "2026-11-23",
+      "methods_run": [
+        "联网宗教大纲差集",
+        "difflib严格查重",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次21：新增6宗教（上座部/天台/真言/日莲佛教 + 归正宗/长老会）；6来源核验；check 0 errors",
+      "verdict": "正常扩充（批次21，6条）"
     }
   ]
 }

@@ -2664,6 +2664,84 @@
    "link_ok": true,
    "verified": true,
    "note": "奥吉布瓦（Ojibwe）属阿尼什纳比，神话以 Nanabozho（兔子 trickster/文化英雄）与大灵（Gichi-manidoo）为核心；2026-11-23 经 Wikipedia API 实测（Ojibwe mythology→Anishinaabe religions）。"
+  },
+  {
+   "id": "pri-theravada",
+   "title": "上座部佛教文献（《巴利三藏》与《清净道论》）",
+   "author": "佚名（上座部）/觉音等",
+   "year": null,
+   "year_display": "前3世纪起（口头结集）/5世纪注释",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Theravada",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "上座部佛教以巴利三藏为经典，《清净道论》(Visuddhimagga, 觉音5世纪) 是重要论书；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-tendai",
+   "title": "天台宗文献（《法华经》与智顗著作）",
+   "author": "智顗等",
+   "year": null,
+   "year_display": "6世纪（中国）/9世纪（日本）",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tendai",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "天台宗以《法华经》为根本经典，智顗（538–597）创宗，最澄传入日本（806）；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-shingon",
+   "title": "真言宗文献（《大日经》《金刚顶经》）",
+   "author": "佚名（密教经典）/空海",
+   "year": null,
+   "year_display": "7–9世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Shingon_Buddhism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "真言宗（Shingon）由空海（774–835）传入日本，以《大日经》《金刚顶经》为根本，强调即身成佛；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-nichiren",
+   "title": "日莲宗文献（《法华经》与日莲著作）",
+   "author": "日莲（1222–1282）",
+   "year": null,
+   "year_display": "13世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nichiren_Buddhism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "日莲宗由日莲创立，以《法华经》与'南无妙法莲华经'的唱名（daimoku）为核心；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-reformed",
+   "title": "改革宗文献（《基督教要义》与《海德堡教理问答》）",
+   "author": "约翰·加尔文等",
+   "year": null,
+   "year_display": "16世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Reformed_Christianity",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "改革宗以加尔文《基督教要义》(1536) 与各国信纲（如《海德堡教理问答》1563）为文本基准；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-presbyterian",
+   "title": "长老会文献（《威斯敏斯特信纲》）",
+   "author": "威斯敏斯特会议",
+   "year": null,
+   "year_display": "1646",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Presbyterianism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "长老会（Presbyterianism）以《威斯敏斯特信纲》(1646) 为代表信条，实行长老治会制；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

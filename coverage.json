@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T16:01:57+08:00",
+  "generated": "2026-11-23T16:08:19+08:00",
   "summary": {
-    "total": 278,
+    "total": 284,
     "by_unit": {
       "U1": 82,
-      "U2": 63,
+      "U2": 69,
       "U3": 42,
       "U4": 91
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 164
+      "补充": 170
     },
     "by_level": {
       "L1": 0,
-      "L2": 164,
+      "L2": 170,
       "L3": 114
     },
-    "l2_done": 278,
+    "l2_done": 284,
     "l3_done": 114,
-    "verified_sources": 159
+    "verified_sources": 165
   },
   "entries": [
     {
@@ -2081,6 +2081,72 @@
       "last_updated": "2026-11-23"
     },
     {
+      "id": "rel-theravada",
+      "name": "上座部佛教",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-tendai",
+      "name": "天台宗",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-shingon",
+      "name": "真言宗",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-nichiren",
+      "name": "日莲宗",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-reformed",
+      "name": "归正宗（改革宗）",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-presbyterian",
+      "name": "长老会",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
       "id": "fig-zeus",
       "name": "宙斯",
       "unit": "U4",
@@ -3229,7 +3295,13 @@
         "rel-ibadi",
         "rel-pentecostal",
         "rel-jehovah",
-        "rel-adventist"
+        "rel-adventist",
+        "rel-theravada",
+        "rel-tendai",
+        "rel-shingon",
+        "rel-nichiren",
+        "rel-reformed",
+        "rel-presbyterian"
       ],
       "motifs": [
         "motif-creation",
@@ -13397,6 +13469,426 @@
       },
       {
         "tradition": "rel-adventist",
+        "motif": "motif-trickster",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-theravada",
+        "motif": "motif-trickster",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-tendai",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shingon",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-nichiren",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-reformed",
+        "motif": "motif-trickster",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-presbyterian",
         "motif": "motif-trickster",
         "period": "modern",
         "expected": false,
