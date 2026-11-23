@@ -3808,6 +3808,84 @@
    "link_ok": true,
    "verified": true,
    "note": "王阳明（1472–1529）是明代心学代表，主张'致良知''知行合一'，《传习录》是其语录；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-zhou-dunyi",
+   "title": "周敦颐著作（《太极图说》《通书》）",
+   "author": "周敦颐",
+   "year": null,
+   "year_display": "11世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Zhou_Dunyi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "周敦颐（1017–1073）是北宋理学家，《太极图说》《通书》奠基宋明理学宇宙论；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-zhang-zai",
+   "title": "张载著作（《正蒙》《西铭》）",
+   "author": "张载",
+   "year": null,
+   "year_display": "11世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Zhang_Zai",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "张载（1020–1077）是北宋理学家，关学创始人，以'气本论'与《西铭》'民吾同胞'著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-cheng-yi",
+   "title": "二程著作（《二程遗书》）",
+   "author": "程颢、程颐",
+   "year": null,
+   "year_display": "11世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Cheng_Yi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "程颐（1033–1107）与兄程颢是北宋理学家，洛学创始人，'天理'观念奠基者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-lu-jiuyuan",
+   "title": "陆九渊著作（《陆象山集》）",
+   "author": "陆九渊",
+   "year": null,
+   "year_display": "12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Lu_Jiuyuan",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "陆九渊（1139–1193）是南宋心学奠基者，主张'心即理'，与朱熹鹅湖之会论辩；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-dogen",
+   "title": "道元著作（《正法眼藏》）",
+   "author": "道元",
+   "year": null,
+   "year_display": "13世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/D%C5%8Dgen",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "道元（1200–1253）是日本曹洞宗祖师，《正法眼藏》是其禅法巨著，强调'只管打坐'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-honen",
+   "title": "法然著作（《选择本愿念佛集》）",
+   "author": "法然",
+   "year": null,
+   "year_display": "12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/H%C5%8Dnen",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "法然（1133–1212）是日本净土宗祖师，《选择本愿念佛集》确立'专修念佛'；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

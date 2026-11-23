@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 250,
-    "total": 364,
+    "supplement_l2": 256,
+    "total": 370,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/364）；补充层 250 条 L2；来源 293 条"
+    "verdict": "核心与重要层 100% L3（114/370）；补充层 256 条 L2；来源 299 条"
   },
   "round_log": [
     {
@@ -919,6 +919,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次35：新增6中国哲学人物（孟子/荀子/墨子/韩非子/朱熹/王阳明）；修复aca-analects→pri-analects；体检F全通过（标题/id零重复、引用全有效）；364条0 errors",
       "verdict": "正常扩充（批次35，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-78",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次36：新增6宋明理学/日本佛教人物（周敦颐/张载/程颐/陆九渊/道元/法然）；6来源核验；修复6处sources误放条目id；370条0 errors",
+      "verdict": "正常扩充（批次36，6条）"
     }
   ]
 }

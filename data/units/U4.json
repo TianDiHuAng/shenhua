@@ -12965,6 +12965,444 @@
      "source": "pri-wang-yangming"
     }
    ]
+  },
+  {
+   "id": "fig-zhou-dunyi",
+   "title": "周敦颐",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北宋理学家，《太极图说》作者，宋明理学宇宙论奠基者。",
+   "related": [
+    "rel-confucianism",
+    "fig-zhu-xi",
+    "rel-taoism"
+   ],
+   "sources": [
+    "pri-zhou-dunyi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文本成书与作者归属学界有讨论；2) 宗派立场不同须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "周敦颐（1017–1073）是北宋理学家，被后世尊为宋明理学的开山祖师。其《太极图说》以'无极而太极'的宇宙生成图式与《通书》的'诚'论，为宋明理学提供了宇宙论与伦理学的框架：太极—阴阳—五行的生成序列将宇宙秩序与儒家的仁义礼智相贯通。周敦颐的《爱莲说》（'出淤泥而不染'）也是中国文学名篇。其思想经二程、朱熹发扬，成为理学传统的重要源头。",
+   "versions": [
+    "周敦颐（1017–1073）是北宋理学家，被后世尊为宋明理学的开山祖师。其《太极图说》以'无极而太极'的宇宙生成图式与《通书》的'诚'论，为宋明理学提供了宇宙论与伦理学的框架：太极—阴阳—五行的生成序列将宇宙秩序与儒家的仁义礼智相贯通。周敦颐的《爱莲说》（'出淤泥而不染'）也是中国文学名篇。其思想经二程、朱熹发扬，成为理学传统的重要源头。"
+   ],
+   "interpretations": [
+    {
+     "holder": "周敦颐本人",
+     "school": "哲学文本",
+     "view": "《太极图说》《通书》是其思想的核心文本。"
+    },
+    {
+     "holder": "朱熹",
+     "school": "理学集大成",
+     "view": "朱熹注解《太极图说》，将其纳入理学正统。"
+    },
+    {
+     "holder": "现代中国哲学研究",
+     "school": "思想史",
+     "view": "强调周敦颐的太极图式对宋明宇宙论的影响。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-zhou-dunyi",
+     "note": "作比较哲学/宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>周敦颐形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>周敦颐（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>无极太极</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙生成</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诚</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伦理本体</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>爱莲说</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文学名篇</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>周敦颐要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "太极图的来源",
+     "views": [
+      {
+       "holder": "本土说",
+       "basis": "源于《易经》与道家思想。"
+      },
+      {
+       "holder": "道教影响说",
+       "basis": "太极图式受道教易学影响（学界有争论）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "周敦颐是宋明理学的开山祖师，著《太极图说》。",
+     "source": "pri-zhou-dunyi"
+    },
+    {
+     "claim": "《太极图说》以'无极而太极'奠定理学宇宙论框架。",
+     "source": "pri-zhou-dunyi"
+    }
+   ]
+  },
+  {
+   "id": "fig-zhang-zai",
+   "title": "张载",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北宋理学家，关学创始人，'气本论'代表。",
+   "related": [
+    "rel-confucianism",
+    "fig-zhu-xi",
+    "fig-cheng-yi"
+   ],
+   "sources": [
+    "pri-zhang-zai"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文本成书与作者归属学界有讨论；2) 宗派立场不同须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "张载（1020–1077）是北宋理学家，关学（因讲学于关中）创始人。他以'气本论'著称——认为'太虚即气'，宇宙万物由气的聚散变化而成（气聚则成形，气散则归于太虚），与程朱的'理本论'形成对照。其《西铭》以'乾称父，坤称母'阐述'民吾同胞，物吾与也'的博爱精神，是宋代理学的名篇。张载的'横渠四句'（'为天地立心，为生民立命……'）成为后世儒者的精神格言。",
+   "versions": [
+    "张载（1020–1077）是北宋理学家，关学（因讲学于关中）创始人。他以'气本论'著称——认为'太虚即气'，宇宙万物由气的聚散变化而成（气聚则成形，气散则归于太虚），与程朱的'理本论'形成对照。其《西铭》以'乾称父，坤称母'阐述'民吾同胞，物吾与也'的博爱精神，是宋代理学的名篇。张载的'横渠四句'（'为天地立心，为生民立命……'）成为后世儒者的精神格言。"
+   ],
+   "interpretations": [
+    {
+     "holder": "张载本人",
+     "school": "哲学文本",
+     "view": "《正蒙》《西铭》是其思想的核心文本。"
+    },
+    {
+     "holder": "现代中国哲学研究",
+     "school": "思想史",
+     "view": "强调张载气本论与程朱理本论的理论差异。"
+    },
+    {
+     "holder": "朱子",
+     "school": "理学集成",
+     "view": "朱熹对张载的气论有吸收与批评。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-zhang-zai",
+     "note": "作比较哲学/宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>张载形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>张载（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>气本论</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>太虚即气</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西铭</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>民吾同胞</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>横渠四句</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>儒者精神</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>张载要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "气与理",
+     "views": [
+      {
+       "holder": "气本论（张载）",
+       "basis": "气是宇宙本体。"
+      },
+      {
+       "holder": "理本论（程朱）",
+       "basis": "理是宇宙本体，气为质料。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "张载是关学创始人，主张'太虚即气'的气本论。",
+     "source": "pri-zhang-zai"
+    },
+    {
+     "claim": "《西铭》的'民吾同胞'是宋代理学的博爱表述。",
+     "source": "pri-zhang-zai"
+    }
+   ]
+  },
+  {
+   "id": "fig-cheng-yi",
+   "title": "程颐",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北宋理学家，洛学创始人，'天理'观念的奠基者。",
+   "related": [
+    "rel-confucianism",
+    "fig-zhu-xi",
+    "fig-zhou-dunyi"
+   ],
+   "sources": [
+    "pri-cheng-yi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文本成书与作者归属学界有讨论；2) 宗派立场不同须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "程颐（1033–1107）与兄程颢（1032–1085）并称'二程'，是北宋理学家、洛学创始人。他们把'理'（天理）提升为宇宙本体与伦理法则的核心概念（'天理'二字'自家体贴出来'），主张'格物穷理'与'存天理、去人欲'的修养工夫，为朱熹的理学体系奠定基础。二程的语录收录于《二程遗书》。程颐在政治上是司马光旧党成员，在经筵讲学中以严正著称。程朱理学（程颢、程颐—朱熹）成为后世官方哲学。",
+   "versions": [
+    "程颐（1033–1107）与兄程颢（1032–1085）并称'二程'，是北宋理学家、洛学创始人。他们把'理'（天理）提升为宇宙本体与伦理法则的核心概念（'天理'二字'自家体贴出来'），主张'格物穷理'与'存天理、去人欲'的修养工夫，为朱熹的理学体系奠定基础。二程的语录收录于《二程遗书》。程颐在政治上是司马光旧党成员，在经筵讲学中以严正著称。程朱理学（程颢、程颐—朱熹）成为后世官方哲学。"
+   ],
+   "interpretations": [
+    {
+     "holder": "二程本人",
+     "school": "哲学文本",
+     "view": "《二程遗书》是其思想的第一手记录。"
+    },
+    {
+     "holder": "朱熹",
+     "school": "理学集成",
+     "view": "朱熹继承二程，形成程朱理学。"
+    },
+    {
+     "holder": "现代中国哲学研究",
+     "school": "思想史",
+     "view": "强调二程对'天理'概念的奠基。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-cheng-yi",
+     "note": "作比较哲学/宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>程颐形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>程颐（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天理</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙伦理本体</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>格物穷理</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>认识工夫</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>洛学</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>学派</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>程颐要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "程颢与程颐",
+     "views": [
+      {
+       "holder": "大同说",
+       "basis": "兄弟思想基本一致，合称二程。"
+      },
+      {
+       "holder": "差异说",
+       "basis": "程颢偏'仁'，程颐偏'理'，各有侧重。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "程颐与兄程颢是洛学创始人，奠基'天理'观念。",
+     "source": "pri-cheng-yi"
+    },
+    {
+     "claim": "程朱理学成为后世官方哲学。",
+     "source": "pri-cheng-yi"
+    }
+   ]
+  },
+  {
+   "id": "fig-lu-jiuyuan",
+   "title": "陆九渊",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "南宋心学奠基者，'心即理'的倡导者。",
+   "related": [
+    "rel-confucianism",
+    "fig-wang-yangming",
+    "fig-zhu-xi"
+   ],
+   "sources": [
+    "pri-lu-jiuyuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文本成书与作者归属学界有讨论；2) 宗派立场不同须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "陆九渊（1139–1193）是南宋理学家，心学（象山学）的奠基者，主张'心即理'——认为天理就在人心之中，不必向外求索，'宇宙便是吾心，吾心即是宇宙'。他与朱熹在鹅湖之会（1175）上就'为学工夫'展开著名论辩（朱主张'格物穷理'，陆主张'发明本心'），成为理学史上的标志性事件。陆九渊的思想经王阳明发扬，形成'陆王心学'，与程朱理学并列为宋明理学的两大传统。",
+   "versions": [
+    "陆九渊（1139–1193）是南宋理学家，心学（象山学）的奠基者，主张'心即理'——认为天理就在人心之中，不必向外求索，'宇宙便是吾心，吾心即是宇宙'。他与朱熹在鹅湖之会（1175）上就'为学工夫'展开著名论辩（朱主张'格物穷理'，陆主张'发明本心'），成为理学史上的标志性事件。陆九渊的思想经王阳明发扬，形成'陆王心学'，与程朱理学并列为宋明理学的两大传统。"
+   ],
+   "interpretations": [
+    {
+     "holder": "陆九渊本人",
+     "school": "哲学文本",
+     "view": "《陆象山集》是其思想的核心材料。"
+    },
+    {
+     "holder": "朱熹",
+     "school": "论辩对手",
+     "view": "鹅湖之会是朱陆思想分歧的集中体现。"
+    },
+    {
+     "holder": "王阳明",
+     "school": "心学继承",
+     "view": "王阳明发扬陆九渊心学，形成阳明学。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-lu-jiuyuan",
+     "note": "作比较哲学/宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>陆九渊形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>陆九渊（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>心即理</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>本心</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鹅湖之会</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>朱陆论辩</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>陆王心学</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>传统</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>陆九渊要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "朱陆异同",
+     "views": [
+      {
+       "holder": "工夫之争",
+       "basis": "朱重向外穷理，陆重向内发明本心。"
+      },
+      {
+       "holder": "根本一致",
+       "basis": "二者同尊儒家的伦理目标。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "陆九渊是南宋心学奠基者，主张'心即理'。",
+     "source": "pri-lu-jiuyuan"
+    },
+    {
+     "claim": "鹅湖之会是朱陆思想论辩的著名事件。",
+     "source": "pri-lu-jiuyuan"
+    }
+   ]
+  },
+  {
+   "id": "fig-dogen",
+   "title": "道元",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本曹洞宗祖师，《正法眼藏》作者。",
+   "related": [
+    "rel-zen",
+    "myth-japanese",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-dogen"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文本成书与作者归属学界有讨论；2) 宗派立场不同须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "道元（1200–1253）是日本禅宗曹洞宗的祖师：他入宋求法（1223–1227），在中国天童山嗣法于如净禅师，归国后创立永平寺，弘传曹洞宗'默照禅'。其巨著《正法眼藏》(Shōbōgenzō) 系统阐述了他的禅法思想，强调'只管打坐'(shikantaza)——坐禅本身即是修行与觉悟（'修证一如'），不依赖公案机锋的参究（与临济宗的看话禅形成对照）。道元被尊为日本曹洞宗高祖，其思想在现当代（尤其欧美）禅修圈影响广泛。",
+   "versions": [
+    "道元（1200–1253）是日本禅宗曹洞宗的祖师：他入宋求法（1223–1227），在中国天童山嗣法于如净禅师，归国后创立永平寺，弘传曹洞宗'默照禅'。其巨著《正法眼藏》(Shōbōgenzō) 系统阐述了他的禅法思想，强调'只管打坐'(shikantaza)——坐禅本身即是修行与觉悟（'修证一如'），不依赖公案机锋的参究（与临济宗的看话禅形成对照）。道元被尊为日本曹洞宗高祖，其思想在现当代（尤其欧美）禅修圈影响广泛。"
+   ],
+   "interpretations": [
+    {
+     "holder": "道元本人",
+     "school": "禅宗文本",
+     "view": "《正法眼藏》是其禅法的核心著述。"
+    },
+    {
+     "holder": "现代禅学研究",
+     "school": "宗教学",
+     "view": "强调道元'只管打坐'与临济宗看话禅的差异。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "禅修的'修证一如'可作修行论参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-dogen",
+     "note": "作比较哲学/宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>道元形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>道元（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>只管打坐</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>修证一如</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>曹洞宗</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>默照禅</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>正法眼藏</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>巨著</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>道元要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "道元禅法的特点",
+     "views": [
+      {
+       "holder": "默照说",
+       "basis": "强调静坐默照。"
+      },
+      {
+       "holder": " vs 看话",
+       "basis": "与临济宗公案参究路径不同。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "道元是日本曹洞宗祖师，著《正法眼藏》。",
+     "source": "pri-dogen"
+    },
+    {
+     "claim": "道元强调'只管打坐'与'修证一如'。",
+     "source": "pri-dogen"
+    }
+   ]
+  },
+  {
+   "id": "fig-honen",
+   "title": "法然",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本净土宗祖师，《选择本愿念佛集》作者。",
+   "related": [
+    "rel-pureland",
+    "fig-amitabha",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-honen"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文本成书与作者归属学界有讨论；2) 宗派立场不同须区分描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "法然（1133–1212）是日本净土宗的创立者：他依中国善导大师的净土教义，在比叡山修学后转向净土信仰，主张'专修念佛'——认为在末法时代，唯有称念阿弥陀佛名号（'南无阿弥陀佛'）即可往生极乐世界，不依赖复杂的戒定慧修行。其《选择本愿念佛集》确立了这一教义。法然的教导简化了修行路径，使净土信仰在日本广泛普及，其后亲鸾发展出净土真宗。法然系与旧佛教（如比叡山）的冲突导致其被流放，但死后逐渐被尊为祖师。",
+   "versions": [
+    "法然（1133–1212）是日本净土宗的创立者：他依中国善导大师的净土教义，在比叡山修学后转向净土信仰，主张'专修念佛'——认为在末法时代，唯有称念阿弥陀佛名号（'南无阿弥陀佛'）即可往生极乐世界，不依赖复杂的戒定慧修行。其《选择本愿念佛集》确立了这一教义。法然的教导简化了修行路径，使净土信仰在日本广泛普及，其后亲鸾发展出净土真宗。法然系与旧佛教（如比叡山）的冲突导致其被流放，但死后逐渐被尊为祖师。"
+   ],
+   "interpretations": [
+    {
+     "holder": "法然本人",
+     "school": "净土文本",
+     "view": "《选择本愿念佛集》是其教义的核心文本。"
+    },
+    {
+     "holder": "亲鸾",
+     "school": "后继者",
+     "view": "亲鸾继承并激进了法然的净土思想，创立净土真宗。"
+    },
+    {
+     "holder": "现代日本佛教研究",
+     "school": "宗教学",
+     "view": "强调法然'专修念佛'对日本佛教平民化的影响。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-honen",
+     "note": "作比较哲学/宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>法然形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>法然（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>专修念佛</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>称名往生</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>本愿</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿弥陀佛</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>净土宗</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>日本祖师</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法然要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "念佛与戒律",
+     "views": [
+      {
+       "holder": "称名即足说",
+       "basis": "末法时代称名即可往生。"
+      },
+      {
+       "holder": "戒定慧并重说",
+       "basis": "传统佛教强调三学并重（法然简化之）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "法然是日本净土宗祖师，主张专修念佛。",
+     "source": "pri-honen"
+    },
+    {
+     "claim": "《选择本愿念佛集》确立其净土教义。",
+     "source": "pri-honen"
+    }
+   ]
   }
  ]
 }
