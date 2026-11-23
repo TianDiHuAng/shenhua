@@ -3496,6 +3496,84 @@
    "link_ok": true,
    "verified": true,
    "note": "所罗门是大卫之子、以色列国王，以智慧与建造第一圣殿著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ali",
+   "title": "阿里文献（《古兰经》注释与什叶派传统）",
+   "author": "佚名（伊斯兰）",
+   "year": null,
+   "year_display": "7世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ali",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿里（ʿAlī，约598–661）是穆罕默德的堂弟与女婿，第四任哈里发，什叶派视其为第一位伊玛目；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-fatima",
+   "title": "法蒂玛文献（先知女儿传统）",
+   "author": "佚名（伊斯兰）",
+   "year": null,
+   "year_display": "7世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Fatima",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "法蒂玛（Fāṭima，约605–632）是穆罕默德与赫蒂彻之女、阿里之妻，什叶派尊为'之光'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-husayn",
+   "title": "侯赛因文献（卡尔巴拉叙事）",
+   "author": "佚名（什叶派）",
+   "year": null,
+   "year_display": "7世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "侯赛因（Ḥusayn，626–680）是阿里与法蒂玛之子，卡尔巴拉战役殉难，什叶派阿舒拉节纪念的核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-abu-bakr",
+   "title": "阿布·伯克尔文献（第一任哈里发）",
+   "author": "佚名（伊斯兰）",
+   "year": null,
+   "year_display": "7世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Abu_Bakr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿布·伯克尔（Abū Bakr，约573–634）是穆罕默德的岳父与第一任正统哈里发；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-omar",
+   "title": "欧麦尔文献（第二任哈里发）",
+   "author": "佚名（伊斯兰）",
+   "year": null,
+   "year_display": "7世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Umar",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "欧麦尔（ʿUmar，约583–644）是第二任正统哈里发，以其公正与行政改革著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-rumi",
+   "title": "鲁米文献（《玛斯纳维》）",
+   "author": "贾拉勒丁·鲁米",
+   "year": null,
+   "year_display": "13世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Rumi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "鲁米（Rumi，1207–1273）是苏菲派诗人，《玛斯纳维》(Masnavi) 是苏菲文学经典；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

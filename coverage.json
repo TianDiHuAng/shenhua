@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T17:06:39+08:00",
+  "generated": "2026-11-23T17:11:50+08:00",
   "summary": {
-    "total": 340,
+    "total": 346,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 137
+      "U4": 143
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 226
+      "补充": 232
     },
     "by_level": {
       "L1": 0,
-      "L2": 226,
+      "L2": 232,
       "L3": 114
     },
-    "l2_done": 340,
+    "l2_done": 346,
     "l3_done": 114,
-    "verified_sources": 223
+    "verified_sources": 229
   },
   "entries": [
     {
@@ -3755,6 +3755,72 @@
     {
       "id": "fig-solomon",
       "name": "所罗门",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-ali",
+      "name": "阿里",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-fatima",
+      "name": "法蒂玛",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-husayn",
+      "name": "侯赛因",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-abu-bakr",
+      "name": "阿布·伯克尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-omar",
+      "name": "欧麦尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-rumi",
+      "name": "鲁米",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

@@ -11189,6 +11189,450 @@
      "source": "pri-solomon"
     }
    ]
+  },
+  {
+   "id": "fig-ali",
+   "title": "阿里",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "穆罕默德的堂弟与女婿，第四任哈里发，什叶派首位伊玛目。",
+   "related": [
+    "rel-islam",
+    "fig-muhammad",
+    "fig-husayn"
+   ],
+   "sources": [
+    "pri-ali",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 早期伊斯兰史料（圣训、历史）的可靠性与教派立场须区分；2) 逊尼派与什叶派对同一人物评价差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿里（ʿAlī ibn Abī Ṭālib，约598–661）是穆罕默德的堂弟与女婿（娶法蒂玛），伊斯兰教第四任正统哈里发（656–661年在位）。他以勇敢、公正与对先知的忠诚著称，其统治期间经历第一次内战（ camel 战役、Siffin 战役），最终被暗杀。什叶派视阿里为穆罕默德合法继承人与第一位伊玛目，认为领导权应归于先知的家族（Ahl al-Bayt）；逊尼派则承认其哈里发地位但不赋予伊玛目神学意义。阿里的言论集《辞章之道》(Nahj al-Balagha) 是什叶派的重要文本。",
+   "versions": [
+    "阿里（ʿAlī ibn Abī Ṭālib，约598–661）是穆罕默德的堂弟与女婿（娶法蒂玛），伊斯兰教第四任正统哈里发（656–661年在位）。他以勇敢、公正与对先知的忠诚著称，其统治期间经历第一次内战（ camel 战役、Siffin 战役），最终被暗杀。什叶派视阿里为穆罕默德合法继承人与第一位伊玛目，认为领导权应归于先知的家族（Ahl al-Bayt）；逊尼派则承认其哈里发地位但不赋予伊玛目神学意义。阿里的言论集《辞章之道》(Nahj al-Balagha) 是什叶派的重要文本。"
+   ],
+   "interpretations": [
+    {
+     "holder": "什叶派传统",
+     "school": "教派立场",
+     "view": "视阿里为首位伊玛目与先知合法继承人。"
+    },
+    {
+     "holder": "逊尼派传统",
+     "school": "教派立场",
+     "view": "承认其第四任哈里发的历史地位。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "《God Is Not One》中把逊尼—什叶分歧的核心归于领导权问题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ali",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿里形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿里（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>首位伊玛目</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>什叶派</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>第四哈里发</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>逊尼派</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>家族继承</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ahl al-Bayt</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿里要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "继承权的合法性",
+     "views": [
+      {
+       "holder": "什叶派说",
+       "basis": "领导权应归先知家族（阿里）。"
+      },
+      {
+       "holder": "逊尼派说",
+       "basis": "哈里发由社群选举产生。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿里是第四任正统哈里发，什叶派视其为首位伊玛目。",
+     "source": "pri-ali"
+    },
+    {
+     "claim": "逊尼与什叶对阿里的领导权地位有根本分歧。",
+     "source": "pri-ali"
+    }
+   ]
+  },
+  {
+   "id": "fig-fatima",
+   "title": "法蒂玛",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "穆罕默德之女、阿里之妻，什叶派尊崇的圣女。",
+   "related": [
+    "fig-ali",
+    "fig-husayn",
+    "fig-muhammad"
+   ],
+   "sources": [
+    "pri-fatima",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 早期伊斯兰史料（圣训、历史）的可靠性与教派立场须区分；2) 逊尼派与什叶派对同一人物评价差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "法蒂玛（Fāṭima bint Muḥammad，约605–632）是穆罕默德与赫蒂彻之女，嫁给阿里，是哈桑与侯赛因之母。她在伊斯兰传统中以虔诚、纯洁与对父亲的挚爱著称，被尊为'乐园妇女之主'。什叶派特别尊崇法蒂玛，视其为' FATIMA 之光'与先知家族（Ahl al-Bayt）的核心成员，其生平（如法蒂玛之死与继承争议）在什叶派神学中具有象征意义。",
+   "versions": [
+    "法蒂玛（Fāṭima bint Muḥammad，约605–632）是穆罕默德与赫蒂彻之女，嫁给阿里，是哈桑与侯赛因之母。她在伊斯兰传统中以虔诚、纯洁与对父亲的挚爱著称，被尊为'乐园妇女之主'。什叶派特别尊崇法蒂玛，视其为' FATIMA 之光'与先知家族（Ahl al-Bayt）的核心成员，其生平（如法蒂玛之死与继承争议）在什叶派神学中具有象征意义。"
+   ],
+   "interpretations": [
+    {
+     "holder": "什叶派传统",
+     "school": "教派立场",
+     "view": "视法蒂玛为先知家族的核心与殉道象征。"
+    },
+    {
+     "holder": "逊尼派传统",
+     "school": "教派立场",
+     "view": "尊其为圣女（sayyida）但未赋予同等神学地位。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "宗教研究",
+     "view": "强调法蒂玛形象在两派传统中的差异。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-fatima",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>法蒂玛形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>法蒂玛（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>先知家族</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ahl al-Bayt</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣女</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>乐园妇女之主</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>什叶尊崇</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>殉道象征</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法蒂玛要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "法蒂玛的地位",
+     "views": [
+      {
+       "holder": "什叶派说",
+       "basis": "具神圣与殉道象征意义。"
+      },
+      {
+       "holder": "逊尼派说",
+       "basis": "是受尊崇的圣女但不具神学功能。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "法蒂玛是穆罕默德之女、阿里之妻，哈桑与侯赛因之母。",
+     "source": "pri-fatima"
+    },
+    {
+     "claim": "什叶派特别尊崇法蒂玛为先知家族的核心。",
+     "source": "pri-fatima"
+    }
+   ]
+  },
+  {
+   "id": "fig-husayn",
+   "title": "侯赛因",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "阿里与法蒂玛之子，卡尔巴拉殉难者，阿舒拉节纪念核心。",
+   "related": [
+    "fig-ali",
+    "fig-fatima",
+    "rel-islam"
+   ],
+   "sources": [
+    "pri-husayn",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 早期伊斯兰史料（圣训、历史）的可靠性与教派立场须区分；2) 逊尼派与什叶派对同一人物评价差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "侯赛因（Ḥusayn ibn ʿAlī，626–680）是阿里与法蒂玛的次子、穆罕默德的外孙。680年，他在卡尔巴拉（Karbala）与倭马亚王朝军队的战役中被杀（连同多数家人与追随者）——这一事件成为伊斯兰教历史上最重大的悲剧之一。什叶派视侯赛因的殉难为对暴政与不义的最高抗议，每年阿舒拉节（Ashura）以哀悼仪式（如马塔姆、塔兹耶受难剧）纪念，卡尔巴拉成为什叶派朝圣地。",
+   "versions": [
+    "侯赛因（Ḥusayn ibn ʿAlī，626–680）是阿里与法蒂玛的次子、穆罕默德的外孙。680年，他在卡尔巴拉（Karbala）与倭马亚王朝军队的战役中被杀（连同多数家人与追随者）——这一事件成为伊斯兰教历史上最重大的悲剧之一。什叶派视侯赛因的殉难为对暴政与不义的最高抗议，每年阿舒拉节（Ashura）以哀悼仪式（如马塔姆、塔兹耶受难剧）纪念，卡尔巴拉成为什叶派朝圣地。"
+   ],
+   "interpretations": [
+    {
+     "holder": "什叶派传统",
+     "school": "教派立场",
+     "view": "侯赛因殉难是反抗暴政与追求正义的象征。"
+    },
+    {
+     "holder": "逊尼派传统",
+     "school": "教派立场",
+     "view": "承认其历史悲剧，但不赋予同等的救赎神学。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "宗教研究",
+     "view": "强调卡尔巴拉叙事在什叶派身份建构中的核心作用。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-husayn",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>侯赛因形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>侯赛因（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡尔巴拉</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>殉难地</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿舒拉节</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>哀悼仪式</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>反抗暴政</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>象征意义</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>侯赛因要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "卡尔巴拉的意义",
+     "views": [
+      {
+       "holder": "救赎牺牲说",
+       "basis": "什叶派视殉难为代赎与正义见证。"
+      },
+      {
+       "holder": "政治抗议说",
+       "basis": "现代解读强调反暴政的政治意义。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "侯赛因680年在卡尔巴拉战役中殉难。",
+     "source": "pri-husayn"
+    },
+    {
+     "claim": "阿舒拉节是什叶派纪念侯赛因的核心仪式。",
+     "source": "pri-husayn"
+    }
+   ]
+  },
+  {
+   "id": "fig-abu-bakr",
+   "title": "阿布·伯克尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "穆罕默德的岳父与第一任正统哈里发。",
+   "related": [
+    "fig-muhammad",
+    "fig-omar",
+    "rel-islam"
+   ],
+   "sources": [
+    "pri-abu-bakr",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 早期伊斯兰史料（圣训、历史）的可靠性与教派立场须区分；2) 逊尼派与什叶派对同一人物评价差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿布·伯克尔（Abū Bakr，约573–634）是穆罕默德的最早追随者之一与岳父（其女阿伊莎嫁与先知），在穆罕默德去世后（632年）成为第一任正统哈里发（Caliph），领导早期穆斯林社群。其统治期间平定了'里达战争'（叛教战争）、统一阿拉伯半岛，并 initiate 了对拜占庭与波斯帝国的征服（如 Yarmouk 战役）。逊尼派尊其为'真理的支持者'(al-Siddiq)，什叶派对其统治持批评态度（认为领导权应归阿里）。",
+   "versions": [
+    "阿布·伯克尔（Abū Bakr，约573–634）是穆罕默德的最早追随者之一与岳父（其女阿伊莎嫁与先知），在穆罕默德去世后（632年）成为第一任正统哈里发（Caliph），领导早期穆斯林社群。其统治期间平定了'里达战争'（叛教战争）、统一阿拉伯半岛，并 initiate 了对拜占庭与波斯帝国的征服（如 Yarmouk 战役）。逊尼派尊其为'真理的支持者'(al-Siddiq)，什叶派对其统治持批评态度（认为领导权应归阿里）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "逊尼派传统",
+     "school": "教派立场",
+     "view": "尊阿布·伯克尔为第一任合法哈里发与先知的亲密同伴。"
+    },
+    {
+     "holder": "什叶派传统",
+     "school": "教派立场",
+     "view": "批评其对阿里领导权的取代。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "历史研究",
+     "view": "强调其在统一阿拉伯与 initiate 征服中的作用。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-abu-bakr",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿布·伯克尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿布·伯克尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>第一哈里发</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>正统哈里发</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>里达战争</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>统一阿拉伯</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>逊尼尊崇</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>al-Siddiq</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿布·伯克尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "哈里发的合法性",
+     "views": [
+      {
+       "holder": "逊尼派说",
+       "basis": "社群选举合法。"
+      },
+      {
+       "holder": "什叶派说",
+       "basis": "应归先知家族。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿布·伯克尔是伊斯兰教第一任正统哈里发。",
+     "source": "pri-abu-bakr"
+    },
+    {
+     "claim": "逊尼派与什叶派对其统治合法性有分歧。",
+     "source": "pri-abu-bakr"
+    }
+   ]
+  },
+  {
+   "id": "fig-omar",
+   "title": "欧麦尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "伊斯兰教第二任正统哈里发，以公正与行政改革著称。",
+   "related": [
+    "fig-abu-bakr",
+    "fig-ali",
+    "rel-islam"
+   ],
+   "sources": [
+    "pri-omar",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 早期伊斯兰史料（圣训、历史）的可靠性与教派立场须区分；2) 逊尼派与什叶派对同一人物评价差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "欧麦尔（ʿUmar ibn al-Khaṭṭāb，约583–644）是伊斯兰教第二任正统哈里发（634–644年在位），从穆罕默德的反对者转为最坚定的追随者之一。他在位期间大幅扩张伊斯兰领土（征服波斯、拜占庭的叙利亚与埃及），建立行政制度（如 Diwan 财政登记、军队薪酬制度），并以严格公正的统治著称（'欧麦尔的公正'成为伊斯兰政治伦理的典范）。他在清真寺被刺杀。逊尼派高度尊崇他，什叶派对其统治持保留态度。",
+   "versions": [
+    "欧麦尔（ʿUmar ibn al-Khaṭṭāb，约583–644）是伊斯兰教第二任正统哈里发（634–644年在位），从穆罕默德的反对者转为最坚定的追随者之一。他在位期间大幅扩张伊斯兰领土（征服波斯、拜占庭的叙利亚与埃及），建立行政制度（如 Diwan 财政登记、军队薪酬制度），并以严格公正的统治著称（'欧麦尔的公正'成为伊斯兰政治伦理的典范）。他在清真寺被刺杀。逊尼派高度尊崇他，什叶派对其统治持保留态度。"
+   ],
+   "interpretations": [
+    {
+     "holder": "逊尼派传统",
+     "school": "教派立场",
+     "view": "尊欧麦尔为公正与行政建设的典范哈里发。"
+    },
+    {
+     "holder": "什叶派传统",
+     "school": "教派立场",
+     "view": "对其统治与对阿里家族的政策持批评态度。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "历史研究",
+     "view": "强调其行政改革与征服的历史影响。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-omar",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>欧麦尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>欧麦尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>第二哈里发</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>634–644</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>行政改革</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Diwan制度</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>公正典范</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>政治伦理</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>欧麦尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "欧麦尔的评价",
+     "views": [
+      {
+       "holder": "逊尼正面说",
+       "basis": "公正与扩张的明君。"
+      },
+      {
+       "holder": "什叶批评说",
+       "basis": "对阿里家族不公。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "欧麦尔是伊斯兰教第二任正统哈里发，以公正著称。",
+     "source": "pri-omar"
+    },
+    {
+     "claim": "欧麦尔建立了 Diwan 等行政制度并大幅扩张领土。",
+     "source": "pri-omar"
+    }
+   ]
+  },
+  {
+   "id": "fig-rumi",
+   "title": "鲁米",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "苏菲派诗人，《玛斯纳维》的作者。",
+   "related": [
+    "rel-sufism",
+    "rel-islam",
+    "motif-mystery-cult"
+   ],
+   "sources": [
+    "pri-rumi",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 早期伊斯兰史料（圣训、历史）的可靠性与教派立场须区分；2) 逊尼派与什叶派对同一人物评价差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "鲁米（Jalāl al-Dīn Rūmī，1207–1273）是13世纪出生于巴尔赫（今阿富汗）、活动于科尼亚（今土耳其）的苏菲派诗人、神学家。其代表作《玛斯纳维》(Masnavi) 是苏菲文学的经典（被称为'古兰经的注释'），以寓言与故事阐述苏菲的爱、合一与灵性修行。鲁米的诗歌（含《沙姆斯集》）在现当代被译为多种语言，成为西方世界最知名的苏菲诗人之一。其生平（与沙姆斯·大不里士的相遇）是苏菲传统的重要叙事。",
+   "versions": [
+    "鲁米（Jalāl al-Dīn Rūmī，1207–1273）是13世纪出生于巴尔赫（今阿富汗）、活动于科尼亚（今土耳其）的苏菲派诗人、神学家。其代表作《玛斯纳维》(Masnavi) 是苏菲文学的经典（被称为'古兰经的注释'），以寓言与故事阐述苏菲的爱、合一与灵性修行。鲁米的诗歌（含《沙姆斯集》）在现当代被译为多种语言，成为西方世界最知名的苏菲诗人之一。其生平（与沙姆斯·大不里士的相遇）是苏菲传统的重要叙事。"
+   ],
+   "interpretations": [
+    {
+     "holder": "苏菲传统",
+     "school": "教派立场",
+     "view": "视鲁米为揭示 divine love 的伟大导师。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把鲁米作为苏菲'爱之道'的典型。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "现代文学研究",
+     "school": "比较文学",
+     "view": "强调鲁米在当代的跨文化接受。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-rumi",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>鲁米形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>鲁米（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>玛斯纳维</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>苏菲经典</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>沙姆斯</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>精神导师</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>爱之道</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'> divine love</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鲁米要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "鲁米的接受",
+     "views": [
+      {
+       "holder": "苏菲内部说",
+       "basis": "首先是苏菲导师与诗人。"
+      },
+      {
+       "holder": "现代西方说",
+       "basis": "常被读作'灵性'与'爱'的普世诗人。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "鲁米是13世纪苏菲诗人，《玛斯纳维》的作者。",
+     "source": "pri-rumi"
+    },
+    {
+     "claim": "鲁米在现当代是最广为传播的苏菲诗人之一。",
+     "source": "pri-rumi"
+    }
+   ]
   }
  ]
 }

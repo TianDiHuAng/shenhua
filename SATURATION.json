@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 226,
-    "total": 340,
+    "supplement_l2": 232,
+    "total": 346,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/340）；补充层 226 条 L2；来源 269 条"
+    "verdict": "核心与重要层 100% L3（114/346）；补充层 232 条 L2；来源 275 条"
   },
   "round_log": [
     {
@@ -870,6 +870,18 @@
       "new_gaps_found": 6,
       "gap_detail": "体检F：修复rel-samaritan自引用；批次31：新增6亚伯拉罕系人物（亚伯拉罕/以撒/雅各/诺亚/大卫/所罗门）；6来源核验；340条0 errors",
       "verdict": "正常扩充（批次31，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-74",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次32：新增6伊斯兰人物（阿里/法蒂玛/侯赛因/阿布·伯克尔/欧麦尔/鲁米）；6来源核验；D15查重0重复；346条0 errors",
+      "verdict": "正常扩充（批次32，6条）"
     }
   ]
 }
