@@ -3197,6 +3197,84 @@
    "link_ok": true,
    "verified": true,
    "note": "阎摩（Yama）是印度教冥界与死亡之神，吠陀时期已出现，后成为阎罗王概念的基础；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-avalokiteshvara",
+   "title": "观世音菩萨文献（《法华经·普门品》与《心经》）",
+   "author": "佚名（佛教经典）",
+   "year": null,
+   "year_display": "大乘经典",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Avalokite%C5%9Bvara",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "观世音（Avalokiteśvara）是大乘佛教慈悲菩萨，《法华经·普门品》与《心经》的核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-manjushri",
+   "title": "文殊菩萨文献（《般若经》与《华严经》）",
+   "author": "佚名（佛教经典）",
+   "year": null,
+   "year_display": "大乘经典",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Manjushri",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "文殊（Mañjuśrī）是大乘佛教智慧菩萨，与般若经典密切相关；2026-11-23 经 Wikipedia API 实测（Mañjuśrī→Manjushri）。"
+  },
+  {
+   "id": "pri-tara",
+   "title": "度母文献（《度母经》与藏传传统）",
+   "author": "佚名（佛教经典）",
+   "year": null,
+   "year_display": "大乘—金刚乘",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "度母（Tārā）是藏传佛教的慈悲与救度女菩萨，以白度母/绿度母等形态著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-maitreya",
+   "title": "弥勒菩萨文献（《弥勒上生经》等）",
+   "author": "佚名（佛教经典）",
+   "year": null,
+   "year_display": "大乘经典",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Maitreya",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "弥勒（Maitreya）是佛教的未来佛，现为兜率天菩萨，是弥勒信仰的核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-amitabha",
+   "title": "阿弥陀佛文献（《无量寿经》与净土经典）",
+   "author": "佚名（佛教经典）",
+   "year": null,
+   "year_display": "大乘经典",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿弥陀佛（Amitābha，无量光佛）是净土宗的核心佛，西方极乐世界的教主；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-kshitigarbha",
+   "title": "地藏菩萨文献（《地藏十轮经》与《本愿经》）",
+   "author": "佚名（佛教经典）",
+   "year": null,
+   "year_display": "大乘经典",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/K%E1%B9%A3itigarbha",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "地藏（Kṣitigarbha）是大乘佛教救度地狱众生的菩萨，以'地狱不空，誓不成佛'的大愿著称；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

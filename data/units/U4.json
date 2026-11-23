@@ -9417,6 +9417,449 @@
      "source": "pri-yama"
     }
    ]
+  },
+  {
+   "id": "fig-avalokiteshvara",
+   "title": "观世音菩萨",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "大乘佛教慈悲菩萨，东亚观音信仰的核心。",
+   "related": [
+    "rel-buddhism",
+    "fig-tara",
+    "rel-pureland"
+   ],
+   "sources": [
+    "pri-avalokiteshvara",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 大乘经典文本层复杂，各宗派对同一菩萨的定位与经典依据不同；2) 跨文化形态（如观世音→Kannon/Avalokiteśvara）须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "观世音菩萨（Avalokiteśvara，'观其音声而救之'）是大乘佛教中慈悲与救难的菩萨：《法华经·普门品》叙述其救度众生的三十三种化身，《心经》中以'观自在菩萨'之名宣说般若空性。观世音信仰随佛教传播至东亚，在中国演变为'观音'（并被本土化为女性形象），在藏传佛教中为 Chenrezig，在日本为 Kannon——跨文化的形态变化是宗教本土化的典型案例。",
+   "versions": [
+    "观世音菩萨（Avalokiteśvara，'观其音声而救之'）是大乘佛教中慈悲与救难的菩萨：《法华经·普门品》叙述其救度众生的三十三种化身，《心经》中以'观自在菩萨'之名宣说般若空性。观世音信仰随佛教传播至东亚，在中国演变为'观音'（并被本土化为女性形象），在藏传佛教中为 Chenrezig，在日本为 Kannon——跨文化的形态变化是宗教本土化的典型案例。"
+   ],
+   "interpretations": [
+    {
+     "holder": "大乘经典传统",
+     "school": "教义渊源",
+     "view": "《法华经》《心经》是观世音信仰的主要经典依据。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "慈悲菩萨的化身多样性可作神圣显现的参照。"
+    },
+    {
+     "holder": "现代佛教研究",
+     "school": "宗教学",
+     "view": "强调观音从印度男性菩萨到东亚女性救世主的形象演变。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-avalokiteshvara",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>观世音菩萨形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>观世音菩萨（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>慈悲救难</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>普门品</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三十三化身</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>应身救度</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>东亚观音</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>本土化</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>观世音菩萨要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "观音的性别",
+     "views": [
+      {
+       "holder": "男性菩萨说",
+       "basis": "印度原典中为男性菩萨。"
+      },
+      {
+       "holder": "女性化说",
+       "basis": "东亚（尤其中国）演变为女性救世主形象。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "观世音是大乘佛教慈悲菩萨，《法华经·普门品》与《心经》是其核心经典。",
+     "source": "pri-avalokiteshvara"
+    },
+    {
+     "claim": "观音信仰在东亚被本土化（如中国女性观音形象）。",
+     "source": "pri-avalokiteshvara"
+    }
+   ]
+  },
+  {
+   "id": "fig-manjushri",
+   "title": "文殊菩萨",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "大乘佛教智慧菩萨，与般若经典密切相关。",
+   "related": [
+    "rel-buddhism",
+    "fig-avalokiteshvara",
+    "rel-tendai"
+   ],
+   "sources": [
+    "pri-manjushri",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 大乘经典文本层复杂，各宗派对同一菩萨的定位与经典依据不同；2) 跨文化形态（如观世音→Kannon/Avalokiteśvara）须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "文殊菩萨（Mañjuśrī，'妙吉祥'）是大乘佛教的智慧菩萨，象征般若（prajñā，究竟智慧），常以骑狮子、持智慧剑（斩断无明）与般若经卷的形象出现。他与《般若经》《华严经》等大乘经典密切相关，在佛教中代表'智慧'这一修行核心（与观世音的'慈悲'、普贤的'行愿'并列）。文殊信仰在汉传佛教（五台山为其道场）与藏传佛教中均兴盛。",
+   "versions": [
+    "文殊菩萨（Mañjuśrī，'妙吉祥'）是大乘佛教的智慧菩萨，象征般若（prajñā，究竟智慧），常以骑狮子、持智慧剑（斩断无明）与般若经卷的形象出现。他与《般若经》《华严经》等大乘经典密切相关，在佛教中代表'智慧'这一修行核心（与观世音的'慈悲'、普贤的'行愿'并列）。文殊信仰在汉传佛教（五台山为其道场）与藏传佛教中均兴盛。"
+   ],
+   "interpretations": [
+    {
+     "holder": "大乘经典传统",
+     "school": "教义渊源",
+     "view": "《般若经》等经典是文殊信仰的基础。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "智慧剑斩无明的象征可作母题参照。"
+    },
+    {
+     "holder": "现代佛教研究",
+     "school": "宗教学",
+     "view": "强调文殊—观音—普贤的三圣结构在东亚佛教中的意义。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-manjushri",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>文殊菩萨形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>文殊菩萨（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智慧菩萨</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>般若</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智慧剑</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>斩断无明</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五台山</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>汉传道场</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>文殊菩萨要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "文殊的形象",
+     "views": [
+      {
+       "holder": "智慧剑说",
+       "basis": "持剑象征斩断无明。"
+      },
+      {
+       "holder": "经卷说",
+       "basis": "持般若经卷象征智慧本身。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "文殊菩萨是大乘佛教智慧菩萨，与般若经典密切相关。",
+     "source": "pri-manjushri"
+    },
+    {
+     "claim": "文殊以骑狮子、持智慧剑的形象著称，五台山是其汉传道场。",
+     "source": "pri-manjushri"
+    }
+   ]
+  },
+  {
+   "id": "fig-tara",
+   "title": "度母",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "藏传佛教的慈悲与救度女菩萨，以白度母、绿度母著称。",
+   "related": [
+    "rel-buddhism",
+    "fig-avalokiteshvara"
+   ],
+   "sources": [
+    "pri-tara",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 大乘经典文本层复杂，各宗派对同一菩萨的定位与经典依据不同；2) 跨文化形态（如观世音→Kannon/Avalokiteśvara）须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "度母（Tārā，'救度者'）是藏传佛教中重要的女菩萨，被视为观世音菩萨慈悲的化身或伴侣，以迅速救度众生（尤其免除八种怖畏）著称。主要形态包括绿度母（Śyāmā Tārā，救苦救难）与白度母（Sitatārā，延寿与净化）。度母崇拜在藏传佛教各派中普遍，并随藏传佛教传播至蒙古与喜马拉雅地区；其印度源流可追溯至大乘—金刚乘经典。",
+   "versions": [
+    "度母（Tārā，'救度者'）是藏传佛教中重要的女菩萨，被视为观世音菩萨慈悲的化身或伴侣，以迅速救度众生（尤其免除八种怖畏）著称。主要形态包括绿度母（Śyāmā Tārā，救苦救难）与白度母（Sitatārā，延寿与净化）。度母崇拜在藏传佛教各派中普遍，并随藏传佛教传播至蒙古与喜马拉雅地区；其印度源流可追溯至大乘—金刚乘经典。"
+   ],
+   "interpretations": [
+    {
+     "holder": "藏传佛教传统",
+     "school": "教派自述",
+     "view": "度母是观世音慈悲力量的女性显现。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "女神救度与化身形态可作母题参照。"
+    },
+    {
+     "holder": "现代藏学研究",
+     "school": "宗教学",
+     "view": "强调度母在藏传佛教各派中的不同仪轨与定位。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tara",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>度母形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>度母（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>救度女菩萨</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Tārā</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>绿度母</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>救苦</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>白度母</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>延寿</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>度母要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "度母的源流",
+     "views": [
+      {
+       "holder": "观音化身说",
+       "basis": "是观世音慈悲的化身。"
+      },
+      {
+       "holder": "独立本尊说",
+       "basis": "在藏传中是独立的本尊（yidam）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "度母是藏传佛教慈悲与救度的女菩萨，以绿度母/白度母著称。",
+     "source": "pri-tara"
+    },
+    {
+     "claim": "度母被视为观世音菩萨慈悲力量的显现。",
+     "source": "pri-tara"
+    }
+   ]
+  },
+  {
+   "id": "fig-maitreya",
+   "title": "弥勒菩萨",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "佛教的未来佛，现居兜率天，弥勒信仰的核心。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha",
+    "motif-eschatology"
+   ],
+   "sources": [
+    "pri-maitreya",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 大乘经典文本层复杂，各宗派对同一菩萨的定位与经典依据不同；2) 跨文化形态（如观世音→Kannon/Avalokiteśvara）须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "弥勒菩萨（Maitreya，'慈氏'）在佛教中被视为未来佛——现居兜率天（Tuṣita）说法，将在久远未来于鹫峰龙华树下成佛、开三次大法会（龙华三会）。弥勒信仰在汉传佛教中表现为'上生兜率'（往生兜率亲近弥勒）与'下生人间'（弥勒下生成佛）两种传统，在印度—中亚—东亚广泛流传；弥勒造像（如乐山大佛、克孜尔石窟）是佛教艺术的重要题材。",
+   "versions": [
+    "弥勒菩萨（Maitreya，'慈氏'）在佛教中被视为未来佛——现居兜率天（Tuṣita）说法，将在久远未来于鹫峰龙华树下成佛、开三次大法会（龙华三会）。弥勒信仰在汉传佛教中表现为'上生兜率'（往生兜率亲近弥勒）与'下生人间'（弥勒下生成佛）两种传统，在印度—中亚—东亚广泛流传；弥勒造像（如乐山大佛、克孜尔石窟）是佛教艺术的重要题材。"
+   ],
+   "interpretations": [
+    {
+     "holder": "大乘经典传统",
+     "school": "教义渊源",
+     "view": "《弥勒上生经》《弥勒下生经》是弥勒信仰的主要经典。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "未来佛与末世救赎的结构可作末世论参照。"
+    },
+    {
+     "holder": "现代佛教研究",
+     "school": "宗教学",
+     "view": "强调弥勒信仰与末世论、净土思想的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-maitreya",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>弥勒菩萨形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>弥勒菩萨（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>未来佛</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Maitreya</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>兜率天</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>现居处</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>龙华三会</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>下生成佛</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弥勒菩萨要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "弥勒信仰的形态",
+     "views": [
+      {
+       "holder": "上生说",
+       "basis": "发愿往生兜率天亲近弥勒。"
+      },
+      {
+       "holder": "下生说",
+       "basis": "期待弥勒下生成佛、人间净土。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "弥勒是佛教的未来佛，现居兜率天。",
+     "source": "pri-maitreya"
+    },
+    {
+     "claim": "弥勒信仰有上生兜率与下生成佛两种传统。",
+     "source": "pri-maitreya"
+    }
+   ]
+  },
+  {
+   "id": "fig-amitabha",
+   "title": "阿弥陀佛",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "净土宗核心佛，西方极乐世界的教主。",
+   "related": [
+    "rel-pureland",
+    "rel-buddhism",
+    "fig-avalokiteshvara"
+   ],
+   "sources": [
+    "pri-amitabha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 大乘经典文本层复杂，各宗派对同一菩萨的定位与经典依据不同；2) 跨文化形态（如观世音→Kannon/Avalokiteśvara）须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿弥陀佛（Amitābha，'无量光佛'；Amitāyus，'无量寿佛'）是大乘佛教净土信仰的核心佛，西方极乐世界（Sukhāvatī）的教主。据《无量寿经》《观无量寿经》《阿弥陀经》等净土经典，阿弥陀佛以四十八愿（含'十念必生'的本愿）建立极乐国土，众生称念其名号即可往生。净土宗（ Pure Land ）以'信、愿、行'为纲，是中国、日本（净土真宗等）等东亚佛教最普及的信仰形态之一。",
+   "versions": [
+    "阿弥陀佛（Amitābha，'无量光佛'；Amitāyus，'无量寿佛'）是大乘佛教净土信仰的核心佛，西方极乐世界（Sukhāvatī）的教主。据《无量寿经》《观无量寿经》《阿弥陀经》等净土经典，阿弥陀佛以四十八愿（含'十念必生'的本愿）建立极乐国土，众生称念其名号即可往生。净土宗（ Pure Land ）以'信、愿、行'为纲，是中国、日本（净土真宗等）等东亚佛教最普及的信仰形态之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "净土经典传统",
+     "school": "教义渊源",
+     "view": "三部净土经典是阿弥陀佛信仰的依据。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把净土信仰作为'他力救度'宗教的典型。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "现代佛教研究",
+     "school": "宗教学",
+     "view": "强调净土信仰在东亚的普及及其与本土文化的适应。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-amitabha",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿弥陀佛形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿弥陀佛（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>无量光寿</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Amitabha/Amitayus</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>四十八愿</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>本愿救度</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>极乐世界</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Sukhavati</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿弥陀佛要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "往生的条件",
+     "views": [
+      {
+       "holder": "称名说",
+       "basis": "称念佛号即可往生（他力）。"
+      },
+      {
+       "holder": "心性说",
+       "basis": "强调心净则土净（自力倾向）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿弥陀佛是净土宗核心佛，西方极乐世界的教主。",
+     "source": "pri-amitabha"
+    },
+    {
+     "claim": "净土宗以信、愿、行为纲，称念佛号求生极乐。",
+     "source": "pri-amitabha"
+    }
+   ]
+  },
+  {
+   "id": "fig-kshitigarbha",
+   "title": "地藏菩萨",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "大乘佛教救度地狱众生的菩萨，以大愿著称。",
+   "related": [
+    "rel-buddhism",
+    "motif-underworld",
+    "fig-avalokiteshvara"
+   ],
+   "sources": [
+    "pri-kshitigarbha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 大乘经典文本层复杂，各宗派对同一菩萨的定位与经典依据不同；2) 跨文化形态（如观世音→Kannon/Avalokiteśvara）须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "地藏菩萨（Kṣitigarbha，'地藏'）是大乘佛教中以救度地狱与六道众生著称的菩萨，以'地狱不空，誓不成佛；众生度尽，方证菩提'的大愿闻名。《地藏十轮经》《地藏菩萨本愿经》是其经典依据；地藏常以剃发僧形、持锡杖与摩尼宝珠的形象出现，在日本旅行与护身信仰中亦广受崇奉（作为旅行者与儿童的保护神）。九华山是其汉传佛教道场。",
+   "versions": [
+    "地藏菩萨（Kṣitigarbha，'地藏'）是大乘佛教中以救度地狱与六道众生著称的菩萨，以'地狱不空，誓不成佛；众生度尽，方证菩提'的大愿闻名。《地藏十轮经》《地藏菩萨本愿经》是其经典依据；地藏常以剃发僧形、持锡杖与摩尼宝珠的形象出现，在日本旅行与护身信仰中亦广受崇奉（作为旅行者与儿童的保护神）。九华山是其汉传佛教道场。"
+   ],
+   "interpretations": [
+    {
+     "holder": "大乘经典传统",
+     "school": "教义渊源",
+     "view": "《地藏十轮经》《本愿经》是地藏信仰的依据。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "救度地狱的菩萨可作冥界救赎母题的参照。"
+    },
+    {
+     "holder": "现代佛教研究",
+     "school": "宗教学",
+     "view": "强调地藏信仰与孝道、冥界救度的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-kshitigarbha",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>地藏菩萨形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>地藏菩萨（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地狱救度</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大愿</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>僧形菩萨</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>锡杖宝珠</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>九华山</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>汉传道场</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地藏菩萨要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "地藏的大愿",
+     "views": [
+      {
+       "holder": "地狱救度说",
+       "basis": "核心是救拔地狱众生。"
+      },
+      {
+       "holder": "孝道说",
+       "basis": "《本愿经》强调救母的孝行。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "地藏菩萨以'地狱不空誓不成佛'的大愿著称。",
+     "source": "pri-kshitigarbha"
+    },
+    {
+     "claim": "地藏在日本也是旅行者与儿童的保护神。",
+     "source": "pri-kshitigarbha"
+    }
+   ]
   }
  ]
 }
