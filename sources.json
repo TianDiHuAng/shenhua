@@ -3574,6 +3574,84 @@
    "link_ok": true,
    "verified": true,
    "note": "鲁米（Rumi，1207–1273）是苏菲派诗人，《玛斯纳维》(Masnavi) 是苏菲文学经典；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ghazali",
+   "title": "安萨里文献（《圣学复苏》与《迷途指津》）",
+   "author": "阿尔-安萨里",
+   "year": null,
+   "year_display": "11世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Al-Ghazali",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "安萨里（al-Ghāzalī，1058–1111）是伊斯兰神学家、苏菲主义者，《圣学复苏》是其巨著；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ibn-arabi",
+   "title": "伊本·阿拉比文献（《麦加启示》与《存在的宝石》）",
+   "author": "伊本·阿拉比",
+   "year": null,
+   "year_display": "12–13世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ibn_Arabi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊本·阿拉比（Ibn ʿArabī，1165–1240）是苏菲形而上学家，'存在单一论'（wahdat al-wujud）思想的代表；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-avicenna",
+   "title": "伊本·西那文献（《医典》与《治疗论》）",
+   "author": "伊本·西那（阿维森纳）",
+   "year": null,
+   "year_display": "10–11世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Avicenna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊本·西那（Ibn Sīnā/Avicenna，980–1037）是伊斯兰黄金时代的哲学家与医学家，《医典》《治疗论》影响深远；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-farabi",
+   "title": "法拉比文献（《理想国》与《各民族之书》）",
+   "author": "阿尔-法拉比",
+   "year": null,
+   "year_display": "9–10世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Al-Farabi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "法拉比（al-Fārābī，约872–950）是伊斯兰新柏拉图主义哲学家，融合希腊哲学与伊斯兰思想；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ibn-khaldun",
+   "title": "伊本·赫勒敦文献（《历史绪论》）",
+   "author": "伊本·赫勒敦",
+   "year": null,
+   "year_display": "14世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ibn_Khaldun",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊本·赫勒敦（Ibn Khaldūn，1332–1406）是历史学家与社会科学先驱，《历史绪论》(Muqaddimah) 是社会学的早期经典；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-averroes",
+   "title": "伊本·鲁世德文献（《驳斥驳斥者》等）",
+   "author": "伊本·鲁世德（阿威罗伊）",
+   "year": null,
+   "year_display": "12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Averroes",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊本·鲁世德（Ibn Rushd/Averroes，1126–1198）是亚里士多德注释者与哲学家，其著作经拉丁译本影响经院哲学；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

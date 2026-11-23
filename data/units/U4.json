@@ -11633,6 +11633,450 @@
      "source": "pri-rumi"
     }
    ]
+  },
+  {
+   "id": "fig-al-ghazali",
+   "title": "安萨里",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "伊斯兰神学家与苏菲主义者，《圣学复苏》作者。",
+   "related": [
+    "rel-islam",
+    "rel-sufism",
+    "fig-rumi"
+   ],
+   "sources": [
+    "pri-ghazali",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊斯兰黄金时代思想家的著作跨哲学、神学与苏菲多个领域，具体理论有学术争论；2) 其思想与希腊哲学、基督教经院哲学的 transmission 关系须区分描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "安萨里（Abū Ḥāmid al-Ghāzalī，1058–1111）是伊斯兰黄金时代的神学家、法学家与苏菲主义者，被认为是伊斯兰思想中最重要的人物之一。其巨著《圣学复苏》(Iḥyāʾ ʿulūm al-dīn) 系统整合了法学、神学与苏菲灵修；《迷途指津》(Deliverance from Error) 记录其从理性主义到苏菲主义的思想转向。安萨里以对哲学（尤其伊本·西那式形而上学）的批判（如《哲学家的矛盾》）与对苏菲实践的肯定著称，被视为正统伊斯兰神学与苏菲主义的调和者。",
+   "versions": [
+    "安萨里（Abū Ḥāmid al-Ghāzalī，1058–1111）是伊斯兰黄金时代的神学家、法学家与苏菲主义者，被认为是伊斯兰思想中最重要的人物之一。其巨著《圣学复苏》(Iḥyāʾ ʿulūm al-dīn) 系统整合了法学、神学与苏菲灵修；《迷途指津》(Deliverance from Error) 记录其从理性主义到苏菲主义的思想转向。安萨里以对哲学（尤其伊本·西那式形而上学）的批判（如《哲学家的矛盾》）与对苏菲实践的肯定著称，被视为正统伊斯兰神学与苏菲主义的调和者。"
+   ],
+   "interpretations": [
+    {
+     "holder": "安萨里本人",
+     "school": "自述文本",
+     "view": "《迷途指津》是其思想转向的第一手记录。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "思想史",
+     "view": "强调安萨里对理性与启示关系的处理及其在伊斯兰思想中的转折意义。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把安萨里作为宗教内部'理性与灵性'张力分析的案例。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ghazali",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>安萨里形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>安萨里（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣学复苏</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>巨著</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苏菲转向</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>迷途指津</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>批判哲学</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>矛盾论</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>安萨里要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "安萨里与哲学",
+     "views": [
+      {
+       "holder": "反哲学说",
+       "basis": "其《矛盾论》标志哲学在伊斯兰世界的衰落。"
+      },
+      {
+       "holder": "批判继承说",
+       "basis": "他批判性地吸收了哲学方法，并非简单反理性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "安萨里是《圣学复苏》的作者，伊斯兰思想的重要人物。",
+     "source": "pri-ghazali"
+    },
+    {
+     "claim": "安萨里的《迷途指津》记录其从理性主义到苏菲主义的转向。",
+     "source": "pri-ghazali"
+    }
+   ]
+  },
+  {
+   "id": "fig-ibn-arabi",
+   "title": "伊本·阿拉比",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "苏菲形而上学家，'存在单一论'思想的代表。",
+   "related": [
+    "rel-sufism",
+    "rel-islam",
+    "fig-al-ghazali"
+   ],
+   "sources": [
+    "pri-ibn-arabi",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊斯兰黄金时代思想家的著作跨哲学、神学与苏菲多个领域，具体理论有学术争论；2) 其思想与希腊哲学、基督教经院哲学的 transmission 关系须区分描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "伊本·阿拉比（Muḥyī al-Dīn Ibn ʿArabī，1165–1240）是安达卢西亚出生的苏菲神秘主义者与形而上学家，被称为'最伟大的导师'(Shaykh al-Akbar)。其代表作《麦加启示》(Al-Futūḥāt al-Makkiyya) 与《存在的宝石》(Fuṣūṣ al-Ḥikam) 系统阐述了'存在单一论'(waḥdat al-wujūd)——认为宇宙万物是唯一神圣存在的不同显现，造物与主在存在论上合一。这一思想在伊斯兰神秘主义中影响深远，也引发正统神学家的争议。",
+   "versions": [
+    "伊本·阿拉比（Muḥyī al-Dīn Ibn ʿArabī，1165–1240）是安达卢西亚出生的苏菲神秘主义者与形而上学家，被称为'最伟大的导师'(Shaykh al-Akbar)。其代表作《麦加启示》(Al-Futūḥāt al-Makkiyya) 与《存在的宝石》(Fuṣūṣ al-Ḥikam) 系统阐述了'存在单一论'(waḥdat al-wujūd)——认为宇宙万物是唯一神圣存在的不同显现，造物与主在存在论上合一。这一思想在伊斯兰神秘主义中影响深远，也引发正统神学家的争议。"
+   ],
+   "interpretations": [
+    {
+     "holder": "伊本·阿拉比本人",
+     "school": "苏菲文本",
+     "view": "其著作是存在单一论的第一手阐述。"
+    },
+    {
+     "holder": "现代苏菲研究",
+     "school": "思想史",
+     "view": "强调其思想的复杂性与'存在单一论'的多种解读。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "神圣显现的层层结构可作现象学参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ibn-arabi",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊本·阿拉比形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊本·阿拉比（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>存在单一论</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>wahdat al-wujud</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>麦加启示</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>巨著</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>最伟大导师</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Shaykh al-Akbar</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊本·阿拉比要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "存在单一论的解释",
+     "views": [
+      {
+       "holder": "泛神论说",
+       "basis": "被批评为泛神论（与正统有张力）。"
+      },
+      {
+       "holder": "显现论说",
+       "basis": "强调是'存在的显现'而非简单等同。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊本·阿拉比是苏菲形而上学家，'存在单一论'的代表。",
+     "source": "pri-ibn-arabi"
+    },
+    {
+     "claim": "其《麦加启示》与《存在的宝石》是苏菲思想经典。",
+     "source": "pri-ibn-arabi"
+    }
+   ]
+  },
+  {
+   "id": "fig-ibn-sina",
+   "title": "伊本·西那（阿维森纳）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "伊斯兰黄金时代的哲学家与医学家，《医典》作者。",
+   "related": [
+    "rel-islam",
+    "fig-al-farabi",
+    "fig-al-ghazali"
+   ],
+   "sources": [
+    "pri-avicenna",
+    "aca-before-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊斯兰黄金时代思想家的著作跨哲学、神学与苏菲多个领域，具体理论有学术争论；2) 其思想与希腊哲学、基督教经院哲学的 transmission 关系须区分描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "伊本·西那（Abū ʿAlī ibn Sīnā/Avicenna，980–1037）是伊斯兰黄金时代最著名的哲学家与医学家之一：其哲学巨著《治疗论》(Kitāb al-Shifāʾ) 与医学百科《医典》(Al-Qānūn fī al-Ṭibb) 在中世纪伊斯兰与欧洲（经拉丁译本）影响深远，他被称为'医学王子'。伊本·西那融合亚里士多德主义与新柏拉图主义，提出'必然存在'(Necessary Existence) 的宇宙论论证（受安萨里批评），对后世经院哲学与医学教育影响巨大。",
+   "versions": [
+    "伊本·西那（Abū ʿAlī ibn Sīnā/Avicenna，980–1037）是伊斯兰黄金时代最著名的哲学家与医学家之一：其哲学巨著《治疗论》(Kitāb al-Shifāʾ) 与医学百科《医典》(Al-Qānūn fī al-Ṭibb) 在中世纪伊斯兰与欧洲（经拉丁译本）影响深远，他被称为'医学王子'。伊本·西那融合亚里士多德主义与新柏拉图主义，提出'必然存在'(Necessary Existence) 的宇宙论论证（受安萨里批评），对后世经院哲学与医学教育影响巨大。"
+   ],
+   "interpretations": [
+    {
+     "holder": "伊本·西那本人",
+     "school": "哲学文本",
+     "view": "《治疗论》《医典》是其思想的第一手材料。"
+    },
+    {
+     "holder": "现代哲学史",
+     "school": "思想史",
+     "view": "强调伊本·西那对亚里士多德主义的伊斯兰化重构及其对拉丁西方的影响。"
+    },
+    {
+     "holder": "Anselm 式论证对照",
+     "school": "比较哲学",
+     "view": "其'必然存在'论证与安瑟伦本体论论证可作对照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-avicenna",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊本·西那（阿维森纳）形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊本·西那（阿维森纳）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>医典</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>医学百科</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>治疗论</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>哲学巨著</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>必然存在</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙论论证</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊本·西那（阿维森纳）要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "伊本·西那的神学立场",
+     "views": [
+      {
+       "holder": "理性主义说",
+       "basis": "强调哲学理性可 independent 认识神。"
+      },
+      {
+       "holder": "正统冲突说",
+       "basis": "其理论被安萨里等批评为僭越。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊本·西那是《医典》的作者，被称为'医学王子'。",
+     "source": "pri-avicenna"
+    },
+    {
+     "claim": "伊本·西那的'必然存在'论证影响了后世哲学。",
+     "source": "pri-avicenna"
+    }
+   ]
+  },
+  {
+   "id": "fig-al-farabi",
+   "title": "法拉比",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "伊斯兰新柏拉图主义哲学家，融合希腊哲学与伊斯兰思想。",
+   "related": [
+    "rel-islam",
+    "fig-ibn-sina",
+    "myth-greek"
+   ],
+   "sources": [
+    "pri-farabi",
+    "aca-before-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊斯兰黄金时代思想家的著作跨哲学、神学与苏菲多个领域，具体理论有学术争论；2) 其思想与希腊哲学、基督教经院哲学的 transmission 关系须区分描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "法拉比（Abū Naṣr al-Fārābī，约872–950）是伊斯兰黄金时代的新柏拉图主义哲学家，被称为'伊斯兰哲学之父'（尽管早于他有 al-Kindī）。他系统注释并发展了柏拉图与亚里士多德哲学，代表作《理想国》( Opinions of the People of the Virtuous City ) 与《各宗教之书》将希腊政治哲学与伊斯兰的先知、伊玛目概念结合，提出'美德之城'(al-Madīna al-Fāḍila) 的理想政体（由兼具哲学与先知品质的统治者领导）。法拉比的思想深刻影响了伊本·西那等后辈。",
+   "versions": [
+    "法拉比（Abū Naṣr al-Fārābī，约872–950）是伊斯兰黄金时代的新柏拉图主义哲学家，被称为'伊斯兰哲学之父'（尽管早于他有 al-Kindī）。他系统注释并发展了柏拉图与亚里士多德哲学，代表作《理想国》( Opinions of the People of the Virtuous City ) 与《各宗教之书》将希腊政治哲学与伊斯兰的先知、伊玛目概念结合，提出'美德之城'(al-Madīna al-Fāḍila) 的理想政体（由兼具哲学与先知品质的统治者领导）。法拉比的思想深刻影响了伊本·西那等后辈。"
+   ],
+   "interpretations": [
+    {
+     "holder": "法拉比本人",
+     "school": "哲学文本",
+     "view": "《美德之城》是其政治哲学的代表作。"
+    },
+    {
+     "holder": "现代哲学史",
+     "school": "思想史",
+     "view": "强调法拉比作为希腊哲学向伊斯兰世界 transmission 的关键人物。"
+    },
+    {
+     "holder": "Leo Strauss",
+     "school": "政治哲学",
+     "view": "施特劳斯特别重视法拉比对柏拉图政治哲学的伊斯兰诠释。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-farabi",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>法拉比形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>法拉比（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>美德之城</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>理想政体</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>新柏拉图主义</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>哲学传统</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哲学之父</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伊斯兰哲学</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法拉比要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "法拉比的政治哲学",
+     "views": [
+      {
+       "holder": "柏拉图主义说",
+       "basis": "《理想国》是柏拉图政治哲学的伊斯兰版。"
+      },
+      {
+       "holder": "伊斯兰化说",
+       "basis": "先知—伊玛目概念是其独特贡献。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "法拉比是伊斯兰新柏拉图主义哲学家，被称为'伊斯兰哲学之父'。",
+     "source": "pri-farabi"
+    },
+    {
+     "claim": "法拉比的《美德之城》融合希腊政治哲学与伊斯兰概念。",
+     "source": "pri-farabi"
+    }
+   ]
+  },
+  {
+   "id": "fig-ibn-khaldun",
+   "title": "伊本·赫勒敦",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "历史学家与社会科学先驱，《历史绪论》作者。",
+   "related": [
+    "rel-islam",
+    "rel-shenism",
+    "motif-eschatology"
+   ],
+   "sources": [
+    "pri-ibn-khaldun",
+    "aca-protestant-ethic"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊斯兰黄金时代思想家的著作跨哲学、神学与苏菲多个领域，具体理论有学术争论；2) 其思想与希腊哲学、基督教经院哲学的 transmission 关系须区分描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "伊本·赫勒敦（ʿAbd al-Raḥmān ibn Khaldūn，1332–1406）是马格里布的历史学家、社会学家与政治家，其巨著《历史绪论》(Muqaddimah，1377) 被视为社会科学的早期经典：他提出'asabiyyah'（社群凝聚力/团契精神）概念解释王朝的兴起与衰落——游牧群体的强 asabiyyah 征服定居社会，随后奢侈与软化导致 asabiyyah 衰退、王朝被新群体取代（'王朝周期论'）。伊本·赫勒敦的方法强调社会现象的经验观察与因果分析，被后世（如 Toynbee、考古—社会学）推重。",
+   "versions": [
+    "伊本·赫勒敦（ʿAbd al-Raḥmān ibn Khaldūn，1332–1406）是马格里布的历史学家、社会学家与政治家，其巨著《历史绪论》(Muqaddimah，1377) 被视为社会科学的早期经典：他提出'asabiyyah'（社群凝聚力/团契精神）概念解释王朝的兴起与衰落——游牧群体的强 asabiyyah 征服定居社会，随后奢侈与软化导致 asabiyyah 衰退、王朝被新群体取代（'王朝周期论'）。伊本·赫勒敦的方法强调社会现象的经验观察与因果分析，被后世（如 Toynbee、考古—社会学）推重。"
+   ],
+   "interpretations": [
+    {
+     "holder": "伊本·赫勒敦本人",
+     "school": "历史文本",
+     "view": "《历史绪论》是其方法论的第一手阐述。"
+    },
+    {
+     "holder": "现代社会科学",
+     "school": "学术接受",
+     "view": "其 asabiyyah 与周期论被视为社会学的先驱思想。"
+    },
+    {
+     "holder": "Arnold J. Toynbee",
+     "school": "历史哲学",
+     "view": "汤因比等对其历史循环理论有评价与借鉴。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ibn-khaldun",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊本·赫勒敦形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊本·赫勒敦（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>asabiyyah</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>社群凝聚力</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王朝周期</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>兴起与衰落</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>历史绪论</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>社会学经典</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊本·赫勒敦要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "asabiyyah 的性质",
+     "views": [
+      {
+       "holder": "部落凝聚说",
+       "basis": "源于游牧部落血缘团结。"
+      },
+      {
+       "holder": "广义团结说",
+       "basis": "可泛化为任何群体的集体认同。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊本·赫勒敦是《历史绪论》的作者，社会科学的先驱。",
+     "source": "pri-ibn-khaldun"
+    },
+    {
+     "claim": "asabiyyah（社群凝聚力）是其历史理论的核心概念。",
+     "source": "pri-ibn-khaldun"
+    }
+   ]
+  },
+  {
+   "id": "fig-averroes",
+   "title": "伊本·鲁世德（阿威罗伊）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "亚里士多德注释者与哲学家，影响欧洲经院哲学。",
+   "related": [
+    "rel-islam",
+    "fig-ibn-sina",
+    "myth-greek"
+   ],
+   "sources": [
+    "pri-averroes",
+    "aca-before-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊斯兰黄金时代思想家的著作跨哲学、神学与苏菲多个领域，具体理论有学术争论；2) 其思想与希腊哲学、基督教经院哲学的 transmission 关系须区分描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "伊本·鲁世德（Abū al-Walīd ibn Rushd/Averroes，1126–1198）是安达卢西亚的哲学家、法学家与亚里士多德注释者，以对亚里士多德著作的系统注释（'大注释''中注释''短注释'）著称，这些注释经拉丁译本传入欧洲，深刻影响了13世纪经院哲学（如托马斯·阿奎那）。其代表作《驳斥驳斥者》(Tahāfut al-Tahāfut) 反驳安萨里对哲学的批判，主张哲学（理性）与启示（信仰）可并行不悖（'双重真理'说的争议性解读）。他在伊斯兰世界的影响后来式微，但在欧洲被视为亚里士多德主义的权威。",
+   "versions": [
+    "伊本·鲁世德（Abū al-Walīd ibn Rushd/Averroes，1126–1198）是安达卢西亚的哲学家、法学家与亚里士多德注释者，以对亚里士多德著作的系统注释（'大注释''中注释''短注释'）著称，这些注释经拉丁译本传入欧洲，深刻影响了13世纪经院哲学（如托马斯·阿奎那）。其代表作《驳斥驳斥者》(Tahāfut al-Tahāfut) 反驳安萨里对哲学的批判，主张哲学（理性）与启示（信仰）可并行不悖（'双重真理'说的争议性解读）。他在伊斯兰世界的影响后来式微，但在欧洲被视为亚里士多德主义的权威。"
+   ],
+   "interpretations": [
+    {
+     "holder": "伊本·鲁世德本人",
+     "school": "哲学文本",
+     "view": "《驳斥驳斥者》是对安萨里批判的回应。"
+    },
+    {
+     "holder": "现代哲学史",
+     "school": "思想史",
+     "view": "强调其亚里士多德注释对拉丁经院哲学的 transmission。"
+    },
+    {
+     "holder": "Ernst Renan",
+     "school": "近代研究",
+     "view": "勒南等近代学者重新评价阿威罗伊主义与世俗理性传统。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-averroes",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊本·鲁世德（阿威罗伊）形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊本·鲁世德（阿威罗伊）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚里士多德注释</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>权威注释者</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>驳斥驳斥者</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>反安萨里</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>双重真理</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>争议性解读</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊本·鲁世德（阿威罗伊）要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿威罗伊主义",
+     "views": [
+      {
+       "holder": "双重真理说",
+       "basis": "哲学与信仰各有真理（后世的解读）。"
+      },
+      {
+       "holder": "注释者说",
+       "basis": "他主要是亚里士多德的注疏者而非原创哲学家。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊本·鲁世德以亚里士多德注释著称，影响欧洲经院哲学。",
+     "source": "pri-averroes"
+    },
+    {
+     "claim": "《驳斥驳斥者》是其反驳安萨里的重要文本。",
+     "source": "pri-averroes"
+    }
+   ]
   }
  ]
 }
