@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 284,
-    "total": 398,
+    "supplement_l2": 290,
+    "total": 404,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/398）；补充层 284 条 L2；来源 327 条"
+    "verdict": "核心与重要层 100% L3（114/404）；补充层 290 条 L2；来源 333 条"
   },
   "round_log": [
     {
@@ -992,6 +992,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次41：新增6自然物象母题（火/水/牛/马/蛇/鸟）平衡U3单元；6来源核验；修复scope行3列→6列格式问题；398条0 errors",
       "verdict": "正常扩充（批次41，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-84",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网来源核验",
+        "scope6列格式"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次42：新增6文化母题（狩猎/农业/金属锻造/编织与命运/镜/圣山）继续平衡U3（48→54）；6来源核验；遵循D15补充6列格式规则；404条0 errors",
+      "verdict": "正常扩充（批次42，6条）"
     }
   ]
 }

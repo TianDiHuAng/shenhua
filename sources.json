@@ -4250,6 +4250,84 @@
    "link_ok": true,
    "verified": true,
    "note": "作为鸟母题的一般背景来源（含文化·象征层面），2026-11-23 经 Wikipedia API 实测专条存在；Bird in mythology 专条缺失。"
+  },
+  {
+   "id": "enc-wiki-hunting",
+   "title": "Wikipedia: Hunting",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Hunting",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为狩猎母题的一般背景来源（含文化·仪式层面），2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-agriculture",
+   "title": "Wikipedia: Agriculture",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Agriculture",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为农业母题的一般背景来源（含文化·神话层面），2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-metallurgy",
+   "title": "Wikipedia: Metallurgy",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Metallurgy",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为金属锻造母题的一般背景来源（含文化·神话层面），2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-weaving",
+   "title": "Wikipedia: Weaving",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Weaving",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为编织母题的一般背景来源（含文化·象征层面），2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-mirror",
+   "title": "Wikipedia: Mirror",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Mirror",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为镜母题的一般背景来源（含文化·象征层面），2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-mountain",
+   "title": "Wikipedia: Mountain",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Mountain",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为山母题的一般背景来源（含文化·宗教层面），2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

@@ -4133,6 +4133,450 @@
      "source": "enc-wiki-bird"
     }
    ]
+  },
+  {
+   "id": "motif-hunt",
+   "title": "狩猎",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "狩猎作为英雄试炼、文化英雄技艺与神圣仪式的母题。",
+   "related": [
+    "motif-culturehero",
+    "myth-greek",
+    "myth-lakota"
+   ],
+   "sources": [
+    "enc-wiki-hunting",
+    "aca-golden-bough"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文化母题跨文化分布广，本条作母题层面通述；2) 各传统的具体神祇与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "狩猎在神话中是英雄与文化英雄的重要技艺：希腊的俄里翁、阿塔兰忒，两河的宁努尔塔与伊什塔尔，美洲原住民的猎手神话，常以狩猎展现英雄的力量、机智与命运。狩猎也常与仪式结合（如阿尔忒弥斯/狄安娜的狩猎女神崇拜、萨满的灵界狩猎、因纽特的狩猎仪式），体现人与动物、自然之间的神圣关系。'神圣狩猎'与'黄金时代猎手'等母题在神话学中有广泛讨论。",
+   "versions": [
+    "狩猎在神话中是英雄与文化英雄的重要技艺：希腊的俄里翁、阿塔兰忒，两河的宁努尔塔与伊什塔尔，美洲原住民的猎手神话，常以狩猎展现英雄的力量、机智与命运。狩猎也常与仪式结合（如阿尔忒弥斯/狄安娜的狩猎女神崇拜、萨满的灵界狩猎、因纽特的狩猎仪式），体现人与动物、自然之间的神圣关系。'神圣狩猎'与'黄金时代猎手'等母题在神话学中有广泛讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "《金枝》中狩猎与图腾、季候仪式相关联。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《萨满教》中灵界狩猎与出神旅程相关。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "狩猎常是英雄旅程中的试炼环节。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-hunting",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>狩猎母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>狩猎（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>英雄猎手</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>俄里翁/宁努尔塔</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>狩猎女神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿尔忒弥斯</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>灵界狩猎</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>萨满仪式</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "狩猎的意义",
+     "views": [
+      {
+       "holder": "生存技艺说",
+       "basis": "狩猎叙事反映生存实践。"
+      },
+      {
+       "holder": "仪式象征说",
+       "basis": "狩猎是通往神圣的仪式行为。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "狩猎在神话中常作为英雄试炼与文化技艺呈现。",
+     "source": "enc-wiki-hunting"
+    },
+    {
+     "claim": "狩猎女神与神圣狩猎仪式广泛分布。",
+     "source": "enc-wiki-hunting"
+    }
+   ]
+  },
+  {
+   "id": "motif-agriculture",
+   "title": "农业",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "农业作为文明奠基、季节循环与丰饶崇拜的母题。",
+   "related": [
+    "motif-dying-rising",
+    "motif-sacrifice",
+    "myth-greek"
+   ],
+   "sources": [
+    "enc-wiki-agriculture",
+    "aca-eternal-return"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文化母题跨文化分布广，本条作母题层面通述；2) 各传统的具体神祇与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "农业母题在神话中体现为文明的奠基（如农耕神的赐予、从采集到耕种的转变）、季节循环（播种—生长—收获—死亡—再生的年度周期）与丰饶崇拜（如谷物女神德墨忒尔/刻瑞斯、suicide 的 Attis/Osiris 等 dying-and-rising 神祇）。许多创世神话以'从混沌/水中取土耕种'为意象，农业节庆（如收获祭、犁礼）在世界各地广泛存在，并与历法、王权合法性紧密相连。",
+   "versions": [
+    "农业母题在神话中体现为文明的奠基（如农耕神的赐予、从采集到耕种的转变）、季节循环（播种—生长—收获—死亡—再生的年度周期）与丰饶崇拜（如谷物女神德墨忒尔/刻瑞斯、suicide 的 Attis/Osiris 等 dying-and-rising 神祇）。许多创世神话以'从混沌/水中取土耕种'为意象，农业节庆（如收获祭、犁礼）在世界各地广泛存在，并与历法、王权合法性紧密相连。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中农业周期与创世的仪式性重演相关。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "《金枝》把农业季候与 dying-and-rising 神祇仪式关联。"
+    },
+    {
+     "holder": "比较神话学",
+     "school": "宗教学",
+     "view": "农耕文明的神话普遍包含季节循环母题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-agriculture",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>农业母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>农业（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>农耕文明</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文明奠基</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>季节循环</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>生死再生</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>谷物女神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>德墨忒尔</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "农业的起源",
+     "views": [
+      {
+       "holder": "神赐说",
+       "basis": "农耕是神祇的恩赐。"
+      },
+      {
+       "holder": "文化进化说",
+       "basis": "神话反映从采集到农耕的历史转变。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "农业母题体现文明奠基与季节循环。",
+     "source": "enc-wiki-agriculture"
+    },
+    {
+     "claim": "农业节庆与创世的重演在世界各地广泛存在。",
+     "source": "enc-wiki-agriculture"
+    }
+   ]
+  },
+  {
+   "id": "motif-metal",
+   "title": "金属与锻造",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "金属锻造作为神圣技艺、武器来源与文明进步的母题。",
+   "related": [
+    "fig-hephaestus",
+    "motif-divine-weapon",
+    "myth-norse"
+   ],
+   "sources": [
+    "enc-wiki-metallurgy",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文化母题跨文化分布广，本条作母题层面通述；2) 各传统的具体神祇与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "金属与锻造在神话中常与神匠相关：希腊的赫菲斯托斯（Hephaestus）与独眼巨人锻造 Zeus 的雷霆与英雄武器，北欧的侏儒锻造妙尔尼尔（雷神之锤）与冈格尼尔，印欧传统中的工匠神（如 Vulcan）。锻造既是文明技术进步的象征（从石器到金属），也常与火、地下（矿脉）和神秘知识相关联。'黄金时代'到'金属时代'的退化叙事（如赫西俄德的五时代说）也以金属命名时代。",
+   "versions": [
+    "金属与锻造在神话中常与神匠相关：希腊的赫菲斯托斯（Hephaestus）与独眼巨人锻造 Zeus 的雷霆与英雄武器，北欧的侏儒锻造妙尔尼尔（雷神之锤）与冈格尼尔，印欧传统中的工匠神（如 Vulcan）。锻造既是文明技术进步的象征（从石器到金属），也常与火、地下（矿脉）和神秘知识相关联。'黄金时代'到'金属时代'的退化叙事（如赫西俄德的五时代说）也以金属命名时代。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "工匠神在印欧神谱中有特定功能位置。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中冶金术被视为神圣技艺与宇宙论的隐喻。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "神匠锻造的武器常是英雄旅程的'超自然援助'。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-metallurgy",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>金属与锻造母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>金属与锻造（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神匠</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>赫菲斯托斯/侏儒</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>锻造武器</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>妙尔尼尔</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>金属时代</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>五时代说</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "锻造的性质",
+     "views": [
+      {
+       "holder": "文明技艺说",
+       "basis": "锻造代表技术进步。"
+      },
+      {
+       "holder": "神圣知识说",
+       "basis": "锻造是源自神界的神秘技艺。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "金属锻造在神话中常与神匠和武器来源相关。",
+     "source": "enc-wiki-metallurgy"
+    },
+    {
+     "claim": "赫西俄德以金属命名历史时代（黄金/白银/青铜/铁）。",
+     "source": "enc-wiki-metallurgy"
+    }
+   ]
+  },
+  {
+   "id": "motif-weaving",
+   "title": "编织与命运",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "编织作为命运织造、宇宙秩序与女性技艺的母题。",
+   "related": [
+    "fig-neith",
+    "motif-worldtree",
+    "motif-creation"
+   ],
+   "sources": [
+    "enc-wiki-weaving",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文化母题跨文化分布广，本条作母题层面通述；2) 各传统的具体神祇与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "编织在世界神话中是命运与宇宙秩序的常见隐喻：希腊神话中命运三女神（Moirai）纺织、丈量与剪断生命之线；北欧的诺恩斯（Norns）在世界树下编织命运；印度与佛教中'业'的因果常被比作织造；埃及奈特（Neith）以织造创世。编织也象征女性技艺与家庭秩序（如珀涅罗珀的织物），并与'宇宙之网''因陀罗之网'等哲学意象相关联。织与拆的对比常被用来表达创造与毁灭。",
+   "versions": [
+    "编织在世界神话中是命运与宇宙秩序的常见隐喻：希腊神话中命运三女神（Moirai）纺织、丈量与剪断生命之线；北欧的诺恩斯（Norns）在世界树下编织命运；印度与佛教中'业'的因果常被比作织造；埃及奈特（Neith）以织造创世。编织也象征女性技艺与家庭秩序（如珀涅罗珀的织物），并与'宇宙之网''因陀罗之网'等哲学意象相关联。织与拆的对比常被用来表达创造与毁灭。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "编织与纺织是宇宙秩序与命运的象征。"
+    },
+    {
+     "holder": "比较神话学",
+     "school": "宗教学",
+     "view": "命运女神的编织母题广泛分布（希腊/北欧/斯拉夫）。"
+    },
+    {
+     "holder": "现代女性主义研究",
+     "school": "性别研究",
+     "view": "编织母题常被重读为女性劳动与知识的象征。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-weaving",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>编织与命运母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>编织与命运（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>命运三女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Moirai/Norns</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>织造创世</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>奈特</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙之网</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>因陀罗之网</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "编织的象征",
+     "views": [
+      {
+       "holder": "命运支配说",
+       "basis": "编织象征命运对生命的掌控。"
+      },
+      {
+       "holder": "秩序建构说",
+       "basis": "编织象征宇宙秩序的主动建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "编织在世界神话中常作为命运与宇宙秩序的隐喻。",
+     "source": "enc-wiki-weaving"
+    },
+    {
+     "claim": "命运女神的编织母题见于希腊、北欧等多个传统。",
+     "source": "enc-wiki-weaving"
+    }
+   ]
+  },
+  {
+   "id": "motif-mirror",
+   "title": "镜",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "镜作为自我认知、真相与灵魂容器的母题。",
+   "related": [
+    "motif-shapeshifting",
+    "rel-zen",
+    "myth-greek"
+   ],
+   "sources": [
+    "enc-wiki-mirror",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文化母题跨文化分布广，本条作母题层面通述；2) 各传统的具体神祇与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "镜在神话与宗教中象征自我认知、真实与虚幻的辨明：希腊神话中纳西索斯（Narcissus）迷恋水中倒影、珀耳修斯借抛光盾牌（镜面）斩美杜莎（避免直视）；中国道教的'明镜'象征心的澄明（如《庄子》'至人之用心若镜'）；佛教以镜喻心（'心如明镜台'），禅宗六祖慧能的'本来无一物'偈即针对神秀的'心如明镜'偈。镜也用作灵魂容器（如埃及的'镜'与生命符号 ankh 相关）与占卜工具（如水晶球），并常与女性、虚荣、魔幻（如白雪公主的魔镜）相关联。",
+   "versions": [
+    "镜在神话与宗教中象征自我认知、真实与虚幻的辨明：希腊神话中纳西索斯（Narcissus）迷恋水中倒影、珀耳修斯借抛光盾牌（镜面）斩美杜莎（避免直视）；中国道教的'明镜'象征心的澄明（如《庄子》'至人之用心若镜'）；佛教以镜喻心（'心如明镜台'），禅宗六祖慧能的'本来无一物'偈即针对神秀的'心如明镜'偈。镜也用作灵魂容器（如埃及的'镜'与生命符号 ankh 相关）与占卜工具（如水晶球），并常与女性、虚荣、魔幻（如白雪公主的魔镜）相关联。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "镜作为神圣显现与自我认知的象征。"
+    },
+    {
+     "holder": "比较文学",
+     "school": "文化研究",
+     "view": "镜与倒影是自恋、真伪辨析的文学母题。"
+    },
+    {
+     "holder": "佛教研究",
+     "school": "宗教学",
+     "view": "镜喻是心性论的重要比喻（神秀/慧能偈）。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-mirror",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>镜母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>镜（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>自我认知</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>纳西索斯</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>真相辨析</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>珀耳修斯盾</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>心如明镜</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>禅宗喻</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "镜的象征",
+     "views": [
+      {
+       "holder": "真实反映说",
+       "basis": "镜象征如实的自我认知。"
+      },
+      {
+       "holder": "虚幻迷惑说",
+       "basis": "镜也象征表象与迷惑（如水中月）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "镜在神话中象征自我认知与真相辨析。",
+     "source": "enc-wiki-mirror"
+    },
+    {
+     "claim": "佛教与道教以镜喻心性的澄明。",
+     "source": "enc-wiki-mirror"
+    }
+   ]
+  },
+  {
+   "id": "motif-mountain",
+   "title": "圣山",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "山作为宇宙轴、神圣居所与修行圣地的母题。",
+   "related": [
+    "motif-axis-mundi",
+    "motif-worldtree",
+    "motif-paradise"
+   ],
+   "sources": [
+    "enc-wiki-mountain",
+    "aca-sacred-profane"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 文化母题跨文化分布广，本条作母题层面通述；2) 各传统的具体神祇与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "山在世界宗教中是神圣空间的核心象征：它连接天与地（宇宙轴 axis mundi），是神灵的居所（如希腊奥林匹斯山、印度须弥山、中国昆仑与泰山、日本富士山、犹太教西奈山），也是先知与修行者遇见神/觉悟的场所（摩西在西奈山领受十诫、佛陀在灵山、耶稣在山上宝训）。圣山常设为朝圣地，其'中心'地位体现了'宇宙中心'的原型意象（Eliade 的'中心象征'）。",
+   "versions": [
+    "山在世界宗教中是神圣空间的核心象征：它连接天与地（宇宙轴 axis mundi），是神灵的居所（如希腊奥林匹斯山、印度须弥山、中国昆仑与泰山、日本富士山、犹太教西奈山），也是先知与修行者遇见神/觉悟的场所（摩西在西奈山领受十诫、佛陀在灵山、耶稣在山上宝训）。圣山常设为朝圣地，其'中心'地位体现了'宇宙中心'的原型意象（Eliade 的'中心象征'）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》与《神圣与世俗》中圣山是宇宙轴与'中心'的典型象征。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "圣山作为神灵居所与朝圣地广泛分布。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "山常是英雄旅程中的'世界中心'或试炼之地。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-mountain",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>圣山母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>圣山（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙轴</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>奥林匹斯/须弥</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神圣居所</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神灵之山</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>修行圣地</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>西奈/富士</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "山的神圣性",
+     "views": [
+      {
+       "holder": "宇宙中心说",
+       "basis": "山是天地连接的轴心。"
+      },
+      {
+       "holder": "启示场所说",
+       "basis": "山是神人相遇的地点。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "圣山在世界中常作为宇宙轴与神灵居所。",
+     "source": "enc-wiki-mountain"
+    },
+    {
+     "claim": "西奈山、须弥山、富士山等是重要的圣山。",
+     "source": "enc-wiki-mountain"
+    }
+   ]
   }
  ]
 }

@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T17:59:52+08:00",
+  "generated": "2026-11-23T18:06:36+08:00",
   "summary": {
-    "total": 398,
+    "total": 404,
     "by_unit": {
       "U1": 90,
       "U2": 75,
-      "U3": 48,
+      "U3": 54,
       "U4": 185
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 284
+      "补充": 290
     },
     "by_level": {
       "L1": 0,
-      "L2": 284,
+      "L2": 290,
       "L3": 114
     },
-    "l2_done": 398,
+    "l2_done": 404,
     "l3_done": 114,
-    "verified_sources": 281
+    "verified_sources": 287
   },
   "entries": [
     {
@@ -2358,6 +2358,72 @@
     {
       "id": "motif-bird",
       "name": "鸟",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-hunt",
+      "name": "狩猎",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-agriculture",
+      "name": "农业",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-metal",
+      "name": "金属与锻造",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-weaving",
+      "name": "编织与命运",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-mirror",
+      "name": "镜",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-mountain",
+      "name": "圣山",
       "unit": "U3",
       "tier": "补充",
       "level": "L2",
