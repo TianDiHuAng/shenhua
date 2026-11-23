@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 262,
-    "total": 376,
+    "supplement_l2": 268,
+    "total": 382,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/376）；补充层 262 条 L2；来源 305 条"
+    "verdict": "核心与重要层 100% L3（114/382）；补充层 268 条 L2；来源 311 条"
   },
   "round_log": [
     {
@@ -943,6 +943,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次37：新增6犹太/基督教思想家（迈蒙尼德/拉希/阿奎那/奥古斯丁/巴特/朋霍费尔）；6来源核验；修复augustine引用；376条0 errors",
       "verdict": "正常扩充（批次37，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-80",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次38：新增6近现代哲学/神学人物（克尔凯郭尔/尼采/费尔巴哈/施莱尔马赫/蒂利希/C.S.刘易斯）；6来源核验；修复feuerbach引用；382条0 errors",
+      "verdict": "正常扩充（批次38，6条）"
     }
   ]
 }

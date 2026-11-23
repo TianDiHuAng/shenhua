@@ -3964,6 +3964,84 @@
    "link_ok": true,
    "verified": true,
    "note": "朋霍费尔（Dietrich Bonhoeffer，1906–1945）是德国路德宗牧师与神学家，因反抗纳粹被处决，《狱中书简》影响深远；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-kierkegaard",
+   "title": "克尔凯郭尔著作（《恐惧与战栗》《致死的疾病》）",
+   "author": "索伦·克尔凯郭尔",
+   "year": null,
+   "year_display": "19世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "克尔凯郭尔（1813–1855）是丹麦存在主义哲学家与宗教思想家，被称为'存在主义之父'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nietzsche",
+   "title": "尼采著作（《查拉图斯特拉如是说》《善恶的彼岸》）",
+   "author": "弗里德里希·尼采",
+   "year": null,
+   "year_display": "19世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "尼采（1844–1900）是德国哲学家，以'上帝已死''权力意志''超人'等思想著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-feuerbach",
+   "title": "费尔巴哈著作（《基督教的本质》）",
+   "author": "路德维希·费尔巴哈",
+   "year": null,
+   "year_display": "19世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ludwig_Feuerbach",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "费尔巴哈（1804–1872）是德国唯物主义哲学家，《基督教的本质》提出'宗教是人的本质的异化'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-schleiermacher",
+   "title": "施莱尔马赫著作（《论宗教》）",
+   "author": "弗里德里希·施莱尔马赫",
+   "year": null,
+   "year_display": "18–19世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Friedrich_Schleiermacher",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "施莱尔马赫（1768–1834）是德国新教神学家与诠释学家，被称为'现代新教神学之父'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tillich",
+   "title": "蒂利希著作（《存在的勇气》《系统神学》）",
+   "author": "保罗·蒂利希",
+   "year": null,
+   "year_display": "20世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Paul_Tillich",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "蒂利希（Paul Tillich，1886–1965）是德裔美籍新教神学家与哲学家，以'终极关怀''存在的勇气'著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-cs-lewis",
+   "title": "C.S.刘易斯著作（《返璞归真》《纳尼亚传奇》）",
+   "author": "C. S. Lewis",
+   "year": null,
+   "year_display": "20世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/C._S._Lewis",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "C.S.刘易斯（1898–1963）是英国作家与基督教护教者，《返璞归真》(Mere Christianity) 是著名护教作品；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
