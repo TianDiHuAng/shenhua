@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 290,
-    "total": 404,
+    "supplement_l2": 296,
+    "total": 410,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/404）；补充层 290 条 L2；来源 333 条"
+    "verdict": "核心与重要层 100% L3（114/410）；补充层 296 条 L2；来源 339 条"
   },
   "round_log": [
     {
@@ -1004,6 +1004,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次42：新增6文化母题（狩猎/农业/金属锻造/编织与命运/镜/圣山）继续平衡U3（48→54）；6来源核验；遵循D15补充6列格式规则；404条0 errors",
       "verdict": "正常扩充（批次42，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-85",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网来源核验",
+        "scope6列格式"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次43：新增6仪式母题（成年礼/朝圣/斋戒/安息与神圣时间/面具/祈祷）继续平衡U3（54→60）；6来源核验；修复2处myth-aboriginal→myth-australian引用；410条0 errors",
+      "verdict": "正常扩充（批次43，6条）"
     }
   ]
 }

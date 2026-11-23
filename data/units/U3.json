@@ -4577,6 +4577,450 @@
      "source": "enc-wiki-mountain"
     }
    ]
+  },
+  {
+   "id": "motif-initiation",
+   "title": "成年礼与入会仪式",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "以仪式标记身份转变与社群接纳的跨文化母题。",
+   "related": [
+    "motif-herojourney",
+    "rel-christianity",
+    "myth-australian"
+   ],
+   "sources": [
+    "enc-wiki-initiation",
+    "aca-golden-bough"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "成年礼/入会仪式（initiation）是通过象征性的苦难、隔离、传授秘密与重返社群，把个体从一种身份转变为另一种身份的仪式（如儿童→成人、外人→成员）。范·盖内普（Van Gennep）的'过渡仪式'理论（分离—阈限—融入三阶段）与特纳（Victor Turner）的'阈限/交融'概念是经典分析框架（其著作未录入来源库）。实例包括澳大利亚原住民的成人礼、非洲秘密社团入会、犹太教 bar mitzvah、基督教洗礼与坚振、共济会入会等。神话中常以'英雄的试炼/死亡—重生'叙事映照入会结构。",
+   "versions": [
+    "成年礼/入会仪式（initiation）是通过象征性的苦难、隔离、传授秘密与重返社群，把个体从一种身份转变为另一种身份的仪式（如儿童→成人、外人→成员）。范·盖内普（Van Gennep）的'过渡仪式'理论（分离—阈限—融入三阶段）与特纳（Victor Turner）的'阈限/交融'概念是经典分析框架（其著作未录入来源库）。实例包括澳大利亚原住民的成人礼、非洲秘密社团入会、犹太教 bar mitzvah、基督教洗礼与坚振、共济会入会等。神话中常以'英雄的试炼/死亡—重生'叙事映照入会结构。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Arnold van Gennep",
+     "school": "民俗学",
+     "view": "《过渡仪式》提出分离—阈限—融入三阶段模型。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Victor Turner",
+     "school": "人类学",
+     "view": "以'阈限'(liminality) 与'交融'(communitas) 理论分析入会仪式。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》把入会读作宇宙论层面的死亡—重演。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-initiation",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>成年礼与入会仪式母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>成年礼与入会仪式（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三阶段</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>分离阈限融入</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阈限</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>身份悬置</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>试炼</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>死亡重生象征</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "入会的性质",
+     "views": [
+      {
+       "holder": "社会整合说",
+       "basis": "入会强化社群身份与秩序。"
+      },
+      {
+       "holder": "宇宙转化说",
+       "basis": "入会象征存在状态的根本转变。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "成年礼通过仪式实现身份转变与社群接纳。",
+     "source": "enc-wiki-initiation"
+    },
+    {
+     "claim": "范·盖内普的三阶段模型是过渡仪式的经典框架。",
+     "source": "enc-wiki-initiation"
+    }
+   ]
+  },
+  {
+   "id": "motif-pilgrimage",
+   "title": "朝圣",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "前往圣地的宗教旅行母题，象征净化、求恩与身份归属。",
+   "related": [
+    "motif-axis-mundi",
+    "rel-islam",
+    "motif-mountain"
+   ],
+   "sources": [
+    "enc-wiki-pilgrimage",
+    "aca-sacred-profane"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "朝圣（pilgrimage）是信徒前往被视为神圣的地点（圣山、圣城、圣墓、圣泉）的宗教旅行，其意义包括：悔罪与净化、祈求恩典或治愈、履行宗教义务（如伊斯兰教麦加朝觐 Hajj）、强化社群身份（如犹太教的'三大朝圣节'、印度教 Kumbh Mela、基督教罗马/耶路撒冷朝圣、佛教四大圣地朝礼）。朝圣路途本身常被视为修行与转化的过程（如西班牙圣雅各之路、日本四国八十八所），圣地构成'宇宙中心'的空间象征。",
+   "versions": [
+    "朝圣（pilgrimage）是信徒前往被视为神圣的地点（圣山、圣城、圣墓、圣泉）的宗教旅行，其意义包括：悔罪与净化、祈求恩典或治愈、履行宗教义务（如伊斯兰教麦加朝觐 Hajj）、强化社群身份（如犹太教的'三大朝圣节'、印度教 Kumbh Mela、基督教罗马/耶路撒冷朝圣、佛教四大圣地朝礼）。朝圣路途本身常被视为修行与转化的过程（如西班牙圣雅各之路、日本四国八十八所），圣地构成'宇宙中心'的空间象征。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "朝圣中心是'宇宙轴'与'中心象征'的空间表现。"
+    },
+    {
+     "holder": "Victor Turner",
+     "school": "人类学",
+     "view": "把朝圣视为'阈限'旅程与'交融'共同体的形成。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "朝圣在各大宗教中普遍存在，兼具义务与自愿两种形态。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-pilgrimage",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>朝圣母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>朝圣（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣地</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙中心</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>旅程</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阈限转化</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>义务</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Hajj等</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "朝圣的意义",
+     "views": [
+      {
+       "holder": "净化求恩说",
+       "basis": "以获得精神利益为目的。"
+      },
+      {
+       "holder": "身份建构说",
+       "basis": "强化宗教共同体归属。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "朝圣是前往圣地的宗教旅行，兼具净化与身份意义。",
+     "source": "enc-wiki-pilgrimage"
+    },
+    {
+     "claim": "麦加朝觐是伊斯兰教的重要宗教义务。",
+     "source": "enc-wiki-pilgrimage"
+    }
+   ]
+  },
+  {
+   "id": "motif-fasting",
+   "title": "斋戒",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "禁食作为净化、悔罪与灵修的跨文化母题。",
+   "related": [
+    "motif-sacrifice",
+    "rel-islam",
+    "rel-judaism"
+   ],
+   "sources": [
+    "enc-wiki-fasting",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "斋戒（fasting）是在特定时期禁食或节制的宗教实践，其意义包括：悔罪与净化（如犹太教赎罪日 Yom Kippur、基督教大斋期 Lent）、灵修与警醒（如佛教比丘过午不食、印度教的 ekadashi）、纪念与身份边界（如伊斯兰教斋月 Ramadan、摩尼教与琐罗亚斯德教的斋戒）。斋戒常与祈祷、施舍、守夜等配合，被视为身体与灵性秩序的重建（'空'出空间以容纳神圣）。在神话中，英雄或先知常以斋戒/禁食作为获得启示或力量的预备（如摩西、以利亚、耶稣的旷野禁食）。",
+   "versions": [
+    "斋戒（fasting）是在特定时期禁食或节制的宗教实践，其意义包括：悔罪与净化（如犹太教赎罪日 Yom Kippur、基督教大斋期 Lent）、灵修与警醒（如佛教比丘过午不食、印度教的 ekadashi）、纪念与身份边界（如伊斯兰教斋月 Ramadan、摩尼教与琐罗亚斯德教的斋戒）。斋戒常与祈祷、施舍、守夜等配合，被视为身体与灵性秩序的重建（'空'出空间以容纳神圣）。在神话中，英雄或先知常以斋戒/禁食作为获得启示或力量的预备（如摩西、以利亚、耶稣的旷野禁食）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "节食与禁食是仪式性'回归原初'与净化的一部分。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "斋戒在各大宗教中常与悔罪、启示和身份边界相关。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "禁食与季候仪式、神圣时间的隔离相关。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-fasting",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>斋戒母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>斋戒（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>净化悔罪</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>赎罪日/大斋期</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>灵修启示</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>旷野禁食</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>身份边界</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>斋月</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "斋戒的意义",
+     "views": [
+      {
+       "holder": "净化说",
+       "basis": "以身体节制换取灵性净化。"
+      },
+      {
+       "holder": "纪念说",
+       "basis": "以禁食纪念神圣事件或强化身份。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "斋戒在宗教中常象征净化、悔罪与灵修。",
+     "source": "enc-wiki-fasting"
+    },
+    {
+     "claim": "伊斯兰斋月与犹太赎罪日是重要的斋戒实践。",
+     "source": "enc-wiki-fasting"
+    }
+   ]
+  },
+  {
+   "id": "motif-sabbath",
+   "title": "安息与神圣时间",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "以周期性神圣时间（安息日/节期）标记宇宙秩序与神圣临在的母题。",
+   "related": [
+    "motif-eternal-return",
+    "rel-judaism",
+    "motif-creation"
+   ],
+   "sources": [
+    "enc-wiki-sabbath",
+    "aca-eternal-return"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "安息日/神圣时间母题指以固定的周期（七日、月相、季节性节期）划出与日常时间不同的'神圣时间'：犹太教安息日（Shabbat，从周五日落到周六日落，禁止工作，象征造物主第七日的安息与救赎）、基督教的主日、伊斯兰教的聚礼日（Jumu'ah），以及各种季节节庆（如逾越节、圣诞节、排灯节）。神圣时间常被视为'永恒回归'的仪式性重演——通过重复神话中的创世/救赎事件，使社群重新进入神圣秩序（Eliade 的理论）。",
+   "versions": [
+    "安息日/神圣时间母题指以固定的周期（七日、月相、季节性节期）划出与日常时间不同的'神圣时间'：犹太教安息日（Shabbat，从周五日落到周六日落，禁止工作，象征造物主第七日的安息与救赎）、基督教的主日、伊斯兰教的聚礼日（Jumu'ah），以及各种季节节庆（如逾越节、圣诞节、排灯节）。神圣时间常被视为'永恒回归'的仪式性重演——通过重复神话中的创世/救赎事件，使社群重新进入神圣秩序（Eliade 的理论）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中节庆是对创世的神圣时间重演。"
+    },
+    {
+     "holder": "犹太教传统",
+     "school": "宗教实践",
+     "view": "安息日记念创世第七日与出埃及的救赎。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "神圣时间以周期性 interrupt 日常时间，建立宇宙秩序。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-sabbath",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>安息与神圣时间母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>安息与神圣时间（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>安息日</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Shabbat</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>周期重演</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>永恒回归</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>节期</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>逾越节/Christmas</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "安息的性质",
+     "views": [
+      {
+       "holder": "休息说",
+       "basis": "安息是停止劳作的休整。"
+      },
+      {
+       "holder": "神圣临在说",
+       "basis": "安息是进入神圣时间的方式。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "安息日以周期性神圣时间标记宇宙秩序。",
+     "source": "enc-wiki-sabbath"
+    },
+    {
+     "claim": "节庆被视为对创世/救赎事件的仪式性重演。",
+     "source": "enc-wiki-sabbath"
+    }
+   ]
+  },
+  {
+   "id": "motif-masks",
+   "title": "面具与伪装",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "以面具实现身份转换、灵体显现与仪式力量的母题。",
+   "related": [
+    "motif-shapeshifting",
+    "myth-australian",
+    "myth-siberian"
+   ],
+   "sources": [
+    "enc-wiki-mask",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "面具在仪式与神话中是实现身份转换与超自然显现的媒介：佩戴面具者被认为'成为'所代表的神灵、祖先或灵体（而非仅仅扮演），从而使其临在并作用于社群（如非洲部族面具、日本能剧与神乐面具、台湾原住民祭典面具、威尼斯狂欢节面具）。面具也用于丧葬（如埃及黄金面具）、萨满仪式（如西伯利亚萨满面具）与秘密社团（如假面舞会）。在神话叙事中，变形与伪装（如洛基、宙斯的化形）与面具母题相通——都涉及身份与表象的操控。",
+   "versions": [
+    "面具在仪式与神话中是实现身份转换与超自然显现的媒介：佩戴面具者被认为'成为'所代表的神灵、祖先或灵体（而非仅仅扮演），从而使其临在并作用于社群（如非洲部族面具、日本能剧与神乐面具、台湾原住民祭典面具、威尼斯狂欢节面具）。面具也用于丧葬（如埃及黄金面具）、萨满仪式（如西伯利亚萨满面具）与秘密社团（如假面舞会）。在神话叙事中，变形与伪装（如洛基、宙斯的化形）与面具母题相通——都涉及身份与表象的操控。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "面具是神圣显现与存在转换的载体。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "面具与图腾仪式、灵体 impersonation 相关。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "面具仪式实现人—灵—社群的中介与秩序重建。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-mask",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>面具与伪装母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>面具与伪装（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>灵体显现</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>面具即临在</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>身份转换</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>成为所饰者</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>仪式力量</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>中介与秩序</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "面具的性质",
+     "views": [
+      {
+       "holder": "代表说",
+       "basis": "面具象征/代表某灵体。"
+      },
+      {
+       "holder": "显现说",
+       "basis": "面具使灵体真正临在。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "面具在仪式中被视为灵体显现与身份转换的媒介。",
+     "source": "enc-wiki-mask"
+    },
+    {
+     "claim": "面具与变形/伪装母题在神话中相通。",
+     "source": "enc-wiki-mask"
+    }
+   ]
+  },
+  {
+   "id": "motif-prayer",
+   "title": "祈祷",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "人与超自然力量沟通的跨文化母题（赞美、祈求、感谢、忏悔）。",
+   "related": [
+    "motif-sacrifice",
+    "rel-christianity",
+    "rel-islam"
+   ],
+   "sources": [
+    "enc-wiki-prayer",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "祈祷是人与神/超自然力量沟通的基本宗教行为，其形式包括赞美（adoration）、感谢（thanksgiving）、忏悔（confession）、祈求（supplication/petition）与代祷（intercession）。犹太—基督教传统有固定的祈祷文（如《主祷文》、犹太教 Amidah），伊斯兰教有五时拜（Salah）与祷词（du'a），印度教有 mantra 与 bhakti 的唱诵，佛教有咒语与回向。祈祷可以是口头的、书面的或内心的（'心的祈祷'），并常配合肢体姿态（跪、叩拜、举手、合掌）。学者（如 William James）把祈祷理解为宗教体验的核心（《宗教经验之种种》，已录入来源库）。",
+   "versions": [
+    "祈祷是人与神/超自然力量沟通的基本宗教行为，其形式包括赞美（adoration）、感谢（thanksgiving）、忏悔（confession）、祈求（supplication/petition）与代祷（intercession）。犹太—基督教传统有固定的祈祷文（如《主祷文》、犹太教 Amidah），伊斯兰教有五时拜（Salah）与祷词（du'a），印度教有 mantra 与 bhakti 的唱诵，佛教有咒语与回向。祈祷可以是口头的、书面的或内心的（'心的祈祷'），并常配合肢体姿态（跪、叩拜、举手、合掌）。学者（如 William James）把祈祷理解为宗教体验的核心（《宗教经验之种种》，已录入来源库）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "William James",
+     "school": "宗教心理学",
+     "view": "《宗教经验之种种》把祈祷视为宗教体验的重要形态。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "祈祷形式与宗教理性化程度相关（如循道派的即兴祈祷）。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "祈祷在各大宗教中普遍存在，是维系人—神关系的核心实践。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-prayer",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>祈祷母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>祈祷（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祈求感谢</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>petition/thanksgiving</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>忏悔</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>confession</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>固定祷文</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>主祷文/Salah</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "祈祷的功效",
+     "views": [
+      {
+       "holder": "祈求回应说",
+       "basis": "祈祷可影响神的行动。"
+      },
+      {
+       "holder": "转化自心说",
+       "basis": "祈祷主要改变祈祷者的状态。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "祈祷是人与超自然沟通的基本宗教行为。",
+     "source": "enc-wiki-prayer"
+    },
+    {
+     "claim": "威廉·詹姆斯把祈祷视为宗教体验的核心形态。",
+     "source": "enc-wiki-prayer"
+    }
+   ]
   }
  ]
 }

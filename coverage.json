@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T18:06:36+08:00",
+  "generated": "2026-11-23T18:13:51+08:00",
   "summary": {
-    "total": 404,
+    "total": 410,
     "by_unit": {
       "U1": 90,
       "U2": 75,
-      "U3": 54,
+      "U3": 60,
       "U4": 185
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 290
+      "补充": 296
     },
     "by_level": {
       "L1": 0,
-      "L2": 290,
+      "L2": 296,
       "L3": 114
     },
-    "l2_done": 404,
+    "l2_done": 410,
     "l3_done": 114,
-    "verified_sources": 287
+    "verified_sources": 293
   },
   "entries": [
     {
@@ -2424,6 +2424,72 @@
     {
       "id": "motif-mountain",
       "name": "圣山",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-initiation",
+      "name": "成年礼与入会仪式",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-pilgrimage",
+      "name": "朝圣",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-fasting",
+      "name": "斋戒",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-sabbath",
+      "name": "安息与神圣时间",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-masks",
+      "name": "面具与伪装",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-prayer",
+      "name": "祈祷",
       "unit": "U3",
       "tier": "补充",
       "level": "L2",
