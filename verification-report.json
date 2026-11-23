@@ -1,0 +1,199 @@
+[
+  {
+    "id": "pri-theogony",
+    "wiki": "Theogony",
+    "mine": "神谱",
+    "year": -750,
+    "hits": [
+      "Hesiod",
+      "8th",
+      "7th"
+    ],
+    "status": "ok",
+    "extract_head": "The Theogony (Ancient Greek: Θεογονία, romanized: Theogonía, lit. 'the genealogy or birth of the gods') is a poem by Hesiod (8th–7th century BC) describing the "
+  },
+  {
+    "id": "pri-works-days",
+    "wiki": "Works and Days",
+    "mine": "工作与时日",
+    "year": -700,
+    "hits": [
+      "Hesiod"
+    ],
+    "status": "ok",
+    "extract_head": "Works and Days (Ancient Greek: Ἔργα καὶ Ἡμέραι, romanized: Érga kaì Hēmérai) is a didactic poem written by ancient Greek poet Hesiod around 700 BC. It is in dac"
+  },
+  {
+    "id": "pri-iliad",
+    "wiki": "Iliad",
+    "mine": "伊利亚特",
+    "year": -750,
+    "hits": [
+      "Homer"
+    ],
+    "status": "ok",
+    "extract_head": "The Iliad (  ILL-ee-əd; Ancient Greek: Ἰλιάς, romanized: Iliás [iːliás]; lit. '[a poem] about Ilion (Troy)') is one of two major surviving ancient Greek epic po"
+  },
+  {
+    "id": "pri-odyssey",
+    "wiki": "Odyssey",
+    "mine": "奥德赛",
+    "year": -720,
+    "hits": [
+      "Homer"
+    ],
+    "status": "ok",
+    "extract_head": "The Odyssey (, ODD-iss-ee; Ancient Greek: Ὀδύσσεια, romanized: Odýsseia [odyˈsːeːˌja]) is one of two major epics of ancient Greek literature attributed to Homer"
+  },
+  {
+    "id": "pri-poetic-eddas",
+    "wiki": "Poetic Edda",
+    "mine": "诗体埃达",
+    "year": 1200,
+    "hits": [
+      "Edda"
+    ],
+    "status": "ok",
+    "extract_head": "The Poetic Edda is the modern name for a collection of Old Norse anonymous narrative poems written in alliterative verse (known as Eddic poems). It is distinct "
+  },
+  {
+    "id": "pri-prose-eddas",
+    "wiki": "Prose Edda",
+    "mine": "散文埃达",
+    "year": 1220,
+    "hits": [
+      "Snorri"
+    ],
+    "status": "ok",
+    "extract_head": "The Prose Edda, also known as the Younger Edda, Snorri's Edda (Icelandic: Snorra Edda) or, historically, simply as Edda, is an Old Norse textbook written in Ice"
+  },
+  {
+    "id": "pri-enuma-elish",
+    "wiki": "Enūma Eliš",
+    "mine": "巴比伦创世史诗（Enuma Elish）",
+    "year": -1100,
+    "hits": [
+      "Babylon",
+      "creation"
+    ],
+    "status": "ok",
+    "extract_head": "Enūma Eliš (Akkadian Cuneiform: 𒂊𒉡𒈠𒂊𒇺, also spelled \"Enuma Elish\"), meaning \"When on High\", is a Babylonian creation myth (named after its opening words) from t"
+  },
+  {
+    "id": "pri-gilgamesh",
+    "wiki": "Epic of Gilgamesh",
+    "mine": "吉尔伽美什史诗",
+    "year": -1200,
+    "hits": [
+      "Gilgamesh"
+    ],
+    "status": "ok",
+    "extract_head": "The Epic of Gilgamesh () is an epic from ancient Mesopotamia that is the world's oldest surviving example of narrative literature. The literary history of Gilga"
+  },
+  {
+    "id": "pri-rigveda",
+    "wiki": "Rigveda",
+    "mine": "梨俱吠陀（Rigveda）",
+    "year": -1500,
+    "hits": [
+      "Rigveda",
+      "Sanskrit"
+    ],
+    "status": "ok",
+    "extract_head": "The Rigveda or Rig Veda (Sanskrit: ऋग्वेद, IAST: ṛgvedá, from ऋच्, \"praise\" and वेद, \"knowledge\") is an ancient Indian collection of Vedic Sanskrit hymns (sūkta"
+  },
+  {
+    "id": "pri-kojiki",
+    "wiki": "Kojiki",
+    "mine": "古事记",
+    "year": 712,
+    "hits": [
+      "712"
+    ],
+    "status": "ok",
+    "extract_head": "The Kojiki (古事記; Japanese pronunciation: [kó̞.(ɟ̟͡)ʑì.k̟ʲì, kò̞.(ɟ̟͡)ʑí.-], \"Records of Ancient Matters\" or \"An Account of Ancient Matters\"), also sometimes rea"
+  },
+  {
+    "id": "pri-nihon-shoki",
+    "wiki": "Nihon Shoki",
+    "mine": "日本书纪",
+    "year": 720,
+    "hits": [
+      "720"
+    ],
+    "status": "ok",
+    "extract_head": "The Nihon Shoki (日本書紀; Japanese pronunciation: [ɲ̟ì.hó̞ɰ̃́ ɕó̞.k̟ʲì]) or Nihongi (日本紀), sometimes translated as The Chronicles of Japan, is the second-oldest bo"
+  },
+  {
+    "id": "pri-popol-vuh",
+    "wiki": "Popol Vuh",
+    "mine": "波波尔·乌（Popol Vuh）",
+    "year": 1550,
+    "hits": [],
+    "status": "check",
+    "extract_head": "Popol Vuh (also  Popul Vuh or Pop Vuj) is a text recounting the mythology and history of the Kʼicheʼ people of Guatemala, one of the Maya peoples who also inhab"
+  },
+  {
+    "id": "pri-tao-te-ching",
+    "wiki": "Tao Te Ching",
+    "mine": "道德经",
+    "year": -500,
+    "hits": [
+      "Laozi",
+      "Laozi"
+    ],
+    "status": "ok",
+    "extract_head": "The Tao Te Ching or Dào Dé Jīng, (traditional Chinese: 道德經; simplified Chinese: 道德经; lit. 'Classic of the Way and its Virtue') also known simply as the Laozi, i"
+  },
+  {
+    "id": "pri-analects",
+    "wiki": "Analects",
+    "mine": "论语",
+    "year": -500,
+    "hits": [
+      "Confucius"
+    ],
+    "status": "ok",
+    "extract_head": "The Analects, also known as the Sayings of Confucius, is an ancient Chinese philosophical text composed of sayings and ideas attributed to Confucius and his con"
+  },
+  {
+    "id": "pri-mahabharata",
+    "wiki": "Mahabharata",
+    "mine": "摩诃婆罗多",
+    "year": -400,
+    "hits": [],
+    "status": "check",
+    "extract_head": "The Mahābhārata ( mə-HAH-BAR-ə-tə, MAH-hə-; Sanskrit: महाभारतम्, IAST: Mahābhāratam, pronounced [mɐɦaːˈbʱaːrɐt̪ɐm], 'Great Bharata') is one of the two major San"
+  },
+  {
+    "id": "pri-ramayana",
+    "wiki": "Ramayana",
+    "mine": "罗摩衍那",
+    "year": -300,
+    "hits": [
+      "Valmiki"
+    ],
+    "status": "ok",
+    "extract_head": "The Ramayana (; Sanskrit: रामायणम्, romanized: Rāmāyaṇam), also known as the Valmiki Ramayana, as traditionally attributed to Valmiki, is a Hindu smriti epic po"
+  },
+  {
+    "id": "pri-bible-kjv",
+    "wiki": "King James Version",
+    "mine": "圣经（King James Version）",
+    "year": 1611,
+    "hits": [
+      "1611"
+    ],
+    "status": "ok",
+    "extract_head": "The King James Bible, more commonly known as the  King James Version (KJV) and the Authorized Version, is an Early Modern English translation of the Christian B"
+  },
+  {
+    "id": "pri-shan-hai-jing",
+    "wiki": "Classic of Mountains and Seas",
+    "mine": "山海经",
+    "year": -300,
+    "hits": [],
+    "status": "check",
+    "extract_head": "The Classic of Mountains and Seas, also known as Shanhai jing (Chinese: 山海经), formerly romanized as the Shan-hai Ching, is a Chinese classic text and a compilat"
+  }
+]

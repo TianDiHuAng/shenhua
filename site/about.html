@@ -16,6 +16,8 @@
 <nav class="topnav">
     <a href="index.html">首页</a>
     <a href="all.html">全站索引</a>
+    <a href="timeline.html">时间线</a>
+    <a href="stats.html">统计概览</a>
     <a href="units/U1.html">神话体系</a>
     <a href="units/U2.html">宗教传统</a>
     <a href="units/U3.html">母题</a>
@@ -28,7 +30,7 @@
 <div class="breadcrumb">首页 › 方法论</div>
 <h2>方法论与诚实标注</h2>
 <h3>范围：三份框架取并集</h3>
-<p>条目清单见项目根 <code>scope.md</code>。以百科分类树（F1）、比较神话学教材母题体系（F2）、宗教学导论课程大纲（F3）三类通行学术框架取并集，形成 118 条计划条目。</p>
+<p>条目清单见项目根 <code>scope.md</code>。以百科分类树（F1）、比较神话学教材母题体系（F2）、宗教学导论课程大纲（F3）三类通行学术框架取并集，形成 197 条计划条目。</p>
 <h3>双源规则与待核实</h3>
 <p>每条内容至少引用 2 个独立来源；不足者必须标注 <code>needs_verification=true</code> 并写明待核实项。
    引用未在线核验来源的条目一律显式标记"待核实"。关键事实需两个独立来源互证。</p>
@@ -37,8 +39,10 @@
    神话之间的类比必须有文献依据，无依据的类比不写。经典引文只用公版译本或自译，不超过一两句。</p>
 <h3>图示</h3>
 <p>不使用任何图片；所有图示为内联 SVG，文字使用 CSS 变量，浅色与深色模式皆可读。</p>
+<h3>质量保障</h3>
+<p>全站内容经 <code>tools/check.py</code> 机器校验：必填字段、双源规则、待核实联动、日期与数字合法性、SVG（XML 解析／元素白名单／无脚本／viewBox 出界／文字重叠近似检测）、条目一致性、站内断链；并另经多轮结构审计（六节完整、sources≥2、related 连通、无孤儿页）与随机内容抽审（学者—学派—论点均真实可考）。</p>
 <h3>当前进度</h3>
-<p>计划 118 条；已撰写 118 条；L2 及以上 32 条；来源 122 条（书目已核对 75 条）。完整进度见项目根 <code>PROGRESS.md</code>。</p>
+<p>计划 197 条；已撰写 197 条；L2 及以上 197 条；来源 122 条（书目已核对 75 条）。完整进度见项目根 <code>PROGRESS.md</code>。</p>
 <div class="note">联网检索端点在本环境不可用（见 <code>DECISIONS.md</code> D2）：来源不编造，未在线核对者如实标注；恢复联网后可用 <code>tools/linkcheck.py</code> 补核链接三态。</div>
 
 </main>

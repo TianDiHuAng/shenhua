@@ -195,6 +195,30 @@ def check_svg(svg, eid):
                     err("条目 %s SVG 元素 <%s> 超出 viewBox：(%s,%s)-(%s,%s)" % (eid, tag, x0, y0, x1, y1))
         except (TypeError, ValueError):
             pass  # 含 var()/百分比的坐标无法静态判定，跳过
+    # 文字重叠近似检测（WARN，不阻断）：同一行附近且 x 范围相交的 text
+    _tx = []
+    for el in root.iter():
+        if el.tag.split("}")[-1] == "text":
+            try:
+                _x = float(el.get("x", 0)); _y = float(el.get("y", 0))
+                _fs = float(el.get("font-size", 12))
+            except (TypeError, ValueError):
+                continue
+            _a = el.get("text-anchor", "start"); _t = "".join(el.itertext())
+            _tx.append((_x, _y, _fs, _a, _t))
+    def _bx(x, f, a, t):
+        w = len(t) * f * 0.9
+        if a == "middle":
+            return (x - w / 2, x + w / 2)
+        if a == "end":
+            return (x - w, x)
+        return (x, x + w)
+    for i in range(len(_tx)):
+        for j in range(i + 1, len(_tx)):
+            x1, y1, f1, a1, t1 = _tx[i]; x2, y2, f2, a2, t2 = _tx[j]
+            b1 = _bx(x1, f1, a1, t1); b2 = _bx(x2, f2, a2, t2)
+            if abs(y1 - y2) < min(f1, f2) * 0.6 and max(b1[0], b2[0]) < min(b1[1], b2[1]):
+                warn("条目 %s SVG 文字可能重叠：'%s' 与 '%s'" % (eid, t1[:8], t2[:8]))
 
 def check_entries(source_ids, scope, cov):
     files = sorted(glob.glob(os.path.join(ROOT, "data", "units", "*.json")))

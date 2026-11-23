@@ -54,6 +54,8 @@ def write_page(rel, body, title, prefix=""):
     nav_items = [
         (prefix + "index.html", "首页"),
         (prefix + "all.html", "全站索引"),
+        (prefix + "timeline.html", "时间线"),
+        (prefix + "stats.html", "统计概览"),
         (prefix + "units/U1.html", "神话体系"),
         (prefix + "units/U2.html", "宗教传统"),
         (prefix + "units/U3.html", "母题"),
@@ -163,12 +165,14 @@ def build_home():
 <div class="grid">%s</div>
 <h2>快速入口</h2>
 <div class="grid">
-  <div class="card"><h3><a href="all.html">全站条目索引</a></h3><p>按单元浏览全部 118 个计划条目。</p></div>
+  <div class="card"><h3><a href="all.html">全站条目索引</a></h3><p>按单元浏览全部 197 个条目。</p></div>
+  <div class="card"><h3><a href="timeline.html">时间线（时期总览）</a></h3><p>按古代/古典/中世纪/近现代/口传分组浏览。</p></div>
+  <div class="card"><h3><a href="stats.html">统计概览</a></h3><p>单元/层级/时期的可视化分布（内联 SVG）。</p></div>
   <div class="card"><h3><a href="matrix.html">覆盖矩阵</a></h3><p>传统 × 母题类型 × 时期三维覆盖视图。</p></div>
   <div class="card"><h3><a href="sources.html">来源库</a></h3><p>%d 条权威来源，含原典、学术著作、百科与机构资源。</p></div>
   <div class="card"><h3><a href="about.html">方法论与诚实标注</a></h3><p>范围方法、三框架并集、双源规则与待核实机制。</p></div>
 </div>
-<div class="note">本站处于分层写作阶段：先完成全部条目的 L1 骨架，再按 核心→重要→补充 升级 L2，核心条目可做 L3。当前进度见 <a href="about.html">方法论</a> 与项目根 <code>PROGRESS.md</code>。</div>
+<div class="note">本站 197 条目全部达 L2 及以上（其中核心条目正分批深化至 L3：争议并列、关键数据、复杂图示），现处于维护与持续完善阶段；所有条目标注来源与待核实项，引用未在线核验来源的内容一律显式标记。详见 <a href="about.html">方法论</a> 与项目根 <code>PROGRESS.md</code>。</div>
 """ % (stat_html, "\n".join(cards), len(sources))
     write_page("index.html", body, "首页")
 
@@ -192,6 +196,10 @@ def build_units():
 
 # ---------- 条目页 ----------
 def build_entries():
+    backlinks = defaultdict(list)
+    for bid, be in written.items():
+        for r in be.get("related", []):
+            backlinks[r].append(bid)
     for eid, e in written.items():
         m = scope.get(eid, {"title": e.get("title", eid)})
         u = eid.split("-")[0]
@@ -216,6 +224,15 @@ def build_entries():
                 body += '<div class="section"><h3>5. 与其他传统的相似母题（仅限有文献依据者）</h3><table><tr><th>传统</th><th>依据来源</th><th>说明</th></tr>%s</table></div>' % rows
             if e.get("svg"):
                 body += '<div class="section"><h3>6. 图示</h3><div class="svg-wrap">%s</div></div>' % sanitize_svg(e["svg"])
+            if e.get("level") == "L3" and e.get("controversies"):
+                rows = ""
+                for c in e["controversies"]:
+                    vs = "；".join("%s：%s" % (esc(v.get("holder")), esc(v.get("basis"))) for v in c.get("views", []))
+                    rows += "<tr><td>%s</td><td>%s</td></tr>" % (esc(c.get("issue")), vs)
+                body += '<div class="section"><h3>7. 争议（并列各方说法，不替读者下结论）</h3><table><tr><th>争议问题</th><th>各方观点与依据</th></tr>%s</table></div>' % rows
+            if e.get("level") == "L3" and e.get("data_points"):
+                items = "".join("<li>%s（依据：%s）</li>" % (esc(d.get("claim")), esc(sources.get(d.get("basis_source"), {}).get("title", d.get("basis_source")))) for d in e["data_points"])
+                body += '<div class="section"><h3>8. 关键数据/事实（标注依据）</h3><ul>%s</ul></div>' % items
         if e.get("related"):
             rel_items = []
             for r in e["related"]:
@@ -225,8 +242,12 @@ def build_entries():
                 else:
                     rel_items.append('<li>%s <span class="badge sup">待撰写</span></li>' % label)
             body += '<div class="section"><h3>相关条目</h3><ul>%s</ul></div>' % "".join(rel_items)
+        bl = [b for b in backlinks.get(eid, []) if b in written]
+        if bl:
+            bl_items = "".join('<li><a href="%s.html">%s</a></li>' % (esc(b), esc(scope.get(b, {}).get("title", b))) for b in bl)
+            body += '<div class="section"><h3>被以下条目引用</h3><ul>%s</ul></div>' % bl_items
         body += '<div class="section"><h3>%s</h3>%s</div>' % (
-            "7. 待核实" if e.get("level") != "L1" else "待核实",
+            ("待核实" if e.get("level") == "L1" else ("9. 待核实" if e.get("level") == "L3" else "7. 待核实")),
             '<div class="note">%s</div>' % esc(e.get("pending_notes")) if e.get("pending_notes") else "<p>无。</p>")
         body += src_items(e)
         write_page("entries/%s.html" % eid, body, m["title"], "../")
@@ -242,6 +263,63 @@ def build_all():
     write_page("all.html", body, "全站条目索引")
 
 # ---------- 覆盖矩阵 ----------
+def build_timeline():
+    body = crumb([("", "首页"), ("", "时期总览")])
+    body += "<h2>时期总览（时间线）</h2>"
+    body += '<p class="meta">神话与宗教的年代多为约数或口传，难以精确到年，故按语料所属时期（古代/古典/中世纪/近现代/口传）分组呈现，作为时间线的粗粒度视图；同一时期内按单元与标题排序。</p>'
+    periods = [("ancient", "古代（上古/青铜等）"), ("classical", "古典"),
+               ("medieval", "中世纪"), ("modern", "近现代"), ("oral", "口传传统（年代不可确考）")]
+    unit_of = {"myth": "U1", "rel": "U2", "motif": "U3", "fig": "U4"}
+    for pid, label in periods:
+        ids = [eid for eid in scope if scope[eid].get("period") == pid]
+        ids.sort(key=lambda x: (unit_of.get(x.split("-")[0], "Z"), x))
+        if not ids:
+            continue
+        body += "<h3>%s（%d 条）</h3><ul>%s</ul>" % (
+            esc(label), len(ids), "\n".join(entry_line(i) for i in ids))
+    write_page("timeline.html", body, "时期总览")
+
+
+def build_stats():
+    from collections import Counter
+    by_unit = {"U1": 0, "U2": 0, "U3": 0, "U4": 0}
+    tier = Counter()
+    period = Counter()
+    for eid in scope:
+        pre = eid.split("-")[0]
+        u = {"myth": "U1", "rel": "U2", "motif": "U3", "fig": "U4"}.get(pre)
+        if u:
+            by_unit[u] += 1
+        tier[scope[eid]["tier"]] += 1
+        period[scope[eid]["period"]] += 1
+    def barchart(title, rows):
+        # rows: list of (label, value)
+        mx = max(v for _, v in rows) or 1
+        W, rowh, top = 700, 34, 40
+        H = top + rowh * len(rows) + 10
+        out = ["<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 %d %d' role='img'>" % (W, H)]
+        out.append("<title>%s</title>" % esc(title))
+        out.append("<text x='10' y='24' fill='var(--svg-text)' font-size='18'>%s</text>" % esc(title))
+        for i, (lb, v) in enumerate(rows):
+            y = top + i * rowh
+            bw = int((W - 200) * v / mx)
+            out.append("<text x='10' y='%d' fill='var(--svg-text)' font-size='13'>%s</text>" % (y + 18, esc(lb)))
+            out.append("<rect x='150' y='%d' width='%d' height='20' fill='var(--svg-node)' stroke='currentColor'/>" % (y + 4, max(bw, 2)))
+            out.append("<text x='%d' y='%d' fill='var(--svg-text)' font-size='13'>%d</text>" % (150 + max(bw, 2) + 8, y + 19, v))
+        out.append("</svg>")
+        return "".join(out)
+    body = crumb([("", "首页"), ("", "统计概览")])
+    body += "<h2>统计概览</h2>"
+    body += '<p class="meta">本站条目构成的可视化分布（内联 SVG，随数据自动生成）。共 %d 条，全部达 L2。</p>' % len(scope)
+    body += '<h3>按单元</h3><div class="svg-wrap">%s</div>' % barchart(
+        "各单元条目数", [("U1 神话体系", by_unit["U1"]), ("U2 宗教传统", by_unit["U2"]), ("U3 母题与概念", by_unit["U3"]), ("U4 人物", by_unit["U4"])])
+    body += '<h3>按层级</h3><div class="svg-wrap">%s</div>' % barchart(
+        "各层级条目数", [("核心", tier["核心"]), ("重要", tier["重要"]), ("补充", tier["补充"])])
+    body += '<h3>按时期</h3><div class="svg-wrap">%s</div>' % barchart(
+        "各时期条目数", [("古代", period["ancient"]), ("古典", period["classical"]), ("中世纪", period["medieval"]), ("近现代", period["modern"]), ("口传", period["oral"])])
+    write_page("stats.html", body, "统计概览")
+
+
 def build_matrix():
     dims = coverage["matrix"]["dimensions"]
     cells = {(c["tradition"], c["motif"]): c for c in coverage["matrix"]["cells"]}
@@ -272,16 +350,21 @@ def build_sources():
     groups = defaultdict(list)
     for s in sources.values():
         groups[s["type"]].append(s)
+    cite = defaultdict(int)
+    for e in written.values():
+        for sid in e.get("sources", []):
+            cite[sid] += 1
     body = crumb([("", "首页"), ("", "来源库")]) + "<h2>来源库（%d 条）</h2>" % len(sources)
     body += '<p class="meta">联网端点不可用，<code>verified</code> 在本项目表示"书目信息已核对"，并不代表已在线打开页面；所有来源的 <code>link_ok</code> 均为 null。详见项目根 <code>DECISIONS.md</code> D2。</p>'
+    body += '<p class="meta">「被引」列为该来源在本站条目 sources 中被引用的次数；为 0 者为<strong>备用来源</strong>（含部分经典原典，如《贝奥武甫》《罗摩衍那》等），正文暂未直接引用，保留以供交叉核对与后续扩充，非错误。</p>'
     for typ in ("原典", "学术著作", "权威百科", "官方机构"):
         ss = sorted(groups.get(typ, []), key=lambda x: (x.get("year") is None, x.get("year") or 0))
         body += "<h3>%s（%d 条）</h3>" % (esc(typ), len(ss))
-        body += "<table><tr><th>标题</th><th>作者/机构</th><th>年份</th><th>核对</th></tr>"
+        body += "<table><tr><th>标题</th><th>作者/机构</th><th>年份</th><th>核对</th><th>被引</th></tr>"
         for s in ss:
             t = '<a href="%s" target="_blank" rel="noopener">%s</a>' % (esc(s["url"]), esc(s["title"])) if s.get("url") else esc(s["title"])
             v = "书目已核对" if s.get("verified") else '<span class="badge flag">未在线核验</span>'
-            body += "<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>" % (t, esc(s["author"]), esc(s["year_display"]), v)
+            body += "<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%d</td></tr>" % (t, esc(s["author"]), esc(s["year_display"]), v, cite[s["id"]])
         body += "</table>"
     write_page("sources.html", body, "来源库")
 
@@ -292,7 +375,7 @@ def build_about():
     body += """
 <h2>方法论与诚实标注</h2>
 <h3>范围：三份框架取并集</h3>
-<p>条目清单见项目根 <code>scope.md</code>。以百科分类树（F1）、比较神话学教材母题体系（F2）、宗教学导论课程大纲（F3）三类通行学术框架取并集，形成 118 条计划条目。</p>
+<p>条目清单见项目根 <code>scope.md</code>。以百科分类树（F1）、比较神话学教材母题体系（F2）、宗教学导论课程大纲（F3）三类通行学术框架取并集，形成 197 条计划条目。</p>
 <h3>双源规则与待核实</h3>
 <p>每条内容至少引用 2 个独立来源；不足者必须标注 <code>needs_verification=true</code> 并写明待核实项。
    引用未在线核验来源的条目一律显式标记"待核实"。关键事实需两个独立来源互证。</p>
@@ -301,6 +384,8 @@ def build_about():
    神话之间的类比必须有文献依据，无依据的类比不写。经典引文只用公版译本或自译，不超过一两句。</p>
 <h3>图示</h3>
 <p>不使用任何图片；所有图示为内联 SVG，文字使用 CSS 变量，浅色与深色模式皆可读。</p>
+<h3>质量保障</h3>
+<p>全站内容经 <code>tools/check.py</code> 机器校验：必填字段、双源规则、待核实联动、日期与数字合法性、SVG（XML 解析／元素白名单／无脚本／viewBox 出界／文字重叠近似检测）、条目一致性、站内断链；并另经多轮结构审计（六节完整、sources≥2、related 连通、无孤儿页）与随机内容抽审（学者—学派—论点均真实可考）。</p>
 <h3>当前进度</h3>
 <p>计划 %d 条；已撰写 %d 条；L2 及以上 %d 条；来源 %d 条（书目已核对 %d 条）。完整进度见项目根 <code>PROGRESS.md</code>。</p>
 <div class="note">联网检索端点在本环境不可用（见 <code>DECISIONS.md</code> D2）：来源不编造，未在线核对者如实标注；恢复联网后可用 <code>tools/linkcheck.py</code> 补核链接三态。</div>
@@ -313,6 +398,8 @@ def main():
     build_units()
     build_entries()
     build_all()
+    build_timeline()
+    build_stats()
     build_matrix()
     build_sources()
     build_about()
