@@ -4172,6 +4172,84 @@
    "link_ok": true,
    "verified": true,
    "note": "卢巴（Luba，刚果）宗教以至高造物主与祖先灵、秘密社团（如 Bwami）为核心；2026-11-23 经 Wikipedia API 实测（Luba mythology→Baluba religion）。"
+  },
+  {
+   "id": "enc-wiki-fire",
+   "title": "Wikipedia: Fire",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Fire",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为火母题的一般背景来源（含文化·神话层面），2026-11-23 经 Wikipedia API 实测专条存在；Fire in mythology 专条缺失。"
+  },
+  {
+   "id": "enc-wiki-water",
+   "title": "Wikipedia: Water",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Water",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为水母题的一般背景来源（含文化·宗教层面），2026-11-23 经 Wikipedia API 实测专条存在；Water (mythology) 专条缺失。"
+  },
+  {
+   "id": "enc-wiki-cattle-religion",
+   "title": "Wikipedia: Cattle in religion and mythology",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Cattle_in_religion_and_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "牛在宗教与神话中的角色专条，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-horse",
+   "title": "Wikipedia: Horse",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Horse",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为马母题的一般背景来源（含文化·神话层面），2026-11-23 经 Wikipedia API 实测专条存在；Horse in mythology 专条缺失。"
+  },
+  {
+   "id": "enc-wiki-serpent",
+   "title": "Wikipedia: Serpent",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Serpent",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为蛇母题的一般背景来源（含文化·象征层面），2026-11-23 经 Wikipedia API 实测专条存在；Serpent (symbol) 专条缺失。"
+  },
+  {
+   "id": "enc-wiki-bird",
+   "title": "Wikipedia: Bird",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Bird",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为鸟母题的一般背景来源（含文化·象征层面），2026-11-23 经 Wikipedia API 实测专条存在；Bird in mythology 专条缺失。"
   }
  ]
 }

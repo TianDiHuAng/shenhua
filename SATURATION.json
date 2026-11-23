@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 278,
-    "total": 392,
+    "supplement_l2": 284,
+    "total": 398,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/392）；补充层 278 条 L2；来源 321 条"
+    "verdict": "核心与重要层 100% L3（114/398）；补充层 284 条 L2；来源 327 条"
   },
   "round_log": [
     {
@@ -980,6 +980,18 @@
       "new_gaps_found": 4,
       "gap_detail": "体检F：388条全通过（零重复/零失效引用/孤儿来源12机构备用）；批次40：新增4非洲神话（伊博/马赛/达荷美/卢巴）；4来源核验；Kikuyu/Shona条目缺失跳过；392条0 errors",
       "verdict": "正常扩充（批次40，4条）"
+    },
+    {
+      "round": "AUTONOMOUS-83",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网来源核验",
+        "scope格式修复"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次41：新增6自然物象母题（火/水/牛/马/蛇/鸟）平衡U3单元；6来源核验；修复scope行3列→6列格式问题；398条0 errors",
+      "verdict": "正常扩充（批次41，6条）"
     }
   ]
 }

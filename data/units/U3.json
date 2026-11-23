@@ -3689,6 +3689,450 @@
      "source": "pri-paradise"
     }
    ]
+  },
+  {
+   "id": "motif-fire",
+   "title": "火",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "火作为神圣、净化、创造与毁灭象征的跨传统母题。",
+   "related": [
+    "myth-hindu",
+    "fig-vesta",
+    "motif-sacrifice"
+   ],
+   "sources": [
+    "enc-wiki-fire",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 自然物象母题跨文化分布极广，本条作母题层面通述；2) 各传统的具体神格与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "火是神话与宗教中的核心象征：它兼具创造（工匠神锻造、祭火）与毁灭（火灾、地狱之火）的双重性，也是净化与转化的媒介（如印度教 Agni 祭火、琐罗亚斯德教的火崇拜、希腊普罗米修斯盗火、犹太教的燃烧荆棘与燔祭）。家宅炉火常被视为家庭与社群的象征（如罗马维斯塔圣火）。火的两面性——温暖/burn、文明/危险——使其成为宇宙论与仪礼中最丰富的象征之一。",
+   "versions": [
+    "火是神话与宗教中的核心象征：它兼具创造（工匠神锻造、祭火）与毁灭（火灾、地狱之火）的双重性，也是净化与转化的媒介（如印度教 Agni 祭火、琐罗亚斯德教的火崇拜、希腊普罗米修斯盗火、犹太教的燃烧荆棘与燔祭）。家宅炉火常被视为家庭与社群的象征（如罗马维斯塔圣火）。火的两面性——温暖/burn、文明/危险——使其成为宇宙论与仪礼中最丰富的象征之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中火是宇宙周期与仪式转化的核心象征。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "《金枝》中火与季候仪式、巫术净化相关联。"
+    },
+    {
+     "holder": "Gaston Bachelard",
+     "school": "现象学",
+     "view": "《火的精神分析》讨论火的诗学与想象。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-fire",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>火母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>火（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神圣祭火</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Agni/维斯塔</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>盗火</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>普罗米修斯母题</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>净化转化</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>双重性</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "火的象征",
+     "views": [
+      {
+       "holder": "文明之赐说",
+       "basis": "火代表文明与技术。"
+      },
+      {
+       "holder": "毁灭净化说",
+       "basis": "火代表毁灭与净化。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "火在神话中兼具创造与毁灭的双重象征。",
+     "source": "enc-wiki-fire"
+    },
+    {
+     "claim": "家宅炉火常象征家庭与社群的延续。",
+     "source": "enc-wiki-fire"
+    }
+   ]
+  },
+  {
+   "id": "motif-water",
+   "title": "水",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "水作为原初混沌、创世材质与 purification 象征的母题。",
+   "related": [
+    "motif-flood",
+    "motif-creation",
+    "motif-cosmicegg"
+   ],
+   "sources": [
+    "enc-wiki-water",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 自然物象母题跨文化分布极广，本条作母题层面通述；2) 各传统的具体神格与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "水在神话中是原初状态与创世材质的常见象征：创世前的混沌常被描述为原初之水（如《创世记》1:2 的'渊面黑暗'、巴比伦提亚马特、中国混沌），造世常表现为从水中捞土或分开水域（如《恩uma Elish》 splitting 提亚马特、印度 churning 乳海）。水同时是净化（洗礼、圣水）与危险（洪水、深渊）的象征，并与母性和生命（羊水、生命之泉）相联系。河流、海洋、泉水常有专属神灵。",
+   "versions": [
+    "水在神话中是原初状态与创世材质的常见象征：创世前的混沌常被描述为原初之水（如《创世记》1:2 的'渊面黑暗'、巴比伦提亚马特、中国混沌），造世常表现为从水中捞土或分开水域（如《恩uma Elish》 splitting 提亚马特、印度 churning 乳海）。水同时是净化（洗礼、圣水）与危险（洪水、深渊）的象征，并与母性和生命（羊水、生命之泉）相联系。河流、海洋、泉水常有专属神灵。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "水象征'质的消融'与从混沌中再生的可能。"
+    },
+    {
+     "holder": "比较神话学",
+     "school": "宗教学",
+     "view": "原初之水是创世论最常见的母题之一。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "水与丰饶、净化的仪式关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-water",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>水母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>水（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>原初之水</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世混沌</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>净化</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洗礼圣水</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>生命源泉</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>母性象征</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "水的双重性",
+     "views": [
+      {
+       "holder": "创世材质说",
+       "basis": "水是造世的原材料。"
+      },
+      {
+       "holder": "混沌毁灭说",
+       "basis": "水代表未被秩序化的混沌与洪水。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "原初之水是创世论中常见的混沌母题。",
+     "source": "enc-wiki-water"
+    },
+    {
+     "claim": "水兼具净化与危险的象征意义。",
+     "source": "enc-wiki-water"
+    }
+   ]
+  },
+  {
+   "id": "motif-cattle",
+   "title": "牛",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "牛作为丰饶、财富、神圣祭品与宇宙母牛的母题。",
+   "related": [
+    "fig-hathor",
+    "myth-hindu",
+    "myth-norse"
+   ],
+   "sources": [
+    "enc-wiki-cattle-religion",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 自然物象母题跨文化分布极广，本条作母题层面通述；2) 各传统的具体神格与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "牛在神话与宗教中象征财富、丰饶与母性：印度教视牛为神圣（如母牛 Kamadhenu 满足愿望）、以牛为祭品与财富单位；古埃及的 Apis 牛与哈托尔（牛角日轮）具神性；希腊神话中宙斯化公牛劫欧罗巴、米诺陶洛斯（牛头怪）；北欧神话的原初母牛 Auðumbla 舔出始祖 Búri；美索不达米亚与希伯来文献中牛是重要祭品（如'金牛犊'）。牛常与月亮、丰饶与经济价值相关联，在游牧与农业社会中地位尤重。",
+   "versions": [
+    "牛在神话与宗教中象征财富、丰饶与母性：印度教视牛为神圣（如母牛 Kamadhenu 满足愿望）、以牛为祭品与财富单位；古埃及的 Apis 牛与哈托尔（牛角日轮）具神性；希腊神话中宙斯化公牛劫欧罗巴、米诺陶洛斯（牛头怪）；北欧神话的原初母牛 Auðumbla 舔出始祖 Búri；美索不达米亚与希伯来文献中牛是重要祭品（如'金牛犊'）。牛常与月亮、丰饶与经济价值相关联，在游牧与农业社会中地位尤重。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "牛在印欧三功能中是第三功能（丰饶/财富）的核心象征。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "母牛与宇宙丰饶的象征可作母题参照。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "牛与丰饶仪式的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-cattle-religion",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>牛母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>牛（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神圣母牛</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Kamadhenu/Auðumbla</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>财富单位</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>祭品</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>牛角日轮</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>哈托尔</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "牛的献祭",
+     "views": [
+      {
+       "holder": "神圣不可杀说",
+       "basis": "印度教等传统视牛为神圣。"
+      },
+      {
+       "holder": "献祭核心说",
+       "basis": "古代近东与希腊以牛为重要祭品。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "牛在多个传统中象征丰饶、财富与神圣。",
+     "source": "enc-wiki-cattle-religion"
+    },
+    {
+     "claim": "原初母牛是北欧创世神话中的重要形象。",
+     "source": "enc-wiki-cattle-religion"
+    }
+   ]
+  },
+  {
+   "id": "motif-horse",
+   "title": "马",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "马作为太阳象征、战争与灵魂引导者的母题。",
+   "related": [
+    "myth-scythian",
+    "motif-sun",
+    "myth-hindu"
+   ],
+   "sources": [
+    "enc-wiki-horse",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 自然物象母题跨文化分布极广，本条作母题层面通述；2) 各传统的具体神格与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "马在神话中常与太阳、战争与死后旅程相关：希腊神话中太阳神 Helios 驾四马战车、Pegasus 飞马、特洛伊木马；北欧神话的八足马斯莱普尼尔（Sleipnir，奥丁坐骑）能穿行冥界；印度吠陀的 Ashvins 双马神与马祭（ashvamedha）；中国的'龙马'与《山海经》的神马。马也是萨满出神旅程的坐骑与灵魂引导者（如 psychopomp），在游牧文化（如斯基泰、蒙古）中具核心地位。Dumézil 把马与印欧战士功能相关联。",
+   "versions": [
+    "马在神话中常与太阳、战争与死后旅程相关：希腊神话中太阳神 Helios 驾四马战车、Pegasus 飞马、特洛伊木马；北欧神话的八足马斯莱普尼尔（Sleipnir，奥丁坐骑）能穿行冥界；印度吠陀的 Ashvins 双马神与马祭（ashvamedha）；中国的'龙马'与《山海经》的神马。马也是萨满出神旅程的坐骑与灵魂引导者（如 psychopomp），在游牧文化（如斯基泰、蒙古）中具核心地位。Dumézil 把马与印欧战士功能相关联。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "马与印欧三功能中的战争功能及王权仪式（如马祭）相关。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "马作为萨满旅程坐骑与冥界向导的象征。"
+    },
+    {
+     "holder": "比较神话学",
+     "school": "宗教学",
+     "view": "太阳战车与马的关联广泛分布。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-horse",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>马母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>马（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳战车</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Helios</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冥界坐骑</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Sleipnir</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马祭</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>ashvamedha</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "马的功能",
+     "views": [
+      {
+       "holder": "战争功能说",
+       "basis": "Dumézil 归入第二功能。"
+      },
+      {
+       "holder": "宇宙象征说",
+       "basis": "马代表太阳运行与灵魂旅程。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "马在神话中常与太阳、战争和冥界旅程相关。",
+     "source": "enc-wiki-horse"
+    },
+    {
+     "claim": "八足马斯莱普尼尔是北欧神话中的著名形象。",
+     "source": "enc-wiki-horse"
+    }
+   ]
+  },
+  {
+   "id": "motif-serpent",
+   "title": "蛇",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "蛇作为混沌、智慧、治愈与重生的跨传统母题。",
+   "related": [
+    "motif-dragon",
+    "motif-rainbow-serpent",
+    "fig-apep"
+   ],
+   "sources": [
+    "enc-wiki-serpent",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 自然物象母题跨文化分布极广，本条作母题层面通述；2) 各传统的具体神格与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "蛇是世界神话中最普遍的母题之一：它象征混沌与敌对（如北欧耶梦加得、希腊堤丰、圣经的古蛇/撒旦），也象征智慧、治愈与重生（如希腊医神阿斯克勒庇俄斯之杖的缠绕蛇、印度那伽与瑜伽的昆里里尼、美索不达米亚的 Ningishzida）。蛇的蜕皮使其成为重生与永生的象征；衔尾蛇（ouroboros）象征永恒循环；虹蛇是澳大利亚原住民的创世存在。蛇兼具危险与神圣的双重性，常与大地、水和地下世界相关联。",
+   "versions": [
+    "蛇是世界神话中最普遍的母题之一：它象征混沌与敌对（如北欧耶梦加得、希腊堤丰、圣经的古蛇/撒旦），也象征智慧、治愈与重生（如希腊医神阿斯克勒庇俄斯之杖的缠绕蛇、印度那伽与瑜伽的昆里里尼、美索不达米亚的 Ningishzida）。蛇的蜕皮使其成为重生与永生的象征；衔尾蛇（ouroboros）象征永恒循环；虹蛇是澳大利亚原住民的创世存在。蛇兼具危险与神圣的双重性，常与大地、水和地下世界相关联。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "蛇与龙象征混沌、宇宙轴与重生的多重母题。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "蛇与丰饶、重生的仪式关联。"
+    },
+    {
+     "holder": "Carl Jung",
+     "school": "分析心理学",
+     "view": "蛇作为转化与个体化的原型象征。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-serpent",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>蛇母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>蛇（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>混沌之蛇</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>耶梦加得/堤丰</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>治愈之蛇</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿斯克勒庇俄斯杖</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>重生蜕皮</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>衔尾蛇</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "蛇的象征",
+     "views": [
+      {
+       "holder": "敌对混沌说",
+       "basis": "蛇是须被制服的混沌力量。"
+      },
+      {
+       "holder": "神圣治愈说",
+       "basis": "蛇代表智慧、治愈与重生。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "蛇在神话中兼具混沌与治愈的双重象征。",
+     "source": "enc-wiki-serpent"
+    },
+    {
+     "claim": "蛇的蜕皮使其成为重生与永生的象征。",
+     "source": "enc-wiki-serpent"
+    }
+   ]
+  },
+  {
+   "id": "motif-bird",
+   "title": "鸟",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "鸟作为灵魂、天界使者与创造者的母题。",
+   "related": [
+    "motif-phoenix",
+    "motif-skyfather",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "enc-wiki-bird",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 自然物象母题跨文化分布极广，本条作母题层面通述；2) 各传统的具体神格与仪式差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "鸟在神话中常象征灵魂、自由与天界沟通：许多传统把鸟视为灵魂的化身或亡灵的引导（如埃及的 Ba 鸟头人身、佛教的迦楼罗 Garuda、北欧的渡鸦）；鸟是神与人的使者（如希腊赫尔墨斯的带翅鞋与信使角色、诺亚放出的鸽子、北欧女武神以天鹅/乌鸦形象出现）；创世神话中也有'从原初蛋'或'潜水取土'的鸟（如某些原住民神话的水鸟）。凤凰、鹰、猫头鹰等特定鸟类各有独立的象征系统（不死、王权、智慧）。",
+   "versions": [
+    "鸟在神话中常象征灵魂、自由与天界沟通：许多传统把鸟视为灵魂的化身或亡灵的引导（如埃及的 Ba 鸟头人身、佛教的迦楼罗 Garuda、北欧的渡鸦）；鸟是神与人的使者（如希腊赫尔墨斯的带翅鞋与信使角色、诺亚放出的鸽子、北欧女武神以天鹅/乌鸦形象出现）；创世神话中也有'从原初蛋'或'潜水取土'的鸟（如某些原住民神话的水鸟）。凤凰、鹰、猫头鹰等特定鸟类各有独立的象征系统（不死、王权、智慧）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "鸟象征超越、上升与灵魂的自由（'鸟人'母题）。"
+    },
+    {
+     "holder": "比较神话学",
+     "school": "宗教学",
+     "view": "鸟作为天地中介的使者角色广泛分布。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "鸟与灵魂、图腾的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-bird",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>鸟母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>鸟（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>灵魂化身</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ba鸟</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天界使者</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>鸽子/渡鸦</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙鸟</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>迦楼罗</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "鸟的象征",
+     "views": [
+      {
+       "holder": "灵魂自由说",
+       "basis": "鸟象征灵魂的升腾与自由。"
+      },
+      {
+       "holder": "神使说",
+       "basis": "鸟是神人之间的信使。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "鸟在神话中常象征灵魂、自由与天界沟通。",
+     "source": "enc-wiki-bird"
+    },
+    {
+     "claim": "特定鸟类（凤凰、鹰、猫头鹰）各有独立的象征系统。",
+     "source": "enc-wiki-bird"
+    }
+   ]
   }
  ]
 }

@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T17:52:29+08:00",
+  "generated": "2026-11-23T17:59:52+08:00",
   "summary": {
-    "total": 392,
+    "total": 398,
     "by_unit": {
       "U1": 90,
       "U2": 75,
-      "U3": 42,
+      "U3": 48,
       "U4": 185
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 278
+      "补充": 284
     },
     "by_level": {
       "L1": 0,
-      "L2": 278,
+      "L2": 284,
       "L3": 114
     },
-    "l2_done": 392,
+    "l2_done": 398,
     "l3_done": 114,
-    "verified_sources": 275
+    "verified_sources": 281
   },
   "entries": [
     {
@@ -2293,6 +2293,72 @@
       "id": "rel-yarsanism",
       "name": "雅尔桑教",
       "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-fire",
+      "name": "火",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-water",
+      "name": "水",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-cattle",
+      "name": "牛",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-horse",
+      "name": "马",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-serpent",
+      "name": "蛇",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-bird",
+      "name": "鸟",
+      "unit": "U3",
       "tier": "补充",
       "level": "L2",
       "status": "done",

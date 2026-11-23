@@ -143,3 +143,7 @@
   4. 音译别名清单随新批次累积维护，记录于 DECISIONS.md 本条下。
 - 理由：TASK 要求"无重复、无矛盾"，音译差异是中文数据库中重复的高发原因，须显式纳入查重。
 - 已知别名对（持续更新）：摩里甘=莫瑞根(Morrígan)；达格达=Dagda；释迦牟尼=佛陀( wikipedia Siddhartha Gautama )；宙斯=Zeus；奥丁=Odin。
+
+### D15 补充：scope.md 表格行格式强制 6 列
+- 2026-11-23 批次41 发现：新增 scope 行若写成 `| id | 名称 | 说明 |`（3列）会被 build_coverage.parse_scope 的 `len(cols)<6` 过滤掉，导致 check.py 报"条目不在 scope.md 中"。
+- 规则：scope.md 每条必须是 `| ID | 名称 | 层级 | 框架 | 时期 | 一句话说明 |` 完整6列，写入后须跑 build_coverage + check 验证解析出的条目数与实际一致。
