@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T16:33:29+08:00",
+  "generated": "2026-11-23T16:39:29+08:00",
   "summary": {
-    "total": 304,
+    "total": 310,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 101
+      "U4": 107
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 190
+      "补充": 196
     },
     "by_level": {
       "L1": 0,
-      "L2": 190,
+      "L2": 196,
       "L3": 114
     },
-    "l2_done": 304,
+    "l2_done": 310,
     "l3_done": 114,
-    "verified_sources": 188
+    "verified_sources": 194
   },
   "entries": [
     {
@@ -3364,6 +3364,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 5,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-kali",
+      "name": "迦梨",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-durga",
+      "name": "杜尔迦",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-lakshmi",
+      "name": "拉克希米",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-saraswati",
+      "name": "萨拉斯瓦蒂",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-ganesha",
+      "name": "象头神",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-hanuman",
+      "name": "哈奴曼",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     }

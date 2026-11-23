@@ -133,3 +133,13 @@
   3. 联网核验结果：最终 66 true / 56 blocked / 0 false；唯一 false（ins-yale-babylonian）已实测替代 URL 修复。
   4. 后续扩充条目必须经联网核验来源链接后再录入；新增条目优先选用 blocked 域名之外的可达来源。
 - 理由：用户指令"联网真不行吗试试，然后继续"确认联网恢复；按 TASK 诚实标注原则，实测结果替换 D2 时代的"link_ok=null"保守策略。
+
+## D15 查重机制升级：id + 标题 + 音译别名三重检测（2026-11-23）
+- 背景：本会话批次7–25 中出现 9 次重复录入（slavic/maori/shapeshift/enki/aboriginal/sikh/micronesian/dagda/morrigan），其中 morrigan 因音译差异（既有"摩里甘" vs 新增"莫瑞根"）逃过标题相似度检测。
+- 决定：
+  1. 每个新条目录入前必须执行三重检测：① id 精确查重；② 标题完全匹配 + difflib 相似度（cutoff≥0.85）；③ **音译别名比对**——同一神祇/概念的不同汉字音译（如 Morrígan=摩里甘/莫瑞根、Dagda=达格达/达格达神、Týr=提尔/泰尔）视为同一实体。
+  2. 音译别名以 sources.json 的 Wikipedia URL 为判据：URL 指向同一 Wikipedia 条目即视为同一实体，须合并不得新建。
+  3. 每完成 5 个扩充批次执行一次系统性体检F（id/标题/别名三重 + 引用有效性 + 孤儿来源）。
+  4. 音译别名清单随新批次累积维护，记录于 DECISIONS.md 本条下。
+- 理由：TASK 要求"无重复、无矛盾"，音译差异是中文数据库中重复的高发原因，须显式纳入查重。
+- 已知别名对（持续更新）：摩里甘=莫瑞根(Morrígan)；达格达=Dagda；释迦牟尼=佛陀( wikipedia Siddhartha Gautama )；宙斯=Zeus；奥丁=Odin。

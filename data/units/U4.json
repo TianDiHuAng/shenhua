@@ -8529,6 +8529,450 @@
      "source": "pri-arthur"
     }
    ]
+  },
+  {
+   "id": "fig-kali",
+   "title": "迦梨",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教性力派的黑色女神，时间与死亡的主宰。",
+   "related": [
+    "myth-hindu",
+    "fig-shiva",
+    "fig-durga"
+   ],
+   "sources": [
+    "pri-kali",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度教神祇材料跨吠陀—往世书—坦特罗多个文本层，神格随时代演变；2) 不同教派（如性力派/毗湿奴派）对同一神的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "迦梨（Kālī，'黑色的她'）是印度教性力派（Shaktism）的核心女神，象征时间（kāla）、死亡、毁灭与再生：她以黑肤色、多头多臂、佩戴骷髅项链、持剑与血碗的形象著称，常立于湿婆（Shiva）尸体之上——象征她制服死亡本身。迦梨崇拜在孟加拉地区尤为兴盛（如加尔各答的 Kali Ghat），与坦特罗（Tantra）实践密切相关；19—20世纪经罗摩克里希纳等神秘主义者而广为人知。",
+   "versions": [
+    "迦梨（Kālī，'黑色的她'）是印度教性力派（Shaktism）的核心女神，象征时间（kāla）、死亡、毁灭与再生：她以黑肤色、多头多臂、佩戴骷髅项链、持剑与血碗的形象著称，常立于湿婆（Shiva）尸体之上——象征她制服死亡本身。迦梨崇拜在孟加拉地区尤为兴盛（如加尔各答的 Kali Ghat），与坦特罗（Tantra）实践密切相关；19—20世纪经罗摩克里希纳等神秘主义者而广为人知。"
+   ],
+   "interpretations": [
+    {
+     "holder": "性力派传统",
+     "school": "教派自述",
+     "view": "视迦梨为至高女神（Shakti）的恐怖与慈悲两面。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《比较宗教的模式》中把毁灭—创造一体的女神作母题参照。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调迦梨形象在孟加拉地方传统与殖民现代性中的演变。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-kali",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>迦梨形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>迦梨（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>时间死亡</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>黑色女神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>骷髅项链</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>恐怖形象</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>性力派</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Shakti信仰</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>迦梨要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "迦梨的形象",
+     "views": [
+      {
+       "holder": "毁灭女神说",
+       "basis": "强调恐怖与死亡面向。"
+      },
+      {
+       "holder": "慈悲母亲说",
+       "basis": "' Kali Ma' 作为慈母，恐怖形象是保护性的。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "迦梨是印度教性力派核心女神，象征时间、死亡与毁灭。",
+     "source": "pri-kali"
+    },
+    {
+     "claim": "迦梨崇拜在孟加拉与坦特罗传统中尤为兴盛。",
+     "source": "pri-kali"
+    }
+   ]
+  },
+  {
+   "id": "fig-durga",
+   "title": "杜尔迦",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教战胜恶魔的战神女神，《女神颂》的核心。",
+   "related": [
+    "myth-hindu",
+    "fig-kali",
+    "fig-shiva"
+   ],
+   "sources": [
+    "pri-durga",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度教神祇材料跨吠陀—往世书—坦特罗多个文本层，神格随时代演变；2) 不同教派（如性力派/毗湿奴派）对同一神的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "杜尔迦（Durgā，'难近者/不可接近者'）是印度教的战神女神，以骑狮子、持多种武器、击败水牛恶魔 Mahiṣāsura 的形象著称。她是《女神颂》(Devi Mahatmya，约5—6世纪) 的核心——该文本确立了女神作为至高宇宙力量（Shakti）的神学，是性力派的重要经典。杜尔迦是湿婆之妻帕尔瓦蒂的战斗形态，在孟加拉的杜尔迦普祭（Durga Puja）中是核心崇拜对象。",
+   "versions": [
+    "杜尔迦（Durgā，'难近者/不可接近者'）是印度教的战神女神，以骑狮子、持多种武器、击败水牛恶魔 Mahiṣāsura 的形象著称。她是《女神颂》(Devi Mahatmya，约5—6世纪) 的核心——该文本确立了女神作为至高宇宙力量（Shakti）的神学，是性力派的重要经典。杜尔迦是湿婆之妻帕尔瓦蒂的战斗形态，在孟加拉的杜尔迦普祭（Durga Puja）中是核心崇拜对象。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Devi Mahatmya",
+     "school": "核心文本",
+     "view": "《女神颂》确立杜尔迦为击败恶魔的宇宙女神。"
+    },
+    {
+     "holder": "性力派神学",
+     "school": "教派立场",
+     "view": "视杜尔迦为至高 Shakti 的显现。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "女神斩魔叙事可作宇宙斗争母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-durga",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>杜尔迦形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>杜尔迦（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>骑狮战神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>降魔</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>女神颂</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Devi Mahatmya</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>杜尔迦普祭</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>孟加拉节庆</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>杜尔迦要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "杜尔迦与帕尔瓦蒂",
+     "views": [
+      {
+       "holder": "同一女神说",
+       "basis": "杜尔迦是帕尔瓦蒂的战斗形态。"
+      },
+      {
+       "holder": "独立神祇说",
+       "basis": "杜尔迦有独立的神格与崇拜传统。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "杜尔迦是《女神颂》中击败水牛魔的战神女神。",
+     "source": "pri-durga"
+    },
+    {
+     "claim": "杜尔迦普祭是孟加拉地区的核心节庆。",
+     "source": "pri-durga"
+    }
+   ]
+  },
+  {
+   "id": "fig-lakshmi",
+   "title": "拉克希米",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教财富、幸运与丰饶女神，毗湿奴之妻。",
+   "related": [
+    "myth-hindu",
+    "fig-vishnu",
+    "fig-saraswati"
+   ],
+   "sources": [
+    "pri-lakshmi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度教神祇材料跨吠陀—往世书—坦特罗多个文本层，神格随时代演变；2) 不同教派（如性力派/毗湿奴派）对同一神的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "拉克希米（Lakṣmī）是印度教的财富、幸运与丰饶女神，毗湿奴（Vishnu）之妻，以立于莲花上、手持莲花与金钱袋（或象征丰饶的器物）、伴随大象的形象著称。她源于《梨俱吠陀》的运气女神 Sri，后在往世书中与毗湿奴结合，成为'吉祥'（Śrī）的化身。排灯节（Diwali）期间， Lakshmi 崇拜是核心仪式，象征财富与好运的降临。",
+   "versions": [
+    "拉克希米（Lakṣmī）是印度教的财富、幸运与丰饶女神，毗湿奴（Vishnu）之妻，以立于莲花上、手持莲花与金钱袋（或象征丰饶的器物）、伴随大象的形象著称。她源于《梨俱吠陀》的运气女神 Sri，后在往世书中与毗湿奴结合，成为'吉祥'（Śrī）的化身。排灯节（Diwali）期间， Lakshmi 崇拜是核心仪式，象征财富与好运的降临。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sri-Lakshmi 传统",
+     "school": "教派自述",
+     "view": "视拉克希米为吉祥与宇宙秩序的维持者。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "莲花与丰饶的象征体系可作一般参照。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调拉克希米与毗湿奴配对在毗湿奴派中的地位。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-lakshmi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>拉克希米形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>拉克希米（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>莲花女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>吉祥丰饶</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>毗湿奴之妻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神配偶</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>排灯节</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心节庆</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉克希米要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "Sri 与 Lakshmi",
+     "views": [
+      {
+       "holder": "融合说",
+       "basis": "吠陀 Sri 与 Lakshmi 融合为同一女神。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "二者原有不同来源，后合并。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "拉克希米是印度教财富与幸运女神，毗湿奴之妻。",
+     "source": "pri-lakshmi"
+    },
+    {
+     "claim": "排灯节期间的拉克希米崇拜象征财富与好运。",
+     "source": "pri-lakshmi"
+    }
+   ]
+  },
+  {
+   "id": "fig-saraswati",
+   "title": "萨拉斯瓦蒂",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教智慧、学习与艺术女神，源于吠陀河神。",
+   "related": [
+    "myth-hindu",
+    "fig-lakshmi",
+    "fig-kali"
+   ],
+   "sources": [
+    "pri-saraswati",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度教神祇材料跨吠陀—往世书—坦特罗多个文本层，神格随时代演变；2) 不同教派（如性力派/毗湿奴派）对同一神的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "萨拉斯瓦蒂（Sarasvatī）是印度教的智慧、学习、音乐与艺术女神，源于《梨俱吠陀》中同名河神（Sarasvati 河），后演变为学术与文艺的守护女神，通常以手持维纳琴（vīṇā）、书卷与念珠、骑天鹅（或孔雀）的白色形象出现。她是梵天（Brahma）之妻，与拉克希米形成'学问与财富'的对照。在孟加拉等地，她与拉克希米、迦梨共同构成主女神 trio。",
+   "versions": [
+    "萨拉斯瓦蒂（Sarasvatī）是印度教的智慧、学习、音乐与艺术女神，源于《梨俱吠陀》中同名河神（Sarasvati 河），后演变为学术与文艺的守护女神，通常以手持维纳琴（vīṇā）、书卷与念珠、骑天鹅（或孔雀）的白色形象出现。她是梵天（Brahma）之妻，与拉克希米形成'学问与财富'的对照。在孟加拉等地，她与拉克希米、迦梨共同构成主女神 trio。"
+   ],
+   "interpretations": [
+    {
+     "holder": "吠陀传统",
+     "school": "文本源头",
+     "view": "《梨俱吠陀》中 Sarasvati 是河流与灵感女神。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "智慧女神与书写/音乐的文明象征可作一般参照。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调河神向智慧女神的职能演变。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-saraswati",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>萨拉斯瓦蒂形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>萨拉斯瓦蒂（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智慧文艺</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>维纳琴</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天鹅坐骑</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>白色形象</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>梵天之妻</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神配偶</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>萨拉斯瓦蒂要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "职能演变",
+     "views": [
+      {
+       "holder": "河神说",
+       "basis": "吠陀时期主要是河神。"
+      },
+      {
+       "holder": "智慧神说",
+       "basis": "后起的智慧与艺术职能是主流。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "萨拉斯瓦蒂源于吠陀河神，后成为智慧与艺术女神。",
+     "source": "pri-saraswati"
+    },
+    {
+     "claim": "萨拉斯瓦蒂是梵天之妻，常以持维纳琴的白色形象出现。",
+     "source": "pri-saraswati"
+    }
+   ]
+  },
+  {
+   "id": "fig-ganesha",
+   "title": "象头神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教智慧与移除障碍之神，湿婆与帕尔瓦蒂之子。",
+   "related": [
+    "myth-hindu",
+    "fig-shiva"
+   ],
+   "sources": [
+    "pri-ganesha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度教神祇材料跨吠陀—往世书—坦特罗多个文本层，神格随时代演变；2) 不同教派（如性力派/毗湿奴派）对同一神的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "象头神（Gaṇeśa/Ganesha）是印度教中智慧、学识与'移除障碍'（Vighnaharta）之神，以人身象头、四臂、持象刺与甜食（modaka）、坐骑为鼠的形象著称。他是湿婆与帕尔瓦蒂之子（有多种起源神话，如帕尔瓦蒂以象牙塑子、或湿婆斩首后以象首复生）。象头神崇拜在所有印度教教派中普遍，任何仪式开始前常先祭拜他——这体现其'移除障碍'的职能。",
+   "versions": [
+    "象头神（Gaṇeśa/Ganesha）是印度教中智慧、学识与'移除障碍'（Vighnaharta）之神，以人身象头、四臂、持象刺与甜食（modaka）、坐骑为鼠的形象著称。他是湿婆与帕尔瓦蒂之子（有多种起源神话，如帕尔瓦蒂以象牙塑子、或湿婆斩首后以象首复生）。象头神崇拜在所有印度教教派中普遍，任何仪式开始前常先祭拜他——这体现其'移除障碍'的职能。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Ganapatya 传统",
+     "school": "教派自述",
+     "view": "象头派视 Ganesha 为至高神。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "象头与障碍移除的象征可作母题参照。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调象头神起源神话的多个版本及其跨教派接受。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ganesha",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>象头神形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>象头神（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>象头形象</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>人身象首</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>移除障碍</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Vighnaharta</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>湿婆之子</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>起源神话</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>象头神要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "象头的由来",
+     "views": [
+      {
+       "holder": "斩首复生说",
+       "basis": "湿婆误斩其子后以象首复生。"
+      },
+      {
+       "holder": "象牙塑造说",
+       "basis": "帕尔瓦蒂以象牙塑成儿子。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "象头神是印度教移除障碍与智慧之神。",
+     "source": "pri-ganesha"
+    },
+    {
+     "claim": "象头神有斩首复生与象牙塑造等多个起源神话版本。",
+     "source": "pri-ganesha"
+    }
+   ]
+  },
+  {
+   "id": "fig-hanuman",
+   "title": "哈奴曼",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《罗摩衍那》中的猴神英雄，忠诚与力量的象征。",
+   "related": [
+    "myth-hindu",
+    "fig-vishnu",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-hanuman",
+    "pri-ramayana",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 印度教神祇材料跨吠陀—往世书—坦特罗多个文本层，神格随时代演变；2) 不同教派（如性力派/毗湿奴派）对同一神的定位不同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "哈奴曼（Hanumān）是印度史诗《罗摩衍那》中的猴神（Vanara）英雄，风神 Vayu 之子，以对罗摩（Rama）的绝对忠诚与超凡力量著称：他跳过海峡到达兰卡，找到被掳的悉多，烧毁罗波那的城池，并在战争中扮演关键角色。哈奴曼是忠诚、勇气与奉献的化身，在印度各地广泛崇拜，其形象亦随《罗摩衍那》传播至东南亚（如泰国的 Hanuman）。",
+   "versions": [
+    "哈奴曼（Hanumān）是印度史诗《罗摩衍那》中的猴神（Vanara）英雄，风神 Vayu 之子，以对罗摩（Rama）的绝对忠诚与超凡力量著称：他跳过海峡到达兰卡，找到被掳的悉多，烧毁罗波那的城池，并在战争中扮演关键角色。哈奴曼是忠诚、勇气与奉献的化身，在印度各地广泛崇拜，其形象亦随《罗摩衍那》传播至东南亚（如泰国的 Hanuman）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Valmiki（蚁垤）",
+     "school": "史诗作者",
+     "view": "《罗摩衍那》确立哈奴曼的英雄形象。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "《千面英雄》框架下可把哈奴曼作助手型英雄的参照。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "宗教学",
+     "view": "强调哈奴曼崇拜的跨地域传播与本土化。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hanuman",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>哈奴曼形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>哈奴曼（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>猴神英雄</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Vanara</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>忠诚罗摩</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>奉献化身</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>跨海寻妻</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心功绩</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈奴曼要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "哈奴曼的神格",
+     "views": [
+      {
+       "holder": "风神之子",
+       "basis": "源于 Vayu，具风的速度。"
+      },
+      {
+       "holder": "猴族英雄",
+       "basis": "是 Vanara 族的成员。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "哈奴曼是《罗摩衍那》中的猴神英雄，以忠诚与力量著称。",
+     "source": "pri-hanuman"
+    },
+    {
+     "claim": "哈奴曼崇拜随《罗摩衍那》传播至东南亚。",
+     "source": "pri-hanuman"
+    }
+   ]
   }
  ]
 }

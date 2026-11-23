@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 190,
-    "total": 304,
+    "supplement_l2": 196,
+    "total": 310,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/304）；补充层 190 条 L2；来源 234 条"
+    "verdict": "核心与重要层 100% L3（114/310）；补充层 196 条 L2；来源 240 条"
   },
   "round_log": [
     {
@@ -797,6 +797,18 @@
       "new_gaps_found": 4,
       "gap_detail": "批次25：新增4人物（耶梦加得/女武神/芬恩/亚瑟王）；dagda/morrigan 与既有合并深化（音译差异导致标题相似度漏检，已用id精确查重捕获）；6来源核验；304条0 errors",
       "verdict": "正常扩充（批次25，4条）"
+    },
+    {
+      "round": "AUTONOMOUS-68",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次26：新增6印度教人物（迦梨/杜尔迦/拉克希米/萨拉斯瓦蒂/象头神/哈奴曼）；D15三重查重生效（0重复）；6来源核验；修复ganesha引用；310条0 errors",
+      "verdict": "正常扩充（批次26，6条）"
     }
   ]
 }

@@ -3041,6 +3041,84 @@
    "link_ok": true,
    "verified": true,
    "note": "莫瑞根（The Morrígan）是爱尔兰战争与命运女神，与渡鸦、预言相关；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-kali",
+   "title": "迦梨文献（《女神往世书》与坦特罗文本）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "往世书—中世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kali",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "迦梨（Kālī）是印度教的黑色女神，时间与死亡的主宰，性力派（Shaktism）核心神祇；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-durga",
+   "title": "杜尔迦文献（《女神颂》与《往世书》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "往世书传统",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Durga",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "杜尔迦（Durgā）是印度教战胜恶魔的战神女神，《女神颂》(Devi Mahatmya) 是其核心文本；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-lakshmi",
+   "title": "拉克希米文献（《吉祥天女颂》与往世书）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "往世书传统",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Lakshmi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "拉克希米（Lakṣmī）是印度教财富、幸运与丰饶女神，毗湿奴之妻；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-saraswati",
+   "title": "萨拉斯瓦蒂文献（《梨俱吠陀》与往世书）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "吠陀—往世书",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Saraswati",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "萨拉斯瓦蒂（Sarasvatī）是印度教智慧、学习与艺术女神，源于吠陀河神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ganesha",
+   "title": "象头神文献（《象头神往世书》等）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "往世书—中世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ganesha",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "象头神（Gaṇeśa/Ganesha）是印度教智慧与移除障碍之神，湿婆与帕尔瓦蒂之子；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-hanuman",
+   "title": "哈奴曼文献（《罗摩衍那》）",
+   "author": "佚名（印度）/蚁垤",
+   "year": null,
+   "year_display": "古代史诗",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hanuman",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "哈奴曼（Hanumān）是《罗摩衍那》中的猴神英雄，忠诚与力量的象征；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
