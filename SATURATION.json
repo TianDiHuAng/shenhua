@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": "83",
-    "total": 197,
+    "supplement_l2": 93,
+    "total": 207,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/197）；补充层 83 条 L2；来源链接核验完成（0 false）"
+    "verdict": "核心与重要层 100% L3（114/207）；补充层 93 条 L2；来源 129 条（联网核验）"
   },
   "round_log": [
     {
@@ -548,6 +548,18 @@
       "new_gaps_found": 0,
       "gap_detail": "D14 联网恢复：linkcheck 三态核验 122 来源，fix_links 修复 39 URL，Yale 巴比伦藏品替代 URL 修复；0 false；scope 合计 194→197；DECISIONS D14、BLOCKERS 解除记录",
       "verdict": "联网核验轮（无新增条目）"
+    },
+    {
+      "round": "AUTONOMOUS-47",
+      "date": "2026-11-23",
+      "methods_run": [
+        "读者问题",
+        "权威大纲",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 10,
+      "gap_detail": "扩充批次7：新增10条（3神话 navajo/iroquois/aboriginal + 4宗教 samaritan/karaite/cathar/wicca + 2母题 world-parents/shapeshift + 1人物 enkidu）；7个新原典来源经 Wikipedia API 联网核验；slavic/maori 重复误写已合并修复；check 0 errors",
+      "verdict": "正常扩充（批次7，10条）"
     }
   ]
 }

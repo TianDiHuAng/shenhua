@@ -1,24 +1,25 @@
-# REPORT.md — AUTONOMOUS-46（2026-11-23）
+# REPORT.md — AUTONOMOUS-47（2026-11-23）
 
-## 本轮主题：联网核验能力恢复（D14）
+## 本轮主题：扩充批次7 + GitHub 推送修复
 
-### 背景
-用户指令"联网真不行吗试试，然后继续"。实测确认本机 Python urllib 可直连外网（Wikipedia 200 / GitHub 200），D2 时代"联网端点不可用"阻塞解除。
+### 推送修复
+- 发现远端仍停留在 118 条目旧版（153 blobs）；HTTPS/API 全量推送脚本在 credential fill 后无输出卡住。
+- 改用**分批 blob 上传**（5 批 ×90–120 个，带检查点 tools/_push_blobs.json）+ tree/commit/PATCH ref 一次收尾。
+- 远端 head 更新为 5e836049：+27920/-4416 行，197 条目版全量推平。验证通过后临时文件已清理。
 
-### 完成事项
-1. **重写 `tools/linkcheck.py`**：三态链接检查（true=可达 / blocked=401/403/429/503 拦截 / false=404·DNS·超时）。
-2. **`tools/verify_sources.py`**：18 条关键一手来源经 Wikipedia API 书目核对全部命中（赫西俄德《神谱》8–7 世纪、《古事记》712、《日本书纪》720 等）。
-3. **全量 122 条来源链接核验**：首轮 true72/blocked35/false15 → `tools/fix_links.py` 按 Wikisource/Wikipedia API 实测标题修复 39 个失效 URL → 终态 **true 66 / blocked 56 / false 1**。
-4. **修复最后一个 false**：`ins-yale-babylonian` 旧域名 babyloniancollection.org 失效，实测替代 URL `https://web.library.yale.edu/cataloging/babylonian` 返回 200，已替换并置 verified。**全库 0 false**。
-5. **重新生成站点**：`gen_site.py` 208 页写入 site/，`check.py` 0 errors / 0 warnings（197 条 / 122 来源）。
-6. **文档同步**：scope.md 合计 194→197；DECISIONS.md 追加 D14；BLOCKERS.md 记录阻塞解除；PROGRESS.md 锁定段更新；SATURATION.json 追加 AUTONOMOUS-46。
+### 扩充批次7（+10 条，197→207）
+- **U1 神话 3**：纳瓦霍（迪内巴霍）、易洛魁（天女坠落）、澳大利亚原住民（梦幻时代）。
+- **U2 宗教 4**：撒玛利亚教、卡拉派犹太教、清洁派、威卡教。
+- **U3 母题 2**：世界父母分离、变形与化身。
+- **U4 人物 1**：恩奇都。
+- 新增 7 个原典来源（迪内巴霍/梦幻时代/毛利叙事集/斯拉夫文献汇编/撒玛利亚五经/加德纳文献/易洛魁创世），全部经 **Wikipedia API 联网核验**（Dreamtime 重定向至 The Dreaming 已核对）。
+- 过程问题与修复：myth-slavic/myth-maori 误写重复 → 与既有条目合并（内容并入，重复项删除）；8 处 related 无效引用（-orig 占位）→ 映射到实际存在条目；scope.md 同步 207。
+- slavic/maori 既有条目吸收本轮深写内容（versions/interpretations/controversies/data_points 合并）。
 
 ### 现状
-- 条目：197（核心 40 全 L3 / 重要 74 全 L3 / 补充 83 L2），L3 累计 114。
-- 来源：122 条，link_ok 三态 66 true / 56 blocked / **0 false**，核实口径见各条 note。
-- 站点：208 页纯 HTML+CSS（零 JS），0 断链，0 孤儿页。
-- Git：本轮变更已提交（含"联网核验"提交信息）。
+- 条目 207（核心 40 全 L3 / 重要 74 全 L3 / 补充 93 L2），L3 累计 114。
+- 来源 129 条，check.py 0 errors / 0 warnings，站点 218 页。
 
 ### 下一步候选
-- 继续用户指令的扩充循环（新批次候选：更多区域神话/人物，需联网核验来源后录入）。
-- 补充层 83 条如获指令可继续 L3 深化。
+- 批次8 候选：斯拉夫周边（baltic）、非洲传统（yoruba/zulu）、毛利相关（hawaiian/tahitian）、rel-druidry、rel-lutheran 等宗派。
+- 补充层 L3 深化（93 条待指令）。
