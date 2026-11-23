@@ -2391,6 +2391,84 @@
    "link_ok": true,
    "verified": true,
    "note": "伊甸园—乐园母题的比较研究；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-nephthys",
+   "title": "奈芙蒂斯文献（埃及丧葬文本）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—新王国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nephthys",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "奈芙蒂斯（Nephthys）是埃及丧葬女神，奥西里斯之妻/塞特之妻，与伊西斯共同守护亡者；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-enlil",
+   "title": "恩利尔文献（苏美尔—阿卡德神庙文本）",
+   "author": "佚名（苏美尔书吏）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Enlil",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "恩利尔（Enlil）是苏美尔—阿卡德万神殿主神（尼普尔），掌管风与王权；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-enki",
+   "title": "恩基文献（苏美尔智慧神文本）",
+   "author": "佚名（苏美尔书吏）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Enki",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "恩基（Enki，阿卡德 Ea）是苏美尔智慧、水与造物神，埃利都主神；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-dumuzid",
+   "title": "杜穆兹（塔穆兹）文献",
+   "author": "佚名（苏美尔/阿卡德）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Dumuzid",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "杜穆兹（Dumuzid/塔穆兹）是苏美尔牧神，伊南娜之配偶，死而复生神母题核心案例；2026-11-23 经 Wikipedia API 实测（Tammuz→Dumuzid）。"
+  },
+  {
+   "id": "pri-ninurta",
+   "title": "尼努尔塔文献（苏美尔战神文本）",
+   "author": "佚名（苏美尔书吏）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ninurta",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "尼努尔塔（Ninurta）是苏美尔—阿卡德战争与农业神，以战胜 Anzu 鸟著称；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-shamash",
+   "title": "沙马什文献（两河太阳神/正义神）",
+   "author": "佚名（两河书吏）",
+   "year": null,
+   "year_display": "前2千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Shamash",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "沙马什（Shamash）是两河太阳神与正义之神（《汉谟拉比法典》浮雕中接受权杖）；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

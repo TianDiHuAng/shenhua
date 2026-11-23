@@ -4624,11 +4624,12 @@
    "tier": "补充",
    "period": "ancient",
    "summary": "恩基是苏美尔神话的智慧、水与技艺之神，埃利都（Eridu）的城邦主神，常以智慧解决神界难题。",
-   "source_text": "恩基见于苏美尔泥板文献：他为埃利都主神，与淡水（abzu）、智慧与技艺相关；在神话中多次以机智化解危机（如与伊南娜的争执、洪水叙事中的介入）。",
+   "source_text": "恩基（Enki，阿卡德名 Ea）是苏美尔智慧、水与造物之神，埃利都（Eridu）主神。他主导了《阿特拉哈西斯》洪水叙事中人类拯救（暗中指导阿特拉哈西斯造方舟），在《恩基与宁玛赫》中参与人类的造出（用泥土塑形并赋予生命）；他也是技艺、魔法与'me'（文明法则）的守护者。恩基—宁玛赫的造人叙事呈现了苏美尔对神造人类的两种视角。",
    "versions": [
     "恩基在苏美尔文献中与埃利都、淡水深渊（abzu）相连。",
     "其形象兼具智慧与机巧，有时以欺骗手段达成目的。",
-    "阿卡德传统中与埃阿（Ea）对应，职能延续。"
+    "阿卡德传统中与埃阿（Ea）对应，职能延续。",
+    "恩基（Enki，阿卡德名 Ea）是苏美尔智慧、水与造物之神，埃利都（Eridu）主神。他主导了《阿特拉哈西斯》洪水叙事中人类拯救（暗中指导阿特拉哈西斯造方舟），在《恩基与宁玛赫》中参与人类的造出（用泥土塑形并赋予生命）；他也是技艺、魔法与'me'（文明法则）的守护者。恩基—宁玛赫的造人叙事呈现了苏美尔对神造人类的两种视角。"
    ],
    "interpretations": [
     {
@@ -4645,6 +4646,21 @@
      "holder": "Henri Frankfort",
      "school": "古代近东思想研究",
      "view": "Frankfort 在《哲学之前》中以神话意象分析美索不达米亚的秩序观，强调不以现代抽象标准误读。"
+    },
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "《苏美尔神话》中的《恩基与宁玛赫》译注是理解苏美尔造人观的核心材料。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "在《黑暗中的珍宝》中把恩基视为智慧与建造之神，与恩利尔的风暴王权互补。"
+    },
+    {
+     "holder": "W. G. Lambert",
+     "school": "亚述学",
+     "view": "《阿特拉哈西斯》校译本确立恩基在洪水叙事中的角色。（该学者著作未录入来源库）"
     }
    ],
    "comparisons": [
@@ -4663,16 +4679,45 @@
    "related": [
     "myth-sumerian",
     "myth-akkadian",
-    "fig-inanna"
+    "fig-inanna",
+    "fig-atrahasis",
+    "fig-enlil",
+    "myth-mesopotamian"
    ],
    "sources": [
     "aca-sumerian-mythology",
     "pri-sumerian-king-list",
-    "aca-treasures-darkness"
+    "aca-treasures-darkness",
+    "pri-enki"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 具体神话情节的文本残缺，细节待核；2) 与埃阿的对应为承继关系，已标；3) 比较为文献/框架参照，不主张同源。",
-   "year": null
+   "pending_notes": "1) 具体神话情节的文本残缺，细节待核；2) 与埃阿的对应为承继关系，已标；3) 比较为文献/框架参照，不主张同源。 1) 材料跨多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "controversies": [
+    {
+     "issue": "恩基与宁玛赫",
+     "views": [
+      {
+       "holder": "恩基主导说",
+       "basis": "恩基用泥土造出可用之人。"
+      },
+      {
+       "holder": "宁玛赫主导说",
+       "basis": "宁玛赫的造人尝试与恩基互补，两版本并存。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "恩基（Ea）是埃利都主神，掌智慧、水与造物。",
+     "source": "pri-enki"
+    },
+    {
+     "claim": "在洪水叙事中恩基暗中指导阿特拉哈西斯造方舟。",
+     "source": "pri-enki"
+    }
+   ]
   },
   {
    "id": "fig-bastet",
@@ -6419,6 +6464,381 @@
     {
      "claim": "香戈崇拜随大西洋奴隶贸易传播，在巴西 Candomblé 中以 Xangô 之名延续。",
      "source": "pri-yoruba"
+    }
+   ]
+  },
+  {
+   "id": "fig-enlil",
+   "title": "恩利尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "两河苏美尔—阿卡德万神殿主神（尼普尔），掌风与王权。",
+   "related": [
+    "fig-marduk",
+    "myth-mesopotamian",
+    "motif-skyfather"
+   ],
+   "sources": [
+    "pri-enlil",
+    "aca-sumerian-mythology",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "恩利尔（Enlil）是苏美尔—阿卡德宗教的最高神之一，尼普尔（Nippur）的城邦主神，掌管风、风暴与王权的授予。在苏美尔神谱中，他是安（An，天）与基（Ki，地）之子，通过分离天地确立宇宙秩序；相关文本叙述他决定人类命运与洪水。恩利尔的至高地位在巴比伦时期逐渐被马尔杜克取代。",
+   "versions": [
+    "恩利尔（Enlil）是苏美尔—阿卡德宗教的最高神之一，尼普尔（Nippur）的城邦主神，掌管风、风暴与王权的授予。在苏美尔神谱中，他是安（An，天）与基（Ki，地）之子，通过分离天地确立宇宙秩序；相关文本叙述他决定人类命运与洪水。恩利尔的至高地位在巴比伦时期逐渐被马尔杜克取代。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "在《黑暗中的珍宝》中把恩利尔读作风暴中的王权——兼具创造与破坏的自然神力。"
+    },
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "《苏美尔神话》确立恩利尔文本的基本读法。"
+    },
+    {
+     "holder": "Mark S. Smith",
+     "school": "近东研究",
+     "view": "指出恩利尔与《旧约》风暴神意象的平行，属比较参照。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-enlil",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>恩利尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>恩利尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙秩序</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>分离天地</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王权授予</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>尼普尔主神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>洪水决定</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿特拉哈西斯</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>恩利尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "至高性演变",
+     "views": [
+      {
+       "holder": "尼普尔中心说",
+       "basis": "恩利尔长期为两河万神殿之首。"
+      },
+      {
+       "holder": "巴比伦替代说",
+       "basis": "马尔杜克兴起后其地位下降。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "恩利尔是尼普尔城邦主神，掌风与王权。",
+     "source": "pri-enlil"
+    },
+    {
+     "claim": "苏美尔神谱中恩利尔通过分离天地确立宇宙秩序。",
+     "source": "pri-enlil"
+    }
+   ]
+  },
+  {
+   "id": "fig-dumuzid",
+   "title": "杜穆兹（塔穆兹）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔牧神，伊南娜之配偶，死而复生神母题的核心案例。",
+   "related": [
+    "fig-inanna",
+    "motif-dying-rising",
+    "myth-mesopotamian"
+   ],
+   "sources": [
+    "pri-dumuzid",
+    "aca-sumerian-mythology",
+    "aca-golden-bough"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "杜穆兹（Dumuzid，阿卡德名 Tammuz 塔穆兹）是苏美尔牧神，伊南娜（Inanna）的配偶。在《伊南娜下冥界》叙事中，伊南娜下界后被囚，杜穆兹替她赴死，后经协商每年部分时间返回人间——这一'死而复归'结构使其成为弗雷泽《金枝》中'每年死而复生神'的经典案例，并与季候枯荣与悼亡仪式相关。",
+   "versions": [
+    "杜穆兹（Dumuzid，阿卡德名 Tammuz 塔穆兹）是苏美尔牧神，伊南娜（Inanna）的配偶。在《伊南娜下冥界》叙事中，伊南娜下界后被囚，杜穆兹替她赴死，后经协商每年部分时间返回人间——这一'死而复归'结构使其成为弗雷泽《金枝》中'每年死而复生神'的经典案例，并与季候枯荣与悼亡仪式相关。"
+   ],
+   "interpretations": [
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "《金枝》把塔穆兹作为死而复生神与季候巫术的范例。"
+    },
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "《伊南娜下冥界》译注确立杜穆兹角色的基本读法。"
+    },
+    {
+     "holder": "Jonathan Z. Smith",
+     "school": "宗教史",
+     "view": "对弗雷泽式'死而复生神'范畴提出批判，主张更谨慎的类型学。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-dumuzid",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>杜穆兹（塔穆兹）形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>杜穆兹（塔穆兹）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>牧神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伊南娜配偶</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>替死</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>下冥界</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>复归</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>季候循环</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>杜穆兹（塔穆兹）要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "复归机制",
+     "views": [
+      {
+       "holder": "替身说",
+       "basis": "其姐每年替代看守冥界。"
+      },
+      {
+       "holder": "季候说",
+       "basis": "复归对应植被的枯荣周期。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "杜穆兹是伊南娜之配偶，在《伊南娜下冥界》中替她赴死。",
+     "source": "pri-dumuzid"
+    },
+    {
+     "claim": "塔穆兹是弗雷泽'死而复生神'范式的经典案例。",
+     "source": "pri-dumuzid"
+    }
+   ]
+  },
+  {
+   "id": "fig-ninurta",
+   "title": "尼努尔塔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔—阿卡德战神与农业神，以战胜安祖鸟著称。",
+   "related": [
+    "fig-enlil",
+    "motif-cosmic-combat",
+    "myth-mesopotamian"
+   ],
+   "sources": [
+    "pri-ninurta",
+    "aca-sumerian-mythology",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "尼努尔塔（Ninurta）是苏美尔—阿卡德战神与农业神，尼普尔神系成员（恩利尔之子）。其核心神话是《尼努尔塔与安祖鸟（Anzû）》：怪鸟安祖窃取恩利尔的'命运泥板'，尼努尔塔追击并杀死安祖，夺回泥板并恢复秩序，因此被尊为'秩序恢复者'。他同时与耕作、灌溉与王权军事力量相关，亚述王室特别崇奉之。",
+   "versions": [
+    "尼努尔塔（Ninurta）是苏美尔—阿卡德战神与农业神，尼普尔神系成员（恩利尔之子）。其核心神话是《尼努尔塔与安祖鸟（Anzû）》：怪鸟安祖窃取恩利尔的'命运泥板'，尼努尔塔追击并杀死安祖，夺回泥板并恢复秩序，因此被尊为'秩序恢复者'。他同时与耕作、灌溉与王权军事力量相关，亚述王室特别崇奉之。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "在《黑暗中的珍宝》中把尼努尔塔的安祖之战读作秩序战胜混沌的宇宙斗争。"
+    },
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "《苏美尔神话》中相关文本是理解尼努尔塔的基础。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》框架下把战胜混沌怪物的叙事作宇宙斗争母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-ninurta",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>尼努尔塔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>尼努尔塔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王权武力</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>安祖之战</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>夺回命运泥板</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>农业神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>耕作灌溉</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼努尔塔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "安祖之战解读",
+     "views": [
+      {
+       "holder": "宇宙斗争说",
+       "basis": "秩序战胜混沌的仪式性重演。"
+      },
+      {
+       "holder": "王权意识形态说",
+       "basis": "彰显王权对秩序的维护。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "尼努尔塔在《尼努尔塔与安祖鸟》中杀死安祖、夺回命运泥板。",
+     "source": "pri-ninurta"
+    },
+    {
+     "claim": "尼努尔塔兼具战神与农业神职能，为亚述王室所崇奉。",
+     "source": "pri-ninurta"
+    }
+   ]
+  },
+  {
+   "id": "fig-shamash",
+   "title": "沙马什",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "两河太阳神与正义之神，与《汉谟拉比法典》的王权合法性相关。",
+   "related": [
+    "fig-marduk",
+    "motif-sun",
+    "myth-mesopotamian"
+   ],
+   "sources": [
+    "pri-shamash",
+    "aca-sumerian-mythology",
+    "aca-before-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "沙马什（Shamash，苏美尔名 Utu）是两河的太阳神与正义之神，兼司光明、真理与法律。他每日乘战车穿越天空，夜间经冥界返回；作为正义的化身，他被视为申诉对象，与占卜和肝卜（hepatoscopy）传统相关。最著名的图像是《汉谟拉比法典》石碑顶部：汉谟拉比从沙马什手中接受象征权力与公正的权杖与环。",
+   "versions": [
+    "沙马什（Shamash，苏美尔名 Utu）是两河的太阳神与正义之神，兼司光明、真理与法律。他每日乘战车穿越天空，夜间经冥界返回；作为正义的化身，他被视为申诉对象，与占卜和肝卜（hepatoscopy）传统相关。最著名的图像是《汉谟拉比法典》石碑顶部：汉谟拉比从沙马什手中接受象征权力与公正的权杖与环。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "在《黑暗中的珍宝》中把沙马什读作正义与光明的太阳神。"
+    },
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "苏美尔名 Utu 的相关 hymn 是理解沙马什的基础材料。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》中太阳的每日行程可作周期性宇宙秩序的参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-shamash",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>沙马什形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>沙马什（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>每日巡行</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>正义神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>法律与真理</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王权合法性</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>汉谟拉比法典</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>沙马什要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "太阳与正义的关联",
+     "views": [
+      {
+       "holder": "本体关联说",
+       "basis": "光明即真理，太阳神天然是正义之神。"
+      },
+      {
+       "holder": "功能并列说",
+       "basis": "两种职能在文本中并列，未必同源。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "《汉谟拉比法典》石碑顶部描绘沙马什向汉谟拉比授予权杖。",
+     "source": "pri-shamash"
+    },
+    {
+     "claim": "沙马什是两河太阳神与正义之神，与占卜传统相关。",
+     "source": "pri-shamash"
+    }
+   ]
+  },
+  {
+   "id": "fig-nephthys",
+   "title": "奈芙蒂斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及丧葬女神，塞特之妻，与伊西斯共同守护亡者。",
+   "related": [
+    "fig-isis",
+    "fig-osiris",
+    "fig-set"
+   ],
+   "sources": [
+    "pri-nephthys",
+    "pri-book-dead",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "奈芙蒂斯（Nephthys，埃及语 Nebet-Het）是盖布与努特之女，奥西里斯与塞特的姐妹、塞特之妻，与伊西斯共同构成一对守护女神：二者在丧葬文本中常并列出现，守护棺椁四角、为亡者哀歌并引导复活。她与塞特的婚姻联结使她在奥西里斯神话中处于复杂的中介位置，兼具哀悼者与保护者的角色。",
+   "versions": [
+    "奈芙蒂斯（Nephthys，埃及语 Nebet-Het）是盖布与努特之女，奥西里斯与塞特的姐妹、塞特之妻，与伊西斯共同构成一对守护女神：二者在丧葬文本中常并列出现，守护棺椁四角、为亡者哀歌并引导复活。她与塞特的婚姻联结使她在奥西里斯神话中处于复杂的中介位置，兼具哀悼者与保护者的角色。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中把奈芙蒂斯置于奥西里斯神话的家族结构中理解。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "《Ancient Egyptian Religion》中讨论埃及神祇的家族关系与神话思维。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Barbara Richter",
+     "school": "埃及学",
+     "view": "'拉之眼'谱系研究涉及奈芙蒂斯与其他女神的关系。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关神话传统",
+     "basis_source": "pri-nephthys",
+     "note": "与相关传统作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奈芙蒂斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奈芙蒂斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丧葬守护</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>棺椁四角</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哀歌者</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伊西斯之伴</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塞特之妻</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>中介角色</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奈芙蒂斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "与塞特的关系",
+     "views": [
+      {
+       "holder": "婚姻说",
+       "basis": "奈芙蒂斯是塞特之妻，处于其婚姻关系中。"
+      },
+      {
+       "holder": "情人说",
+       "basis": "另有传统称她与奥西里斯有关系。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "奈芙蒂斯与伊西斯常并列作为埃及丧葬文本中的守护女神。",
+     "source": "pri-nephthys"
+    },
+    {
+     "claim": "奈芙蒂斯是塞特之妻，在奥西里斯神话中扮演中介角色。",
+     "source": "pri-nephthys"
     }
    ]
   }

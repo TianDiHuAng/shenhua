@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T15:23:44+08:00",
+  "generated": "2026-11-23T15:32:50+08:00",
   "summary": {
-    "total": 261,
+    "total": 266,
     "by_unit": {
       "U1": 80,
       "U2": 64,
       "U3": 42,
-      "U4": 75
+      "U4": 80
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 147
+      "补充": 152
     },
     "by_level": {
       "L1": 0,
-      "L2": 147,
+      "L2": 152,
       "L3": 114
     },
-    "l2_done": 261,
+    "l2_done": 266,
     "l3_done": 114,
-    "verified_sources": 138
+    "verified_sources": 144
   },
   "entries": [
     {
@@ -2670,7 +2670,7 @@
       "tier": "补充",
       "level": "L2",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -2891,6 +2891,61 @@
       "level": "L2",
       "status": "done",
       "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-enlil",
+      "name": "恩利尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-dumuzid",
+      "name": "杜穆兹（塔穆兹）",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-ninurta",
+      "name": "尼努尔塔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-shamash",
+      "name": "沙马什",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-nephthys",
+      "name": "奈芙蒂斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     }
