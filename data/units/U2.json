@@ -19,7 +19,8 @@
     "pri-bible-kjv",
     "aca-gnostic-gospels",
     "aca-myth-legend-custom",
-    "aca-god-is-not-one"
+    "aca-god-is-not-one",
+    "ins-british-library"
    ],
    "needs_verification": true,
    "pending_notes": "1) 新约各卷成书与作者归属存在学术争论，正文未列具体年份；2) Pagels、Weber、Durkheim 的观点为其代表著作的概括，细节待逐条核对；3) 宗派分歧的表述采用学界通行描述，不评判信仰真伪。",
@@ -115,7 +116,8 @@
     "pri-quran",
     "enc-brit-islam",
     "aca-god-is-not-one",
-    "enc-brit-judaism"
+    "enc-brit-judaism",
+    "ins-sacred-texts"
    ],
    "needs_verification": true,
    "pending_notes": "1) 教义与教派分歧采用学界通行描述，不评判信仰真伪；2) 经文译本差异与注释学派的具体论点待逐条核对原文；3) Prothero、Weber、Durkheim 的观点为概括，细节待核对。",
@@ -211,7 +213,8 @@
    "sources": [
     "pri-bible-kjv",
     "aca-myth-legend-custom",
-    "aca-god-is-not-one"
+    "aca-god-is-not-one",
+    "ins-sacred-texts"
    ],
    "needs_verification": true,
    "pending_notes": "1) 不同译本的语义差异与具体教义细节待逐条核对原文；2) Gaster、Scholem、Prothero 的观点为概括，Scholem 著作未录入 sources.json；3) 全部表述采用描述性立场，不替信仰表态。",
@@ -307,7 +310,8 @@
    "sources": [
     "pri-dhammapada",
     "enc-brit-buddhism",
-    "enc-brit-hinduism"
+    "enc-brit-hinduism",
+    "ins-nara-museum"
    ],
    "needs_verification": true,
    "pending_notes": "1) 部派与大乘的形成年代跨度大，正文未列具体年数；2) Gombrich、Harvey 的论点待逐条核对原文，其著作未录入 sources.json；3) 全部教义描述采用学术立场，不替信仰表态。",

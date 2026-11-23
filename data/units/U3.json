@@ -128,7 +128,8 @@
     "pri-gilgamesh",
     "pri-atrahasis",
     "aca-myth-legend-custom",
-    "aca-comparative-myth"
+    "aca-comparative-myth",
+    "enc-wiki-flood"
    ],
    "needs_verification": true,
    "pending_notes": "1) 洪水叙事的先后与传播关系学界无定论，正文未列具体年数；2) Kramer、Frazer 的具体论点以其代表著作概括，细节待核对；3) 不推断单一起源，符合比较学术规范。",
@@ -322,7 +323,9 @@
    "sources": [
     "aca-hero-faces",
     "pri-odyssey",
-    "aca-archetypes"
+    "aca-archetypes",
+    "enc-wiki-hero-journey",
+    "aca-power-myth"
    ],
    "needs_verification": true,
    "pending_notes": "1) Campbell 模型被批评为过度概括，正文已标注；2) Jung、Frye 的具体论点以其代表著作概括，Frye 著作未录入 sources.json，细节待核对；3) “单一神话”译法与术语统一待办；本站不把它当作普遍定律。",
@@ -1810,7 +1813,10 @@
    "sources": [
     "aca-patterns-religion",
     "aca-myth-ritual-religion",
-    "aca-eternal-return"
+    "aca-eternal-return",
+    "aca-mythologies-barthes",
+    "aca-anatomy-criticism",
+    "aca-elementary-forms"
    ],
    "needs_verification": true,
    "pending_notes": "1) 神话与宗教的界限为学界持续讨论议题，正文并列不同立场不下结论；2) Müller 自然神话说已被现代学界修订，正文已标；3) 本文引用未在线核验的学术著作（见 DECISIONS.md D2），标为待核实。",

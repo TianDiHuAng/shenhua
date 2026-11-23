@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T15:58:02+08:00",
+  "generated": "2026-11-23T16:01:57+08:00",
   "summary": {
     "total": 278,
     "by_unit": {
@@ -30,7 +30,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 11,
+      "sources_count": 15,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -41,7 +41,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 6,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -52,7 +52,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 6,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -63,7 +63,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 7,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -74,7 +74,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -85,7 +85,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -96,7 +96,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -129,7 +129,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 6,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -657,7 +657,7 @@
       "tier": "补充",
       "level": "L2",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -932,7 +932,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -943,7 +943,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -954,7 +954,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -965,7 +965,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1559,7 +1559,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 4,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1581,7 +1581,7 @@
       "tier": "核心",
       "level": "L3",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1768,7 +1768,7 @@
       "tier": "重要",
       "level": "L3",
       "status": "done",
-      "sources_count": 3,
+      "sources_count": 6,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },

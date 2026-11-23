@@ -70,7 +70,11 @@
     "aca-greek-myth-thought",
     "aca-comparative-myth",
     "enc-brit-greek",
-    "pri-enuma-elish"
+    "pri-enuma-elish",
+    "ins-theoi",
+    "ins-perseus",
+    "aca-greek-myths-graves",
+    "enc-oxford-classical"
    ],
    "needs_verification": true,
    "pending_notes": "1) 赫西俄德与荷马的生卒年不可考，文中年代为学界通说约数；2) 《书库》为托名之作，成书年代有争议；3) 引用未在线核验的百科条目（enc-brit-greek，见 DECISIONS.md D2）；4) 跨传统类比仅记录比较神话学教材中已有文献依据者，未作自行类比。",
@@ -132,7 +136,9 @@
     "pri-poetic-eddas",
     "pri-prose-eddas",
     "aca-comparative-myth",
-    "aca-gods-indo-europeans"
+    "aca-gods-indo-europeans",
+    "pri-beowulf",
+    "enc-brit-norse"
    ],
    "needs_verification": true,
    "pending_notes": "1) 《诗体埃达》诸诗的确切成文年代有争论；2) 斯诺里的历史化解释是否忠实于更早传统，学界有分歧；3) John Lindow 与萨克索《丹麦人的业绩》均未录入 sources.json，其观点/材料作为学界代表列举，待补来源条目；4) 三功能模型为学派框架，不替读者下结论。",
@@ -229,7 +235,9 @@
     "pri-pyramid-texts",
     "pri-book-dead",
     "aca-before-philosophy",
-    "aca-golden-bough"
+    "aca-golden-bough",
+    "pri-coffin-texts",
+    "ins-egyptian-museum"
    ],
    "needs_verification": true,
    "pending_notes": "1) 阿肯那顿改革的确切年代与影响范围学界有不同估计，正文未列具体数字；2) James P. Allen 的著作未录入 sources.json，待补；3) Frazer 的比较结论属早期学派观点，已标注争论。",
@@ -327,7 +335,10 @@
     "pri-enuma-elish",
     "pri-gilgamesh",
     "aca-before-philosophy",
-    "aca-comparative-myth"
+    "aca-comparative-myth",
+    "enc-brit-mesopotamian",
+    "ins-yale-babylonian",
+    "ins-iraq-museum"
    ],
    "needs_verification": true,
    "pending_notes": "1) 洪水叙事两版本的关系与先后学界仍有讨论；2) 大量泥板文本残缺，正文未给具体数字；3) Jacobsen、Kramer 的具体论点以其代表著作概括，细节待逐条核对引文。",
@@ -424,7 +435,8 @@
    "sources": [
     "pri-shan-hai-jing",
     "pri-chu-ci",
-    "aca-eternal-return"
+    "aca-eternal-return",
+    "ins-smithsonian"
    ],
    "needs_verification": true,
    "pending_notes": "1) 盘古传说最早文献出处的辑佚性质与年代待核实；2) 袁珂的具体论点未录入 sources.json；Lévi-Strauss 仅录入《结构人类学》方法论通论，其中国神话相关具体论点待核；3) 神话片段化的判断为学界通行看法，具体材料需逐条核对。",
@@ -523,7 +535,8 @@
     "pri-rigveda",
     "pri-mahabharata",
     "aca-gods-indo-europeans",
-    "aca-comparative-myth"
+    "aca-comparative-myth",
+    "pri-ramayana"
    ],
    "needs_verification": true,
    "pending_notes": "1) 吠陀、奥义书、史诗与往世书的形成年代跨度大且难以精确，正文未列具体年数；2) Dumézil 三功能模型与 Doniger 的阐释立场均有学界争论；3) 细分阶段为叙述便利之划分，不表示严格的时间先后顺序。",
@@ -620,7 +633,8 @@
     "pri-kojiki",
     "pri-nihon-shoki",
     "aca-comparative-myth",
-    "aca-eternal-return"
+    "aca-eternal-return",
+    "ins-nara-museum"
    ],
    "needs_verification": true,
    "pending_notes": "1) 两部正史的编纂年代与材料来源学界有讨论；2) 本居宣长、Philippi 的具体论点待逐条核对原文，著作未完整录入 sources.json；3) 祝词等口传材料与正史的对应关系尚需专门研究。",
@@ -911,7 +925,9 @@
     "pri-mabinogion",
     "pri-lebor-gabala",
     "aca-gods-indo-europeans",
-    "aca-comparative-myth"
+    "aca-comparative-myth",
+    "enc-brit-celtic",
+    "pri-tain"
    ],
    "needs_verification": true,
    "pending_notes": "1) 高卢与岛屿凯尔特材料之间的时空距离大，不能简单等同；2) Mac Cana、Sjoestedt 的具体论点待逐条核对，其著作未录入 sources.json；3) 本土知识传统的细节以学界通行为限，不作真伪评判。",
@@ -4402,7 +4418,8 @@
    "sources": [
     "pri-dine-bahane",
     "aca-religions-american-indians",
-    "aca-shamanism"
+    "aca-shamanism",
+    "aca-implied-spider"
    ],
    "needs_verification": true,
    "pending_notes": "1) 《迪内巴霍》19世纪经华盛顿·马修斯记录，文本层次学界有讨论；2) 仪式细节（如夜歌）属传承知识，公开文献有限，标注待核实；3) 描述性立场，不评判信仰真伪。",
