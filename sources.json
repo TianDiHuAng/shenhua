@@ -3340,6 +3340,84 @@
    "link_ok": true,
    "verified": true,
    "note": "妈祖（林默娘，960—987）是海上守护神，宋元明清历代受封，闽台与海外华人中广受崇拜；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tsukuyomi",
+   "title": "月读文献（《古事记》《日本书纪》）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tsukuyomi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "月读（Tsukuyomi）是日本神话的月之神，天照大神与须佐之男之弟；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-izanagi",
+   "title": "伊邪那岐文献（《古事记》）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Izanagi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊邪那岐（Izanagi）是日本神话的男神创世者，与伊邪那美共同创造日本列岛；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-inari",
+   "title": "稻荷神文献（稻荷信仰）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "中世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Inari_%C5%8Ckami",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "稻荷神（Inari Ōkami）是日本五谷丰登、生意兴隆的守护神，以狐狸为使者，伏见稻荷大社为中心；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-hachiman",
+   "title": "八幡神文献（八幡信仰）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "中世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hachiman",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "八幡神（Hachiman）是日本的战神与武家守护神，后与应神天皇等结合；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tenjin",
+   "title": "天神（菅原道真）文献",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "10世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sugawara_no_Michizane",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "天神信仰以菅原道真（845–903）为学问之神，太宰府天满宫为中心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-kitsune",
+   "title": "狐狸（日本民间信仰）文献",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "民间口传",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kitsune",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "日本狐狸（kitsune）是民间信仰中的灵兽，与稻荷信仰、变化（化け狐）传说相关；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

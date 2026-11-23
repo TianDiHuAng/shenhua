@@ -10303,6 +10303,448 @@
      "source": "pri-mazu"
     }
    ]
+  },
+  {
+   "id": "fig-kitsune",
+   "title": "狐狸（日本）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本民间信仰中的灵兽，与稻荷信仰和变化传说相关。",
+   "related": [
+    "fig-inari",
+    "myth-japanese",
+    "motif-shapeshifting"
+   ],
+   "sources": [
+    "pri-kitsune"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 狐狸传说属民间口传，版本多样；2) 与狐仙/稻荷/荼枳尼天的复合关系待专门文献；3) 描述性立场。",
+   "year": null,
+   "source_text": "狐狸（kitsune）在日本民间信仰中是具超自然力量的灵兽：它们被视为稻荷神的使者，也有'化け狐'（变化为美女或人形）的传说，能附体、迷惑人（狐火、狐嫁入等故事）。狐狸信仰与中国'狐仙'传统、稻荷信仰以及佛教的荼枳尼天信仰相互交织。其形象兼有'灵验守护'与'狡黠迷惑'的两面，是日本民间故事与宗教中的常见角色。",
+   "versions": [
+    "狐狸（kitsune）在日本民间信仰中是具超自然力量的灵兽：它们被视为稻荷神的使者，也有'化け狐'（变化为美女或人形）的传说，能附体、迷惑人（狐火、狐嫁入等故事）。狐狸信仰与中国'狐仙'传统、稻荷信仰以及佛教的荼枳尼天信仰相互交织。其形象兼有'灵验守护'与'狡黠迷惑'的两面，是日本民间故事与宗教中的常见角色。"
+   ],
+   "interpretations": [
+    {
+     "holder": "日本民间传说",
+     "school": "口传传统",
+     "view": "狐狸变化与附体的故事广为流传。"
+    },
+    {
+     "holder": "现代日本民俗学",
+     "school": "区域研究",
+     "view": "强调狐狸与稻荷信仰、狐仙传说的复合关系。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "动物化身与灵兽可作变形母题的参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "中国狐仙信仰",
+     "basis_source": "pri-kitsune",
+     "note": "作民间灵兽信仰的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>狐狸形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>狐狸（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>稻荷使者</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>灵兽</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>化け狐</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>变化传说</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>两面形象</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>守护与迷惑</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "狐狸的形象",
+     "views": [
+      {
+       "holder": "守护说",
+       "basis": "作为稻荷使者带来灵验与丰饶。"
+      },
+      {
+       "holder": "迷惑说",
+       "basis": "化け狐迷惑人类，具危险性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "狐狸在日本民间信仰中是具超自然力量的灵兽。",
+     "source": "pri-kitsune"
+    },
+    {
+     "claim": "狐狸与稻荷信仰、变化传说密切相关。",
+     "source": "pri-kitsune"
+    }
+   ]
+  },
+  {
+   "id": "fig-tsukuyomi",
+   "title": "月读",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "日本神话的月之神，天照大神与须佐之男之弟。",
+   "related": [
+    "myth-japanese",
+    "fig-amaterasu",
+    "fig-susanoo"
+   ],
+   "sources": [
+    "pri-tsukuyomi",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古典文献—中世纪信仰层，形象随时代演变；2) 神道教与佛教、民间信仰的融合须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "月读（Tsukuyomi-no-Mikoto）是日本神话中的月之神，《古事记》《日本书纪》记载伊邪那岐在黄泉归来后于祓禊时生下的三贵子之一（天照大神、须佐之男、月读）。他掌管夜晚与月亮，神话中因杀死食物女神宇迦之御魂（Ukanomitama）而与天照大神决裂（不同版本有异），象征日月分离。月读在后世信仰中的独立崇拜较少，多作为三贵子结构的成员出现。",
+   "versions": [
+    "月读（Tsukuyomi-no-Mikoto）是日本神话中的月之神，《古事记》《日本书纪》记载伊邪那岐在黄泉归来后于祓禊时生下的三贵子之一（天照大神、须佐之男、月读）。他掌管夜晚与月亮，神话中因杀死食物女神宇迦之御魂（Ukanomitama）而与天照大神决裂（不同版本有异），象征日月分离。月读在后世信仰中的独立崇拜较少，多作为三贵子结构的成员出现。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《古事记》",
+     "school": "古典文本",
+     "view": "记载月读的诞生与三贵子结构。"
+    },
+    {
+     "holder": "本居宣长",
+     "school": "国学研究",
+     "view": "江户国学家强调《古事记》神话的本土性。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "日月对立可作宇宙论母题的一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tsukuyomi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>月读形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>月读（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>月之神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>夜晚</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三贵子</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天照·须佐之男之弟</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>日月决裂</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神话叙事</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>月读要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "月读与天照",
+     "views": [
+      {
+       "holder": "对立说",
+       "basis": "月读杀食物神导致与天照分离。"
+      },
+      {
+       "holder": "互补说",
+       "basis": "日月是互补的宇宙结构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "月读是日本神话的月之神，三贵子之一。",
+     "source": "pri-tsukuyomi"
+    },
+    {
+     "claim": "月读与天照大神的决裂叙事解释日月分离。",
+     "source": "pri-tsukuyomi"
+    }
+   ]
+  },
+  {
+   "id": "fig-izanagi",
+   "title": "伊邪那岐",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "日本神话的创世男神，与伊邪那美共同创造日本列岛。",
+   "related": [
+    "myth-japanese",
+    "fig-izanami",
+    "fig-amaterasu"
+   ],
+   "sources": [
+    "pri-izanagi",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古典文献—中世纪信仰层，形象随时代演变；2) 神道教与佛教、民间信仰的融合须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "伊邪那岐（Izanagi，'男神'）是日本神话中的创世男神：他与伊邪那美（女神）受命创造漂浮的国土，以天沼矛搅动海水，从矛尖滴下的盐凝结成第一座岛（Awaji），随后二神结合生下日本列岛与众多神祇。伊邪那美死后，伊邪那岐赴黄泉探望，见其腐化形象后惊惧逃离，并以巨石封住黄泉入口——这一'黄泉归来'叙事是日本神话中关于死亡与洁净（祓禊）的核心文本；他祓禊时生下天照、须佐之男、月读三贵子。",
+   "versions": [
+    "伊邪那岐（Izanagi，'男神'）是日本神话中的创世男神：他与伊邪那美（女神）受命创造漂浮的国土，以天沼矛搅动海水，从矛尖滴下的盐凝结成第一座岛（Awaji），随后二神结合生下日本列岛与众多神祇。伊邪那美死后，伊邪那岐赴黄泉探望，见其腐化形象后惊惧逃离，并以巨石封住黄泉入口——这一'黄泉归来'叙事是日本神话中关于死亡与洁净（祓禊）的核心文本；他祓禊时生下天照、须佐之男、月读三贵子。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《古事记》《日本书纪》",
+     "school": "古典文本",
+     "view": "记载伊邪那岐的创世与黄泉归来叙事。"
+    },
+    {
+     "holder": "本居宣长",
+     "school": "国学研究",
+     "view": "强调《古事记》的本土神话价值。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "创世—死亡—洁净的结构可作宇宙论参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-izanagi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊邪那岐形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊邪那岐（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天沼矛</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>黄泉归来</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>死亡叙事</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祓禊</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洁净仪式</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊邪那岐要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "伊邪那岐的黄泉行为",
+     "views": [
+      {
+       "holder": "背德说",
+       "basis": "窥视亡妻违反禁忌。"
+      },
+      {
+       "holder": "洁净起源说",
+       "basis": "逃离与祓禊解释死亡污染与净化。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊邪那岐与伊邪那美以天沼矛创造日本列岛。",
+     "source": "pri-izanagi"
+    },
+    {
+     "claim": "伊邪那岐的黄泉归来与祓禊叙事是日本神话的核心。",
+     "source": "pri-izanagi"
+    }
+   ]
+  },
+  {
+   "id": "fig-inari",
+   "title": "稻荷神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本五谷丰登与商业繁荣的守护神，以狐狸为使者。",
+   "related": [
+    "myth-japanese",
+    "fig-kitsune",
+    "rel-shinto"
+   ],
+   "sources": [
+    "pri-inari"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古典文献—中世纪信仰层，形象随时代演变；2) 神道教与佛教、民间信仰的融合须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "稻荷神（Inari Ōkami）是日本神道教与民间信仰中的五谷丰登、生意兴隆与守护之神：其信仰中心是京都伏见稻荷大社（以千本鸟居闻名），稻荷神常与狐狸（kitsune）使者相关联，形象常显现为白狐或 Uzume 等。稻荷信仰在中世纪随商业发展而普及，并与佛教（如丰田稻荷与荼枳尼天）融合。稻荷神并非单一神祇，而是多个稻荷神（如宇迦之御魂、佐田彦等）的总称。",
+   "versions": [
+    "稻荷神（Inari Ōkami）是日本神道教与民间信仰中的五谷丰登、生意兴隆与守护之神：其信仰中心是京都伏见稻荷大社（以千本鸟居闻名），稻荷神常与狐狸（kitsune）使者相关联，形象常显现为白狐或 Uzume 等。稻荷信仰在中世纪随商业发展而普及，并与佛教（如丰田稻荷与荼枳尼天）融合。稻荷神并非单一神祇，而是多个稻荷神（如宇迦之御魂、佐田彦等）的总称。"
+   ],
+   "interpretations": [
+    {
+     "holder": "神道传统",
+     "school": "本土信仰",
+     "view": "稻荷神是神道与民间信仰的重要神祇。"
+    },
+    {
+     "holder": "现代日本民俗学",
+     "school": "区域研究",
+     "view": "强调稻荷信仰与商业、狐狸传说的关联。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "丰饶神与动物使者的结构可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-inari",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>稻荷神形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>稻荷神（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五谷丰登</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>农业神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>商业繁荣</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>守护神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>狐狸使者</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>kitsune</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>稻荷神要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "稻荷神的身份",
+     "views": [
+      {
+       "holder": "单一神说",
+       "basis": "稻荷是单一的神祇。"
+      },
+      {
+       "holder": "神群说",
+       "basis": "是多个稻荷神的总称。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "稻荷神是日本五谷丰登与商业繁荣的守护神。",
+     "source": "pri-inari"
+    },
+    {
+     "claim": "伏见稻荷大社是稻荷信仰的中心，以狐狸为使者。",
+     "source": "pri-inari"
+    }
+   ]
+  },
+  {
+   "id": "fig-hachiman",
+   "title": "八幡神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本的战神与武家守护神，后与应神天皇结合。",
+   "related": [
+    "myth-japanese",
+    "rel-shinto",
+    "fig-amaterasu"
+   ],
+   "sources": [
+    "pri-hachiman"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古典文献—中世纪信仰层，形象随时代演变；2) 神道教与佛教、民间信仰的融合须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "八幡神（Hachiman）是日本重要的神祇，最初是九州地方的信仰对象，后被尊为战神与武家（尤其源氏）的守护神。中世纪以降，八幡神与应神天皇（第15代天皇）结合，被称为'八幡宫'，并受佛教影响而具'八幡大菩萨'的称号（神佛习合的典型）。八幡信仰随日本武家兴起而普及，镰仓的鹤冈八幡宫等是著名神社。",
+   "versions": [
+    "八幡神（Hachiman）是日本重要的神祇，最初是九州地方的信仰对象，后被尊为战神与武家（尤其源氏）的守护神。中世纪以降，八幡神与应神天皇（第15代天皇）结合，被称为'八幡宫'，并受佛教影响而具'八幡大菩萨'的称号（神佛习合的典型）。八幡信仰随日本武家兴起而普及，镰仓的鹤冈八幡宫等是著名神社。"
+   ],
+   "interpretations": [
+    {
+     "holder": "神道—佛教习合",
+     "school": "宗教史",
+     "view": "八幡大菩萨的称号体现神佛融合。"
+    },
+    {
+     "holder": "武家传统",
+     "school": "历史研究",
+     "view": "源氏等武家把八幡神奉为守护神。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "战神与王权的关联可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hachiman",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>八幡神形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>八幡神（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>武家守护</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>应神天皇</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>结合</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>八幡大菩萨</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神佛习合</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>八幡神要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "八幡神的身份",
+     "views": [
+      {
+       "holder": "天皇说",
+       "basis": "八幡神即应神天皇。"
+      },
+      {
+       "holder": "本土神说",
+       "basis": "原有独立的八幡神，后与天皇结合。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "八幡神是日本的战神与武家守护神。",
+     "source": "pri-hachiman"
+    },
+    {
+     "claim": "八幡神后与应神天皇结合，称八幡大菩萨（神佛习合）。",
+     "source": "pri-hachiman"
+    }
+   ]
+  },
+  {
+   "id": "fig-tenjin",
+   "title": "天神（菅原道真）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本学问之神，被神化的平安时代政治家菅原道真。",
+   "related": [
+    "myth-japanese",
+    "rel-shinto",
+    "rel-confucianism"
+   ],
+   "sources": [
+    "pri-tenjin"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨古典文献—中世纪信仰层，形象随时代演变；2) 神道教与佛教、民间信仰的融合须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "天神（Tenjin）信仰以平安时代政治家与学者菅原道真（845—903）为中心：他因政治斗争被贬太宰府并客死，其后京都出现疫病与雷击等灾异，被视为其怨灵作祟；为镇抚怨灵，朝廷为其平反并建神社供奉，逐渐将他从'怨灵'转化为'学问之神'与'文运守护神'。太宰府天满宫与京都北野天满宫是天神信仰的中心，至今学生在考试前参拜祈愿。这一'怨灵→守护神'的转化是日本神道中神格形成的典型案例。",
+   "versions": [
+    "天神（Tenjin）信仰以平安时代政治家与学者菅原道真（845—903）为中心：他因政治斗争被贬太宰府并客死，其后京都出现疫病与雷击等灾异，被视为其怨灵作祟；为镇抚怨灵，朝廷为其平反并建神社供奉，逐渐将他从'怨灵'转化为'学问之神'与'文运守护神'。太宰府天满宫与京都北野天满宫是天神信仰的中心，至今学生在考试前参拜祈愿。这一'怨灵→守护神'的转化是日本神道中神格形成的典型案例。"
+   ],
+   "interpretations": [
+    {
+     "holder": "菅原道真",
+     "school": "历史人物",
+     "view": "其被贬与客死是天神信仰的历史核心。"
+    },
+    {
+     "holder": "日本怨灵信仰",
+     "school": "宗教史",
+     "view": "怨灵镇抚是日本宗教的重要机制。"
+    },
+    {
+     "holder": "现代日本民俗学",
+     "school": "区域研究",
+     "view": "强调天神信仰与学问、考试文化的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tenjin",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>天神（菅原道真）形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>天神（菅原道真）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>学问之神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文运守护</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>怨灵转化</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>镇抚信仰</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太宰府</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>信仰中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天神（菅原道真）要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "天神的性质",
+     "views": [
+      {
+       "holder": "怨灵说",
+       "basis": "信仰源于对怨灵的恐惧与镇抚。"
+      },
+      {
+       "holder": "学问神说",
+       "basis": "后世主要作为学问与文运之神崇拜。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "天神信仰以菅原道真为中心，从怨灵转化为学问之神。",
+     "source": "pri-tenjin"
+    },
+    {
+     "claim": "太宰府天满宫与北野天满宫是天神信仰中心。",
+     "source": "pri-tenjin"
+    }
+   ]
   }
  ]
 }

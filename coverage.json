@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T16:55:10+08:00",
+  "generated": "2026-11-23T17:01:06+08:00",
   "summary": {
-    "total": 328,
+    "total": 334,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 125
+      "U4": 131
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 214
+      "补充": 220
     },
     "by_level": {
       "L1": 0,
-      "L2": 214,
+      "L2": 220,
       "L3": 114
     },
-    "l2_done": 328,
+    "l2_done": 334,
     "l3_done": 114,
-    "verified_sources": 211
+    "verified_sources": 217
   },
   "entries": [
     {
@@ -3623,6 +3623,72 @@
     {
       "id": "fig-mazu",
       "name": "妈祖",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-tsukuyomi",
+      "name": "月读",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-izanagi",
+      "name": "伊邪那岐",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-inari",
+      "name": "稻荷神",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-hachiman",
+      "name": "八幡神",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-tenjin",
+      "name": "天神（菅原道真）",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-kitsune",
+      "name": "狐狸（日本）",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",
