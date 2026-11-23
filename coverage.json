@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-23T16:13:34+08:00",
+  "generated": "2026-11-23T16:20:11+08:00",
   "summary": {
-    "total": 290,
+    "total": 294,
     "by_unit": {
-      "U1": 82,
+      "U1": 86,
       "U2": 75,
       "U3": 42,
       "U4": 91
@@ -11,16 +11,16 @@
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 176
+      "补充": 180
     },
     "by_level": {
       "L1": 0,
-      "L2": 176,
+      "L2": 180,
       "L3": 114
     },
-    "l2_done": 290,
+    "l2_done": 294,
     "l3_done": 114,
-    "verified_sources": 171
+    "verified_sources": 176
   },
   "entries": [
     {
@@ -426,7 +426,7 @@
       "tier": "补充",
       "level": "L2",
       "status": "done",
-      "sources_count": 2,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -917,6 +917,50 @@
     {
       "id": "myth-ojibwe",
       "name": "奥吉布瓦神话（阿尼什纳比）",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-samoan",
+      "name": "萨摩亚神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-tongan",
+      "name": "汤加神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-dayak",
+      "name": "达雅克神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "myth-lao",
+      "name": "老挝神话",
       "unit": "U1",
       "tier": "补充",
       "level": "L2",
@@ -3299,6 +3343,10 @@
         "myth-blackfoot",
         "myth-efik",
         "myth-ojibwe",
+        "myth-samoan",
+        "myth-tongan",
+        "myth-dayak",
+        "myth-lao",
         "rel-christianity",
         "rel-islam",
         "rel-judaism",
@@ -9133,6 +9181,286 @@
         "tradition": "myth-ojibwe",
         "motif": "motif-trickster",
         "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-samoan",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-tongan",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-creation",
+        "period": "oral",
+        "expected": true,
+        "status": "L2"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-flood",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-underworld",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-herojourney",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-sun",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-mother-goddess",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-dragon",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-worldtree",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-eschatology",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-dayak",
+        "motif": "motif-trickster",
+        "period": "oral",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-lao",
+        "motif": "motif-trickster",
+        "period": "medieval",
         "expected": false,
         "status": "empty"
       },

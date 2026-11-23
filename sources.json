@@ -2820,6 +2820,71 @@
    "link_ok": true,
    "verified": true,
    "note": "雅尔桑教（Yarsanism/Ahl-e Haqq）是库尔德地区的新宗教，融合伊斯兰苏菲与伊朗传统；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-samoan",
+   "title": "萨摩亚口传叙事集（Tagaloa 传统）",
+   "author": "佚名（萨摩亚）/民族志记录",
+   "year": null,
+   "year_display": "口传，19世纪起记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Samoan_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "萨摩亚神话以 Tagaloa 创世与 Māui 等波利尼西亚共同母题为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tongan",
+   "title": "汤加口传叙事集（Tangaloa 神谱）",
+   "author": "佚名（汤加）/民族志记录",
+   "year": null,
+   "year_display": "口传，19世纪起记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tongan_narrative",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "汤加神话以 Tangaloa 天神谱系与'天降'王权叙事为核心；2026-11-23 经 Wikipedia API 实测（Tongan mythology→Tongan narrative）。"
+  },
+  {
+   "id": "pri-micronesian",
+   "title": "密克罗尼西亚口传叙事集",
+   "author": "佚名（密克罗尼西亚各族）/民族志记录",
+   "year": null,
+   "year_display": "口传，20世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Micronesian_mythology",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "密克罗尼西亚神话含创造、航海与岛屿起源叙事（如查莫罗/楚克诸 traditional）；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-dayak",
+   "title": "达雅克口传叙事集（婆罗洲）",
+   "author": "佚名（达雅克各族）/民族志记录",
+   "year": null,
+   "year_display": "口传，19世纪起记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Dayak_people",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "达雅克（婆罗洲原住民）神话含创世、祖先与 headhunting 仪式叙事；2026-11-23 经 Wikipedia API 实测（Dayak mythology→Dayak people）。"
+  },
+  {
+   "id": "pri-lao",
+   "title": "老挝佛教与本土信仰文献",
+   "author": "佚名（老挝）/佛教文献与口传",
+   "year": null,
+   "year_display": "口传+佛教手稿",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Buddhism_in_Laos",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "老挝神话融合本土 phi 精灵信仰与上座部佛教《罗摩衍那》地方版（Phra Lak Phra Lam）；Lao mythology/Lao religion 条目均缺失，2026-11-23 实测改用 Buddhism in Laos。"
   }
  ]
 }

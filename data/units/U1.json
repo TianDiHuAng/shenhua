@@ -3232,16 +3232,19 @@
    ],
    "sources": [
     "enc-wiki-list-myth",
-    "ins-world-history"
+    "ins-world-history",
+    "pri-micronesian",
+    "aca-shamanism"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 各岛群传统差异大，口传经民族志记录；2) 殖民记录语境已标注；3) 百科/机构来源未在线核验，弱参照。",
+   "pending_notes": "1) 各岛群传统差异大，口传经民族志记录；2) 殖民记录语境已标注；3) 百科/机构来源未在线核验，弱参照。 1) 口传材料经民族志/传教士记录，转写有研究者加工；2) 岛屿/族群版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
    "year": null,
-   "source_text": "密克罗尼西亚神话指密克罗尼西亚群岛的岛屿创世、航海与祖灵传说，材料主要经口传与20世纪以来的民族志记录保存。各岛群传统有联系也有差异，本文如实标注材料局限。",
+   "source_text": "密克罗尼西亚神话是西太平洋众多小岛社会（如查莫罗、楚克、帕劳、马绍尔等）传统的总称：核心母题包括岛屿的创造（如From神或祖先捞土造岛）、航海与星辰导航的神圣知识、祖先灵与精灵（如 masp 或 anito）的崇拜。各地区神话差异显著，缺乏统一正典；材料主要经20世纪民族志记录（如JGEDA 等太平洋研究项目）。",
    "versions": [
     "密克罗尼西亚各岛群的创世叙事以岛屿从海中升起、祖灵化生等母题为特征，细节因岛群而异。",
     "航海传说反映密克罗尼西亚人的海洋文化与导航知识，口传版本随移民演变。",
-    "殖民时期记录与当代社群叙述之间存在语境差异，解读需谨慎。"
+    "殖民时期记录与当代社群叙述之间存在语境差异，解读需谨慎。",
+    "密克罗尼西亚神话是西太平洋众多小岛社会（如查莫罗、楚克、帕劳、马绍尔等）传统的总称：核心母题包括岛屿的创造（如From神或祖先捞土造岛）、航海与星辰导航的神圣知识、祖先灵与精灵（如 masp 或 anito）的崇拜。各地区神话差异显著，缺乏统一正典；材料主要经20世纪民族志记录（如JGEDA 等太平洋研究项目）。"
    ],
    "interpretations": [
     {
@@ -3258,6 +3261,21 @@
      "holder": "Åke Hultkrantz",
      "school": "宗教民族学",
      "view": "Hultkrantz 在《The Religions of the American Indians》等方法论著作中强调，海洋/区域民族的口传传统须结合其生计方式理解，这一宗教民族学方法主张回到具体语境、避免脱离生计方式的抽象比较。"
+    },
+    {
+     "holder": "20世纪太平洋民族志",
+     "school": "区域研究",
+     "view": "记录密克罗尼西亚各岛的创世与航海神话。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》框架下把岛屿创世作宇宙论参照。"
+    },
+    {
+     "holder": "太平洋研究",
+     "school": "文化研究",
+     "view": "强调航海知识与神话的空间导航功能。"
     }
    ],
    "comparisons": [
@@ -3272,7 +3290,32 @@
      "note": "以机构资料作大洋洲区域背景的一般参照（该来源未在线核验），弱参照，待补专门文献。"
     }
    ],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>密克罗尼西亚神话示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>密克罗尼西亚：岛屿与航海（示意）</text><ellipse cx='380' cy='200' rx='120' ry='60' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='205' text-anchor='middle' fill='var(--svg-text)' font-size='14'>岛屿</text><text x='160' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>岛屿升起</text><text x='600' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>航海传说</text><text x='160' y='280' text-anchor='middle' fill='var(--svg-text)' font-size='13'>祖灵化生</text><text x='600' y='280' text-anchor='middle' fill='var(--svg-text)' font-size='13'>导航知识</text><line x1='260' y1='170' x2='170' y2='150' stroke='currentColor' opacity='0.4'/><line x1='500' y1='170' x2='590' y2='150' stroke='currentColor' opacity='0.4'/><text x='380' y='330' text-anchor='middle' fill='var(--svg-text)' font-size='13'>各岛群传统有联系也有差异</text></svg>"
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>密克罗尼西亚神话示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>密克罗尼西亚：岛屿与航海（示意）</text><ellipse cx='380' cy='200' rx='120' ry='60' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='205' text-anchor='middle' fill='var(--svg-text)' font-size='14'>岛屿</text><text x='160' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>岛屿升起</text><text x='600' y='140' text-anchor='middle' fill='var(--svg-text)' font-size='13'>航海传说</text><text x='160' y='280' text-anchor='middle' fill='var(--svg-text)' font-size='13'>祖灵化生</text><text x='600' y='280' text-anchor='middle' fill='var(--svg-text)' font-size='13'>导航知识</text><line x1='260' y1='170' x2='170' y2='150' stroke='currentColor' opacity='0.4'/><line x1='500' y1='170' x2='590' y2='150' stroke='currentColor' opacity='0.4'/><text x='380' y='330' text-anchor='middle' fill='var(--svg-text)' font-size='13'>各岛群传统有联系也有差异</text></svg>",
+   "controversies": [
+    {
+     "issue": "统一性问题",
+     "views": [
+      {
+       "holder": "共同底层说",
+       "basis": "共享南岛语系航海神话底层。"
+      },
+      {
+       "holder": "在地差异说",
+       "basis": "各岛传统独立性强，难以统一。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "密克罗尼西亚神话含岛屿起源与航海星辰导航叙事。",
+     "source": "pri-micronesian"
+    },
+    {
+     "claim": "各岛传统差异显著，无统一正典。",
+     "source": "pri-micronesian"
+    }
+   ]
   },
   {
    "id": "myth-plains-native",
@@ -6699,6 +6742,302 @@
     {
      "claim": "米德维温（Midewiwin）是其重要的仪式社团。",
      "source": "pri-anishinaabe"
+    }
+   ]
+  },
+  {
+   "id": "myth-samoan",
+   "title": "萨摩亚神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 Tagaloa 创世与 Māui 母题为核心的中太平洋波利尼西亚传统。",
+   "related": [
+    "myth-tahitian",
+    "myth-tongan",
+    "myth-maori"
+   ],
+   "sources": [
+    "pri-samoan",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经民族志/传教士记录，转写有研究者加工；2) 岛屿/族群版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "萨摩亚神话以 Tagaloa（塔加洛阿）为核心：他是天神/创造者，从无中生出天地与其他神祇（如 Māui、Tangaroa），各神司职海洋、风、战争等。萨摩亚共享波利尼西亚的 Māui 文化英雄母题（钓鱼岛、缚日、取火等），并发展出以 'ava 仪式与部落（matai）制度为背景的叙事传统。材料主要经19世纪传教士与20世纪民族志记录。",
+   "versions": [
+    "萨摩亚神话以 Tagaloa（塔加洛阿）为核心：他是天神/创造者，从无中生出天地与其他神祇（如 Māui、Tangaroa），各神司职海洋、风、战争等。萨摩亚共享波利尼西亚的 Māui 文化英雄母题（钓鱼岛、缚日、取火等），并发展出以 'ava 仪式与部落（matai）制度为背景的叙事传统。材料主要经19世纪传教士与20世纪民族志记录。"
+   ],
+   "interpretations": [
+    {
+     "holder": "19世纪传教士记录",
+     "school": "区域研究",
+     "view": "保存大量萨摩亚口传材料，但带基督教视角。"
+    },
+    {
+     "holder": "Te Rangi Hīroa（Peter Buck）",
+     "school": "波利尼西亚学",
+     "view": "强调南岛语族知识谱系的内部理解。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》框架下把创世叙事作宇宙论参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-samoan",
+     "note": "作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>萨摩亚神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>萨摩亚神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Tagaloa</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天神创造者</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Māui</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文化英雄</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>'ava仪式</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>社会背景</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>萨摩亚神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Tagaloa 与 Tangaroa",
+     "views": [
+      {
+       "holder": "同一神说",
+       "basis": "在不同岛屿为同一神的地方名。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "萨摩亚传统中二者为不同神格。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "萨摩亚神话以 Tagaloa 为创世天神，共享波利尼西亚 Māui 母题。",
+     "source": "pri-samoan"
+    },
+    {
+     "claim": "萨摩亚叙事与 'ava 仪式和 matai 部落制度紧密相关。",
+     "source": "pri-samoan"
+    }
+   ]
+  },
+  {
+   "id": "myth-tongan",
+   "title": "汤加神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 Tangaloa 天神谱系与天降王权叙事为核心的西波利尼西亚传统。",
+   "related": [
+    "myth-samoan",
+    "myth-fijian",
+    "myth-hawaiian"
+   ],
+   "sources": [
+    "pri-tongan",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经民族志/传教士记录，转写有研究者加工；2) 岛屿/族群版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "汤加（Tonga）神话以 Tangaloa 天神谱系为核心：Tangaloa 'Eitumātupu'a 等天神层级构成宇宙秩序，人类始祖与王权常追溯至天界（'天降'叙事），汤加国王（Tui'i）的神圣地位由此获得神话支持。与萨摩亚、斐济共享西波利尼西亚的文化底层，材料经19世纪传教士（如 Rabone）与民族志记录。",
+   "versions": [
+    "汤加（Tonga）神话以 Tangaloa 天神谱系为核心：Tangaloa 'Eitumātupu'a 等天神层级构成宇宙秩序，人类始祖与王权常追溯至天界（'天降'叙事），汤加国王（Tui'i）的神圣地位由此获得神话支持。与萨摩亚、斐济共享西波利尼西亚的文化底层，材料经19世纪传教士（如 Rabone）与民族志记录。"
+   ],
+   "interpretations": [
+    {
+     "holder": "传教士民族志",
+     "school": "19世纪记录",
+     "view": "保存汤加神话与王权叙事，带基督教语境。"
+    },
+    {
+     "holder": "Epeli Hau'ofa",
+     "school": "太平洋研究",
+     "view": "强调汤加—斐济—萨摩亚的海洋文化连续性。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "'天降王权'可作神圣王权的一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tongan",
+     "note": "作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>汤加神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>汤加神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Tangaloa</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天神谱系</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天降王权</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Tui'i神圣性</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西波利尼西亚</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文化底层</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>汤加神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "王权起源",
+     "views": [
+      {
+       "holder": "天降说",
+       "basis": "王权源自天界。"
+      },
+      {
+       "holder": "本土演化说",
+       "basis": "天降叙事是王权合法化的神话建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "汤加神话以 Tangaloa 天神谱系为核心。",
+     "source": "pri-tongan"
+    },
+    {
+     "claim": "汤加王权常通过'天降'叙事获得神圣合法性。",
+     "source": "pri-tongan"
+    }
+   ]
+  },
+  {
+   "id": "myth-dayak",
+   "title": "达雅克神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以创世、祖先与猎头仪式为核心的婆罗洲原住民传统。",
+   "related": [
+    "myth-hawaiian",
+    "myth-balinese",
+    "myth-batak"
+   ],
+   "sources": [
+    "pri-dayak",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经民族志/传教士记录，转写有研究者加工；2) 岛屿/族群版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "达雅克（Dayak）是婆罗洲内陆原住民的统称，其神话传统多样：创世叙事常涉及原初的石头/树木化生人类或兄弟姐妹始祖，祖先崇拜与'猎头'（headhunting）在部分群体的传统仪式中具核心地位（与身份、丰饶与死后信仰相关，近代已被废除）。沿海与内陆群体（如伊班、比达尤、卡扬）各有神谱与仪式专家（如 manang）。材料经19世纪起民族志记录。",
+   "versions": [
+    "达雅克（Dayak）是婆罗洲内陆原住民的统称，其神话传统多样：创世叙事常涉及原初的石头/树木化生人类或兄弟姐妹始祖，祖先崇拜与'猎头'（headhunting）在部分群体的传统仪式中具核心地位（与身份、丰饶与死后信仰相关，近代已被废除）。沿海与内陆群体（如伊班、比达尤、卡扬）各有神谱与仪式专家（如 manang）。材料经19世纪起民族志记录。"
+   ],
+   "interpretations": [
+    {
+     "holder": "19世纪民族志",
+     "school": "区域研究",
+     "view": "记录达雅克的创世、猎头仪式与神谱，带殖民时期视角。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《萨满教》框架下把 manang 仪式专家作一般参照。"
+    },
+    {
+     "holder": "现代婆罗洲研究",
+     "school": "文化研究",
+     "view": "强调猎头的文化意义与其废除后的转型。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-dayak",
+     "note": "作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>达雅克神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>达雅克神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>兄弟姐妹始祖</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世叙事</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祖先崇拜</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>仪式核心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>manang</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>仪式专家</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>达雅克神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "猎头仪式的意义",
+     "views": [
+      {
+       "holder": "身份丰饶说",
+       "basis": "与头颅崇拜与丰饶相关。"
+      },
+      {
+       "holder": "社会地位说",
+       "basis": "与战争勇气与社会地位相关。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "达雅克神话以创世与祖先崇拜为核心，群体间差异显著。",
+     "source": "pri-dayak"
+    },
+    {
+     "claim": "猎头在部分群体传统仪式中具核心地位，近代已废除。",
+     "source": "pri-dayak"
+    }
+   ]
+  },
+  {
+   "id": "myth-lao",
+   "title": "老挝神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "融合本土 phi 精灵信仰与上座部佛教《罗摩衍那》地方版的传统。",
+   "related": [
+    "myth-thai",
+    "myth-burmese",
+    "rel-theravada"
+   ],
+   "sources": [
+    "pri-lao",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 口传材料经民族志/传教士记录，转写有研究者加工；2) 岛屿/族群版本差异大，本条作通述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "老挝的神话传统融合本土的 phi（精灵/神灵）信仰与上座部佛教：本土层面崇拜自然与祖先的 phi（如 phi ban 村神、phi kha 祖先灵），并有'十二女仙'（Nang Thisi）等创世-王权叙事；佛教层面，《罗摩衍那》的老挝版《Phra Lak Phra Lam》与《本生经》故事广为流传，佛像与本土精灵崇拜共存。老挝神话缺乏统一正典，材料经佛教手稿（如《Nithan Khun Borom》创世史诗）与民族志记录。",
+   "versions": [
+    "老挝的神话传统融合本土的 phi（精灵/神灵）信仰与上座部佛教：本土层面崇拜自然与祖先的 phi（如 phi ban 村神、phi kha 祖先灵），并有'十二女仙'（Nang Thisi）等创世-王权叙事；佛教层面，《罗摩衍那》的老挝版《Phra Lak Phra Lam》与《本生经》故事广为流传，佛像与本土精灵崇拜共存。老挝神话缺乏统一正典，材料经佛教手稿（如《Nithan Khun Borom》创世史诗）与民族志记录。"
+   ],
+   "interpretations": [
+    {
+     "holder": "佛教手稿传统",
+     "school": "本土文献",
+     "view": "《Nithan Khun Borom》等是本生与创世叙事的重要载体。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "本土 phi 信仰与佛教的融合可作文化接触层参照。"
+    },
+    {
+     "holder": "东南亚宗教研究",
+     "school": "区域研究",
+     "view": "强调上座部佛教与本土精灵崇拜的长期共存。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-lao",
+     "note": "作母题层面的一般参照，不主张传播关系。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>老挝神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>老挝神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>phi精灵</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>本土崇拜</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Phra Lak Phra Lam</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>罗摩衍那地方版</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Khun Borom</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世史诗</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>老挝神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "佛教与本土信仰",
+     "views": [
+      {
+       "holder": "融合说",
+       "basis": "两者长期互渗，难以截然分开。"
+      },
+      {
+       "holder": "并存说",
+       "basis": "制度佛教与民间精灵崇拜各有领域。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "老挝神话融合本土 phi 精灵信仰与上座部佛教。",
+     "source": "pri-lao"
+    },
+    {
+     "claim": "《Phra Lak Phra Lam》是《罗摩衍那》的老挝地方版本。",
+     "source": "pri-lao"
     }
    ]
   }

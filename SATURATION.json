@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 176,
-    "total": 290,
+    "supplement_l2": 180,
+    "total": 294,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/290）；补充层 176 条 L2；来源 217 条（联网核验）"
+    "verdict": "核心与重要层 100% L3（114/294）；补充层 180 条 L2；来源 222 条（联网核验）"
   },
   "round_log": [
     {
@@ -761,6 +761,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次22：新增6宗教（法利赛/撒都该/艾赛尼/改革派犹太教/保守派犹太教/雅尔桑教）；6来源核验；check 0 errors",
       "verdict": "正常扩充（批次22，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-65",
+      "date": "2026-11-23",
+      "methods_run": [
+        "联网神话大纲差集",
+        "difflib严格查重",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 4,
+      "gap_detail": "批次23：新增4神话（萨摩亚/汤加/达雅克/老挝；micronesian与既有合并深化）；5来源核验（Lao mythology缺失，改用Buddhism in Laos）；check 0 errors",
+      "verdict": "正常扩充（批次23，4条）"
     }
   ]
 }
