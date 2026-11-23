@@ -3886,6 +3886,84 @@
    "link_ok": true,
    "verified": true,
    "note": "法然（1133–1212）是日本净土宗祖师，《选择本愿念佛集》确立'专修念佛'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-maimonides",
+   "title": "迈蒙尼德著作（《迷途指津》《密西拿托拉》）",
+   "author": "摩西·迈蒙尼德",
+   "year": null,
+   "year_display": "12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Maimonides",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "迈蒙尼德（Maimonides，1138–1204）是中世纪最伟大的犹太思想家，《迷途指津》与《密西拿托拉》是犹太律法与哲学经典；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-rashi",
+   "title": "拉希圣经注释（Rashi Commentary）",
+   "author": "拉希（Rashi）",
+   "year": null,
+   "year_display": "11世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Rashi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "拉希（Rashi，1040–1105）是中世纪最著名的犹太圣经与塔木德注释者，其注释至今仍是犹太学习的标准；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-aquinas",
+   "title": "阿奎那著作（《神学大全》《反异教大全》）",
+   "author": "托马斯·阿奎那",
+   "year": null,
+   "year_display": "13世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "托马斯·阿奎那（1225–1274）是经院哲学集大成者，《神学大全》是天主教神学经典；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-augustine",
+   "title": "奥古斯丁著作（《忏悔录》《上帝之城》）",
+   "author": "希波的奥古斯丁",
+   "year": null,
+   "year_display": "4–5世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "奥古斯丁（354–430）是早期教会教父，《忏悔录》《上帝之城》是基督教思想经典；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-barth",
+   "title": "巴特著作（《教会教义学》《罗马书释义》）",
+   "author": "卡尔·巴特",
+   "year": null,
+   "year_display": "20世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Karl_Barth",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "卡尔·巴特（Karl Barth，1886–1968）是20世纪新正统派神学家，《教会教义学》是其巨著；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-bonhoeffer",
+   "title": "朋霍费尔著作（《 discipleship 代价》《狱中书简》）",
+   "author": "迪特里希·朋霍费尔",
+   "year": null,
+   "year_display": "20世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "朋霍费尔（Dietrich Bonhoeffer，1906–1945）是德国路德宗牧师与神学家，因反抗纳粹被处决，《狱中书简》影响深远；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

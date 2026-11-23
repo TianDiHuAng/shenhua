@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T17:30:50+08:00",
+  "generated": "2026-11-23T17:36:54+08:00",
   "summary": {
-    "total": 370,
+    "total": 376,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 167
+      "U4": 173
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 256
+      "补充": 262
     },
     "by_level": {
       "L1": 0,
-      "L2": 256,
+      "L2": 262,
       "L3": 114
     },
-    "l2_done": 370,
+    "l2_done": 376,
     "l3_done": 114,
-    "verified_sources": 253
+    "verified_sources": 259
   },
   "entries": [
     {
@@ -4085,6 +4085,72 @@
     {
       "id": "fig-honen",
       "name": "法然",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-maimonides",
+      "name": "迈蒙尼德",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-rashi",
+      "name": "拉希",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-aquinas",
+      "name": "托马斯·阿奎那",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-augustine",
+      "name": "奥古斯丁",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-barth",
+      "name": "卡尔·巴特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-bonhoeffer",
+      "name": "朋霍费尔",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

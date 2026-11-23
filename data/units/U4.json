@@ -13403,6 +13403,444 @@
      "source": "pri-honen"
     }
    ]
+  },
+  {
+   "id": "fig-maimonides",
+   "title": "迈蒙尼德",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中世纪最伟大的犹太思想家，《迷途指津》作者。",
+   "related": [
+    "rel-judaism",
+    "fig-averroes",
+    "fig-aquinas"
+   ],
+   "sources": [
+    "pri-maimonides"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 神学家的著作跨哲学与信仰，具体诠释有教派/学派差异；2) 历史语境（如战争、审判）须客观描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "摩西·迈蒙尼德（Moses Maimonides，1138–1204）是中世纪最伟大的犹太思想家、律法学家与医生，生于科尔多瓦，后流亡埃及。《密西拿托拉》(Mishneh Torah) 是其系统的犹太律法编纂，《迷途指津》(Guide for the Perplexed) 则以亚里士多德哲学调和犹太教义，用'否定神学'论述神的属性。迈蒙尼德的理性主义神学对犹太思想与经院哲学影响深远，其'十三信条'被犹太传统广泛接受。他的著作在生前与身后都引发过争议（如关于复活与神人同形的理解）。",
+   "versions": [
+    "摩西·迈蒙尼德（Moses Maimonides，1138–1204）是中世纪最伟大的犹太思想家、律法学家与医生，生于科尔多瓦，后流亡埃及。《密西拿托拉》(Mishneh Torah) 是其系统的犹太律法编纂，《迷途指津》(Guide for the Perplexed) 则以亚里士多德哲学调和犹太教义，用'否定神学'论述神的属性。迈蒙尼德的理性主义神学对犹太思想与经院哲学影响深远，其'十三信条'被犹太传统广泛接受。他的著作在生前与身后都引发过争议（如关于复活与神人同形的理解）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "迈蒙尼德本人",
+     "school": "哲学文本",
+     "view": "《迷途指津》《密西拿托拉》是其思想的核心文本。"
+    },
+    {
+     "holder": "现代犹太哲学研究",
+     "school": "思想史",
+     "view": "强调迈蒙尼德对亚里士多德主义与犹太律法的综合。"
+    },
+    {
+     "holder": "Thomas Aquinas",
+     "school": "经院哲学",
+     "view": "阿奎那受迈蒙尼德影响（如否定神学方法）。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-maimonides",
+     "note": "作比较宗教学/哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>迈蒙尼德形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>迈蒙尼德（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>迷途指津</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>哲学巨著</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>密西拿托拉</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>律法编纂</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>否定神学</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神性论述</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>迈蒙尼德要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "迈蒙尼德的理性主义",
+     "views": [
+      {
+       "holder": "调和说",
+       "basis": "成功调和信仰与理性。"
+      },
+      {
+       "holder": "争议说",
+       "basis": "其理性诠释引发传统派批评。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "迈蒙尼德是中世纪最伟大的犹太思想家，著《迷途指津》。",
+     "source": "pri-maimonides"
+    },
+    {
+     "claim": "迈蒙尼德的'十三信条'被广泛接受。",
+     "source": "pri-maimonides"
+    }
+   ]
+  },
+  {
+   "id": "fig-rashi",
+   "title": "拉希",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中世纪最著名的犹太圣经与塔木德注释者。",
+   "related": [
+    "rel-judaism",
+    "fig-maimonides",
+    "rel-karaite"
+   ],
+   "sources": [
+    "pri-rashi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 神学家的著作跨哲学与信仰，具体诠释有教派/学派差异；2) 历史语境（如战争、审判）须客观描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "拉希（Rashi，Shlomo Yitzchaki，1040–1105）是法国北部特鲁瓦的犹太拉比，中世纪最著名的《圣经》与《塔木德》注释者。其圣经注释以简洁、明晰、注重字面意义（peshat）著称，同时吸纳拉比传统（midrash）；其《塔木德》注释几乎成为学习塔木德不可或缺的工具。拉希的注释风格深刻影响了后世犹太解经学（如 Ibn Ezra、Ramban 等），至今仍是犹太经学院（yeshiva）学习的核心文本，也被基督教圣经学者广泛参考。",
+   "versions": [
+    "拉希（Rashi，Shlomo Yitzchaki，1040–1105）是法国北部特鲁瓦的犹太拉比，中世纪最著名的《圣经》与《塔木德》注释者。其圣经注释以简洁、明晰、注重字面意义（peshat）著称，同时吸纳拉比传统（midrash）；其《塔木德》注释几乎成为学习塔木德不可或缺的工具。拉希的注释风格深刻影响了后世犹太解经学（如 Ibn Ezra、Ramban 等），至今仍是犹太经学院（yeshiva）学习的核心文本，也被基督教圣经学者广泛参考。"
+   ],
+   "interpretations": [
+    {
+     "holder": "拉希本人",
+     "school": "解经文本",
+     "view": "其圣经与塔木德注释是第一手的解经材料。"
+    },
+    {
+     "holder": "现代犹太研究",
+     "school": "文本研究",
+     "view": "强调拉希注释的文学风格与解经方法。"
+    },
+    {
+     "holder": "基督教圣经学",
+     "school": "比较解经",
+     "view": "拉希的注释被基督教 Old Testament 学者参考。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-rashi",
+     "note": "作比较宗教学/哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>拉希形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>拉希（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣经注释</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>peshat字面义</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塔木德注释</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>学习工具</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>解经传统</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>影响深远</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉希要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "拉希的解经方法",
+     "views": [
+      {
+       "holder": "字面主义",
+       "basis": "注重 peshat（字面意义）。"
+      },
+      {
+       "holder": "整合传统",
+       "basis": "同时吸纳 midrash 与 halakha。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "拉希是中世纪最著名的犹太圣经与塔木德注释者。",
+     "source": "pri-rashi"
+    },
+    {
+     "claim": "拉希的注释至今仍是犹太经学院学习的核心文本。",
+     "source": "pri-rashi"
+    }
+   ]
+  },
+  {
+   "id": "fig-aquinas",
+   "title": "托马斯·阿奎那",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "经院哲学集大成者，《神学大全》作者。",
+   "related": [
+    "rel-christianity",
+    "rel-catholicism",
+    "fig-maimonides"
+   ],
+   "sources": [
+    "pri-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 神学家的著作跨哲学与信仰，具体诠释有教派/学派差异；2) 历史语境（如战争、审判）须客观描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "托马斯·阿奎那（Thomas Aquinas，1225–1274）是意大利多米尼克会修士、经院哲学的集大成者，被天主教会尊为'天使博士'。其巨著《神学大全》(Summa Theologica) 与《反异教大全》(Summa Contra Gentiles) 系统整合了亚里士多德哲学与基督教神学，以'五路论证'证明神的存在、以'类比'论述神的属性、以自然法理论构建伦理学。阿奎那的思想成为天主教神学的正统范式（'托马斯主义'），对西方哲学、法学与政治思想影响深远。1274年他在前往里昂公会议的途中去世，1323年被封圣。",
+   "versions": [
+    "托马斯·阿奎那（Thomas Aquinas，1225–1274）是意大利多米尼克会修士、经院哲学的集大成者，被天主教会尊为'天使博士'。其巨著《神学大全》(Summa Theologica) 与《反异教大全》(Summa Contra Gentiles) 系统整合了亚里士多德哲学与基督教神学，以'五路论证'证明神的存在、以'类比'论述神的属性、以自然法理论构建伦理学。阿奎那的思想成为天主教神学的正统范式（'托马斯主义'），对西方哲学、法学与政治思想影响深远。1274年他在前往里昂公会议的途中去世，1323年被封圣。"
+   ],
+   "interpretations": [
+    {
+     "holder": "阿奎那本人",
+     "school": "神学文本",
+     "view": "《神学大全》是其思想的系统表述。"
+    },
+    {
+     "holder": "迈蒙尼德",
+     "school": "思想影响",
+     "view": "阿奎那受迈蒙尼德的否定神学与亚里士多德诠释影响。"
+    },
+    {
+     "holder": "现代天主教神学",
+     "school": "教义发展",
+     "view": "托马斯主义是新托马斯主义（如教宗良十三世）的思想基础。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-aquinas",
+     "note": "作比较宗教学/哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>托马斯·阿奎那形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>托马斯·阿奎那（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神学大全</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>系统神学</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五路论证</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神存在证明</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>自然法</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伦理学</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>托马斯·阿奎那要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿奎那与亚里士多德",
+     "views": [
+      {
+       "holder": "综合说",
+       "basis": "成功把亚里士多德哲学基督教化。"
+      },
+      {
+       "holder": "批判继承说",
+       "basis": "在关键点上修正亚里士多德（如永恒性）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿奎那是经院哲学集大成者，《神学大全》是天主教神学经典。",
+     "source": "pri-aquinas"
+    },
+    {
+     "claim": "阿奎那的'五路论证'是神存在证明的经典形式。",
+     "source": "pri-aquinas"
+    }
+   ]
+  },
+  {
+   "id": "fig-augustine",
+   "title": "奥古斯丁",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "早期教会教父，《忏悔录》与《上帝之城》作者。",
+   "related": [
+    "rel-christianity",
+    "rel-lutheran",
+    "fig-aquinas"
+   ],
+   "sources": [
+    "pri-augustine"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 神学家的著作跨哲学与信仰，具体诠释有教派/学派差异；2) 历史语境（如战争、审判）须客观描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "希波的奥古斯丁（Augustine of Hippo，354–430）是早期基督教最重要的教父与神学家之一：其《忏悔录》(Confessions) 是西方文学史上第一部自传体作品，记述其从摩尼教、新柏拉图主义到基督教的归信历程；《上帝之城》(City of God) 在罗马帝国危机时期系统阐述了基督教的救赎史观与政教关系。奥古斯丁提出'原罪''预定''恩典'等核心教义，其与伯拉纠派的论争塑造了西方基督教的人性论；他对时间、记忆与自我意识的反思也深刻影响了后世哲学。",
+   "versions": [
+    "希波的奥古斯丁（Augustine of Hippo，354–430）是早期基督教最重要的教父与神学家之一：其《忏悔录》(Confessions) 是西方文学史上第一部自传体作品，记述其从摩尼教、新柏拉图主义到基督教的归信历程；《上帝之城》(City of God) 在罗马帝国危机时期系统阐述了基督教的救赎史观与政教关系。奥古斯丁提出'原罪''预定''恩典'等核心教义，其与伯拉纠派的论争塑造了西方基督教的人性论；他对时间、记忆与自我意识的反思也深刻影响了后世哲学。"
+   ],
+   "interpretations": [
+    {
+     "holder": "奥古斯丁本人",
+     "school": "教父文本",
+     "view": "《忏悔录》《上帝之城》是其思想的核心文本。"
+    },
+    {
+     "holder": "Martin Luther",
+     "school": "宗教改革",
+     "view": "路德（奥古斯丁会修士）深受奥古斯丁恩典论影响。"
+    },
+    {
+     "holder": "现代哲学",
+     "school": "思想史",
+     "view": "奥古斯丁对时间意识的反思被视为现象学的先驱之一。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-augustine",
+     "note": "作比较宗教学/哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奥古斯丁形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奥古斯丁（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>忏悔录</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>自传经典</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>上帝之城</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>救赎史观</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>原罪恩典</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心教义</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥古斯丁要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "奥古斯丁的人性论",
+     "views": [
+      {
+       "holder": "原罪预定说",
+       "basis": "强调人性败坏与神恩的必要。"
+      },
+      {
+       "holder": "伯拉纠对立",
+       "basis": "伯拉纠强调人的自由意志与道德能力。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "奥古斯丁是早期教会教父，《忏悔录》与《上帝之城》的作者。",
+     "source": "pri-augustine"
+    },
+    {
+     "claim": "奥古斯丁的原罪与恩典教义影响了后世西方基督教。",
+     "source": "pri-augustine"
+    }
+   ]
+  },
+  {
+   "id": "fig-barth",
+   "title": "卡尔·巴特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "20世纪新正统派神学家，《教会教义学》作者。",
+   "related": [
+    "rel-protestantism",
+    "rel-reformed",
+    "fig-bonhoeffer"
+   ],
+   "sources": [
+    "pri-barth"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 神学家的著作跨哲学与信仰，具体诠释有教派/学派差异；2) 历史语境（如战争、审判）须客观描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "卡尔·巴特（Karl Barth，1886–1968）是瑞士改革宗神学家，20世纪最重要的新教神学家之一：其《罗马书释义》（1919，1921修订）以'危机神学'震撼学界，强调神与人的绝对差异与神的'他者性'；未完成的巨著《教会教义学》(Church Dogmatics) 系统重建了改革宗神学，以'神的话语'（Word of God）为中心，拒绝把信仰建立在人的宗教经验或自然神学之上（与自由主义神学论争）。巴特曾参与德国反纳粹的'认信教会'运动，其思想对20世纪神学影响深远。",
+   "versions": [
+    "卡尔·巴特（Karl Barth，1886–1968）是瑞士改革宗神学家，20世纪最重要的新教神学家之一：其《罗马书释义》（1919，1921修订）以'危机神学'震撼学界，强调神与人的绝对差异与神的'他者性'；未完成的巨著《教会教义学》(Church Dogmatics) 系统重建了改革宗神学，以'神的话语'（Word of God）为中心，拒绝把信仰建立在人的宗教经验或自然神学之上（与自由主义神学论争）。巴特曾参与德国反纳粹的'认信教会'运动，其思想对20世纪神学影响深远。"
+   ],
+   "interpretations": [
+    {
+     "holder": "巴特本人",
+     "school": "神学文本",
+     "view": "《教会教义学》《罗马书释义》是其思想的核心。"
+    },
+    {
+     "holder": "认信教会运动",
+     "school": "历史语境",
+     "view": "巴特参与反纳粹的教会抵抗运动。"
+    },
+    {
+     "holder": "现代新教神学",
+     "school": "思想史",
+     "view": "巴特的新正统派是对19世纪自由主义神学的反动。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-barth",
+     "note": "作比较宗教学/哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>卡尔·巴特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>卡尔·巴特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>危机神学</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神人差异</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>教会教义学</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>系统巨著</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神的话语</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>启示中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡尔·巴特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "巴特与自然神学",
+     "views": [
+      {
+       "holder": "拒绝自然神学",
+       "basis": "反对从自然推论神。"
+      },
+      {
+       "holder": "启示唯一",
+       "basis": "只以神的自我启示为神学基础。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "卡尔·巴特是20世纪新正统派神学家，著《教会教义学》。",
+     "source": "pri-barth"
+    },
+    {
+     "claim": "巴特强调神的他者性与'神的话语'的中心地位。",
+     "source": "pri-barth"
+    }
+   ]
+  },
+  {
+   "id": "fig-bonhoeffer",
+   "title": "朋霍费尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "德国路德宗牧师与神学家，因反抗纳粹被处决。",
+   "related": [
+    "rel-lutheran",
+    "fig-barth",
+    "rel-protestantism"
+   ],
+   "sources": [
+    "pri-bonhoeffer"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 神学家的著作跨哲学与信仰，具体诠释有教派/学派差异；2) 历史语境（如战争、审判）须客观描述；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "迪特里希·朋霍费尔（Dietrich Bonhoeffer，1906–1945）是德国路德宗牧师、神学家，因参与反抗纳粹的密谋（属'红色管弦乐队'反纳粹组织的相关网络）而被捕，1945年4月被处决，年仅39岁。其神学著作《门徒的代价》(The Cost of Discipleship) 批判'廉价的恩典'、《狱中书简》(Letters and Papers from Prison) 提出'无宗教的基督教''在此世与神同在'等思想，深刻影响了20世纪神学（如'死亡神学'与世俗化神学讨论）。朋霍费尔被视为信仰与抵抗强权的道德象征。",
+   "versions": [
+    "迪特里希·朋霍费尔（Dietrich Bonhoeffer，1906–1945）是德国路德宗牧师、神学家，因参与反抗纳粹的密谋（属'红色管弦乐队'反纳粹组织的相关网络）而被捕，1945年4月被处决，年仅39岁。其神学著作《门徒的代价》(The Cost of Discipleship) 批判'廉价的恩典'、《狱中书简》(Letters and Papers from Prison) 提出'无宗教的基督教''在此世与神同在'等思想，深刻影响了20世纪神学（如'死亡神学'与世俗化神学讨论）。朋霍费尔被视为信仰与抵抗强权的道德象征。"
+   ],
+   "interpretations": [
+    {
+     "holder": "朋霍费尔本人",
+     "school": "狱中文本",
+     "view": "《狱中书简》是其晚期思想的核心材料。"
+    },
+    {
+     "holder": "认信教会运动",
+     "school": "历史语境",
+     "view": "朋霍费尔参与反纳粹的教会抵抗。"
+    },
+    {
+     "holder": "现代神学",
+     "school": "思想史",
+     "view": "其'无宗教的基督教'影响世俗化时代的神学讨论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-bonhoeffer",
+     "note": "作比较宗教学/哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>朋霍费尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>朋霍费尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>门徒代价</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>廉价恩典批判</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>狱中书简</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>晚期思想</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>反抗纳粹</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>道德见证</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>朋霍费尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "朋霍费尔的神学",
+     "views": [
+      {
+       "holder": "世俗化解读",
+       "basis": "'无宗教的基督教'被解读为适应世俗世界。"
+      },
+      {
+       "holder": "语境解读",
+       "basis": "强调这是特定狱中语境的片段思想。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "朋霍费尔是德国路德宗牧师，因反抗纳粹被处决。",
+     "source": "pri-bonhoeffer"
+    },
+    {
+     "claim": "《门徒的代价》与《狱中书简》是其代表著作。",
+     "source": "pri-bonhoeffer"
+    }
+   ]
   }
  ]
 }

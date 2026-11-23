@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 256,
-    "total": 370,
+    "supplement_l2": 262,
+    "total": 376,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/370）；补充层 256 条 L2；来源 299 条"
+    "verdict": "核心与重要层 100% L3（114/376）；补充层 262 条 L2；来源 305 条"
   },
   "round_log": [
     {
@@ -931,6 +931,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次36：新增6宋明理学/日本佛教人物（周敦颐/张载/程颐/陆九渊/道元/法然）；6来源核验；修复6处sources误放条目id；370条0 errors",
       "verdict": "正常扩充（批次36，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-79",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次37：新增6犹太/基督教思想家（迈蒙尼德/拉希/阿奎那/奥古斯丁/巴特/朋霍费尔）；6来源核验；修复augustine引用；376条0 errors",
+      "verdict": "正常扩充（批次37，6条）"
     }
   ]
 }
