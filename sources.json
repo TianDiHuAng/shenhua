@@ -4042,6 +4042,84 @@
    "link_ok": true,
    "verified": true,
    "note": "C.S.刘易斯（1898–1963）是英国作家与基督教护教者，《返璞归真》(Mere Christianity) 是著名护教作品；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-socrates",
+   "title": "苏格拉底文献（柏拉图对话与阿里斯托芬）",
+   "author": "柏拉图等",
+   "year": null,
+   "year_display": "前5世纪—前4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Socrates",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "苏格拉底（前469—前399）是古希腊哲学家，西方哲学的奠基者之一；其思想主要经柏拉图对话保存；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-plato",
+   "title": "柏拉图著作（《理想国》《蒂迈欧》等）",
+   "author": "柏拉图",
+   "year": null,
+   "year_display": "前4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Plato",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "柏拉图（前427—前347）是古希腊哲学家，理念论与《蒂迈欧》宇宙论影响深远；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-aristotle",
+   "title": "亚里士多德著作（《形而上学》《尼各马可伦理学》）",
+   "author": "亚里士多德",
+   "year": null,
+   "year_display": "前4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Aristotle",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "亚里士多德（前384—前322）是古希腊哲学家，其形而上学与'第一推动者'思想影响宗教神学；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-plotinus",
+   "title": "普罗提诺著作（《九章集》）",
+   "author": "普罗提诺",
+   "year": null,
+   "year_display": "3世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Plotinus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "普罗提诺（204–270）是新柏拉图主义奠基者，《九章集》(Enneads) 的'太一'学说影响基督教与伊斯兰神学；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-epictetus",
+   "title": "爱比克泰德著作（《手册》《谈话录》）",
+   "author": "爱比克泰德",
+   "year": null,
+   "year_display": "1–2世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Epictetus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "爱比克泰德（约55–135）是斯多葛派哲学家，其《手册》(Enchiridion) 影响深远；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-seneca",
+   "title": "塞内卡著作（《道德书简》《论神意》）",
+   "author": "小塞内卡",
+   "year": null,
+   "year_display": "1世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Seneca",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "小塞内卡（约前4—65）是罗马斯多葛派哲学家，《道德书简》影响基督教灵修思想；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

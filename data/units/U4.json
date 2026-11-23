@@ -14279,6 +14279,444 @@
      "source": "pri-cs-lewis"
     }
    ]
+  },
+  {
+   "id": "fig-socrates",
+   "title": "苏格拉底",
+   "level": "L2",
+   "tier": "补充",
+   "period": "classical",
+   "summary": "古希腊哲学家，西方哲学奠基者之一，以'苏格拉底问答法'著称。",
+   "related": [
+    "myth-greek",
+    "fig-plato",
+    "motif-myth-vs-religion"
+   ],
+   "sources": [
+    "pri-socrates"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 哲学家的思想主要经弟子/后学文本保存，作者归属与年代有学术讨论；2) 其与宗教神学的关系须区分影响与同源；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "苏格拉底（前469—前399）是古希腊哲学家，西方哲学传统的奠基者之一。他没有留下著作，其思想主要通过柏拉图对话、色诺芬与阿里斯托芬的戏剧保存：以'苏格拉底问答法'(elenchus) 通过追问揭示对方的无知（'我唯一知道的是我一无所知'），强调'认识你自己'与'未经审视的人生不值得过'。他因'腐蚀青年'与'不敬城邦诸神'的指控被雅典陪审团判处死刑（饮毒芹），其死（《申辩篇》《斐多篇》记载）成为西方哲学史上殉道的象征。其'守护神'(daimonion) 常被拿来与宗教体验比较，但学界对其性质有争论。",
+   "versions": [
+    "苏格拉底（前469—前399）是古希腊哲学家，西方哲学传统的奠基者之一。他没有留下著作，其思想主要通过柏拉图对话、色诺芬与阿里斯托芬的戏剧保存：以'苏格拉底问答法'(elenchus) 通过追问揭示对方的无知（'我唯一知道的是我一无所知'），强调'认识你自己'与'未经审视的人生不值得过'。他因'腐蚀青年'与'不敬城邦诸神'的指控被雅典陪审团判处死刑（饮毒芹），其死（《申辩篇》《斐多篇》记载）成为西方哲学史上殉道的象征。其'守护神'(daimonion) 常被拿来与宗教体验比较，但学界对其性质有争论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "柏拉图",
+     "school": "文本来源",
+     "view": "苏格拉底的言行主要经柏拉图对话保存（'苏格拉底问题'：历史与文学形象之辨）。"
+    },
+    {
+     "holder": "阿里斯托芬",
+     "school": "喜剧来源",
+     "view": "《云》中的苏格拉底形象与柏拉图不同，是重要的对照材料。"
+    },
+    {
+     "holder": "现代古典学",
+     "school": "思想史",
+     "view": "强调'苏格拉底问题'——区分历史苏格拉底与柏拉图笔下的苏格拉底。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-socrates",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>苏格拉底形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>苏格拉底（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>问答法</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>elenchus</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>认识你自己</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>德尔斐神谕</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苏格拉底之死</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>哲学殉道</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苏格拉底要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判思想真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "历史苏格拉底",
+     "views": [
+      {
+       "holder": "柏拉图说",
+       "basis": "以柏拉图对话为主要依据。"
+      },
+      {
+       "holder": "多维说",
+       "basis": "需综合柏拉图、色诺芬、阿里斯托芬等材料。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "苏格拉底是古希腊哲学家，以问答法著称。",
+     "source": "pri-socrates"
+    },
+    {
+     "claim": "苏格拉底的'守护神'(daimonion) 常被与宗教体验比较，但有争论。",
+     "source": "pri-socrates"
+    }
+   ]
+  },
+  {
+   "id": "fig-plato",
+   "title": "柏拉图",
+   "level": "L2",
+   "tier": "补充",
+   "period": "classical",
+   "summary": "古希腊哲学家，理念论与《蒂迈欧》宇宙论的奠基者。",
+   "related": [
+    "myth-greek",
+    "fig-socrates",
+    "fig-plotinus"
+   ],
+   "sources": [
+    "pri-plato"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 哲学家的思想主要经弟子/后学文本保存，作者归属与年代有学术讨论；2) 其与宗教神学的关系须区分影响与同源；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "柏拉图（前427—前347）是苏格拉底的学生、古希腊哲学的集大成者，在雅典创办阿卡德米学园。其核心'理念论'(Theory of Forms) 主张可感世界是永恒理念世界的摹本，真知识是对理念的回忆；《理想国》以'洞穴寓言'阐述灵魂的转向与'善的理型'（超越一切的最高理念），并以哲学王统治的理想政体闻名。《蒂迈欧》提出宇宙由造物主(demiurge) 按理念塑造的宇宙论（'世界灵魂'），对后世基督教、伊斯兰与犹太新柏拉图主义神学影响深远。柏拉图思想与基督教的关系（如' preconnaissance 说'）是学术讨论议题。",
+   "versions": [
+    "柏拉图（前427—前347）是苏格拉底的学生、古希腊哲学的集大成者，在雅典创办阿卡德米学园。其核心'理念论'(Theory of Forms) 主张可感世界是永恒理念世界的摹本，真知识是对理念的回忆；《理想国》以'洞穴寓言'阐述灵魂的转向与'善的理型'（超越一切的最高理念），并以哲学王统治的理想政体闻名。《蒂迈欧》提出宇宙由造物主(demiurge) 按理念塑造的宇宙论（'世界灵魂'），对后世基督教、伊斯兰与犹太新柏拉图主义神学影响深远。柏拉图思想与基督教的关系（如' preconnaissance 说'）是学术讨论议题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "柏拉图本人",
+     "school": "哲学文本",
+     "view": "《理想国》《蒂迈欧》《会饮》等对话是其思想核心。"
+    },
+    {
+     "holder": "普罗提诺",
+     "school": "新柏拉图主义",
+     "view": "普罗提诺以'太一'重构柏拉图的多神与理念。"
+    },
+    {
+     "holder": "现代古典学",
+     "school": "思想史",
+     "view": "强调柏拉图对话的文学性与哲学论证的复杂性。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-plato",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>柏拉图形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>柏拉图（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>理念论</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Forms</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>洞穴寓言</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>灵魂转向</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>蒂迈欧</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙论</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>柏拉图要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判思想真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "柏拉图与宗教",
+     "views": [
+      {
+       "holder": "影响说",
+       "basis": "《蒂迈欧》宇宙论影响亚伯拉罕诸教神学。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "柏拉图的'神'与人格神的启示宗教有本质区别。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "柏拉图是古希腊哲学家，理念论的奠基者。",
+     "source": "pri-plato"
+    },
+    {
+     "claim": "《蒂迈欧》的宇宙论对后世宗教神学影响深远。",
+     "source": "pri-plato"
+    }
+   ]
+  },
+  {
+   "id": "fig-aristotle",
+   "title": "亚里士多德",
+   "level": "L2",
+   "tier": "补充",
+   "period": "classical",
+   "summary": "古希腊哲学家，'第一推动者'与实体论的系统化者。",
+   "related": [
+    "myth-greek",
+    "fig-plato",
+    "fig-aquinas"
+   ],
+   "sources": [
+    "pri-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 哲学家的思想主要经弟子/后学文本保存，作者归属与年代有学术讨论；2) 其与宗教神学的关系须区分影响与同源；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "亚里士多德（前384—前322）是柏拉图的学生、古希腊哲学的系统化者，在逻辑学、形而上学、伦理学、政治学与自然科学上均有奠基性贡献。其《形而上学》提出'实体'(ousia) 与'四因说'，并以'第一推动者'(Prime Mover) ——永恒、不动、纯现实（energeia）的最高存在——解释宇宙的运动，这一概念经托马斯·阿奎那等整合进入基督教神学（《神学大全》的'五路论证'即受其影响）。《尼各马可伦理学》以'幸福'(eudaimonia) 与'中道'为核心，其目的论框架深刻影响了中世纪经院哲学与伊斯兰哲学（如伊本·西那、伊本·鲁世德）。",
+   "versions": [
+    "亚里士多德（前384—前322）是柏拉图的学生、古希腊哲学的系统化者，在逻辑学、形而上学、伦理学、政治学与自然科学上均有奠基性贡献。其《形而上学》提出'实体'(ousia) 与'四因说'，并以'第一推动者'(Prime Mover) ——永恒、不动、纯现实（energeia）的最高存在——解释宇宙的运动，这一概念经托马斯·阿奎那等整合进入基督教神学（《神学大全》的'五路论证'即受其影响）。《尼各马可伦理学》以'幸福'(eudaimonia) 与'中道'为核心，其目的论框架深刻影响了中世纪经院哲学与伊斯兰哲学（如伊本·西那、伊本·鲁世德）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "亚里士多德本人",
+     "school": "哲学文本",
+     "view": "《形而上学》《尼各马可伦理学》《物理学》是其核心文本。"
+    },
+    {
+     "holder": "Thomas Aquinas",
+     "school": "经院哲学",
+     "view": "阿奎那以亚里士多德哲学系统化基督教神学。"
+    },
+    {
+     "holder": "Averroes",
+     "school": "伊斯兰哲学",
+     "view": "伊本·鲁世德以亚里士多德注释影响拉丁西方。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-aristotle",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>亚里士多德形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>亚里士多德（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>第一推动者</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Prime Mover</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>四因说</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>实体论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中道</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伦理学</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚里士多德要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判思想真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "第一推动者的性质",
+     "views": [
+      {
+       "holder": "人格神说",
+       "basis": "被后世解读为有位格的神。"
+      },
+      {
+       "holder": "非人格说",
+       "basis": "亚里士多德的原意更接近抽象的纯现实原则。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "亚里士多德提出'第一推动者'概念，影响后世宗教神学。",
+     "source": "pri-aristotle"
+    },
+    {
+     "claim": "亚里士多德哲学经阿奎那与阿威罗伊影响中世纪思想。",
+     "source": "pri-aristotle"
+    }
+   ]
+  },
+  {
+   "id": "fig-plotinus",
+   "title": "普罗提诺",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "新柏拉图主义奠基者，《九章集》作者。",
+   "related": [
+    "myth-greek",
+    "fig-plato",
+    "fig-augustine"
+   ],
+   "sources": [
+    "pri-plotinus"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 哲学家的思想主要经弟子/后学文本保存，作者归属与年代有学术讨论；2) 其与宗教神学的关系须区分影响与同源；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "普罗提诺（Plotinus，204–270）是新柏拉图主义的奠基者，在罗马讲学，其弟子波菲利编纂的《九章集》(Enneads) 是其思想的核心文本。他以'太一'(The One) 为超越一切的最高本原，宇宙由太一经由'努斯'(Nous，理智) 和'灵魂'(Psyche) 逐层'流溢'(emanation) 而生，人的灵魂通过净化与沉思可回归太一（'与太一合一'的神秘体验）。新柏拉图主义对基督教教父（如奥古斯丁）、伊斯兰苏菲与犹太神秘主义（卡巴拉）影响深远，但其'流溢'说与启示宗教的'创造'说有张力。",
+   "versions": [
+    "普罗提诺（Plotinus，204–270）是新柏拉图主义的奠基者，在罗马讲学，其弟子波菲利编纂的《九章集》(Enneads) 是其思想的核心文本。他以'太一'(The One) 为超越一切的最高本原，宇宙由太一经由'努斯'(Nous，理智) 和'灵魂'(Psyche) 逐层'流溢'(emanation) 而生，人的灵魂通过净化与沉思可回归太一（'与太一合一'的神秘体验）。新柏拉图主义对基督教教父（如奥古斯丁）、伊斯兰苏菲与犹太神秘主义（卡巴拉）影响深远，但其'流溢'说与启示宗教的'创造'说有张力。"
+   ],
+   "interpretations": [
+    {
+     "holder": "普罗提诺本人",
+     "school": "哲学文本",
+     "view": "《九章集》是其思想的核心（由弟子波菲利编纂）。"
+    },
+    {
+     "holder": "Augustine",
+     "school": "教父神学",
+     "view": "奥古斯丁受新柏拉图主义影响（尤其恶论与灵魂观）。"
+    },
+    {
+     "holder": "现代新柏拉图主义研究",
+     "school": "思想史",
+     "view": "强调流溢说与基督教创造论的差异。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-plotinus",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>普罗提诺形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>普罗提诺（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太一</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>The One</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>流溢</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>emanation</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>回归太一</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神秘合一</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>普罗提诺要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判思想真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "太一与神",
+     "views": [
+      {
+       "holder": "等同说",
+       "basis": "太一被等同于最高神。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "太一超越人格神的概念。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "普罗提诺是新柏拉图主义奠基者，著《九章集》。",
+     "source": "pri-plotinus"
+    },
+    {
+     "claim": "普罗提诺的'太一'与'流溢'说影响基督教与伊斯兰思想。",
+     "source": "pri-plotinus"
+    }
+   ]
+  },
+  {
+   "id": "fig-epictetus",
+   "title": "爱比克泰德",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "斯多葛派哲学家，《手册》作者。",
+   "related": [
+    "myth-greek",
+    "fig-seneca",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-epictetus"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 哲学家的思想主要经弟子/后学文本保存，作者归属与年代有学术讨论；2) 其与宗教神学的关系须区分影响与同源；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "爱比克泰德（Epictetus，约55–135）是罗马帝国时期的斯多葛派哲学家，原为奴隶，获自由后在尼科波利斯讲学。其思想由弟子阿里安记录于《谈话录》(Discourses) 与《手册》(Enchiridion)：核心是区分'在我们能力之内的事'（判断、冲动、意志）与'不在我们能力之内的事'（身体、名誉、财富），主张人应顺应自然（logos）生活、以理性克制激情、在无动于衷(apathia) 中获得内心的自由。《手册》对后世（包括基督教灵修、近代斯多葛主义复兴）影响广泛，其与基督教伦理的相似性（如'爱仇敌'）是学术讨论议题。",
+   "versions": [
+    "爱比克泰德（Epictetus，约55–135）是罗马帝国时期的斯多葛派哲学家，原为奴隶，获自由后在尼科波利斯讲学。其思想由弟子阿里安记录于《谈话录》(Discourses) 与《手册》(Enchiridion)：核心是区分'在我们能力之内的事'（判断、冲动、意志）与'不在我们能力之内的事'（身体、名誉、财富），主张人应顺应自然（logos）生活、以理性克制激情、在无动于衷(apathia) 中获得内心的自由。《手册》对后世（包括基督教灵修、近代斯多葛主义复兴）影响广泛，其与基督教伦理的相似性（如'爱仇敌'）是学术讨论议题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "爱比克泰德本人",
+     "school": "哲学文本",
+     "view": "《手册》《谈话录》是其思想的核心（弟子阿里安记录）。"
+    },
+    {
+     "holder": "基督教灵修",
+     "school": "比较",
+     "view": "其克制激情与顺应自然的思想与基督教灵修有可比之处（不主张同源）。"
+    },
+    {
+     "holder": "现代斯多葛复兴",
+     "school": "思想史",
+     "view": "当代'新斯多葛主义'运动重新重视其实践哲学。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-epictetus",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>爱比克泰德形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>爱比克泰德（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>控制二分</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>能力与不可控</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>顺应自然</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>logos</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>内心自由</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>apathia</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>爱比克泰德要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判思想真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "与基督教的关系",
+     "views": [
+      {
+       "holder": "相似说",
+       "basis": "伦理实践与基督教有相似之处。"
+      },
+      {
+       "holder": "根源差异说",
+       "basis": "其宇宙论（logos/泛神论）与基督教有本质差异。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "爱比克泰德是斯多葛派哲学家，著《手册》。",
+     "source": "pri-epictetus"
+    },
+    {
+     "claim": "《手册》强调区分可控与不可控，顺应自然生活。",
+     "source": "pri-epictetus"
+    }
+   ]
+  },
+  {
+   "id": "fig-seneca",
+   "title": "塞内卡",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马斯多葛派哲学家，《道德书简》作者。",
+   "related": [
+    "myth-roman",
+    "fig-epictetus",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-seneca"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 哲学家的思想主要经弟子/后学文本保存，作者归属与年代有学术讨论；2) 其与宗教神学的关系须区分影响与同源；3) 描述性立场，不评判思想真伪。",
+   "year": null,
+   "source_text": "小塞内卡（Lucius Annaeus Seneca，约前4—65）是罗马斯多葛派哲学家、剧作家与政治家，曾为皇帝尼禄的老师和顾问。其《道德书简》(Epistulae Morales ad Lucilium) 与《论神意》《论愤怒》等作品系统阐述了斯多葛的伦理实践：时间的使用、对死亡的沉思、财富的轻视与内心的宁静。塞内卡因其道德哲学与基督教灵修的相似性（如《论幸福生活》中对真正幸福的讨论）而被早期基督徒（如德尔图良）称为'我们的塞内卡'（其人与圣保罗的同时代关系及通信是后世传说，学界已否定）。他最终因卷入尼禄宫廷斗争而被迫自杀，其死被斯多葛派视为哲学殉道的范例。",
+   "versions": [
+    "小塞内卡（Lucius Annaeus Seneca，约前4—65）是罗马斯多葛派哲学家、剧作家与政治家，曾为皇帝尼禄的老师和顾问。其《道德书简》(Epistulae Morales ad Lucilium) 与《论神意》《论愤怒》等作品系统阐述了斯多葛的伦理实践：时间的使用、对死亡的沉思、财富的轻视与内心的宁静。塞内卡因其道德哲学与基督教灵修的相似性（如《论幸福生活》中对真正幸福的讨论）而被早期基督徒（如德尔图良）称为'我们的塞内卡'（其人与圣保罗的同时代关系及通信是后世传说，学界已否定）。他最终因卷入尼禄宫廷斗争而被迫自杀，其死被斯多葛派视为哲学殉道的范例。"
+   ],
+   "interpretations": [
+    {
+     "holder": "塞内卡本人",
+     "school": "哲学文本",
+     "view": "《道德书简》《论神意》是其伦理思想的核心。"
+    },
+    {
+     "holder": "德尔图良",
+     "school": "教父作家",
+     "view": "称塞内卡为'我们的塞内卡'，反映早期基督教对其的亲近。"
+    },
+    {
+     "holder": "现代古典学",
+     "school": "思想史",
+     "view": "已否定塞内卡与圣保罗通信的传说。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-seneca",
+     "note": "作比较哲学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>塞内卡形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>塞内卡（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>道德书简</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伦理实践</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>死亡沉思</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>时间使用</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>我们的塞内卡</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>基督教接受</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塞内卡要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判思想真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "塞内卡与基督教",
+     "views": [
+      {
+       "holder": "影响说",
+       "basis": "其伦理思想影响基督教灵修。"
+      },
+      {
+       "holder": "传说辨伪",
+       "basis": "与圣保罗通信的说法是后世虚构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "塞内卡是罗马斯多葛派哲学家，著《道德书简》。",
+     "source": "pri-seneca"
+    },
+    {
+     "claim": "早期基督徒称他为'我们的塞内卡'，但与其通信的传说是虚构的。",
+     "source": "pri-seneca"
+    }
+   ]
   }
  ]
 }

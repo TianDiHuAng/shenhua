@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T17:42:03+08:00",
+  "generated": "2026-11-23T17:47:04+08:00",
   "summary": {
-    "total": 382,
+    "total": 388,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 179
+      "U4": 185
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 268
+      "补充": 274
     },
     "by_level": {
       "L1": 0,
-      "L2": 268,
+      "L2": 274,
       "L3": 114
     },
-    "l2_done": 382,
+    "l2_done": 388,
     "l3_done": 114,
-    "verified_sources": 265
+    "verified_sources": 271
   },
   "entries": [
     {
@@ -4217,6 +4217,72 @@
     {
       "id": "fig-cs-lewis",
       "name": "C.S.刘易斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-socrates",
+      "name": "苏格拉底",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-plato",
+      "name": "柏拉图",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-aristotle",
+      "name": "亚里士多德",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-plotinus",
+      "name": "普罗提诺",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-epictetus",
+      "name": "爱比克泰德",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-seneca",
+      "name": "塞内卡",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",
