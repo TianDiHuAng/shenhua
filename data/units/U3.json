@@ -2864,6 +2864,102 @@
      "source": "pri-ovid-met"
     }
    ]
+  },
+  {
+   "id": "motif-divine-weapon",
+   "title": "神赐武器",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "英雄获得神造/神赐武器并以此完成使命的跨传统母题。",
+   "related": [
+    "motif-herojourney",
+    "motif-cosmic-combat",
+    "fig-thor",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-theogony",
+    "aca-hero-faces",
+    "aca-comparative-myth"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) fig-perseus-orig 需核对实际 id（fig-perseus 应存在）；2) 武器的功能分类（斩首/雷击/魔剑）依坎贝尔框架，分类是否普遍有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "神赐武器母题指英雄的使命性武器来自神界：珀耳修斯得雅典娜的青铜盾与赫尔墨斯的弯刀斩美杜莎，托尔的妙尔尼尔为矮人所造雷锤，库丘林的盖·博尔加（Gáe Bolg）来自暗影女战士斯卡塔赫，奥丁的冈格尼尔（Gungnir）出自侏儒锻造。武器常同时是'权能凭证'与'使命限定'——失去或滥用即失败。",
+   "versions": [
+    "希腊版本强调神导（雅典娜的指导与防护），武器与智者女神的庇护绑定。",
+    "北欧版本的武器出自工匠神（矮人锻造），强调'神器的工艺来源'与所有权神话。",
+    "爱尔兰版本（Táin）的武器附带用法限制（盖·博尔加须水中使用），具仪式性。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "Campbell 在《千面英雄》中把'超自然援助'（含武器）列为英雄旅程的第一站，属框架性归纳。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "Dumézil 框架下武器的功能归属（战争功能神器的传承与失控）说明印欧神谱的结构张力。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《比较宗教的模式》中把神圣武器归为'神圣权能的具体化'，锻造成就赋予器物神圣性。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "希腊神话",
+     "basis_source": "pri-theogony",
+     "note": "神造器物（如克洛诺斯的镰刀由盖亚所赐）与英雄神赐武器作同一母题场域对照。"
+    },
+    {
+     "tradition": "北欧神话",
+     "basis_source": "aca-comparative-myth",
+     "note": "矮人工匠传统与希腊赫菲斯托斯神工传统作'神器工艺来源'的功能对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>神赐武器母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>神赐武器（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神界铸造</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>矮人/神工</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>权能凭证</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>使命限定</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>失去即败</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>权能绑定</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "神赐武器的功能分类是否普遍",
+     "views": [
+      {
+       "holder": "坎贝尔框架说",
+       "basis": "'超自然援助'可覆盖多数案例。"
+      },
+      {
+       "holder": "语境说",
+       "basis": "同一武器在不同文本兼具凭证/惩罚/遗产多重身份。"
+      }
+     ]
+    },
+    {
+     "issue": "武器与王权的关系",
+     "views": [
+      {
+       "holder": "王权神器说",
+       "basis": "冈格尼尔等同时是王权符号，武器即统治权。"
+      },
+      {
+       "holder": "功能分离说",
+       "basis": "战争神器与王权象征在部分传统中分属不同神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "妙尔尼尔的锻造者侏儒辛德里与布罗克（散文埃达）的打赌叙事，解释了雷锤的短柄缺陷。",
+     "source": "pri-prose-eddas"
+    },
+    {
+     "claim": "盖·博尔加'须置于水中使用'的用法限制见于《夺牛记》文本。",
+     "source": "pri-tain"
+    }
+   ]
   }
  ]
 }

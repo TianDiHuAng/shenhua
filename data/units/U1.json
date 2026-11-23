@@ -4561,6 +4561,288 @@
      "source": "pri-the-dreaming"
     }
    ]
+  },
+  {
+   "id": "myth-cherokee",
+   "title": "切罗基神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以天神祖父/太阳与月亮、水甲虫捞土创世为核心的北美东南部原住民神话。",
+   "related": [
+    "myth-iroquois",
+    "myth-navajo",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-cherokee",
+    "aca-religions-american-indians"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 切罗基叙事依 James Mooney 1891 年记录，记录者的转写选择影响文本；2) 仪式细节属传承知识，公开文献有限；3) 描述性立场。",
+   "year": null,
+   "source_text": "切罗基神话以创世叙事开篇：水甲虫（Dăyuniʼsĭ）从水面捞泥成地，太阳姊妹与月亮、雷与兄弟们的叙事构成天界秩序；'天神祖父'（Unetlanvhi）为至高神圣存在。19 世纪经 James Mooney 系统记录，与东部/西部切罗基口传版本并存。",
+   "versions": [
+    "Mooney 记录的创世—洪水—雷兄弟叙事，是英文学界标准文本。",
+    "东部切罗基（北卡）与西部（俄克拉荷马）口传版本在细节与次序上有差异。",
+    "'天神祖父'传统的现代表述把创世叙事与教会语境并存叙述。"
+   ],
+   "interpretations": [
+    {
+     "holder": "James Mooney",
+     "school": "19世纪民族志",
+     "view": "Mooney 在《Sacred Formulas》与《Myths of the Cherokee》中记录文本与草药咒语体系，奠定学术基础。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Åke Hultkrantz",
+     "school": "美洲原住民宗教研究",
+     "view": "Hultkrantz 把东南林地传统归为'仪式—草药复合型'，神话与疗愈仪式绑定。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《萨满教》中把北美捞土创世与水中取土母题作现象学一般参照，不主张传播关系。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "易洛魁神话",
+     "basis_source": "aca-religions-american-indians",
+     "note": "同属东部林地，创世结构不同（捞土 vs 天女坠落），作平行描述。"
+    },
+    {
+     "tradition": "印度神话",
+     "basis_source": "aca-shamanism",
+     "note": "水中捞土与吠陀'金胎出于水'作母题层面参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>切罗基神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>切罗基神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水甲虫捞土</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大地成形</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳姊妹</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天界秩序</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天神祖父</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>至高神圣</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>切罗基神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，细节见正文与待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Unetlanvhi 是原生概念还是基督教影响后的重构",
+     "views": [
+      {
+       "holder": "原生说",
+       "basis": "至高存在概念见于 Mooney 之前记录。"
+      },
+      {
+       "holder": "重构说",
+       "basis": "表述形态受传教语境影响，难以剥离。"
+      }
+     ]
+    },
+    {
+     "issue": "捞土动物的身份",
+     "views": [
+      {
+       "holder": "水甲虫说",
+       "basis": "Mooney 记录为 Dăyuniʼsĭ（甲虫）。"
+      },
+      {
+       "holder": "多版本说",
+       "basis": "其他版本归为水獭或 muskrat，属地方变体。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "Mooney《Myths of the Cherokee》(1900) 收录约126个叙事文本，是切罗基神话最大宗的成文材料。",
+     "source": "pri-cherokee"
+    },
+    {
+     "claim": "切罗基创世叙事中大地由水中捞起的泥土扩展而成，属'潜水捞土'母题的北美代表。",
+     "source": "pri-cherokee"
+    }
+   ]
+  },
+  {
+   "id": "myth-zulu",
+   "title": "祖鲁神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "oral",
+   "summary": "以 Unkulunkulu（太初者）创世与祖先（amadlozi）崇奉为核心的南非祖鲁传统。",
+   "related": [
+    "myth-yoruba",
+    "motif-creation",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-zulu",
+    "aca-shamanism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) related 占位（myth-yoruba-orig/motif-first-man-orig）需后续批次核对；2) Unkulunkulu 概念是否受基督教影响学界有争论（Callaway 记录于 1868 年传教语境）；3) 描述性立场。",
+   "year": null,
+   "source_text": "祖鲁传统宗教的核心是 Unkulunkulu（'最伟大者/太初出现者'）——从芦苇中出现的太初存在，创造了万物与人；现实宗教实践以祖先（amadlozi）崇奉为中心，占卜师（izangoma）与医师（izinyanga）在传统中负责沟通与疗愈。叙事经 Callaway（1868）等记录。",
+   "versions": [
+    "Callaway《祖鲁宗教体系》(1868) 记录的 Unkulunkulu 叙事，含'从芦苇中破出'的创世图景。",
+    "部族口传版本对 Unkulunkulu 数目（单一或多元）说法不一。",
+    "基督教语境下的祖鲁叙事把 Unkulunkulu 与造物主概念并置或等同。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Henry Callaway",
+     "school": "19世纪传教士民族志",
+     "view": "Callaway 的记录保存大量口传细节，但转写与诠释带传教视角，须批判性使用。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Axel-Ivar Berglund",
+     "school": "祖鲁宗教研究",
+     "view": "Berglund 在《Zulu Thought-Patterns and Symbolism》中强调祖先崇奉是实践核心，Unkulunkulu 叙事更多是宇宙论背景。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《萨满教》中对非洲占卜与出神传统作现象学一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "澳大利亚原住民神话",
+     "basis_source": "aca-shamanism",
+     "note": "创世祖先—现世延续结构与梦幻时代作现象学参照，不主张关联。"
+    },
+    {
+     "tradition": "埃及神话",
+     "basis_source": "aca-patterns-religion",
+     "note": "'从原初物质（芦苇/水）中自现'与阿图姆自现于原初丘作母题层面一般对照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>祖鲁神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>祖鲁神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Unkulunkulu</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>太初者·创世</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祖先崇奉</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>实践核心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>izangoma</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>占卜沟通</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祖鲁神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，细节见正文与待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Unkulunkulu 的单一/多元",
+     "views": [
+      {
+       "holder": "单一说",
+       "basis": "通述作单一太初者处理。"
+      },
+      {
+       "holder": "多元说",
+       "basis": "多部族版本中 Unkulunkulu 是类别名（各部各有）。"
+      }
+     ]
+    },
+    {
+     "issue": "Unkulunkulu 与基督教造物主的关系",
+     "views": [
+      {
+       "holder": "本土概念说",
+       "basis": "概念早于传教记录，后与造物主并置。"
+      },
+      {
+       "holder": "互构说",
+       "basis": "现存文本形态是传教语境互动的产物。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "Callaway 1868 年记录是祖鲁 Unkulunkulu 叙事最早的系统性成文材料之一。",
+     "source": "pri-zulu"
+    },
+    {
+     "claim": "祖鲁现实宗教实践以祖先崇奉与仪式沟通为中心，创世叙事是宇宙论背景。",
+     "source": "pri-zulu"
+    }
+   ]
+  },
+  {
+   "id": "myth-scythian",
+   "title": "斯基泰神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "欧亚草原游牧民族的神话，主要经希罗多德等外部记录保存。",
+   "related": [
+    "myth-persian",
+    "motif-creation",
+    "fig-zeus"
+   ],
+   "sources": [
+    "pri-scythian",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) related 占位（myth-persian-orig）需核对；2) 斯基泰材料几乎全为外部记录（希罗多德4.2-4.13的起源三版本），本土视角缺失；3) 考古图像与叙事对应有争议；4) 描述性立场。",
+   "year": null,
+   "source_text": "斯基泰神话的材料几乎全为外部记录：希罗多德给出三个起源叙事（波吕斯提尼的释经版、游牧版、列斯博斯的阿瑞斯塔亚斯版），核心神有塔比提（Tabiti，火/家灶）、帕帕伊奥斯（Papaios，天父/'宙斯'）、戈伊托斯鲁（'阿波罗'）、阿戈辛帕萨（'阿佛洛狄忒'天路女王）等；考古图像（金银器动物纹）与叙事的对应是学难点。",
+   "versions": [
+    "希罗多德《历史》4.2–4.13 的三个起源版本（释经版把塔吉塔玛萨斯定为第三代的'赫西俄德式'神谱）。",
+    "阿瑞斯塔亚斯《阿里玛斯波伊》的旅行叙事版本（经希罗多德转述）。",
+    "考古图像（Kul-Oba 金器等）呈现的仪式场景与叙事对应，读法有争议。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Herodotus（希罗多德）",
+     "school": "古典史料",
+     "view": "希罗多德以希腊神名对译斯基泰神并给出三版本起源，'对译'本身是史料也是诠释问题。"
+    },
+    {
+     "holder": "Dumitru Berezutzky 等考古派",
+     "school": "斯基泰考古",
+     "view": "强调考古图像对复原本土宗教的独立价值，反对纯文本投射。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "Dumézil 把斯基泰起源叙事中的社会分层（王族/战士/农人）读作三功能结构的草原版本，属学派框架假说。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "印度神话",
+     "basis_source": "aca-gods-indo-europeans",
+     "note": "印欧神名对应（天父 Papaios 与 Dyaus pitar）作比较语言学参照，不主张具体传播。"
+    },
+    {
+     "tradition": "波斯神话",
+     "basis_source": "aca-comparative-myth",
+     "note": "草原—伊朗语族邻接传统作区域对照，具体对应有讨论。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>斯基泰神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>斯基泰神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塔比提</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>火·家灶</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>帕帕伊奥斯</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天父·'宙斯'</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三起源版</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>希罗多德4卷</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>斯基泰神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>口传传统，版本差异大，细节见正文与待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "希腊神名对译的可靠度",
+     "views": [
+      {
+       "holder": "对译可信说",
+       "basis": "希罗多德自称经询证，对译反映功能对应。"
+      },
+      {
+       "holder": "希腊滤镜说",
+       "basis": "对译是希腊观察者的诠释框架，本土神格可能被扭曲。"
+      }
+     ]
+    },
+    {
+     "issue": "起源三版本的关系",
+     "views": [
+      {
+       "holder": "阶层差异说",
+       "basis": "三版本对应斯基泰社会不同群体的自我叙事。"
+      },
+      {
+       "holder": "史料分层说",
+       "basis": "三版本是希罗多德不同信息源，无社会对应。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "希罗多德《历史》第4卷是斯基泰神话最系统的外部史料，给出三个起源版本。",
+     "source": "pri-scythian"
+    },
+    {
+     "claim": "斯基泰本土文献无存，材料全部经古典作家转述与考古图像补充。",
+     "source": "pri-scythian"
+    }
+   ]
   }
  ]
 }

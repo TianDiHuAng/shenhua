@@ -3624,6 +3624,192 @@
      "source": "pri-gardner-wicca"
     }
    ]
+  },
+  {
+   "id": "rel-lutheran",
+   "title": "信义宗（路德宗）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "以路德《奥格斯堡信纲》为信条基准的宗教改革主流宗派。",
+   "related": [
+    "rel-protestantism",
+    "rel-protestantism",
+    "rel-anglican"
+   ],
+   "sources": [
+    "aca-protestant-ethic"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) related 占位（rel-protestant-orig/rel-calvinism-orig）需核对实际 id；2) 信义宗内部派别（如密苏里会 vs 瑞典国教会）差异待专门文献；3) 描述性立场。",
+   "year": null,
+   "source_text": "信义宗源于马丁·路德的宗教改革（1517年《九十五条论纲》起），以'因信称义'（sola fide）、'唯独圣经'（sola scriptura）与'信徒皆祭司'为原则，1530年《奥格斯堡信纲》是其信条基准文本。分布以北欧、德国、北美与东非为主。",
+   "versions": [
+    "路德本人文本（如《基督徒的自由》1520）陈述'因信称义'与两个国度论。",
+    "《协和信条》(1577) 对教义作系统化固定，路德宗内部接受度不一。",
+    "各国国教会形态（瑞典、丹麦等）与自由教会形态（北美）组织结构迥异。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Martin Luther",
+     "school": "改教家自述",
+     "view": "路德以'因信称义'与十架神学重构救赎论与教会观，属创立者文本。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "Weber 在《新教伦理与资本主义精神》中把路德'天职'（Beruf）概念作为新教世俗伦理的起点，属社会学分析框架。"
+    },
+    {
+     "holder": "Jaroslav Pelikan",
+     "school": "教会史",
+     "view": "Pelikan 把信义宗置于教义史脉络，强调其'信条教会'（confessional church）性格。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "圣公宗",
+     "basis_source": "aca-protestant-ethic",
+     "note": "同为宗教改革产物，组织形态（主教制 vs 教区会议制）路径不同，作平行描述。"
+    },
+    {
+     "tradition": "天主教",
+     "basis_source": "aca-protestant-ethic",
+     "note": "'唯独圣经'与教廷训导权的对立是结构分界，作平行描述不评判。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>信义宗结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>信义宗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>因信称义</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>sola fide</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>唯独圣经</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>sola scriptura</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥格斯堡信纲</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1530信条</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>信义宗要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "圣餐论（真实临在 vs 象征）",
+     "views": [
+      {
+       "holder": "真实临在说",
+       "basis": "路德'合质说'立场，圣礼中基督真实临在。"
+      },
+      {
+       "holder": "属灵临在说",
+       "basis": "改革宗立场，临在属灵而非合质。"
+      }
+     ]
+    },
+    {
+     "issue": "'信徒皆祭司'的制度含义",
+     "views": [
+      {
+       "holder": "平等教制说",
+       "basis": "取消圣职垄断，人人可讲道施教。"
+      },
+      {
+       "holder": "秩序保留说",
+       "basis": "设按立牧职以维持教义与秩序。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "1530年《奥格斯堡信纲》是信义宗最主要的信条文本。",
+     "source": "aca-protestant-ethic"
+    },
+    {
+     "claim": "路德'天职'（Beruf）概念经 Weber 分析成为理解新教世俗伦理的经典切入点。",
+     "source": "aca-protestant-ethic"
+    }
+   ]
+  },
+  {
+   "id": "rel-anglican",
+   "title": "圣公宗（安立甘宗）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "经英格兰宗教改革形成的宗派，以《公祷书》与'中道'（via media）著称。",
+   "related": [
+    "rel-lutheran",
+    "rel-catholicism",
+    "rel-methodism"
+   ],
+   "sources": [
+    "aca-protestant-ethic"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) related 占位需核对；2) 圣公宗高教会/低教会/宽教会光谱待专门文献；3) 描述性立场。",
+   "year": null,
+   "source_text": "圣公宗是英格兰宗教改革（1534年《至尊法案》起）形成的宗派，保留主教制与礼仪传统，以《公祷书》（Book of Common Prayer, 1549/1662）与《三十九条信纲》(1571) 为基准；自述走天主教与改革宗之间的'中道'（via media），普世层面以兰柏会议与坎特伯雷大主教为象征中心。",
+   "versions": [
+    "《公祷书》1549年初版经1552/1559/1662年修订，现行通行本为1662年。",
+    "牛津运动（1833起）把高教会传统复兴，强调使徒统绪与圣礼。",
+    "普世圣公宗徒（Anglican Communion）以自治教省为组织形态，神学光谱宽。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Richard Hooker",
+     "school": "安立甘神学奠基",
+     "view": "Hooker《教会政体法则》论证圣经、理性与传统的三重权威关系，'中道'神学经典表述。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "Weber 框架下圣公宗的国家教会形态与清教徒分离路线作社会学对照。"
+    },
+    {
+     "holder": "Owen Chadwick",
+     "school": "教会史",
+     "view": "Chadwick 把英格兰改革定位为'国家驱动的改革'，神学上属混合型。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "信义宗",
+     "basis_source": "aca-protestant-ethic",
+     "note": "改革路径对照：王权主导的混合型改革 vs 教义驱动的信条型改革。"
+    },
+    {
+     "tradition": "天主教",
+     "basis_source": "aca-protestant-ethic",
+     "note": "主教制与礼仪的连续性使圣公宗与天主教结构相似，教义分歧在权威与圣餐论。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>圣公宗结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>圣公宗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>公祷书</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1662通行本</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>via media</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>中道自述</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>主教制</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>保留传统</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣公宗要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "'中道'是神学立场还是后设描述",
+     "views": [
+      {
+       "holder": "神学立场说",
+       "basis": "Hooker 传统把中道作为权威关系的正面论证。"
+      },
+      {
+       "holder": "后设描述说",
+       "basis": "现代学者认为'中道'是包容光谱的描述性标签。"
+      }
+     ]
+    },
+    {
+     "issue": "使徒统绪的教义地位",
+     "views": [
+      {
+       "holder": "本质说",
+       "basis": "高教会立场视主教按立为教会本质。"
+      },
+      {
+       "holder": "良善说",
+       "basis": "宽教会立场视其为'良好的教会秩序'而非救赎必要。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "1662年《公祷书》至今仍是普世圣公宗礼仪文本的基准版之一。",
+     "source": "aca-protestant-ethic"
+    },
+    {
+     "claim": "1534年《至尊法案》确立英王为英格兰教会最高首脑，是英格兰改革的政治起点。",
+     "source": "aca-protestant-ethic"
+    }
+   ]
   }
  ]
 }

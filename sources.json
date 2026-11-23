@@ -1676,6 +1676,84 @@
    "link_ok": true,
    "verified": true,
    "note": "天女（Sky Woman）坠落与龟岛创世叙事；2026-11-23 经 Wikipedia API 实测 Haudenosaunee 条目存在。专叙事条目 URL 待补。"
+  },
+  {
+   "id": "pri-cherokee",
+   "title": "切罗基口传叙事集（Sacred Formulas 等）",
+   "author": "佚名（切罗基）/James Mooney 记录",
+   "year": null,
+   "year_display": "口传，1891年起文字记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Cherokee_spiritual_beliefs",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "切罗基灵性信仰与创世叙事，19 世纪经 James Mooney 记录（《Sacred Formulas of the Cherokees》1891）；2026-11-23 经 Wikipedia API 实测条目存在。"
+  },
+  {
+   "id": "pri-zulu",
+   "title": "祖鲁口传叙事集（Unkulunkulu 传统）",
+   "author": "佚名（祖鲁）/Callaway 等记录",
+   "year": null,
+   "year_display": "口传，1868年起文字记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Zulu_traditional_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "祖鲁传统宗教以 Unkulunkulu（太初者）创世与祖先崇奉为核心；Rev. Henry Callaway 1868 年《Religious System of the Amazulu》是早期文本；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-atra-hasis",
+   "title": "《阿特拉哈西斯》（Atra-Hasis）",
+   "author": "佚名（古巴比伦）",
+   "year": null,
+   "year_display": "古巴比伦版约前18世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Atra-Hasis",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "古巴比伦创世与洪水史诗（恩利尔—洪水—人类诞生），与《吉尔伽美什》第11泥板平行；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-utnapishtim",
+   "title": "《吉尔伽美什》第11泥板（洪水叙事）",
+   "author": "佚名（标准巴比伦版）",
+   "year": null,
+   "year_display": "约前1200年定本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Utnapishtim",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "乌特纳皮什提姆洪水叙事，标准巴比伦版第11泥板；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-tain",
+   "title": "《夺牛记》（Táin Bó Cúailnge）",
+   "author": "佚名（爱尔兰）",
+   "year": null,
+   "year_display": "12世纪抄本（口头传统更早）",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/T%C3%A1in_B%C3%B3_C%C3%BAailnge",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "爱尔兰史诗Ulster循环核心文本，库丘林夺牛之战；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-scythian",
+   "title": "希罗多德《历史》第4卷（斯基泰叙事）",
+   "author": "希罗多德",
+   "year": -440,
+   "year_display": "约前440年",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Scythian_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "希罗多德《历史》4.2–4.13 是斯基泰神话核心史料；条目 URL 指向 Scythian religion（2026-11-23 经 Wikipedia API 实测存在）。"
   }
  ]
 }

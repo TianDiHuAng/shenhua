@@ -1,25 +1,22 @@
-# REPORT.md — AUTONOMOUS-47（2026-11-23）
+# REPORT.md — AUTONOMOUS-48（2026-11-23）
 
-## 本轮主题：扩充批次7 + GitHub 推送修复
+## 本轮主题：扩充批次8（215 条目）
 
-### 推送修复
-- 发现远端仍停留在 118 条目旧版（153 blobs）；HTTPS/API 全量推送脚本在 credential fill 后无输出卡住。
-- 改用**分批 blob 上传**（5 批 ×90–120 个，带检查点 tools/_push_blobs.json）+ tree/commit/PATCH ref 一次收尾。
-- 远端 head 更新为 5e836049：+27920/-4416 行，197 条目版全量推平。验证通过后临时文件已清理。
-
-### 扩充批次7（+10 条，197→207）
-- **U1 神话 3**：纳瓦霍（迪内巴霍）、易洛魁（天女坠落）、澳大利亚原住民（梦幻时代）。
-- **U2 宗教 4**：撒玛利亚教、卡拉派犹太教、清洁派、威卡教。
-- **U3 母题 2**：世界父母分离、变形与化身。
-- **U4 人物 1**：恩奇都。
-- 新增 7 个原典来源（迪内巴霍/梦幻时代/毛利叙事集/斯拉夫文献汇编/撒玛利亚五经/加德纳文献/易洛魁创世），全部经 **Wikipedia API 联网核验**（Dreamtime 重定向至 The Dreaming 已核对）。
-- 过程问题与修复：myth-slavic/myth-maori 误写重复 → 与既有条目合并（内容并入，重复项删除）；8 处 related 无效引用（-orig 占位）→ 映射到实际存在条目；scope.md 同步 207。
-- slavic/maori 既有条目吸收本轮深写内容（versions/interpretations/controversies/data_points 合并）。
+### 完成事项
+1. **批次7 推送完成**：远端 head `fc6987c6ff03`，207 条目版同步 GitHub（tree 对比 + 增量 blob 上传，12 个变更文件）。
+2. **批次8 扩充 +8 条（207→215）**：
+   - U1 神话 3：切罗基（水甲虫捞土）、祖鲁（Unkulunkulu）、斯基泰（希罗多德三版本）。
+   - U2 宗教 2：信义宗、圣公宗。
+   - U3 母题 1：神赐武器。
+   - U4 人物 2：阿特拉哈西斯、乌特纳皮什提姆。
+3. **新增 6 个原典来源**（切罗基/祖鲁/阿特拉哈西斯/乌特纳皮什提姆/夺牛记/希罗多德第4卷），全部经 **Wikipedia API 联网核验**（Cherokee mythology→Cherokee spiritual beliefs、Divine weapon missing 已规避）。
+4. **占位引用修复**：8 处 -orig 占位 related 映射到实际条目（rel-protestantism/rel-catholicism/rel-methodism 等）。
+5. check.py 0 errors / 0 warnings；站点 226 页。
 
 ### 现状
-- 条目 207（核心 40 全 L3 / 重要 74 全 L3 / 补充 93 L2），L3 累计 114。
-- 来源 129 条，check.py 0 errors / 0 warnings，站点 218 页。
+- 条目 215（核心 40 全 L3 / 重要 74 全 L3 / 补充 101 L2），L3 累计 114。
+- 来源 135 条，全数联网核验或声明。
 
 ### 下一步候选
-- 批次8 候选：斯拉夫周边（baltic）、非洲传统（yoruba/zulu）、毛利相关（hawaiian/tahitian）、rel-druidry、rel-lutheran 等宗派。
-- 补充层 L3 深化（93 条待指令）。
+- 批次9：非洲系（yoruba 关联）、波利尼西亚系（hawaiian/tahiti）、rel-druidry、rel-methodism 详化。
+- 补充层 L3 深化（101 条待指令）。

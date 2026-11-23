@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 93,
-    "total": 207,
+    "supplement_l2": 101,
+    "total": 215,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/207）；补充层 93 条 L2；来源 129 条（联网核验）"
+    "verdict": "核心与重要层 100% L3（114/215）；补充层 101 条 L2；来源 135 条（联网核验）"
   },
   "round_log": [
     {
@@ -560,6 +560,18 @@
       "new_gaps_found": 10,
       "gap_detail": "扩充批次7：新增10条（3神话 navajo/iroquois/aboriginal + 4宗教 samaritan/karaite/cathar/wicca + 2母题 world-parents/shapeshift + 1人物 enkidu）；7个新原典来源经 Wikipedia API 联网核验；slavic/maori 重复误写已合并修复；check 0 errors",
       "verdict": "正常扩充（批次7，10条）"
+    },
+    {
+      "round": "AUTONOMOUS-48",
+      "date": "2026-11-23",
+      "methods_run": [
+        "读者问题",
+        "权威大纲",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 8,
+      "gap_detail": "扩充批次8：新增8条（3神话 cherokee/zulu/scythian + 2宗教 lutheran/anglican + 1母题 divine-weapon + 2人物 atrahasis/utnapishtim）；5个新原典来源经 Wikipedia API 核验；check 0 errors",
+      "verdict": "正常扩充（批次8，8条）"
     }
   ]
 }
