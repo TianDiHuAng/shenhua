@@ -2534,16 +2534,18 @@
     "enc-wiki-list-myth",
     "pri-lebor-gabala",
     "pri-mabinogion",
-    "aca-gods-indo-europeans"
+    "aca-gods-indo-europeans",
+    "pri-dagda"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 中世纪抄本的基督教化改写影响原貌重建；2) Mac Cana 著作未录入 sources.json，已声明；3) 印欧比较为学派框架，不主张同源。",
+   "pending_notes": "1) 中世纪抄本的基督教化改写影响原貌重建；2) Mac Cana 著作未录入 sources.json，已声明；3) 印欧比较为学派框架，不主张同源。 1) 材料多经中世纪基督教化后的记录（爱尔兰/北欧）或文学加工（亚瑟）；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
    "year": null,
-   "source_text": "达格达是爱尔兰神话中达努神族（Tuatha Dé Danann）的至善之神，以其棒槌、大锅与竖琴等法器著称，材料见于《侵略之书》等中世纪爱尔兰文献。其形象经基督教时代抄写者记录。",
+   "source_text": "达格达（The Dagda，'好神/善神'）是爱尔兰神话中 Tuatha Dé Danann（达南神族）的主神之一，兼具丰饶、农业、力量与智慧职能。他持有 magic 大棒（可杀敌亦可复活）、丰饶之锅（永不枯竭）与竖琴（能控制季节），并拥有巨大的情欲（与 Morrígan 等在节日交合的叙事）。他在与 Fir Bolg 与 Tuatha 的战斗中扮演关键角色，是爱尔兰神话中'全能之父'式的神格。",
    "versions": [
     "《侵略之书》等文献把达格达列为达努神族的首领之一，其法器象征力量、丰产与音乐。",
     "爱尔兰神话循环中达格达的形象与王权、丰产仪式相关，具体细节因文本而异。",
-    "中世纪抄本的基督教化改写影响了对达格达原貌的重建，需谨慎考据。"
+    "中世纪抄本的基督教化改写影响了对达格达原貌的重建，需谨慎考据。",
+    "达格达（The Dagda，'好神/善神'）是爱尔兰神话中 Tuatha Dé Danann（达南神族）的主神之一，兼具丰饶、农业、力量与智慧职能。他持有 magic 大棒（可杀敌亦可复活）、丰饶之锅（永不枯竭）与竖琴（能控制季节），并拥有巨大的情欲（与 Morrígan 等在节日交合的叙事）。他在与 Fir Bolg 与 Tuatha 的战斗中扮演关键角色，是爱尔兰神话中'全能之父'式的神格。"
    ],
    "interpretations": [
     {
@@ -2560,6 +2562,21 @@
      "holder": "Mircea Eliade",
      "school": "宗教现象学",
      "view": "Eliade 在《永恒回归的神话》中关于丰产与王权仪式的论述，可用于理解达格达法器母题的宇宙论意涵，属理论参照。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "可把达格达的丰饶—主权职能作印欧第一/第三功能参照。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧/凯尔特研究",
+     "view": "提示凯尔特材料与北欧材料的比较限度。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "宗教学",
+     "view": "强调达格达多面神格与中世纪记录的 layers。"
     }
    ],
    "comparisons": [
@@ -2574,7 +2591,32 @@
      "note": "Dumézil 的印欧比较作丰产—主权功能的一般参照，不主张直接同源。"
     }
    ],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>达格达法器与职能示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>达格达：法器与职能（示意）</text><rect x='290' y='92' width='180' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='122' text-anchor='middle' fill='var(--svg-text)' font-size='14'>达格达</text><line x1='380' y1='138' x2='380' y2='174' stroke='currentColor' opacity='0.5'/><line x1='170' y1='174' x2='590' y2='174' stroke='currentColor' opacity='0.5'/><line x1='170' y1='174' x2='170' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='174' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><line x1='590' y1='174' x2='590' y2='212' stroke='currentColor' opacity='0.5'/><rect x='80' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>棒槌</text><text x='170' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>生死之力</text><rect x='290' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>大锅</text><text x='380' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>丰产·供养</text><rect x='500' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>竖琴</text><text x='590' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>音乐·秩序</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>达努神族的首领之一，经中世纪抄本保存</text></svg>"
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>达格达法器与职能示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>达格达：法器与职能（示意）</text><rect x='290' y='92' width='180' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='122' text-anchor='middle' fill='var(--svg-text)' font-size='14'>达格达</text><line x1='380' y1='138' x2='380' y2='174' stroke='currentColor' opacity='0.5'/><line x1='170' y1='174' x2='590' y2='174' stroke='currentColor' opacity='0.5'/><line x1='170' y1='174' x2='170' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='174' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><line x1='590' y1='174' x2='590' y2='212' stroke='currentColor' opacity='0.5'/><rect x='80' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>棒槌</text><text x='170' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>生死之力</text><rect x='290' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>大锅</text><text x='380' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>丰产·供养</text><rect x='500' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>竖琴</text><text x='590' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>音乐·秩序</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>达努神族的首领之一，经中世纪抄本保存</text></svg>",
+   "controversies": [
+    {
+     "issue": "达格达的职能",
+     "views": [
+      {
+       "holder": "主权神说",
+       "basis": "兼具王权与战争职能。"
+      },
+      {
+       "holder": "丰饶神说",
+       "basis": "核心是农业与丰饶。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "达格达是爱尔兰达南神族的主神之一，持丰饶之锅与 magic 大棒。",
+     "source": "pri-dagda"
+    },
+    {
+     "claim": "达格达兼具丰饶、力量与智慧的多面神格。",
+     "source": "pri-dagda"
+    }
+   ]
   },
   {
    "id": "fig-cu-chulainn",
@@ -4124,16 +4166,17 @@
   },
   {
    "id": "fig-morrigan",
-   "title": "摩里甘",
+   "title": "莫瑞根",
    "level": "L2",
    "tier": "补充",
    "period": "ancient",
    "summary": "摩里甘是爱尔兰神话的战争与命运女神，常以乌鸦形象出现，与战争的混乱、预言和主权相关。",
-   "source_text": "摩里甘见于《夺牛长征记》等阿尔斯特循环文本：她以多种形态（含乌鸦）出现、预言战败与死亡，与库丘林的叙事交织。",
+   "source_text": "莫瑞根（The Morrígan）是爱尔兰神话中的战争与命运女神，常以渡鸦或美女形象出现，掌管战斗的胜负、预言与死亡（尤其是战士之死）。她与达格达、库丘林等叙事相关联（如在《夺牛长征记》中她以乌鸦形态陪伴并影响库丘林），并在节日仪式中与达格达交合以保证土地丰饶。莫瑞根体现了凯尔特'战争—丰饶—命运'女神的复合神格。",
    "versions": [
     "《夺牛长征记》中她以乌鸦等形态出现，预示死亡与战败。",
     "她常与巴德布、玛查等并列为战争女神群体，职能有交叠。",
-    "其名与“恐怖/女王”等词源关联的解读学界有讨论。"
+    "其名与“恐怖/女王”等词源关联的解读学界有讨论。",
+    "莫瑞根（The Morrígan）是爱尔兰神话中的战争与命运女神，常以渡鸦或美女形象出现，掌管战斗的胜负、预言与死亡（尤其是战士之死）。她与达格达、库丘林等叙事相关联（如在《夺牛长征记》中她以乌鸦形态陪伴并影响库丘林），并在节日仪式中与达格达交合以保证土地丰饶。莫瑞根体现了凯尔特'战争—丰饶—命运'女神的复合神格。"
    ],
    "interpretations": [
     {
@@ -4150,6 +4193,21 @@
      "holder": "Mircea Eliade",
      "school": "宗教现象学",
      "view": "（据《神圣与世俗》）Eliade 关于神圣显现与命运母题的论述，可参照理解摩里甘的预言—死亡角色。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "把莫瑞根的战争—命运职能作印欧女神结构参照。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "宗教学",
+     "view": "强调莫瑞根的多形态（渡鸦/美女/战争）与文本语境。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "战争女神与命运、丰饶的复合可作母题参照。"
     }
    ],
    "comparisons": [
@@ -4164,7 +4222,7 @@
      "note": "以权威百科条目作地中海—凯尔特背景参照（该来源未在线核验），弱参照。"
     }
    ],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>摩里甘示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>摩里甘示意</text><rect x='290' y='92' width='180' height='46' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='122' text-anchor='middle' fill='var(--svg-text)' font-size='14'>摩里甘</text><line x1='380' y1='138' x2='380' y2='174' stroke='currentColor' opacity='0.5'/><line x1='170' y1='174' x2='590' y2='174' stroke='currentColor' opacity='0.5'/><line x1='170' y1='174' x2='170' y2='212' stroke='currentColor' opacity='0.5'/><line x1='380' y1='174' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><line x1='590' y1='174' x2='590' y2='212' stroke='currentColor' opacity='0.5'/><rect x='80' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>战争女神</text><text x='170' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>混乱·冲突</text><rect x='290' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>乌鸦形态</text><text x='380' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>死亡预兆</text><rect x='500' y='212' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='13'>命运·主权</text><text x='590' y='254' text-anchor='middle' fill='var(--svg-text)' font-size='12'>预言与王权</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>中世纪爱尔兰文本保存，与库丘林叙事交织</text></svg>",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>莫瑞根形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>莫瑞根（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战争命运</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>胜负预言</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>渡鸦形态</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>变形</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶仪式</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与达格达交合</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>莫瑞根要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
    "related": [
     "fig-cu-chulainn",
     "fig-dagda",
@@ -4173,11 +4231,38 @@
    "sources": [
     "pri-lebor-gabala",
     "enc-wiki-list-myth",
-    "aca-comparative-myth"
+    "aca-comparative-myth",
+    "pri-morrigan",
+    "aca-gods-indo-europeans"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 词源解读学界有讨论，正文未作定论；2) Mac Cana 著作未录入来源库，已声明；3) 比较为框架/弱参照，不主张同源。",
-   "year": null
+   "pending_notes": "1) 词源解读学界有讨论，正文未作定论；2) Mac Cana 著作未录入来源库，已声明；3) 比较为框架/弱参照，不主张同源。 1) 材料多经中世纪基督教化后的记录（爱尔兰/北欧）或文学加工（亚瑟）；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "controversies": [
+    {
+     "issue": "莫瑞根的形象",
+     "views": [
+      {
+       "holder": "单一女神说",
+       "basis": "是一位有多形态的女神。"
+      },
+      {
+       "holder": " trio 说",
+       "basis": "可能是三位一体女神群（如 Badb/Macha/Morrígan）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "莫瑞根是爱尔兰战争与命运女神，常以渡鸦形象出现。",
+     "source": "pri-morrigan"
+    },
+    {
+     "claim": "莫瑞根在《夺牛长征记》中与库丘林叙事相关。",
+     "source": "pri-morrigan"
+    }
+   ]
   },
   {
    "id": "fig-hestia",
@@ -8144,6 +8229,304 @@
     {
      "claim": "Dumézil 把提尔归入印欧三功能的第一功能。",
      "source": "pri-tyr"
+    }
+   ]
+  },
+  {
+   "id": "fig-jormungandr",
+   "title": "耶梦加得",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧环绕世界的巨蛇，洛基之子，诸神黄昏中与托尔同归于尽。",
+   "related": [
+    "fig-fenrir",
+    "fig-thor",
+    "motif-dragon"
+   ],
+   "sources": [
+    "pri-jormungandr",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料多经中世纪基督教化后的记录（爱尔兰/北欧）或文学加工（亚瑟）；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "耶梦加得（Jörmungandr，'巨大怪物'）又称米德加德巨蛇（Miðgarðsormr），是北欧神话中洛基与安格尔伯达之子（芬里尔与赫尔之兄）。奥丁将其投入环绕米德加德（人间界）的海洋，它长大到以口咬尾环绕整个世界。托尔曾两次与之交锋（如《诗体埃达》的《西芙的争吵》与钓鱼叙事）。诸神黄昏中托尔击杀巨蛇，但因其毒液而死后倒地——两者同归于尽。",
+   "versions": [
+    "耶梦加得（Jörmungandr，'巨大怪物'）又称米德加德巨蛇（Miðgarðsormr），是北欧神话中洛基与安格尔伯达之子（芬里尔与赫尔之兄）。奥丁将其投入环绕米德加德（人间界）的海洋，它长大到以口咬尾环绕整个世界。托尔曾两次与之交锋（如《诗体埃达》的《西芙的争吵》与钓鱼叙事）。诸神黄昏中托尔击杀巨蛇，但因其毒液而死后倒地——两者同归于尽。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "把巨蛇—雷神之战读作秩序与混沌的宇宙斗争。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调耶梦加得叙事的诗歌与散文版本差异。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "《永恒回归的神话》框架下把环蛇作宇宙边界与时间循环的象征参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-jormungandr",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>耶梦加得形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>耶梦加得（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>环世巨蛇</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>口咬其尾</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>托尔之敌</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>两次交锋</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>同归于尽</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>诸神黄昏</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>耶梦加得要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "衔尾蛇的象征",
+     "views": [
+      {
+       "holder": "宇宙边界说",
+       "basis": "环蛇象征世界的边界。"
+      },
+      {
+       "holder": "时间循环说",
+       "basis": "衔尾象征永恒回归。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "耶梦加得是环绕米德加德的巨蛇，洛基与安格尔伯达之子。",
+     "source": "pri-jormungandr"
+    },
+    {
+     "claim": "诸神黄昏中托尔击杀巨蛇后因毒液而死。",
+     "source": "pri-jormungandr"
+    }
+   ]
+  },
+  {
+   "id": "fig-valkyrie",
+   "title": "女武神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧接引阵亡者至英灵殿的女神群体。",
+   "related": [
+    "fig-odin",
+    "myth-norse",
+    "motif-eschatology"
+   ],
+   "sources": [
+    "pri-valkyrie",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料多经中世纪基督教化后的记录（爱尔兰/北欧）或文学加工（亚瑟）；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "女武神（Valkyrie，古诺斯语 valkyrja，'选择阵亡者'）是北欧神话中一群女神，负责在战场上选择英勇战死者，将其引至奥丁的英灵殿（Valhalla），并在那里侍奉宴饮。她们也参与命运的决定（如《沃尔松格萨迦》中女武神布伦希尔德的叙事）。女武神形象体现北欧'战死者荣光'的价值观，并在中世纪文献与考古（如 runestone）中留下痕迹。",
+   "versions": [
+    "女武神（Valkyrie，古诺斯语 valkyrja，'选择阵亡者'）是北欧神话中一群女神，负责在战场上选择英勇战死者，将其引至奥丁的英灵殿（Valhalla），并在那里侍奉宴饮。她们也参与命运的决定（如《沃尔松格萨迦》中女武神布伦希尔德的叙事）。女武神形象体现北欧'战死者荣光'的价值观，并在中世纪文献与考古（如 runestone）中留下痕迹。"
+   ],
+   "interpretations": [
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调女武神在诗歌、萨迦与铭文中的多元形象。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "把女武神与印欧命运女神群作结构参照。"
+    },
+    {
+     "holder": "现代北欧研究",
+     "school": "宗教学",
+     "view": "关注女武神形象与战殇仪式的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-valkyrie",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>女武神形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>女武神（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>接引亡者</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>战场选择</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>英灵殿</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>侍奉奥丁</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>命运女神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>布伦希尔德</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>女武神要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "女武神的性质",
+     "views": [
+      {
+       "holder": "女神群体说",
+       "basis": "是奥丁麾下的女神群。"
+      },
+      {
+       "holder": "命运化身说",
+       "basis": "更是战场命运的人格化。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "女武神负责选择战场阵亡者并引至英灵殿。",
+     "source": "pri-valkyrie"
+    },
+    {
+     "claim": "《沃尔松格萨迦》中布伦希尔德是著名的女武神形象。",
+     "source": "pri-valkyrie"
+    }
+   ]
+  },
+  {
+   "id": "fig-fionn",
+   "title": "芬恩·麦·库哈伊尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "爱尔兰 Fenian 循环的核心英雄与诗人。",
+   "related": [
+    "myth-celtic",
+    "fig-cu-chulainn",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-fionn",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料多经中世纪基督教化后的记录（爱尔兰/北欧）或文学加工（亚瑟）；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "芬恩·麦·库哈伊尔（Fionn mac Cumhaill）是爱尔兰神话 Fenian（芬尼亚）循环的核心英雄：他领导的费安纳（Fianna）是贵族青年的战士—狩猎团体。芬恩以智慧著称——传说他因尝到'智慧之鲑'而获得预知能力；其人生经历包括与巨人库库林（Cú Chulainn 循环外的对手）的对抗、与妻子萨姆海斯的婚姻及晚年的悲剧。芬恩循环经中世纪手稿与18世纪 Macpherson 的《奥西恩》传播（后者有文学加工与争议）。",
+   "versions": [
+    "芬恩·麦·库哈伊尔（Fionn mac Cumhaill）是爱尔兰神话 Fenian（芬尼亚）循环的核心英雄：他领导的费安纳（Fianna）是贵族青年的战士—狩猎团体。芬恩以智慧著称——传说他因尝到'智慧之鲑'而获得预知能力；其人生经历包括与巨人库库林（Cú Chulainn 循环外的对手）的对抗、与妻子萨姆海斯的婚姻及晚年的悲剧。芬恩循环经中世纪手稿与18世纪 Macpherson 的《奥西恩》传播（后者有文学加工与争议）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Geoffrey Keating",
+     "school": "爱尔兰史家",
+     "view": "《爱尔兰史》记录芬恩与费安纳的传统。"
+    },
+    {
+     "holder": "James Macpherson",
+     "school": "近代整理者",
+     "view": "《奥西恩诗集》使芬恩传说广传欧洲，但文本真实性有争议。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "《千面英雄》框架下可把芬恩作英雄型参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-fionn",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>芬恩·麦·库哈伊尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>芬恩·麦·库哈伊尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智慧之鲑</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>预知能力</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>费安纳</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>战士团体</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥西恩</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文学传播</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>芬恩·麦·库哈伊尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "Macpherson 的奥西恩",
+     "views": [
+      {
+       "holder": "保存说",
+       "basis": "保存了盖尔口传。"
+      },
+      {
+       "holder": "伪造说",
+       "basis": " largely 是文学创作，引发争议。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "芬恩是爱尔兰 Fenian 循环的核心英雄，领导费安纳战士团。",
+     "source": "pri-fionn"
+    },
+    {
+     "claim": "尝'智慧之鲑'获得预知是其著名母题。",
+     "source": "pri-fionn"
+    }
+   ]
+  },
+  {
+   "id": "fig-arthur",
+   "title": "亚瑟王",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "不列颠传说中的传奇国王，圆桌骑士叙事的核心。",
+   "related": [
+    "myth-celtic",
+    "fig-lugh",
+    "motif-quest"
+   ],
+   "sources": [
+    "pri-arthur",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料多经中世纪基督教化后的记录（爱尔兰/北欧）或文学加工（亚瑟）；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "亚瑟王（King Arthur）是不列颠—威尔士传说中的传奇国王，圆桌骑士与寻找圣杯叙事的核心人物。其形象可能源于5—6世纪的不列颠军事领袖，经威尔士传统（如《马比诺吉昂》相关文本）与 Geoffrey of Monmouth 的《不列颠诸王史》（12世纪）系统化，再由 Chrétien de Troyes 等法国作家加入圆桌与圣杯元素。亚瑟传说在中世纪欧洲广为流传，是现代奇幻文学的重要源头。其历史性（是否真实存在）是学术讨论议题。",
+   "versions": [
+    "亚瑟王（King Arthur）是不列颠—威尔士传说中的传奇国王，圆桌骑士与寻找圣杯叙事的核心人物。其形象可能源于5—6世纪的不列颠军事领袖，经威尔士传统（如《马比诺吉昂》相关文本）与 Geoffrey of Monmouth 的《不列颠诸王史》（12世纪）系统化，再由 Chrétien de Troyes 等法国作家加入圆桌与圣杯元素。亚瑟传说在中世纪欧洲广为流传，是现代奇幻文学的重要源头。其历史性（是否真实存在）是学术讨论议题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Geoffrey of Monmouth",
+     "school": "中世纪编年史家",
+     "view": "《不列颠诸王史》(1136) 系统化亚瑟叙事。"
+    },
+    {
+     "holder": "Chrétien de Troyes",
+     "school": "中世纪诗人",
+     "view": "把圆桌与圣杯母题引入亚瑟叙事。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "《千面英雄》中把亚瑟作'王者—英雄'原型的参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-arthur",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>亚瑟王形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>亚瑟王（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圆桌骑士</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>平等武士团</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣杯探寻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心母题</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>历史性争议</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>传说与史实</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚瑟王要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "亚瑟的历史性",
+     "views": [
+      {
+       "holder": "历史核心说",
+       "basis": "可能基于5—6世纪的不列颠领袖。"
+      },
+      {
+       "holder": "纯传说说",
+       "basis": "是文学传统的建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "亚瑟王是圆桌骑士与圣杯叙事的核心人物。",
+     "source": "pri-arthur"
+    },
+    {
+     "claim": "Geoffrey of Monmouth 的《不列颠诸王史》系统化其传说。",
+     "source": "pri-arthur"
     }
    ]
   }

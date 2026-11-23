@@ -2963,6 +2963,84 @@
    "link_ok": true,
    "verified": true,
    "note": "提尔（Týr）是北欧战争、法律与英雄之神，以手缚芬里尔的牺牲著称；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-jormungandr",
+   "title": "耶梦加得文献（《埃达》巨蛇）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/J%C3%B6rmungandr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "耶梦加得（Jörmungandr）是北欧环绕世界的巨蛇，洛基与安格尔伯达之子，诸神黄昏中与托尔同归于尽；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-valkyrie",
+   "title": "女武神文献（《埃达》与萨迦）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Valkyrie",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "女武神（Valkyrie）是北欧接引阵亡者的女神，与奥丁和英灵殿相关；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-fionn",
+   "title": "芬恩传奇文献（《芬恩循环》与 Macpherson）",
+   "author": "佚名（爱尔兰）/Ossian 传统",
+   "year": null,
+   "year_display": "中世纪—近代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Fionn_mac_Cumhaill",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "芬恩·麦·库哈伊尔（Fionn mac Cumhaill）是爱尔兰 Fenian 循环的核心英雄；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-arthur",
+   "title": "亚瑟王传说文献（《不列颠诸王史》与圆桌叙事）",
+   "author": "佚名（不列颠）/Monmouth 等",
+   "year": null,
+   "year_display": "12世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/King_Arthur",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "亚瑟王传说是威尔士—不列颠的传奇国王叙事，经 Geoffrey of Monmouth（12世纪）与 Chrétien de Troyes 等发展；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-dagda",
+   "title": "达格达文献（爱尔兰主神）",
+   "author": "佚名（爱尔兰）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/The_Dagda",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "达格达（The Dagda）是爱尔兰神话 Tuatha Dé Danann 的'好神'，持大棒与丰饶之锅；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-morrigan",
+   "title": "莫瑞根文献（爱尔兰战争女神）",
+   "author": "佚名（爱尔兰）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/The_Morr%C3%ADgan",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "莫瑞根（The Morrígan）是爱尔兰战争与命运女神，与渡鸦、预言相关；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }

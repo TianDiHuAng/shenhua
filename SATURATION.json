@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 186,
-    "total": 300,
+    "supplement_l2": 190,
+    "total": 304,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/300）；补充层 186 条 L2；来源 228 条（联网核验）"
+    "verdict": "核心与重要层 100% L3（114/304）；补充层 190 条 L2；来源 234 条"
   },
   "round_log": [
     {
@@ -785,6 +785,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次24：新增6北欧人物（弗雷/弗蕾亚/巴德尔/赫尔/芬里尔/提尔）；6来源核验；修复fig-hel来源误用条目id；300条里程碑，check 0 errors",
       "verdict": "正常扩充（批次24，6条；300条里程碑）"
+    },
+    {
+      "round": "AUTONOMOUS-67",
+      "date": "2026-11-23",
+      "methods_run": [
+        "联网人物大纲差集",
+        "严格查重（id+标题）",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 4,
+      "gap_detail": "批次25：新增4人物（耶梦加得/女武神/芬恩/亚瑟王）；dagda/morrigan 与既有合并深化（音译差异导致标题相似度漏检，已用id精确查重捕获）；6来源核验；304条0 errors",
+      "verdict": "正常扩充（批次25，4条）"
     }
   ]
 }
