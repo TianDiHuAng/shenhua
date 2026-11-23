@@ -5564,6 +5564,101 @@
      "source": "pri-hausa"
     }
    ]
+  },
+  {
+   "id": "myth-ugaritic",
+   "title": "乌加里特（迦南）神话",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "以乌加里特泥板文献保存的迦南宗教神话，巴力与阿纳特为核心。",
+   "related": [
+    "myth-mesopotamian",
+    "myth-egyptian",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-ugaritic",
+    "aca-treasures-darkness",
+    "aca-before-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 乌加里特泥板的解读依赖西北闪语语言学，具体读法有更新；2) '巴力循环'与《旧约》的关系是学术争议议题，本条只作文本平行描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "乌加里特（Ugarit，今叙利亚 Ras Shamra）神话由1928年起出土的泥板文献（约前14–前12世纪）保存，是迦南宗教的核心史料。核心叙事包括：巴力（Baal，风暴与丰饶神）与亚姆（Yam，海/混沌）的斗争、巴力与 death 神莫特（Mot）的对抗与复归、阿纳特（Anat，战争女神）的复仇叙事、以及阿西拉（Asherah）等母神。文本与希伯来圣经的诗歌（如《士师记》5章）有多处语言与母题平行。",
+   "versions": [
+    "乌加里特泥板（RS 文献）的神话诗篇，以巴力循环与阿纳特叙事为核心。",
+    "《旧约》诗歌与乌加里特文本的平行（如'踩踏海兽'意象）是文本比较层。",
+    "腓尼基/布匿宗教的延续材料（如迦太基铭文）构成后期层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "H. L. Ginsberg",
+     "school": "闪语文献学",
+     "view": "Ginsberg 的乌加里特文本译注确立巴力循环的基本读法，并指出与《旧约》诗歌的语言平行。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "比较神话学",
+     "view": "Jacobsen 在《黑暗中的珍宝》中把巴力—亚姆/莫特的斗争与美索不达米亚的宇宙斗争母题作结构对照。"
+    },
+    {
+     "holder": "Mark S. Smith",
+     "school": "圣经与迦南宗教研究",
+     "view": "Smith 强调以色列宗教与迦南宗教的连续性及差异，反对简单的'巴力 vs 雅威'二元对立。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "美索不达米亚神话",
+     "basis_source": "aca-treasures-darkness",
+     "note": "巴力—海/死神的宇宙斗争与马尔杜克—提亚马特作功能对照。"
+    },
+    {
+     "tradition": "埃及神话",
+     "basis_source": "aca-before-philosophy",
+     "note": "'早谷神'与奥西里斯—丰饶/死亡循环作母题层面参照。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>乌加里特神话结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>乌加里特神话（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴力</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>风暴丰饶神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚姆/莫特</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>海与死神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿纳特</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>战争女神</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌加里特神话要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "巴力与雅威的关系",
+     "views": [
+      {
+       "holder": "连续性说",
+       "basis": "早期以色列宗教与迦南宗教共享大量母题与神名。"
+      },
+      {
+       "holder": "对立说",
+       "basis": "圣经先知文学明确批判巴力崇拜。"
+      }
+     ]
+    },
+    {
+     "issue": "巴力'复归'的解释",
+     "views": [
+      {
+       "holder": "丰饶周期说",
+       "basis": "巴力死而复归解释旱季—雨季的农业循环。"
+      },
+      {
+       "holder": "王权神话说",
+       "basis": "叙事强化神权与王权的合法性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "乌加里特泥板1928年起在 Ras Shamra 出土，年代约前14–前12世纪。",
+     "source": "pri-ugaritic"
+    },
+    {
+     "claim": "巴力与亚姆（海）、莫特（死亡）的斗争是乌加里特神话的核心结构。",
+     "source": "pri-ugaritic"
+    }
+   ]
   }
  ]
 }

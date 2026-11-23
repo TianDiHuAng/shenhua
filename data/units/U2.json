@@ -1244,20 +1244,28 @@
    "summary": "源于 19 世纪波斯、主张上帝唯一与人类一体的宗教。",
    "related": [
     "rel-manichaeism",
-    "rel-mormonism"
+    "rel-mormonism",
+    "rel-islam",
+    "rel-christianity",
+    "rel-zoroastrianism"
    ],
    "sources": [
     "enc-wiki-world-religion",
-    "ins-pluralism"
+    "ins-pluralism",
+    "pri-bahai",
+    "aca-god-is-not-one"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 早期历史与组织发展待专门文献核对；2) Peter Smith 著作未录入 sources.json，已声明；3) 两张比较均为弱参照，待补专门文献。",
+   "pending_notes": "1) 早期历史与组织发展待专门文献核对；2) Peter Smith 著作未录入 sources.json，已声明；3) 两张比较均为弱参照，待补专门文献。 1) 巴哈伊教自述的'渐进启示'与启示—传承叙事属该信仰的自述立场；2) 与伊斯兰教的分歧及在伊朗的处境按公开史实描述；3) 描述性立场，不评判信仰真伪。",
    "year": null,
-   "source_text": "巴哈伊信仰源于19世纪波斯，主张上帝唯一、宗教同源与人类一体，其经典包括巴哈欧拉的著作。本站采用学术描述性立场，不评判信仰真伪。",
+   "source_text": "巴哈伊教（Baháʼí Faith）19世纪中叶兴起于波斯（今伊朗），源自巴比教（Bábism）：巴哈欧拉（Baháʼu'lláh，1817–1892）创立，主张上帝唯一、宗教渐进启示（各宗教为同一真理的不同阶段）、人类一体与世界和平。经典包括巴哈欧拉《至圣圣典》《隐言经》等。其发生地与伊斯兰什叶派背景关系密切，历经迫害，现为全球性宗教社群。",
    "versions": [
     "巴哈伊信仰自巴比教背景中发展而来，其形成与19世纪波斯的社会语境相关。",
     "该传统强调宗教演进与人类团结的教义，在不同文化中形成多元的实践形态。",
-    "其早期历史与组织发展为学界研究对象，本站仅作描述性记录。"
+    "其早期历史与组织发展为学界研究对象，本站仅作描述性记录。",
+    "巴比教（1860年代）作为前身的启示叙事。",
+    "巴哈欧拉著作（《至圣圣典》等）的核心经典层。",
+    "阿博都巴哈与守基·阿芬第时期的教义阐释与行政制度层。"
    ],
    "interpretations": [
     {
@@ -1274,6 +1282,21 @@
      "holder": "Mircea Eliade",
      "school": "宗教现象学",
      "view": "（据《永恒回归的神话》）Eliade 可从宗教同源与救赎母题作现象学参照，属框架性对照。"
+    },
+    {
+     "holder": "Baháʼu'lláh",
+     "school": "创立者自述",
+     "view": "巴哈欧拉以'渐进启示'与'人类一体'为教义核心，属创立者文本。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "Prothero 把巴哈伊教作为'世界宗教'自我定位的典型，分析其独特目标（'在上帝眼中的人类一体'）。"
+    },
+    {
+     "holder": "Denis MacEoin",
+     "school": "巴比/巴哈伊研究",
+     "view": "MacEoin 以史料研究巴比—巴哈伊运动的历史演变。（该学者著作未录入来源库，书名待补）"
     }
    ],
    "comparisons": [
@@ -1315,6 +1338,32 @@
        "basis": "多不承认穆罕默德之后的新先知，故与巴哈伊立场相左。"
       }
      ]
+    },
+    {
+     "issue": "'宗教同源'主张的解释",
+     "views": [
+      {
+       "holder": "包容说",
+       "basis": "各宗教是同一真理不同阶段的渐进启示。"
+      },
+      {
+       "holder": "批判说",
+       "basis": "宗教间差异不能被简单归入同一进化图式。"
+      }
+     ]
+    },
+    {
+     "issue": "巴哈伊与伊斯兰教的关系",
+     "views": [
+      {
+       "holder": "新宗教说",
+       "basis": "巴哈伊是独立的新宗教。"
+      },
+      {
+       "holder": "伊斯兰异端说",
+       "basis": "部分伊斯兰立场视其为背离。"
+      }
+     ]
     }
    ],
    "data_points": [
@@ -1325,6 +1374,14 @@
     {
      "claim": "其经典包括巴哈欧拉的著作，早期历史与巴布运动相关。",
      "basis_source": "ins-pluralism"
+    },
+    {
+     "claim": "巴哈欧拉（1817–1892）是巴哈伊教创始人，《至圣圣典》是核心经典之一。",
+     "source": "pri-bahai"
+    },
+    {
+     "claim": "巴哈伊教主张宗教渐进启示与人类一体、世界和平。",
+     "source": "pri-bahai"
     }
    ]
   },
@@ -1768,20 +1825,27 @@
    "summary": "20 世纪越南的融合型宗教。",
    "related": [
     "rel-pureland",
-    "rel-tenrikyo"
+    "rel-tenrikyo",
+    "rel-buddhism",
+    "rel-taoism"
    ],
    "sources": [
     "enc-wiki-world-religion",
-    "ins-pluralism"
+    "ins-pluralism",
+    "pri-caodai",
+    "aca-god-is-not-one"
    ],
    "needs_verification": true,
-   "pending_notes": "1) 高台教教义与组织细节待专门文献核对；2) 百科/机构来源未在线核验，标弱参照；3) 描述性立场，不替信仰表态。",
+   "pending_notes": "1) 高台教教义与组织细节待专门文献核对；2) 百科/机构来源未在线核验，标弱参照；3) 描述性立场，不替信仰表态。 1) related 中 rel-caodaism 若为同义需核对（很可能重复）；2) 高台教的多神谱系与扶乩文本按该信仰自述处理；3) 描述性立场。",
    "year": null,
-   "source_text": "高台教是20世纪在越南兴起的融合型宗教，1926年正式创立，糅合佛教、道教、儒教与天主教等元素，以“三期普度”与 Cao Đài 至高神为核心。本文采用学术描述性立场，不评判信仰真伪。",
+   "source_text": "高台教（Cao Dai，'至高无上'）1925年由吴文昭在越南南部创立，是融合儒、释、道、基督、伊斯兰与越南民间信仰元素的扶乩启示型宗教：至高神'高台'（Cao Dai），神谱含耶稣、老子、孔子、释迦、穆罕默德等，以《圣言》扶乩文本为经典，组织仿天主教教阶（有'教皇'、红衣主教等）。其'三期白阳'末世论与越南民族主义背景交织。",
    "versions": [
     "高台教创立于1926年的越南，其教义融合多种宗教传统，反映近代越南的宗教与社会语境。",
     "高台教的组织与仪轨吸收天主教、佛教等形式，形成独特的混合形态。",
-    "高台教在越南近现代史中与民族主义、社会运动有交集，其发展经历政治变迁。"
+    "高台教在越南近现代史中与民族主义、社会运动有交集，其发展经历政治变迁。",
+    "1925年吴文昭的扶乩启示与早期组织。",
+    "《圣言》经文的多卷扶乩文本层。",
+    "1926年正式成立后在越南南部的制度化与政治参与。"
    ],
    "interpretations": [
     {
@@ -1798,6 +1862,21 @@
      "holder": "Émile Durkheim",
      "school": "宗教社会学",
      "view": "Durkheim 在《宗教生活的基本形式》中关于宗教作为社会集体表征的理论，可分析高台教在越南社会整合中的功能，属社会学框架。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "Prothero 把高台教作为宗教混合与创新最典型的案例之一（God Is Not One 中列为代表宗教）。"
+    },
+    {
+     "holder": "越南宗教研究学派",
+     "school": "区域宗教研究",
+     "view": "强调高台教的越南本土性与对殖民现代性的回应，反对简单视为'混合拼盘'。（该学派著述未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 的宗教融合（syncretism）现象学框架可作理解扶乩新宗教的一般参照。"
     }
    ],
    "comparisons": [
@@ -1812,7 +1891,45 @@
      "note": "以哈佛 Pluralism 项目资料作新兴宗教背景的一般参照（该机构页未在线核验），弱参照，待补专门文献。"
     }
    ],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>高台教融合结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>高台教：融合型宗教（描述性示意）</text><rect x='300' y='88' width='160' height='44' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='116' text-anchor='middle' fill='var(--svg-text)' font-size='13'>高台（Cao Đài）</text><line x1='380' y1='132' x2='380' y2='166' stroke='currentColor' opacity='0.5'/><line x1='130' y1='166' x2='630' y2='166' stroke='currentColor' opacity='0.5'/><line x1='130' y1='166' x2='130' y2='204' stroke='currentColor' opacity='0.5'/><line x1='290' y1='166' x2='290' y2='204' stroke='currentColor' opacity='0.5'/><line x1='450' y1='166' x2='450' y2='204' stroke='currentColor' opacity='0.5'/><line x1='630' y1='166' x2='630' y2='204' stroke='currentColor' opacity='0.5'/><rect x='50' y='204' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='130' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='13'>佛教</text><rect x='210' y='204' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='290' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='13'>道教</text><rect x='370' y='204' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='450' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='13'>儒教</text><rect x='550' y='204' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='630' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='13'>天主教</text><text x='380' y='310' text-anchor='middle' fill='var(--svg-text)' font-size='13'>1926年创立，近代越南融合型宗教</text><text x='380' y='340' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性立场，不评判信仰真伪</text></svg>"
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>高台教融合结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>高台教：融合型宗教（描述性示意）</text><rect x='300' y='88' width='160' height='44' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='116' text-anchor='middle' fill='var(--svg-text)' font-size='13'>高台（Cao Đài）</text><line x1='380' y1='132' x2='380' y2='166' stroke='currentColor' opacity='0.5'/><line x1='130' y1='166' x2='630' y2='166' stroke='currentColor' opacity='0.5'/><line x1='130' y1='166' x2='130' y2='204' stroke='currentColor' opacity='0.5'/><line x1='290' y1='166' x2='290' y2='204' stroke='currentColor' opacity='0.5'/><line x1='450' y1='166' x2='450' y2='204' stroke='currentColor' opacity='0.5'/><line x1='630' y1='166' x2='630' y2='204' stroke='currentColor' opacity='0.5'/><rect x='50' y='204' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='130' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='13'>佛教</text><rect x='210' y='204' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='290' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='13'>道教</text><rect x='370' y='204' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='450' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='13'>儒教</text><rect x='550' y='204' width='160' height='50' fill='var(--svg-node)' stroke='currentColor'/><text x='630' y='234' text-anchor='middle' fill='var(--svg-text)' font-size='13'>天主教</text><text x='380' y='310' text-anchor='middle' fill='var(--svg-text)' font-size='13'>1926年创立，近代越南融合型宗教</text><text x='380' y='340' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "高台教的性质定位",
+     "views": [
+      {
+       "holder": "混合宗教说",
+       "basis": "多教元素融合是新宗教的特征。"
+      },
+      {
+       "holder": "独特启示说",
+       "basis": "该教自视为独立的新启示而非拼合。"
+      }
+     ]
+    },
+    {
+     "issue": "教阶制度的正当性",
+     "views": [
+      {
+       "holder": "组织需要说",
+       "basis": "仿天主教教阶是现代化组织手段。"
+      },
+      {
+       "holder": "神权制度说",
+       "basis": "教阶被赋予神圣合法性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "高台教1925年由吴文昭在越南创立，1926年正式成立。",
+     "source": "pri-caodai"
+    },
+    {
+     "claim": "高台教神谱包含耶稣、老子、孔子、释迦、穆罕默德等多位宗教人物。",
+     "source": "pri-caodai"
+    }
+   ]
   },
   {
    "id": "rel-tenrikyo",
@@ -4490,6 +4607,194 @@
     {
      "claim": "Kemetism 实践依埃及学文献与神庙铭文重构，属现代再造。",
      "source": "pri-kemetic"
+    }
+   ]
+  },
+  {
+   "id": "rel-sikh",
+   "title": "锡克教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "以《古鲁·格兰特·萨希卜》为永恒古鲁的印度旁遮普一神教传统。",
+   "related": [
+    "rel-hinduism",
+    "rel-islam",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-sikh",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 十代古鲁与经典编次按公开史实描述；2) '锡克教是印度教/伊斯兰教的综合'是简化说法，学界强调其独特性；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "锡克教（Sikhism）15–18世纪兴起于印度旁遮普，以那纳克（Nanak，1469–1539）为第一位古鲁，共十代古鲁。核心教义为一神（Waheguru）、平等、诚实劳动与记忆神名（Naam Japo）；反对种姓歧视与偶像崇拜。第五代古鲁阿尔詹1604年编次《古鲁·格兰特·萨希卜》，第十代古鲁戈宾德·辛格1708年定本并确立经典为'永恒古鲁'，另创卡尔萨（Khalsa）武士团制度（1699年）。",
+   "versions": [
+    "那纳克的口传与《贾纳姆萨基》传统传记材料。",
+    "1604年《古鲁·格兰特·萨希卜》初编与1708年定本。",
+    "1699年卡尔萨制度确立后的社群组织形态。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Guru Nanak",
+     "school": "创立者",
+     "view": "那纳克以'神面前无高低'的平等观与 Naam 实践为核心，属创立者文本。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "Prothero 在《God Is Not One》中把锡克教作为独立宗教而非印度教支派，强调其独特目标（'与神合一而不失个体性'）。"
+    },
+    {
+     "holder": "W. H. McLeod",
+     "school": "锡克研究",
+     "view": "McLeod 以史料考据方法研究锡克教的起源与经典形成。（该学者著作未录入来源库，书名待补）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "印度教",
+     "basis_source": "aca-god-is-not-one",
+     "note": "锡克教与印度教共享部分术语（如 karma、moksha）但教义立场不同，作平行描述。"
+    },
+    {
+     "tradition": "伊斯兰教",
+     "basis_source": "pri-sikh",
+     "note": "一神论与反偶像崇拜的相似性是接触层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>锡克教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>锡克教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Waheguru</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>唯一神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>古鲁·格兰特</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>永恒古鲁</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡尔萨</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>1699武士团</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>锡克教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "锡克教的宗教分类",
+     "views": [
+      {
+       "holder": "独立宗教说",
+       "basis": "有独立经典、古鲁传统与社群制度。"
+      },
+      {
+       "holder": "印度教支派说",
+       "basis": "部分学术分类仍归为印度教内的一支。"
+      }
+     ]
+    },
+    {
+     "issue": "卡尔萨的宗教地位",
+     "views": [
+      {
+       "holder": "核心制度说",
+       "basis": "卡尔萨是锡克身份的核心标志。"
+      },
+      {
+       "holder": "历史发展说",
+       "basis": "卡尔萨是特定历史阶段的制度产物。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "《古鲁·格兰特·萨希卜》1604年初编、1708年由第十代古鲁定本。",
+     "source": "pri-sikh"
+    },
+    {
+     "claim": "1699年第十代古鲁戈宾德·辛格创立卡尔萨武士团制度。",
+     "source": "pri-sikh"
+    }
+   ]
+  },
+  {
+   "id": "rel-shenism",
+   "title": "中国民间信仰",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "以地方神庙、祖先祭祀与岁时仪式为核心的中国本土信仰体系。",
+   "related": [
+    "rel-taoism",
+    "rel-confucianism",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-shenism",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) '民间信仰'不是一个有统一经典的宗教，而是数千年各地实践的总称，本条作体系性通述；2) 三教合一与民间教门的复杂关系待专门文献；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "中国民间信仰（Chinese folk religion）是以地方神庙（城隍、土地、妈祖、关帝等）、祖先祭祀、岁时仪式与占卜实践为核心的中国本土信仰体系：核心概念包括'天/天命'、'气'、'阴阳五行'、'报应'与'香火'逻辑（神明灵验—供奉—还愿的互动）。它与儒、释、道三教长期互动（'三教合一'），但保有独立的实践逻辑，20世纪学界也用'中国民间宗教'或'香火社会'等概念描述。",
+   "versions": [
+    "商周时期的祖先祭祀与天—地—祖的礼仪结构。",
+    "汉唐以降地方神庙体系与城隍/土地系统的制度化。",
+    "宋元明清的三教合一与民间教门（如白莲教系）发展。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "Weber 在《中国的宗教》中把中国民间信仰的'实用理性'与儒教理性主义并置分析，属社会学框架。"
+    },
+    {
+     "holder": "Maurice Freedman",
+     "school": "人类学",
+     "view": "Freedman 的宗族与民间信仰研究强调祖先祭祀与中国社会结构的关联。（该学者著作未录入来源库，书名待补）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "Eliade 在《比较宗教的模式》中把'香火'供奉与神圣时间的周期性复演作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "神道教",
+     "basis_source": "aca-patterns-religion",
+     "note": "东亚'神—祖先—地方共同体'结构作区域对照，不主张同源。"
+    },
+    {
+     "tradition": "道教",
+     "basis_source": "pri-shenism",
+     "note": "民间信仰与道教的仪式专家（道士/法师）与神谱大量交叠，宜作互渗描述。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>中国民间信仰结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>中国民间信仰（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天/祖先</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心观念</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地方神庙</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>城隍妈祖</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>香火逻辑</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>供奉还愿</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中国民间信仰要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判教义真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "'民间信仰'是否为'宗教'",
+     "views": [
+      {
+       "holder": "宗教说",
+       "basis": "有神谱、仪式与组织，具备宗教要素。"
+      },
+      {
+       "holder": "实践体系说",
+       "basis": "无统一经典与教义，宜称'信仰实践体系'。"
+      }
+     ]
+    },
+    {
+     "issue": "三教合一的实际程度",
+     "views": [
+      {
+       "holder": "深度融合说",
+       "basis": "民间实践常不分儒释道界限。"
+      },
+      {
+       "holder": "策略并用说",
+       "basis": "实用地取用三教资源，非教义融合。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "城隍、土地、妈祖、关帝等地方神是中国民间信仰中常见的供奉对象。",
+     "source": "pri-shenism"
+    },
+    {
+     "claim": "香火逻辑（神明灵验—供奉—还愿）是民间神庙实践的核心互动模式。",
+     "source": "pri-shenism"
     }
    ]
   }

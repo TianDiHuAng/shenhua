@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T14:49:14+08:00",
+  "generated": "2026-11-23T14:57:11+08:00",
   "summary": {
-    "total": 234,
+    "total": 240,
     "by_unit": {
-      "U1": 70,
-      "U2": 55,
+      "U1": 71,
+      "U2": 57,
       "U3": 37,
-      "U4": 72
+      "U4": 75
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 120
+      "补充": 126
     },
     "by_level": {
       "L1": 0,
-      "L2": 120,
+      "L2": 126,
       "L3": 114
     },
-    "l2_done": 234,
+    "l2_done": 240,
     "l3_done": 114,
-    "verified_sources": 108
+    "verified_sources": 115
   },
   "entries": [
     {
@@ -794,6 +794,17 @@
       "last_updated": "2026-11-23"
     },
     {
+      "id": "myth-ugaritic",
+      "name": "乌加里特（迦南）神话",
+      "unit": "U1",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
       "id": "rel-christianity",
       "name": "基督教",
       "unit": "U2",
@@ -943,7 +954,7 @@
       "tier": "重要",
       "level": "L3",
       "status": "done",
-      "sources_count": 2,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -998,7 +1009,7 @@
       "tier": "补充",
       "level": "L2",
       "status": "done",
-      "sources_count": 2,
+      "sources_count": 4,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
@@ -1390,6 +1401,28 @@
     {
       "id": "rel-kemeticism",
       "name": "埃及多神复兴（Kemetism）",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-sikh",
+      "name": "锡克教",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "rel-shenism",
+      "name": "中国民间信仰",
       "unit": "U2",
       "tier": "补充",
       "level": "L2",
@@ -2596,6 +2629,39 @@
       "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-viracocha",
+      "name": "维拉科查",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-oduduwa",
+      "name": "奥杜杜瓦",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-shango",
+      "name": "香戈（Shango）",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     }
   ],
   "matrix": {
@@ -2671,6 +2737,7 @@
         "myth-lakota",
         "myth-ashanti",
         "myth-hausa",
+        "myth-ugaritic",
         "rel-christianity",
         "rel-islam",
         "rel-judaism",
@@ -2725,7 +2792,9 @@
         "rel-hussite",
         "rel-unitarian",
         "rel-hellenism",
-        "rel-kemeticism"
+        "rel-kemeticism",
+        "rel-sikh",
+        "rel-shenism"
       ],
       "motifs": [
         "motif-creation",
@@ -7649,6 +7718,76 @@
         "status": "empty"
       },
       {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "myth-ugaritic",
+        "motif": "motif-trickster",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
         "tradition": "rel-christianity",
         "motif": "motif-creation",
         "period": "ancient",
@@ -11495,6 +11634,146 @@
         "tradition": "rel-kemeticism",
         "motif": "motif-trickster",
         "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sikh",
+        "motif": "motif-trickster",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shenism",
+        "motif": "motif-trickster",
+        "period": "ancient",
         "expected": false,
         "status": "empty"
       }

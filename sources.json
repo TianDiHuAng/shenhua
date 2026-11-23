@@ -2001,6 +2001,97 @@
    "link_ok": true,
    "verified": true,
    "note": "跨传统'第一人'创世母题汇编（Adam/Adapa/原初人等）；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-ugaritic",
+   "title": "乌加里特文献（迦南宗教泥板）",
+   "author": "佚名（乌加里特书吏）",
+   "year": null,
+   "year_display": "约前14–前12世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Canaanite_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "乌加里特（Ugarit，今叙利亚 Ras Shamra）泥板文献（前14–前12世纪）是迦南宗教核心史料，含巴力Cycle、阿纳特等；2026-11-23 经 Wikipedia API 实测（Ugaritic religion→Canaanite religion）。"
+  },
+  {
+   "id": "pri-sikh",
+   "title": "《古鲁·格兰特·萨希卜》（Guru Granth Sahib）",
+   "author": "多位锡克古鲁及圣者",
+   "year": 1604,
+   "year_display": "1604初编/1708定本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sikhism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "锡克教经典，1604年由第五代古鲁阿尔詹编次，1708年第十代古鲁戈宾德·辛格定本；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-bahai",
+   "title": "巴哈伊经典（《至圣圣典》与巴哈欧拉著作）",
+   "author": "巴哈欧拉、阿博都巴哈",
+   "year": null,
+   "year_display": "19世纪中后期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_Faith",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "巴哈伊教经典，巴哈欧拉（1817–1892）著述为核心；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-caodai",
+   "title": "高台教经典（《圣言》）",
+   "author": "高台教扶乩文本",
+   "year": null,
+   "year_display": "1925年起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Caodaism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "高台教（Cao Dai）1925年越南创立，融合儒释道与基督教元素的扶乩启示经典；2026-11-23 经 Wikipedia API 实测（Cao Dai→Caodaism）。"
+  },
+  {
+   "id": "pri-shenism",
+   "title": "中国民间信仰文献（地方志与经卷）",
+   "author": "佚名（多地）/编者见各条",
+   "year": null,
+   "year_display": "历代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Chinese_folk_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "中国民间信仰以地方志、碑刻、经卷与仪式文本为载体；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-viracocha",
+   "title": "印加创世叙事（维拉科查传统）",
+   "author": "佚名（印加）/编年史记录",
+   "year": null,
+   "year_display": "口传，16世纪起记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Viracocha",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "维拉科查（Viracocha）是印加创世神，从的的喀喀湖或天空出现造人；史料经16世纪西班牙编年史（如 Sarmiento、Betanzos）记录；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-yoruba",
+   "title": "约鲁巴口传叙事集（Ifa  corpus）",
+   "author": "佚名（约鲁巴）/Zone 等记录",
+   "year": null,
+   "year_display": "口传，20世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yoruba_religion",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "约鲁巴宗教以 Ifa 占卜典籍（Odu Ifa）与 Orisha 神谱为核心；2026-11-23 经 Wikipedia API 实测。"
   }
  ]
 }
