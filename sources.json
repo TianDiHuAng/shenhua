@@ -4406,6 +4406,84 @@
    "link_ok": true,
    "verified": true,
    "note": "作为祈祷母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-music",
+   "title": "Wikipedia: Music",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Music",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为圣乐母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-incense",
+   "title": "Wikipedia: Incense",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Incense",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为熏香母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-bell",
+   "title": "Wikipedia: Bell",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Bell",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为钟母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-prophecy",
+   "title": "Wikipedia: Prophecy",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Prophecy",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为预言母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-miracle",
+   "title": "Wikipedia: Miracle",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Miracle",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为神迹母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-purification",
+   "title": "Wikipedia: Purification",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Purification",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为净化母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在（Purification ritual）。"
   }
  ]
 }

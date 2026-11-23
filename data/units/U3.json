@@ -5021,6 +5021,450 @@
      "source": "enc-wiki-prayer"
     }
    ]
+  },
+  {
+   "id": "motif-music",
+   "title": "圣乐与吟唱",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "音乐与吟唱作为神圣表达、宇宙和谐与通灵媒介的母题。",
+   "related": [
+    "motif-prayer",
+    "myth-greek",
+    "myth-siberian"
+   ],
+   "sources": [
+    "enc-wiki-music",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "音乐在宗教中被视为沟通神圣与表达宇宙秩序的媒介：印度教与佛教的 chanting（如 chanting 经咒、bhajan）、基督教的格里高利圣咏与赞美诗、伊斯兰教的 quo 吟诵（古兰经诵读）、犹太教的 cantillation（托拉吟诵）等，均以声音的有序形式表达对神圣的尊崇。神话中音乐也有宇宙性意义（如希腊俄尔甫斯以琴声感动冥界、印度那陀 yoga 的'宇宙之音'、毕达哥拉斯的'天体音乐'）。萨满仪式的鼓声被认为是通灵的媒介。",
+   "versions": [
+    "音乐在宗教中被视为沟通神圣与表达宇宙秩序的媒介：印度教与佛教的 chanting（如 chanting 经咒、bhajan）、基督教的格里高利圣咏与赞美诗、伊斯兰教的 quo 吟诵（古兰经诵读）、犹太教的 cantillation（托拉吟诵）等，均以声音的有序形式表达对神圣的尊崇。神话中音乐也有宇宙性意义（如希腊俄尔甫斯以琴声感动冥界、印度那陀 yoga 的'宇宙之音'、毕达哥拉斯的'天体音乐'）。萨满仪式的鼓声被认为是通灵的媒介。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "音乐与节奏在萨满仪式中是出神与宇宙重演的媒介。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "宗教音乐的形式与理性化过程相关（如新教圣咏）。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "吟唱在许多传统中被视为神圣语言的载体。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-music",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>圣乐与吟唱母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>圣乐与吟唱（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣咏</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Gregorian chant</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙之音</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>那陀/天体音乐</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>通灵鼓声</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>萨满仪式</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "音乐的功能",
+     "views": [
+      {
+       "holder": "献祭赞美说",
+       "basis": "音乐是献给神的赞美。"
+      },
+      {
+       "holder": "通灵转化说",
+       "basis": "音乐改变意识状态以沟通灵界。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "音乐在许多宗教中被视为沟通神圣的媒介。",
+     "source": "enc-wiki-music"
+    },
+    {
+     "claim": "俄尔甫斯以音乐感动冥界是著名的神话母题。",
+     "source": "enc-wiki-music"
+    }
+   ]
+  },
+  {
+   "id": "motif-incense",
+   "title": "熏香与香气",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "熏香作为祈祷象征、圣化空间与通神媒介的母题。",
+   "related": [
+    "motif-prayer",
+    "motif-fire",
+    "rel-christianity"
+   ],
+   "sources": [
+    "enc-wiki-incense",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "熏香在宗教仪式中广泛使用：香烟上升被比作祈祷上达于天（如《诗篇》'愿我的祷告如香陈列在你面前'）、弥撒与佛教供香中的圣化空间（香净化道场）、印度教 agarbatti 与日本香道的精神修习。乳香（frankincense）与没药（myrrh）在古代近东与地中海是珍贵香料（如《出埃及记》的圣所香、《马太福音》东方三博士的礼物）。香气也象征神圣临在（'基督的香气'）与纯洁，同时与火（焚香）、净化密切相关。",
+   "versions": [
+    "熏香在宗教仪式中广泛使用：香烟上升被比作祈祷上达于天（如《诗篇》'愿我的祷告如香陈列在你面前'）、弥撒与佛教供香中的圣化空间（香净化道场）、印度教 agarbatti 与日本香道的精神修习。乳香（frankincense）与没药（myrrh）在古代近东与地中海是珍贵香料（如《出埃及记》的圣所香、《马太福音》东方三博士的礼物）。香气也象征神圣临在（'基督的香气'）与纯洁，同时与火（焚香）、净化密切相关。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "香与火是神圣显现与净化的象征。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "香烟上升—祈祷上达的象征广泛分布。"
+    },
+    {
+     "holder": "圣经研究",
+     "school": "宗教研究",
+     "view": "乳香与没药在古代近东礼仪与贸易中地位重要。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-incense",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>熏香与香气母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>熏香与香气（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>香烟上升</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>祈祷象征</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣化空间</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>供香</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乳香没药</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>珍贵祭品</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "香的功能",
+     "views": [
+      {
+       "holder": "净化说",
+       "basis": "香净化空间与身体。"
+      },
+      {
+       "holder": "象征说",
+       "basis": "香烟象征祷告与神圣临在。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "熏香在宗教中象征祈祷上达与空间圣化。",
+     "source": "enc-wiki-incense"
+    },
+    {
+     "claim": "乳香与没药是古代重要的礼仪香料。",
+     "source": "enc-wiki-incense"
+    }
+   ]
+  },
+  {
+   "id": "motif-bells",
+   "title": "钟与铃声",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "钟声作为召唤、驱邪与神圣时间标记的母题。",
+   "related": [
+    "motif-sabbath",
+    "myth-greek",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "enc-wiki-bell",
+    "aca-sacred-profane"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "钟在宗教中标记神圣时间与召唤信众（如教堂钟声召唤礼拜、佛教寺院的晨钟暮鼓、印度教 temple bell），其声音被认为能驱邪避凶、净化空间（如 Tibetan 铃与金刚杵的修法、日本风铃的净化意涵）。钟也象征权威与宣告（如自由钟、婚礼钟声），并在文学中作为命运转折的象征（如《钟楼怪人》）。在神话与民俗中，钟声可沟通天地、召集神灵或驱散恶灵，其'圆'与'声'兼具宇宙论象征。",
+   "versions": [
+    "钟在宗教中标记神圣时间与召唤信众（如教堂钟声召唤礼拜、佛教寺院的晨钟暮鼓、印度教 temple bell），其声音被认为能驱邪避凶、净化空间（如 Tibetan 铃与金刚杵的修法、日本风铃的净化意涵）。钟也象征权威与宣告（如自由钟、婚礼钟声），并在文学中作为命运转折的象征（如《钟楼怪人》）。在神话与民俗中，钟声可沟通天地、召集神灵或驱散恶灵，其'圆'与'声'兼具宇宙论象征。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "钟声作为神圣时间的标记与宇宙秩序的象征。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "钟声召唤与驱邪的功能在多种宗教中存在。"
+    },
+    {
+     "holder": "民俗学",
+     "school": "文化研究",
+     "view": "钟与铃在民俗中兼具神圣与辟邪意涵。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-bell",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>钟与铃声母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>钟与铃声（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>召唤礼拜</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>教堂钟</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>驱邪净化</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>法铃</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>时间标记</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>晨钟暮鼓</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "钟声的意义",
+     "views": [
+      {
+       "holder": "召唤说",
+       "basis": "钟声召唤信众进入神圣时间。"
+      },
+      {
+       "holder": "驱邪说",
+       "basis": "钟声驱散恶灵与不洁。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "钟声在宗教中标记神圣时间并召唤信众。",
+     "source": "enc-wiki-bell"
+    },
+    {
+     "claim": "钟铃在佛教与藏传修法中有驱邪净化的功能。",
+     "source": "enc-wiki-bell"
+    }
+   ]
+  },
+  {
+   "id": "motif-prophecy",
+   "title": "预言与先知",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "神圣启示、预言与先知作为神人沟通的母题。",
+   "related": [
+    "motif-eschatology",
+    "fig-muhammad",
+    "motif-miracles"
+   ],
+   "sources": [
+    "enc-wiki-prophecy",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "预言（prophecy）指被认为源自超自然力量的启示性话语，由先知（prophet）传达：亚伯拉罕诸教的先知（如摩西、以利亚、以赛亚、穆罕默德）传达神的律法、审判与救赎信息；希腊的德尔斐神谕（Pythia）与先知（如忒瑞西阿斯）提供神谕；北欧的 völva（女预言者）与凯尔特/斯拉夫的预言传统亦属此类。预言常关乎末世、审判、救赎的降临，与末世论（eschatology）紧密相连；先知的合法性、预言的真伪判别是宗教内部的持续议题。",
+   "versions": [
+    "预言（prophecy）指被认为源自超自然力量的启示性话语，由先知（prophet）传达：亚伯拉罕诸教的先知（如摩西、以利亚、以赛亚、穆罕默德）传达神的律法、审判与救赎信息；希腊的德尔斐神谕（Pythia）与先知（如忒瑞西阿斯）提供神谕；北欧的 völva（女预言者）与凯尔特/斯拉夫的预言传统亦属此类。预言常关乎末世、审判、救赎的降临，与末世论（eschatology）紧密相连；先知的合法性、预言的真伪判别是宗教内部的持续议题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "先知是'卡里斯马权威'的典型承载者（借自特洛尔奇的传统）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "先知作为神圣时间的代言人与宇宙秩序的维护者。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "预言传统在亚伯拉罕诸教与多神教中均有分布。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-prophecy",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>预言与先知母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>预言与先知（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神谕启示</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>德尔斐/先知</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>末世审判</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>救赎信息</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡里斯马</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>先知权威</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "预言的真伪",
+     "views": [
+      {
+       "holder": "正统验证说",
+       "basis": "以神迹或教义一致性验证。"
+      },
+      {
+       "holder": "历史批判说",
+       "basis": "预言文本常经后世编纂与解释。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "预言是源自超自然的启示性话语，由先知传达。",
+     "source": "enc-wiki-prophecy"
+    },
+    {
+     "claim": "预言传统与末世论联系紧密。",
+     "source": "enc-wiki-prophecy"
+    }
+   ]
+  },
+  {
+   "id": "motif-miracles",
+   "title": "神迹",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "神迹作为超自然力量显现与信仰确证母题。",
+   "related": [
+    "motif-prophecy",
+    "rel-christianity",
+    "fig-bonhoeffer"
+   ],
+   "sources": [
+    "enc-wiki-miracle",
+    "aca-varieties-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "神迹（miracle）是被认为违背自然规律、显示超自然力量或神圣临在的事件：亚伯拉罕诸教中的神迹（如摩西分海、耶稣治愈与复活、伊斯兰教先知的奇迹）常作为神权与先知合法性的确证；佛教与印度教传统中的神通（siddhi）与圣者奇迹亦然。神迹在宗教叙事中具多重功能——证明神圣权威、标示救赎时刻、强化社群信仰。启蒙时代以来，对神迹的历史批判与信仰解释之间的张力成为神学与现代性讨论的核心（如休谟对神迹的批判、布特曼的'去神话化'）。",
+   "versions": [
+    "神迹（miracle）是被认为违背自然规律、显示超自然力量或神圣临在的事件：亚伯拉罕诸教中的神迹（如摩西分海、耶稣治愈与复活、伊斯兰教先知的奇迹）常作为神权与先知合法性的确证；佛教与印度教传统中的神通（siddhi）与圣者奇迹亦然。神迹在宗教叙事中具多重功能——证明神圣权威、标示救赎时刻、强化社群信仰。启蒙时代以来，对神迹的历史批判与信仰解释之间的张力成为神学与现代性讨论的核心（如休谟对神迹的批判、布特曼的'去神话化'）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "David Hume",
+     "school": "哲学",
+     "view": "在《人类理解研究》中对神迹提出经验主义批判（著作未录入来源库）。"
+    },
+    {
+     "holder": "Rudolf Bultmann",
+     "school": "新约神学",
+     "view": "以'去神话化'重释神迹叙事的现代意义（著作未录入来源库）。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "神迹在宗教叙事中是神圣权威的证明手段。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-miracle",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>神迹母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>神迹（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>治愈复活</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>耶稣神迹</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>权威确证</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>先知合法性</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>去神话化</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>现代诠释</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "神迹的真实性",
+     "views": [
+      {
+       "holder": "信仰立场",
+       "basis": "神迹是超自然介入的史实。"
+      },
+      {
+       "holder": "批判立场",
+       "basis": "神迹叙事是信仰共同体建构的象征。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "神迹在宗教中常作为神圣权威与先知合法性的确证。",
+     "source": "enc-wiki-miracle"
+    },
+    {
+     "claim": "启蒙以来对神迹的历史批判与现代诠释形成张力。",
+     "source": "enc-wiki-miracle"
+    }
+   ]
+  },
+  {
+   "id": "motif-purification",
+   "title": "净化与洁净",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "通过仪式去除不洁、恢复秩序的跨文化母题。",
+   "related": [
+    "motif-fasting",
+    "motif-initiation",
+    "motif-water"
+   ],
+   "sources": [
+    "enc-wiki-purification",
+    "aca-sacred-profane"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 仪式母题跨文化分布广，本条作比较宗教学通述；2) 各传统的具体实践与神学意义差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "净化（purification）是宗教中通过水、火、烟、禁食、忏悔等仪式去除'不洁'状态、恢复与神圣秩序关系的实践：犹太教的洁净律法（如 mikveh 浸礼）、伊斯兰教的净身（wudu/ghusl）、印度教的恒河沐浴、基督教的洗礼与告解、日本神道的禊（misogi）净化仪式。净化常与'污染—纯洁'的宇宙论相关（不洁不仅是物理状态，更是灵性/社会秩序的失序），并作为进入神圣空间或仪式的前提。范·盖内普与道格拉斯（Mary Douglas）的污染观是经典解释（《洁净与危险》，未录入来源库）。",
+   "versions": [
+    "净化（purification）是宗教中通过水、火、烟、禁食、忏悔等仪式去除'不洁'状态、恢复与神圣秩序关系的实践：犹太教的洁净律法（如 mikveh 浸礼）、伊斯兰教的净身（wudu/ghusl）、印度教的恒河沐浴、基督教的洗礼与告解、日本神道的禊（misogi）净化仪式。净化常与'污染—纯洁'的宇宙论相关（不洁不仅是物理状态，更是灵性/社会秩序的失序），并作为进入神圣空间或仪式的前提。范·盖内普与道格拉斯（Mary Douglas）的污染观是经典解释（《洁净与危险》，未录入来源库）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "净化仪式象征回归宇宙原初的纯洁状态。"
+    },
+    {
+     "holder": "Mary Douglas",
+     "school": "人类学",
+     "view": "《洁净与危险》把污染视为秩序分类的越界。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "净化是进入神圣领域前的普遍准备仪式。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-purification",
+     "note": "作母题层面的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>净化与洁净母题示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>净化与洁净（母题比较示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水洗</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洗礼/净身</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>火烟净化</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>熏香/火</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>秩序恢复</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洁净律法</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母题要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>跨传统归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>母题层面比较，不主张传播关系</text></svg>",
+   "controversies": [
+    {
+     "issue": "不洁的性质",
+     "views": [
+      {
+       "holder": "道德说",
+       "basis": "不洁源于罪与道德失序。"
+      },
+      {
+       "holder": "仪式分类说",
+       "basis": "不洁是象征秩序分类的越界。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "净化仪式跨文化地用于去除不洁、恢复神圣秩序。",
+     "source": "enc-wiki-purification"
+    },
+    {
+     "claim": "道格拉斯把污染解释为象征分类秩序的越界。",
+     "source": "enc-wiki-purification"
+    }
+   ]
   }
  ]
 }

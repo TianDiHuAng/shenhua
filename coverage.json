@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T18:13:51+08:00",
+  "generated": "2026-11-23T18:19:18+08:00",
   "summary": {
-    "total": 410,
+    "total": 416,
     "by_unit": {
       "U1": 90,
       "U2": 75,
-      "U3": 60,
+      "U3": 66,
       "U4": 185
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 296
+      "补充": 302
     },
     "by_level": {
       "L1": 0,
-      "L2": 296,
+      "L2": 302,
       "L3": 114
     },
-    "l2_done": 410,
+    "l2_done": 416,
     "l3_done": 114,
-    "verified_sources": 293
+    "verified_sources": 299
   },
   "entries": [
     {
@@ -2490,6 +2490,72 @@
     {
       "id": "motif-prayer",
       "name": "祈祷",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-music",
+      "name": "圣乐与吟唱",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-incense",
+      "name": "熏香与香气",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-bells",
+      "name": "钟与铃声",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-prophecy",
+      "name": "预言与先知",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-miracles",
+      "name": "神迹",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "motif-purification",
+      "name": "净化与洁净",
       "unit": "U3",
       "tier": "补充",
       "level": "L2",
