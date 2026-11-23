@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T16:49:43+08:00",
+  "generated": "2026-11-23T16:55:10+08:00",
   "summary": {
-    "total": 322,
+    "total": 328,
     "by_unit": {
       "U1": 86,
       "U2": 75,
       "U3": 42,
-      "U4": 119
+      "U4": 125
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 208
+      "补充": 214
     },
     "by_level": {
       "L1": 0,
-      "L2": 208,
+      "L2": 214,
       "L3": 114
     },
-    "l2_done": 322,
+    "l2_done": 328,
     "l3_done": 114,
-    "verified_sources": 206
+    "verified_sources": 211
   },
   "entries": [
     {
@@ -3562,6 +3562,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-laozi",
+      "name": "老子",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-zhuangzi",
+      "name": "庄子",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-confucius",
+      "name": "孔子",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-xwangmu",
+      "name": "西王母",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-yuhuang",
+      "name": "玉皇大帝",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "fig-mazu",
+      "name": "妈祖",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     }

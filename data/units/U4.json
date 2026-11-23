@@ -9860,6 +9860,449 @@
      "source": "pri-kshitigarbha"
     }
    ]
+  },
+  {
+   "id": "fig-laozi",
+   "title": "老子",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "道家思想家，《道德经》的传统作者。",
+   "related": [
+    "rel-taoism",
+    "fig-zhuangzi",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-laozi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层与时代层积，作者/成书年代学界有讨论；2) 道教神祇与民间信仰形象随时代演变；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "老子（Laozi，'老聃'）是中国春秋时期的思想家，被传统视为《道德经》（《老子》）的作者。《道德经》以'道'为核心概念，主张'无为''自然''柔弱胜刚强'等思想，是道家哲学的奠基文本，并对后世道教（被神化为太上老君）与 Chinese 政治—文化产生深远影响。《老子》的作者身份与成书年代（约前6—前4世纪）在学界有持续讨论（如'老子其人'与'《老子》其书'的分辨）。",
+   "versions": [
+    "老子（Laozi，'老聃'）是中国春秋时期的思想家，被传统视为《道德经》（《老子》）的作者。《道德经》以'道'为核心概念，主张'无为''自然''柔弱胜刚强'等思想，是道家哲学的奠基文本，并对后世道教（被神化为太上老君）与 Chinese 政治—文化产生深远影响。《老子》的作者身份与成书年代（约前6—前4世纪）在学界有持续讨论（如'老子其人'与'《老子》其书'的分辨）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "传统记载",
+     "school": "史传",
+     "view": "司马迁《史记》等记载老子为周守藏室之史，西出函谷关著《道德经》。"
+    },
+    {
+     "holder": "现代考据",
+     "school": "文本研究",
+     "view": "《老子》成书年代与作者有争论（如郭店简本、马王堆帛书本的输出）。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "把道家'无为'与儒教理性主义对照分析。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-laozi",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>老子形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>老子（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>道</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心概念</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>无为自然</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>修行原则</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>道德经</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>五千言</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>老子要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "老子其人与书",
+     "views": [
+      {
+       "holder": "传统同一说",
+       "basis": "老子即《道德经》作者。"
+      },
+      {
+       "holder": "层积说",
+       "basis": "文本经多时累积，作者非一人。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "老子是《道德经》的传统作者，道家思想奠基者。",
+     "source": "pri-laozi"
+    },
+    {
+     "claim": "《道德经》的作者与成书年代学界有讨论。",
+     "source": "pri-laozi"
+    }
+   ]
+  },
+  {
+   "id": "fig-zhuangzi",
+   "title": "庄子",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "道家思想家，《庄子》（南华经）的作者。",
+   "related": [
+    "rel-taoism",
+    "fig-laozi",
+    "motif-shapeshifting"
+   ],
+   "sources": [
+    "pri-zhuangzi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层与时代层积，作者/成书年代学界有讨论；2) 道教神祇与民间信仰形象随时代演变；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "庄子（Zhuangzi，约前369—前286）是战国时期的道家思想家，《庄子》（《南华经》）的作者（内篇传统归于庄子本人，外杂篇为后学）。他以汪洋恣肆的寓言（如'逍遥游'的鲲鹏、'庖丁解牛'、'庄周梦蝶'）阐述'逍遥''齐物''坐忘'等思想，是道家哲学的文学巅峰，对 Chinese 文学、艺术与禅宗思想影响深远。",
+   "versions": [
+    "庄子（Zhuangzi，约前369—前286）是战国时期的道家思想家，《庄子》（《南华经》）的作者（内篇传统归于庄子本人，外杂篇为后学）。他以汪洋恣肆的寓言（如'逍遥游'的鲲鹏、'庖丁解牛'、'庄周梦蝶'）阐述'逍遥''齐物''坐忘'等思想，是道家哲学的文学巅峰，对 Chinese 文学、艺术与禅宗思想影响深远。"
+   ],
+   "interpretations": [
+    {
+     "holder": "庄子本人",
+     "school": "文本作者",
+     "view": "内篇体现其核心思想，外杂篇为后学发挥。"
+    },
+    {
+     "holder": "Gregor Kuhn（等）",
+     "school": "汉学研究",
+     "view": "现代汉学对《庄子》的哲学与文本层次有大量研究。（该学者著述未录入来源库）"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "《庄子》的'无为'与神秘主义可作宗教社会学参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-zhuangzi",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>庄子形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>庄子（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>逍遥游</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>精神自由</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>齐物论</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>万物平等</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>庄周梦蝶</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>寓言</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>庄子要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "内篇外篇",
+     "views": [
+      {
+       "holder": "内篇核心说",
+       "basis": "内篇代表庄子本人思想。"
+      },
+      {
+       "holder": "整体说",
+       "basis": "全书体现道家思想传统，不宜截然分割。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "庄子是《庄子》（南华经）的作者，战国道家思想家。",
+     "source": "pri-zhuangzi"
+    },
+    {
+     "claim": "'庄周梦蝶''庖丁解牛'等寓言是其思想的核心表达。",
+     "source": "pri-zhuangzi"
+    }
+   ]
+  },
+  {
+   "id": "fig-confucius",
+   "title": "孔子",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "儒家创始人，《论语》所记言行体现其思想。",
+   "related": [
+    "rel-confucianism",
+    "rel-taoism",
+    "motif-sacrifice"
+   ],
+   "sources": [
+    "pri-confucius",
+    "pri-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层与时代层积，作者/成书年代学界有讨论；2) 道教神祇与民间信仰形象随时代演变；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "孔子（Confucius，前551—前479）是中国春秋时期的思想家与教育家，儒家（儒教）学派的创始人：以'仁''礼''义'为核心，主张'克己复礼''有教无类'，强调修身、齐家、治国、平天下的伦理—政治理想。其言行由弟子记录于《论语》；孔子在身后被历代王朝尊为'至圣先师'，儒家思想成为中国传统社会的主流意识形态，并传播至东亚（如日本、朝鲜、越南）。",
+   "versions": [
+    "孔子（Confucius，前551—前479）是中国春秋时期的思想家与教育家，儒家（儒教）学派的创始人：以'仁''礼''义'为核心，主张'克己复礼''有教无类'，强调修身、齐家、治国、平天下的伦理—政治理想。其言行由弟子记录于《论语》；孔子在身后被历代王朝尊为'至圣先师'，儒家思想成为中国传统社会的主流意识形态，并传播至东亚（如日本、朝鲜、越南）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "孔子及弟子",
+     "school": "文本记录",
+     "view": "《论语》是孔子言行的主要记录。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "《中国的宗教》把儒教作为理性主义的宗教—伦理体系分析。"
+    },
+    {
+     "holder": "现代儒学",
+     "school": "哲学研究",
+     "view": "对'仁''礼'等的现代诠释有持续争论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-confucius",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>孔子形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>孔子（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>仁者爱人</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心伦理</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>克己复礼</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>实践原则</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>有教无类</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>教育思想</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孔子要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "孔子的宗教性",
+     "views": [
+      {
+       "holder": "宗教说",
+       "basis": "儒家具有宗教性（祭祖、天命）。"
+      },
+      {
+       "holder": "伦理说",
+       "basis": "儒学主要是伦理—政治哲学而非宗教。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "孔子是儒家创始人，《论语》记录其言行。",
+     "source": "pri-confucius"
+    },
+    {
+     "claim": "'仁'与'礼'是孔子思想的核心。",
+     "source": "pri-confucius"
+    }
+   ]
+  },
+  {
+   "id": "fig-xwangmu",
+   "title": "西王母",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国神话与道教的女仙之首，《山海经》中的昆仑女神。",
+   "related": [
+    "myth-chinese",
+    "rel-taoism",
+    "fig-yuhuang"
+   ],
+   "sources": [
+    "pri-xwangmu",
+    "pri-shan-hai-jing"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层与时代层积，作者/成书年代学界有讨论；2) 道教神祇与民间信仰形象随时代演变；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "西王母（Queen Mother of the West）是中国神话与道教中的重要女神：在《山海经》中她居于昆仑之丘，形象半人半兽（豹尾虎齿），掌管灾厉与刑罚；汉代以降，其形象逐渐演化为雍容华贵的女仙之首，与'm女王'、不死药、瑶池宴等叙事相关（如《汉武故事》中西王母会汉武帝的传说）。在道教中，西王母是女仙之宗、元始天尊之女（或配偶），在民间信仰中是护佑生育与长寿的女神。",
+   "versions": [
+    "西王母（Queen Mother of the West）是中国神话与道教中的重要女神：在《山海经》中她居于昆仑之丘，形象半人半兽（豹尾虎齿），掌管灾厉与刑罚；汉代以降，其形象逐渐演化为雍容华贵的女仙之首，与'm女王'、不死药、瑶池宴等叙事相关（如《汉武故事》中西王母会汉武帝的传说）。在道教中，西王母是女仙之宗、元始天尊之女（或配偶），在民间信仰中是护佑生育与长寿的女神。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《山海经》",
+     "school": "早期文本",
+     "view": "《西山经》记载西王母的早期形象。"
+    },
+    {
+     "holder": "汉代文献",
+     "school": "形象演变",
+     "view": "《汉武故事》等使西王母演化为女仙之首。"
+    },
+    {
+     "holder": "现代道教研究",
+     "school": "宗教学",
+     "view": "强调西王母从昆仑怪神到道教女仙的形象演变。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-xwangmu",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>西王母形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>西王母（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>昆仑女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>早期形象</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>不死药</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>瑶池宴</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>女仙之宗</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>道教地位</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西王母要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "西王母的形象",
+     "views": [
+      {
+       "holder": "半兽神说",
+       "basis": "《山海经》中的早期形象是豹尾虎齿。"
+      },
+      {
+       "holder": "女仙说",
+       "basis": "汉代以降演化为雍容女仙。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "西王母在《山海经》中居于昆仑，早期形象半人半兽。",
+     "source": "pri-xwangmu"
+    },
+    {
+     "claim": "汉代以降西王母演化为道教女仙之首。",
+     "source": "pri-xwangmu"
+    }
+   ]
+  },
+  {
+   "id": "fig-yuhuang",
+   "title": "玉皇大帝",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "道教与民间信仰的最高天神，宋代定型。",
+   "related": [
+    "myth-chinese",
+    "rel-shenism",
+    "fig-xwangmu"
+   ],
+   "sources": [
+    "pri-yuhuang",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层与时代层积，作者/成书年代学界有讨论；2) 道教神祇与民间信仰形象随时代演变；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "玉皇大帝（Yu Huang，玉皇上帝）是道教与 Chinese 民间信仰中的最高天神，统辖天庭、地府与人间。其信仰源于古代的天帝崇拜（'昊天上帝'），在唐代逐渐与道教神系结合，宋代（尤其宋真宗时期）获官方封号'玉皇大天尊玄穹高上帝'而定型。玉皇大帝在《西游记》等文学作品与民间仪式（如拜天公）中是天庭秩序的象征，其下有众多神祇分司职能。",
+   "versions": [
+    "玉皇大帝（Yu Huang，玉皇上帝）是道教与 Chinese 民间信仰中的最高天神，统辖天庭、地府与人间。其信仰源于古代的天帝崇拜（'昊天上帝'），在唐代逐渐与道教神系结合，宋代（尤其宋真宗时期）获官方封号'玉皇大天尊玄穹高上帝'而定型。玉皇大帝在《西游记》等文学作品与民间仪式（如拜天公）中是天庭秩序的象征，其下有众多神祇分司职能。"
+   ],
+   "interpretations": [
+    {
+     "holder": "宋代官方封号",
+     "school": "制度化",
+     "view": "宋真宗等加封使玉皇信仰定型。"
+    },
+    {
+     "holder": "Max Weber",
+     "school": "宗教社会学",
+     "view": "天帝—官僚神系可反映人间官僚制的投射。"
+    },
+    {
+     "holder": "现代民间信仰研究",
+     "school": "宗教学",
+     "view": "强调玉皇信仰与古代天帝崇拜的连续性。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yuhuang",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>玉皇大帝形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>玉皇大帝（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>最高天神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天庭之主</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宋代定型</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>官方封号</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天公信仰</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>拜天公</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>玉皇大帝要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "玉皇与昊天",
+     "views": [
+      {
+       "holder": "连续说",
+       "basis": "玉皇是古代昊天上帝的道教化延续。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "二者在不同语境中有区别。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "玉皇大帝是道教与民间信仰的最高天神，宋代定型。",
+     "source": "pri-yuhuang"
+    },
+    {
+     "claim": "玉皇信仰源于古代天帝崇拜，与天公信仰相关。",
+     "source": "pri-yuhuang"
+    }
+   ]
+  },
+  {
+   "id": "fig-mazu",
+   "title": "妈祖",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中国东南沿海的海上守护神，闽台与海外华人的重要信仰。",
+   "related": [
+    "myth-chinese",
+    "rel-shenism",
+    "fig-xwangmu"
+   ],
+   "sources": [
+    "pri-mazu"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 材料跨多个文本层与时代层积，作者/成书年代学界有讨论；2) 道教神祇与民间信仰形象随时代演变；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "妈祖（Mazu，本名林默娘，960—987）是宋代福建莆田女子，传说因救助海难而死后成神，被历代朝廷封诰（从'夫人'到'天后''圣母'），成为东南沿海与台湾的海上守护神。妈祖信仰随华人移民传播至东南亚与全球华人社区，与航海、渔业、贸易和移民史紧密相关；台湾的妈祖绕境（如大甲妈祖绕境）是重要的民间宗教活动。2009年妈祖信俗被列入联合国教科文组织人类非物质文化遗产名录。",
+   "versions": [
+    "妈祖（Mazu，本名林默娘，960—987）是宋代福建莆田女子，传说因救助海难而死后成神，被历代朝廷封诰（从'夫人'到'天后''圣母'），成为东南沿海与台湾的海上守护神。妈祖信仰随华人移民传播至东南亚与全球华人社区，与航海、渔业、贸易和移民史紧密相关；台湾的妈祖绕境（如大甲妈祖绕境）是重要的民间宗教活动。2009年妈祖信俗被列入联合国教科文组织人类非物质文化遗产名录。"
+   ],
+   "interpretations": [
+    {
+     "holder": "历代封诰",
+     "school": "制度化",
+     "view": "宋元明清历代朝廷对妈祖的封号反映其地位上升。"
+    },
+    {
+     "holder": "现代妈祖研究",
+     "school": "宗教学",
+     "view": "强调妈祖信仰与海洋移民、女性神祇的关联。"
+    },
+    {
+     "holder": "UNESCO",
+     "school": "国际认可",
+     "view": "2009年妈祖信俗列入人类非遗名录。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-mazu",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>妈祖形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>妈祖（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>海上守护</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>航海安全</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>历代封诰</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天后圣母</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>绕境</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>台湾民俗</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>妈祖要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "妈祖的历史性",
+     "views": [
+      {
+       "holder": "史实核心说",
+       "basis": "林默娘是真实历史人物。"
+      },
+      {
+       "holder": "传说建构说",
+       "basis": "史实与传说交织，难以完全分离。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "妈祖（林默娘）是宋代福建女子，后成为海上守护神。",
+     "source": "pri-mazu"
+    },
+    {
+     "claim": "妈祖信俗2009年列入UNESCO人类非遗名录。",
+     "source": "pri-mazu"
+    }
+   ]
   }
  ]
 }

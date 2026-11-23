@@ -3275,6 +3275,71 @@
    "link_ok": true,
    "verified": true,
    "note": "地藏（Kṣitigarbha）是大乘佛教救度地狱众生的菩萨，以'地狱不空，誓不成佛'的大愿著称；2026-11-23 经 Wikipedia API 实测。"
+  },
+  {
+   "id": "pri-laozi",
+   "title": "《道德经》（老子）",
+   "author": "老子（传统作者）",
+   "year": null,
+   "year_display": "约前6—前4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Laozi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《道德经》是道家核心经典，传统归于老子；作者与成书年代学界有讨论；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-confucius",
+   "title": "《论语》（孔子言行）",
+   "author": "孔子及弟子",
+   "year": null,
+   "year_display": "前5世纪（记录）",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Confucius",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《论语》记录孔子言行，是儒家核心经典；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-xwangmu",
+   "title": "西王母文献（《山海经》与《汉武故事》）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "战国—汉代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Queen_Mother_of_the_West",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "西王母是中国神话与道教女仙之首，《山海经》与汉代文献记载其形象演变；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yuhuang",
+   "title": "玉皇大帝文献（道教与民间信仰）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "宋代定型",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yu_Huang",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "玉皇大帝是道教与民间信仰的最高天神，宋代获官方封号定型；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-mazu",
+   "title": "妈祖文献（妈祖信仰与历代封诰）",
+   "author": "佚名（中国/闽台）",
+   "year": null,
+   "year_display": "宋代起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mazu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "妈祖（林默娘，960—987）是海上守护神，宋元明清历代受封，闽台与海外华人中广受崇拜；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

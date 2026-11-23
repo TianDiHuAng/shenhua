@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 208,
-    "total": 322,
+    "supplement_l2": 214,
+    "total": 328,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/322）；补充层 208 条 L2；来源 252 条"
+    "verdict": "核心与重要层 100% L3（114/328）；补充层 214 条 L2；来源 257 条"
   },
   "round_log": [
     {
@@ -833,6 +833,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次28：新增6佛教人物（观世音/文殊/度母/弥勒/阿弥陀佛/地藏）；6来源核验；fig-buddha即释迦牟尼故跳过；修复tara引用；322条0 errors",
       "verdict": "正常扩充（批次28，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-71",
+      "date": "2026-11-23",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次29：新增6道教/中国宗教人物（老子/庄子/孔子/西王母/玉皇大帝/妈祖）；6来源核验；修复mazu条目id误用与confucius来源id；328条0 errors",
+      "verdict": "正常扩充（批次29，6条）"
     }
   ]
 }
