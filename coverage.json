@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:13:30+08:00",
+  "generated": "2026-11-24T10:18:16+08:00",
   "summary": {
-    "total": 446,
+    "total": 452,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 191
+      "U4": 197
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 332
+      "补充": 338
     },
     "by_level": {
       "L1": 0,
-      "L2": 332,
+      "L2": 338,
       "L3": 114
     },
-    "l2_done": 446,
+    "l2_done": 452,
     "l3_done": 114,
-    "verified_sources": 329
+    "verified_sources": 335
   },
   "entries": [
     {
@@ -4926,6 +4926,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-nut",
+      "name": "努特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-geb",
+      "name": "盖布",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-shu",
+      "name": "舒",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-tefnut",
+      "name": "泰芙努特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-sobek",
+      "name": "索贝克",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-bes",
+      "name": "贝斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-24"
     }

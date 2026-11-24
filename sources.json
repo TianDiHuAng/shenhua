@@ -4874,6 +4874,84 @@
    "link_ok": true,
    "verified": true,
    "note": "俄耳甫斯是希腊神话的音乐家与诗人，以入冥界寻妻与俄耳甫斯教著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nut",
+   "title": "努特文献（埃及丧葬文本）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—新王国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nut_(goddess)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "努特（Nut）是埃及的天空女神，星辰之母，盖布之妻；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-geb",
+   "title": "盖布文献（埃及创世神话）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—新王国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Geb",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "盖布（Geb）是埃及的大地男神，努特之夫，奥西里斯等诸神之父；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-shu",
+   "title": "舒文献（埃及空气神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—新王国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Shu_(god)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "舒（Shu）是埃及的空气与风神，分离天（努特）地（盖布）；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tefnut",
+   "title": "泰芙努特文献（埃及雨露女神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—新王国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tefnut",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "泰芙努特（Tefnut）是埃及的雨露与湿气女神，舒之妻，'拉之眼'神格之一；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-sobek",
+   "title": "索贝克文献（埃及鳄鱼神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "中王国—新王国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sobek",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "索贝克（Sobek）是埃及的鳄鱼神，尼罗河与王权力量的象征，法尤姆为其崇拜中心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-bes",
+   "title": "贝斯文献（埃及家宅守护神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "中王国—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Bes",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "贝斯（Bes）是埃及的家宅、孕妇与儿童守护神，矮人形象；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

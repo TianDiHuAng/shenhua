@@ -15163,6 +15163,456 @@
      "source": "pri-orpheus"
     }
    ]
+  },
+  {
+   "id": "fig-nut",
+   "title": "努特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的天空女神，星辰之母，盖布之妻。",
+   "related": [
+    "fig-geb",
+    "fig-shu",
+    "motif-world-parents"
+   ],
+   "sources": [
+    "pri-nut",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—罗马多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "努特（Nut）是埃及的天空女神：她以身体拱成穹顶覆盖大地（其夫盖布），星辰是其身上的装饰，太阳每日穿越她的身体（吞入与生出），象征宇宙的昼夜循环。她是盖布之妻，奥西里斯、伊西斯、塞特、奈芙蒂斯之母（九柱神之一）；在丧葬文本中，亡者希望进入努特的身体（星空）以获得重生。努特与盖布被其父舒（空气神）分离的叙事是埃及'世界父母分离'母题的核心。",
+   "versions": [
+    "努特（Nut）是埃及的天空女神：她以身体拱成穹顶覆盖大地（其夫盖布），星辰是其身上的装饰，太阳每日穿越她的身体（吞入与生出），象征宇宙的昼夜循环。她是盖布之妻，奥西里斯、伊西斯、塞特、奈芙蒂斯之母（九柱神之一）；在丧葬文本中，亡者希望进入努特的身体（星空）以获得重生。努特与盖布被其父舒（空气神）分离的叙事是埃及'世界父母分离'母题的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中把努特置于九柱神与宇宙论结构。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "天空女神的宇宙论地位（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天地分离与星辰之母可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nut",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>努特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>努特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天空女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>星辰之母</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>盖布之妻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>九柱神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>穿越太阳</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>昼夜循环</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>努特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "努特的形象",
+     "views": [
+      {
+       "holder": "天空穹顶说",
+       "basis": "身体拱成天穹。"
+      },
+      {
+       "holder": "宇宙母体说",
+       "basis": "星辰与重生之母。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "努特是埃及天空女神，盖布之妻，九柱神之一。",
+     "source": "pri-nut"
+    },
+    {
+     "claim": "努特与盖布被舒分离是埃及'世界父母分离'母题核心。",
+     "source": "pri-nut"
+    }
+   ]
+  },
+  {
+   "id": "fig-geb",
+   "title": "盖布",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的大地男神，努特之夫，奥西里斯等诸神之父。",
+   "related": [
+    "fig-nut",
+    "fig-shu",
+    "fig-osiris"
+   ],
+   "sources": [
+    "pri-geb",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—罗马多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "盖布（Geb）是埃及的大地男神，天空女神努特之夫：他常被描绘为躺卧大地、努特覆于其上的形象；作为九柱神之一，他是奥西里斯、伊西斯、塞特、奈芙蒂斯之父。盖布象征大地、丰饶与王权（法老常被称为'盖布的继承者'，大地是王权的基础）。在某些文本中，盖布也被视为最初的王者，其后将统治权传给奥西里斯。盖布与努特的分离（被舒撑开）是埃及创世论的重要环节。",
+   "versions": [
+    "盖布（Geb）是埃及的大地男神，天空女神努特之夫：他常被描绘为躺卧大地、努特覆于其上的形象；作为九柱神之一，他是奥西里斯、伊西斯、塞特、奈芙蒂斯之父。盖布象征大地、丰饶与王权（法老常被称为'盖布的继承者'，大地是王权的基础）。在某些文本中，盖布也被视为最初的王者，其后将统治权传给奥西里斯。盖布与努特的分离（被舒撑开）是埃及创世论的重要环节。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中把盖布置于九柱神与王权结构。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "王权与大地神的关联（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "大地神与王权的神圣化可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-geb",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>盖布形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>盖布（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大地男神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>努特之夫</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>九柱神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>诸神之父</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王权基础</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>盖布的继承者</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>盖布要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "盖布的地位",
+     "views": [
+      {
+       "holder": "大地神说",
+       "basis": "象征大地与丰饶。"
+      },
+      {
+       "holder": "原初王者说",
+       "basis": "最初统治权的持有者。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "盖布是埃及大地男神，努特之夫，九柱神之一。",
+     "source": "pri-geb"
+    },
+    {
+     "claim": "盖布象征大地与王权，法老称'盖布的继承者'。",
+     "source": "pri-geb"
+    }
+   ]
+  },
+  {
+   "id": "fig-shu",
+   "title": "舒",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的空气与风神，分离天地。",
+   "related": [
+    "fig-nut",
+    "fig-geb",
+    "fig-tefnut"
+   ],
+   "sources": [
+    "pri-shu",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—罗马多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "舒（Shu）是埃及的空气、风与光之神：作为阿图姆（或拉）所生的第一对神之一（与泰芙努特），他最重要的职能是分离天（努特）与地（盖布）——以双手撑起努特的身体，使天地之间有了空间，万物得以生存（「世界父母分离」母题的埃及版本）。舒是九柱神之一，象征生命的气息与宇宙秩序的确立。",
+   "versions": [
+    "舒（Shu）是埃及的空气、风与光之神：作为阿图姆（或拉）所生的第一对神之一（与泰芙努特），他最重要的职能是分离天（努特）与地（盖布）——以双手撑起努特的身体，使天地之间有了空间，万物得以生存（「世界父母分离」母题的埃及版本）。舒是九柱神之一，象征生命的气息与宇宙秩序的确立。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中把舒置于创世神话的分离环节。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "空气神与宇宙秩序的关联（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天地分离母题可作宇宙论参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-shu",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>舒形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>舒（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>空气神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>风与光</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>分离天地</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>撑起努特</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>九柱神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世环节</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>舒要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "舒的职能",
+     "views": [
+      {
+       "holder": "宇宙分离说",
+       "basis": "分离天地是核心职能。"
+      },
+      {
+       "holder": "生命气息说",
+       "basis": "象征生命之风与秩序。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "舒是埃及空气与风神，分离天（努特）与地（盖布）。",
+     "source": "pri-shu"
+    },
+    {
+     "claim": "舒是九柱神之一，象征生命气息与宇宙秩序。",
+     "source": "pri-shu"
+    }
+   ]
+  },
+  {
+   "id": "fig-tefnut",
+   "title": "泰芙努特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的雨露与湿气女神，舒之妻。",
+   "related": [
+    "fig-shu",
+    "fig-hathor",
+    "fig-sekhmet"
+   ],
+   "sources": [
+    "pri-tefnut",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—罗马多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "泰芙努特（Tefnut）是埃及的雨、露、湿气与秩序女神：作为阿图姆（或拉）所生的神之一（与舒为兄妹/夫妻），她是九柱神之一。在'拉之眼'神话中，泰芙努特（或与之相关的女神）负气离开埃及（化为母狮或努比亚的猫），导致干旱，后经托特或舒的劝返而回归，象征湿气与秩序的重建。泰芙努特与舒共同象征生命的两大要素（空气与水），是埃及创世论的重要组成。",
+   "versions": [
+    "泰芙努特（Tefnut）是埃及的雨、露、湿气与秩序女神：作为阿图姆（或拉）所生的神之一（与舒为兄妹/夫妻），她是九柱神之一。在'拉之眼'神话中，泰芙努特（或与之相关的女神）负气离开埃及（化为母狮或努比亚的猫），导致干旱，后经托特或舒的劝返而回归，象征湿气与秩序的重建。泰芙努特与舒共同象征生命的两大要素（空气与水），是埃及创世论的重要组成。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中把泰芙努特置于'拉之眼'与九柱神结构。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "湿气女神与秩序重建（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "'拉之眼'的离返可作宇宙秩序周期参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tefnut",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>泰芙努特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>泰芙努特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雨露女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>湿气</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>舒之妻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>九柱神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉之眼</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>离返神话</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>泰芙努特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "泰芙努特的形象",
+     "views": [
+      {
+       "holder": "湿气说",
+       "basis": "象征雨露与湿气。"
+      },
+      {
+       "holder": "拉之眼说",
+       "basis": "作为'拉之眼'的愤怒与回归。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "泰芙努特是埃及雨露与湿气女神，舒之妻，九柱神之一。",
+     "source": "pri-tefnut"
+    },
+    {
+     "claim": "泰芙努特在'拉之眼'神话中负气离开又回归。",
+     "source": "pri-tefnut"
+    }
+   ]
+  },
+  {
+   "id": "fig-sobek",
+   "title": "索贝克",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的鳄鱼神，尼罗河与王权力量的象征。",
+   "related": [
+    "fig-horus",
+    "fig-ptah",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-sobek",
+    "pri-coffin-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—罗马多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "索贝克（Sobek）是埃及的鳄鱼神，象征尼罗河的丰饶、王权力量与军事实力：他被描绘为鳄鱼或鳄鱼首人身，崇拜中心在法尤姆（Faiyum）的 Kom Ombo 与 Shedet。索贝克与王权密切相关（法老被称为'索贝克的化身'），也与尼罗河的泛滥丰饶、以及保护免受尼罗河危险的职能相关。在《金字塔文本》中，索贝克是王权庇护的神祇之一。",
+   "versions": [
+    "索贝克（Sobek）是埃及的鳄鱼神，象征尼罗河的丰饶、王权力量与军事实力：他被描绘为鳄鱼或鳄鱼首人身，崇拜中心在法尤姆（Faiyum）的 Kom Ombo 与 Shedet。索贝克与王权密切相关（法老被称为'索贝克的化身'），也与尼罗河的泛滥丰饶、以及保护免受尼罗河危险的职能相关。在《金字塔文本》中，索贝克是王权庇护的神祇之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中把索贝克置于王权与自然神结构。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "鳄鱼神与王权、尼罗河的关联（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "动物神与王权力量可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sobek",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>索贝克形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>索贝克（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鳄鱼神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>尼罗河</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王权力量</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>法老化身</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Kom Ombo</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>索贝克要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "索贝克的职能",
+     "views": [
+      {
+       "holder": "丰饶神说",
+       "basis": "象征尼罗河泛滥的丰饶。"
+      },
+      {
+       "holder": "王权神说",
+       "basis": "象征法老的军事力量。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "索贝克是埃及鳄鱼神，象征尼罗河丰饶与王权力量。",
+     "source": "pri-sobek"
+    },
+    {
+     "claim": "索贝克的崇拜中心在法尤姆与 Kom Ombo。",
+     "source": "pri-sobek"
+    }
+   ]
+  },
+  {
+   "id": "fig-bes",
+   "title": "贝斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的家宅、孕妇与儿童守护神，矮人形象。",
+   "related": [
+    "fig-bastet",
+    "myth-egyptian",
+    "motif-ancestor"
+   ],
+   "sources": [
+    "pri-bes",
+    "pri-book-dead",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—罗马多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "贝斯（Bes）是埃及的家宅、孕妇、儿童与睡眠的守护神：他以矮壮、狮面或滑稽的矮人形象出现，常被描绘为跳舞、奏乐或持刀驱邪——其'可笑'的形象被认为能驱散恶灵、逗乐婴儿、保护家庭。贝斯崇拜在民间（而非国家神庙）极为普遍，从古王国延续至罗马时期，护身符、家具与镜子常饰以贝斯形象。贝斯是埃及宗教中罕见的'民间守护神'代表，与高神学的神祇形成对照。",
+   "versions": [
+    "贝斯（Bes）是埃及的家宅、孕妇、儿童与睡眠的守护神：他以矮壮、狮面或滑稽的矮人形象出现，常被描绘为跳舞、奏乐或持刀驱邪——其'可笑'的形象被认为能驱散恶灵、逗乐婴儿、保护家庭。贝斯崇拜在民间（而非国家神庙）极为普遍，从古王国延续至罗马时期，护身符、家具与镜子常饰以贝斯形象。贝斯是埃及宗教中罕见的'民间守护神'代表，与高神学的神祇形成对照。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中提到贝斯的民间守护职能。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "民间信仰与家宅守护（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "家宅守护神与驱邪可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-bes",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>贝斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>贝斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>矮人形象</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>驱邪守护</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孕妇儿童</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>家宅保护</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>民间神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>非国家神庙</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>贝斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "贝斯的性质",
+     "views": [
+      {
+       "holder": "民间守护说",
+       "basis": "主要是民间的家宅守护神。"
+      },
+      {
+       "holder": "驱邪功能说",
+       "basis": "以滑稽形象驱散恶灵。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "贝斯是埃及家宅、孕妇与儿童守护神，矮人形象。",
+     "source": "pri-bes"
+    },
+    {
+     "claim": "贝斯崇拜在民间极为普遍，延续至罗马时期。",
+     "source": "pri-bes"
+    }
+   ]
   }
  ]
 }
