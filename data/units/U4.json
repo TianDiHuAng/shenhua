@@ -18762,6 +18762,456 @@
      "source": "pri-gonggong"
     }
    ]
+  },
+  {
+   "id": "fig-oedipus",
+   "title": "俄狄浦斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊底比斯神话的悲剧英雄，解斯芬克斯之谜。",
+   "related": [
+    "myth-greek",
+    "fig-jason",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-oedipus",
+    "aca-hero-faces",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 英雄神话的文本来源与版本多样，具体细节依版本；2) 历史性与神话性须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "俄狄浦斯（Oedipus）是希腊底比斯神话的悲剧英雄：他出生时因神谕'将弑父娶母'而被弃，长大后 unknowingly 杀死生父拉伊俄斯、解开斯芬克斯之谜（'人'）、娶生母伊俄卡斯忒为妻，最终在真相大白后自刺双目、流亡。索福克勒斯的《俄狄浦斯王》是西方悲剧的典范，'俄狄浦斯情结'（弗洛伊德）使其成为精神分析的经典案例。俄狄浦斯象征命运（fate）与人之认识的局限——越是逃避命运越落入其中。",
+   "versions": [
+    "俄狄浦斯（Oedipus）是希腊底比斯神话的悲剧英雄：他出生时因神谕'将弑父娶母'而被弃，长大后 unknowingly 杀死生父拉伊俄斯、解开斯芬克斯之谜（'人'）、娶生母伊俄卡斯忒为妻，最终在真相大白后自刺双目、流亡。索福克勒斯的《俄狄浦斯王》是西方悲剧的典范，'俄狄浦斯情结'（弗洛伊德）使其成为精神分析的经典案例。俄狄浦斯象征命运（fate）与人之认识的局限——越是逃避命运越落入其中。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sophocles",
+     "school": "悲剧",
+     "view": "《俄狄浦斯王》是悲剧典范。"
+    },
+    {
+     "holder": "Sigmund Freud",
+     "school": "精神分析",
+     "view": "'俄狄浦斯情结'使其成为心理学经典。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "命运与自我认识是英雄悲剧的核心。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-oedipus",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>俄狄浦斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>俄狄浦斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>斯芬克斯之谜</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>'人'</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弑父娶母</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>命运悖论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>自刺双目</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>真相与认识</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>俄狄浦斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "俄狄浦斯的悲剧",
+     "views": [
+      {
+       "holder": "命运论说",
+       "basis": "人的努力无法逃脱命运。"
+      },
+      {
+       "holder": "性格论说",
+       "basis": "其悲剧源于自身性格的执着。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "俄狄浦斯是底比斯神话的悲剧英雄，解斯芬克斯之谜。",
+     "source": "pri-oedipus"
+    },
+    {
+     "claim": "俄狄浦斯 unknowingly 弑父娶母，最终自刺双目。",
+     "source": "pri-oedipus"
+    }
+   ]
+  },
+  {
+   "id": "fig-agamemnon",
+   "title": "阿伽门农",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "特洛伊战争中希腊联军的统帅，迈锡尼王。",
+   "related": [
+    "myth-greek",
+    "fig-achilles",
+    "fig-odysseus"
+   ],
+   "sources": [
+    "pri-agamemnon",
+    "pri-iliad",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 英雄神话的文本来源与版本多样，具体细节依版本；2) 历史性与神话性须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿伽门农（Agamemnon）是希腊神话中迈锡尼王，特洛伊战争中希腊联军的统帅：他因傲慢（与阿喀琉斯争夺女俘）引发阿喀琉斯的愤怒（《伊利亚特》的主题），又因献祭女儿伊菲革涅亚以求顺风而背负罪孽。战后归国，他被妻子克吕泰涅斯特拉及其情人埃癸斯托斯谋杀，其子俄瑞斯忒斯复仇弑母——这一家族诅咒（阿特柔斯家族）是埃斯库罗斯《奥瑞斯忒亚》三部曲的核心，探讨正义、复仇与神义。",
+   "versions": [
+    "阿伽门农（Agamemnon）是希腊神话中迈锡尼王，特洛伊战争中希腊联军的统帅：他因傲慢（与阿喀琉斯争夺女俘）引发阿喀琉斯的愤怒（《伊利亚特》的主题），又因献祭女儿伊菲革涅亚以求顺风而背负罪孽。战后归国，他被妻子克吕泰涅斯特拉及其情人埃癸斯托斯谋杀，其子俄瑞斯忒斯复仇弑母——这一家族诅咒（阿特柔斯家族）是埃斯库罗斯《奥瑞斯忒亚》三部曲的核心，探讨正义、复仇与神义。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《伊利亚特》",
+     "school": "文本",
+     "view": "阿伽门农的傲慢引发阿喀琉斯之怒。"
+    },
+    {
+     "holder": "Aeschylus",
+     "school": "悲剧",
+     "view": "《奥瑞斯忒亚》三部曲是其家族悲剧的核心。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "统帅型英雄与家族诅咒母题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-agamemnon",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿伽门农形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿伽门农（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>希腊统帅</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>特洛伊战争</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与阿喀琉斯之争</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿喀琉斯之怒</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>家族诅咒</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿特柔斯家</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿伽门农要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿伽门农的形象",
+     "views": [
+      {
+       "holder": "傲慢统帅说",
+       "basis": "其傲慢导致内部分裂。"
+      },
+      {
+       "holder": "悲剧受害者说",
+       "basis": "家族诅咒的牺牲品。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿伽门农是特洛伊战争希腊联军统帅，迈锡尼王。",
+     "source": "pri-agamemnon"
+    },
+    {
+     "claim": "阿伽门农的家族诅咒是《奥瑞斯忒亚》的核心。",
+     "source": "pri-agamemnon"
+    }
+   ]
+  },
+  {
+   "id": "fig-perseus",
+   "title": "珀耳修斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊神话中斩美杜莎、救安德洛墨达的英雄。",
+   "related": [
+    "myth-greek",
+    "fig-medusa",
+    "fig-heracles"
+   ],
+   "sources": [
+    "pri-perseus",
+    "aca-hero-faces",
+    "pri-theogony"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 英雄神话的文本来源与版本多样，具体细节依版本；2) 历史性与神话性须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "珀耳修斯（Perseus）是希腊神话中的英雄，宙斯与达那厄之子：他受波吕得克忒斯之命去取美杜莎（Gorgon）的首级，在雅典娜与赫尔墨斯的帮助下（借盾牌镜面避免直视、穿飞鞋、戴隐身帽）成功斩下美杜莎首级，其后又救出被海怪威胁的公主安德洛墨达并娶她为妻。珀耳修斯是斩杀怪物型英雄的典型，其故事包含了希腊英雄神话的诸多标准母题（神助、神器、怪物、公主）。",
+   "versions": [
+    "珀耳修斯（Perseus）是希腊神话中的英雄，宙斯与达那厄之子：他受波吕得克忒斯之命去取美杜莎（Gorgon）的首级，在雅典娜与赫尔墨斯的帮助下（借盾牌镜面避免直视、穿飞鞋、戴隐身帽）成功斩下美杜莎首级，其后又救出被海怪威胁的公主安德洛墨达并娶她为妻。珀耳修斯是斩杀怪物型英雄的典型，其故事包含了希腊英雄神话的诸多标准母题（神助、神器、怪物、公主）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Apollodorus",
+     "school": "文献",
+     "view": "《书库》系统记录珀耳修斯神话。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "斩美杜莎是英雄旅程的经典试炼。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "神器与神助可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-perseus",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>珀耳修斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>珀耳修斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>斩美杜莎</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>镜面盾牌</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>救安德洛墨达</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>公主</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神助</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雅典娜/赫尔墨斯</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>珀耳修斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "珀耳修斯的形象",
+     "views": [
+      {
+       "holder": "斩怪英雄说",
+       "basis": "斩杀美杜莎的典型英雄。"
+      },
+      {
+       "holder": "王室祖先说",
+       "basis": "迈锡尼王族的传说祖先。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "珀耳修斯在雅典娜/赫尔墨斯帮助下斩下美杜莎首级。",
+     "source": "pri-perseus"
+    },
+    {
+     "claim": "珀耳修斯救出安德洛墨达并娶她为妻。",
+     "source": "pri-perseus"
+    }
+   ]
+  },
+  {
+   "id": "fig-hector",
+   "title": "赫克托尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "特洛伊王子与主将，《伊利亚特》的核心英雄之一。",
+   "related": [
+    "myth-greek",
+    "fig-achilles",
+    "myth-greek"
+   ],
+   "sources": [
+    "pri-hector",
+    "pri-iliad",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 英雄神话的文本来源与版本多样，具体细节依版本；2) 历史性与神话性须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "赫克托尔（Hector）是希腊神话中特洛伊国王普里阿摩斯之子、特洛伊的主将：《伊利亚特》中他是特洛伊方面的核心英雄，代表保卫家园、责任与家庭的美德——他与妻子安德洛玛刻、幼子阿斯提阿那克斯的告别（'赫克托尔与安德洛玛刻'）是西方文学中最动人的场景之一。赫克托尔杀死阿喀琉斯挚友帕特罗克洛斯，最终被阿喀琉斯杀死并拖尸，其父普里阿摩斯赎尸的情节体现悲悯。赫克托尔是'失败一方的英雄'的典型。",
+   "versions": [
+    "赫克托尔（Hector）是希腊神话中特洛伊国王普里阿摩斯之子、特洛伊的主将：《伊利亚特》中他是特洛伊方面的核心英雄，代表保卫家园、责任与家庭的美德——他与妻子安德洛玛刻、幼子阿斯提阿那克斯的告别（'赫克托尔与安德洛玛刻'）是西方文学中最动人的场景之一。赫克托尔杀死阿喀琉斯挚友帕特罗克洛斯，最终被阿喀琉斯杀死并拖尸，其父普里阿摩斯赎尸的情节体现悲悯。赫克托尔是'失败一方的英雄'的典型。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《伊利亚特》",
+     "school": "文本",
+     "view": "赫克托尔是特洛伊方的核心英雄。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "失败英雄与家庭责任是悲剧英雄的母题。"
+    },
+    {
+     "holder": "现代文学研究",
+     "school": "文学研究",
+     "view": "赫克托尔形象与战争伦理。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hector",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>赫克托尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>赫克托尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>特洛伊主将</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>保家卫国</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与安德洛玛刻诀别</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>家庭</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>被阿喀琉斯杀死</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>悲剧</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>赫克托尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "赫克托尔的形象",
+     "views": [
+      {
+       "holder": "美德英雄说",
+       "basis": "代表责任与家庭的美德。"
+      },
+      {
+       "holder": "失败英雄说",
+       "basis": "'失败一方'的英雄典型。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "赫克托尔是特洛伊王子与主将，特洛伊方的核心英雄。",
+     "source": "pri-hector"
+    },
+    {
+     "claim": "赫克托尔与安德洛玛刻的诀别是西方文学的名篇。",
+     "source": "pri-hector"
+    }
+   ]
+  },
+  {
+   "id": "fig-helen",
+   "title": "海伦",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊神话中引发特洛伊战争的绝世美女。",
+   "related": [
+    "myth-greek",
+    "fig-agamemnon",
+    "fig-aphrodite"
+   ],
+   "sources": [
+    "pri-helen",
+    "pri-iliad",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 英雄神话的文本来源与版本多样，具体细节依版本；2) 历史性与神话性须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "海伦（Helen of Troy）是希腊神话中斯巴达王墨涅拉俄斯之妻，以绝世美貌著称：她被特洛伊王子帕里斯（在阿佛洛狄忒帮助下）拐走（或自愿私奔），由此引发希腊联军远征特洛伊的十年战争。海伦的'美貌引发战争'（'Helen of Troy'成为'红颜祸水'的代名词）是西方文学与艺术中反复出现的主题。其形象在《伊利亚特》中复杂——既是战争的起因，也是被命运摆布的悲剧女性。",
+   "versions": [
+    "海伦（Helen of Troy）是希腊神话中斯巴达王墨涅拉俄斯之妻，以绝世美貌著称：她被特洛伊王子帕里斯（在阿佛洛狄忒帮助下）拐走（或自愿私奔），由此引发希腊联军远征特洛伊的十年战争。海伦的'美貌引发战争'（'Helen of Troy'成为'红颜祸水'的代名词）是西方文学与艺术中反复出现的主题。其形象在《伊利亚特》中复杂——既是战争的起因，也是被命运摆布的悲剧女性。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《伊利亚特》",
+     "school": "文本",
+     "view": "海伦是特洛伊战争的起因。"
+    },
+    {
+     "holder": "现代文学研究",
+     "school": "文学研究",
+     "view": "海伦形象的复杂性。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "美女引发战争的母题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-helen",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>海伦形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>海伦（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>绝世美女</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>特洛伊战争起因</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>帕里斯</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>拐走</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>悲剧女性</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>命运</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>海伦要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "海伦的形象",
+     "views": [
+      {
+       "holder": "红颜祸水说",
+       "basis": "美貌引发战争的象征。"
+      },
+      {
+       "holder": "命运受害者说",
+       "basis": "被神与命运摆布的悲剧女性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "海伦是希腊神话中引发特洛伊战争的绝世美女。",
+     "source": "pri-helen"
+    },
+    {
+     "claim": "海伦的形象在《伊利亚特》中兼具起因与悲剧受害者的双重性。",
+     "source": "pri-helen"
+    }
+   ]
+  },
+  {
+   "id": "fig-cassandra",
+   "title": "卡珊德拉",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "特洛伊的预言公主，预言准确却无人相信。",
+   "related": [
+    "myth-greek",
+    "fig-agamemnon",
+    "fig-apollo"
+   ],
+   "sources": [
+    "pri-cassandra",
+    "pri-iliad",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 英雄神话的文本来源与版本多样，具体细节依版本；2) 历史性与神话性须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "卡珊德拉（Cassandra）是希腊神话中特洛伊国王普里阿摩斯之女，拥有预言的 gift：阿波罗爱上她并赋予她预言能力，但她拒绝阿波罗后，阿波罗诅咒她的预言永不被相信。因此卡珊德拉预言了特洛伊的陷落与自身的死亡，却无人听从——成为'不被相信的预言者'的典型。特洛伊陷落后她被阿伽门农掳走，最终与其同死。卡珊德拉象征真理的被拒、命运的无情与女性的悲剧。",
+   "versions": [
+    "卡珊德拉（Cassandra）是希腊神话中特洛伊国王普里阿摩斯之女，拥有预言的 gift：阿波罗爱上她并赋予她预言能力，但她拒绝阿波罗后，阿波罗诅咒她的预言永不被相信。因此卡珊德拉预言了特洛伊的陷落与自身的死亡，却无人听从——成为'不被相信的预言者'的典型。特洛伊陷落后她被阿伽门农掳走，最终与其同死。卡珊德拉象征真理的被拒、命运的无情与女性的悲剧。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Aeschylus",
+     "school": "悲剧",
+     "view": "《阿伽门农》中卡珊德拉的预言场景是名篇。"
+    },
+    {
+     "holder": "现代文学研究",
+     "school": "文学研究",
+     "view": "卡珊德拉作为'不被相信的预言者'的原型。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "预言与被拒的母题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-cassandra",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>卡珊德拉形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>卡珊德拉（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>预言能力</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿波罗</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>不被相信</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>诅咒</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>特洛伊陷落</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>悲剧</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡珊德拉要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "卡珊德拉的形象",
+     "views": [
+      {
+       "holder": "真理殉道者说",
+       "basis": "象征真理被拒绝的悲剧。"
+      },
+      {
+       "holder": "女性悲剧说",
+       "basis": "被神与战争摆布的女性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "卡珊德拉是特洛伊的预言公主，预言准确却无人相信。",
+     "source": "pri-cassandra"
+    },
+    {
+     "claim": "卡珊德拉的'不被相信的预言者'形象成为文化原型。",
+     "source": "pri-cassandra"
+    }
+   ]
   }
  ]
 }

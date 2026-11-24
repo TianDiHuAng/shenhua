@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:51:01+08:00",
+  "generated": "2026-11-24T10:55:36+08:00",
   "summary": {
-    "total": 494,
+    "total": 500,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 239
+      "U4": 245
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 380
+      "补充": 386
     },
     "by_level": {
       "L1": 0,
-      "L2": 380,
+      "L2": 386,
       "L3": 114
     },
-    "l2_done": 494,
+    "l2_done": 500,
     "l3_done": 114,
-    "verified_sources": 377
+    "verified_sources": 383
   },
   "entries": [
     {
@@ -5449,6 +5449,72 @@
     {
       "id": "fig-gonggong",
       "name": "共工",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-oedipus",
+      "name": "俄狄浦斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-agamemnon",
+      "name": "阿伽门农",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-perseus",
+      "name": "珀耳修斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-hector",
+      "name": "赫克托尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-helen",
+      "name": "海伦",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-cassandra",
+      "name": "卡珊德拉",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

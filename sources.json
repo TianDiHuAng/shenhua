@@ -5498,6 +5498,84 @@
    "link_ok": true,
    "verified": true,
    "note": "共工是中国神话中怒触不周山、导致天倾地陷的水神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-oedipus",
+   "title": "俄狄浦斯文献（索福克勒斯悲剧）",
+   "author": "Sophocles 等",
+   "year": null,
+   "year_display": "前5世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Oedipus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "俄狄浦斯是希腊底比斯神话的悲剧英雄，索福克勒斯《俄狄浦斯王》的主角；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-agamemnon",
+   "title": "阿伽门农文献（《伊利亚特》与埃斯库罗斯）",
+   "author": "Homer/Aeschylus",
+   "year": null,
+   "year_display": "前8—前5世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Agamemnon",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿伽门农是特洛伊战争中希腊联军统帅，迈锡尼王；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-perseus",
+   "title": "珀耳修斯文献（阿波罗多洛斯等）",
+   "author": "佚名（希腊）/Apollodorus",
+   "year": null,
+   "year_display": "古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Perseus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "珀耳修斯是希腊神话中斩美杜莎、救安德洛墨达的英雄；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-hector",
+   "title": "赫克托尔文献（《伊利亚特》）",
+   "author": "Homer",
+   "year": null,
+   "year_display": "前8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hector",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "赫克托尔是特洛伊王子与主将，《伊利亚特》的核心英雄之一；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-helen",
+   "title": "海伦文献（《伊利亚特》等）",
+   "author": "Homer 等",
+   "year": null,
+   "year_display": "前8世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Helen_of_Troy",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "海伦是希腊神话中引发特洛伊战争的绝世美女；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-cassandra",
+   "title": "卡珊德拉文献（埃斯库罗斯等）",
+   "author": "Aeschylus 等",
+   "year": null,
+   "year_display": "前5世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Cassandra",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "卡珊德拉是特洛伊的预言公主，预言准确却无人相信；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
