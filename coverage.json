@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T13:14:10+08:00",
+  "generated": "2026-11-24T13:20:33+08:00",
   "summary": {
-    "total": 566,
+    "total": 572,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 78,
-      "U4": 305
+      "U4": 311
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 452
+      "补充": 458
     },
     "by_level": {
       "L1": 0,
-      "L2": 452,
+      "L2": 458,
       "L3": 114
     },
-    "l2_done": 566,
+    "l2_done": 572,
     "l3_done": 114,
-    "verified_sources": 449
+    "verified_sources": 455
   },
   "entries": [
     {
@@ -6241,6 +6241,72 @@
     {
       "id": "fig-parvati",
       "name": "帕尔瓦蒂",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-guanyin",
+      "name": "观音",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-caishen",
+      "name": "财神",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-tudigong",
+      "name": "土地公",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-zhongkui",
+      "name": "钟馗",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-leigong",
+      "name": "雷公",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-eight-immortals",
+      "name": "八仙",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

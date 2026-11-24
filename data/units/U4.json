@@ -23708,6 +23708,456 @@
      "source": "pri-parvati"
     }
    ]
+  },
+  {
+   "id": "fig-guanyin",
+   "title": "观音",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中国佛教与民间信仰中的慈悲菩萨。",
+   "related": [
+    "rel-buddhism",
+    "myth-chinese",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-guanyin",
+    "pri-caishen",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国民间信仰神祇材料多经后世典籍、庙宇与口传，官方/民间/佛道层次须区分；2) 具体起源与身份有不同说法；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "观音（Guanyin，观世音）是中国佛教与民间信仰中最受崇奉的菩萨：源自印度的观世音菩萨（Avalokiteśvara），在中国逐渐演化为女性形象（'观音娘娘'），象征大慈大悲、救苦救难、闻声救度——凡称念其名者，苦难即得解脱（《法华经·普门品》）。观音信仰在东亚（中国、日本、韩国、越南）极为普遍，与净土信仰、民间求子求安结合。观音体现了佛教慈悲救度理念与本土女神崇拜的融合。",
+   "versions": [
+    "观音（Guanyin，观世音）是中国佛教与民间信仰中最受崇奉的菩萨：源自印度的观世音菩萨（Avalokiteśvara），在中国逐渐演化为女性形象（'观音娘娘'），象征大慈大悲、救苦救难、闻声救度——凡称念其名者，苦难即得解脱（《法华经·普门品》）。观音信仰在东亚（中国、日本、韩国、越南）极为普遍，与净土信仰、民间求子求安结合。观音体现了佛教慈悲救度理念与本土女神崇拜的融合。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《法华经·普门品》",
+     "school": "核心文本",
+     "view": "观世音闻声救度的经典依据。"
+    },
+    {
+     "holder": "中国佛教研究",
+     "school": "学术",
+     "view": "观音的女性化与本土化。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "慈悲救度菩萨可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-guanyin",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>观音示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>观音（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>慈悲菩萨</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>闻声救度</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>女性化</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>观音娘娘</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>东亚普及</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>求子求安</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>观音要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "观音的性质",
+     "views": [
+      {
+       "holder": "佛教菩萨说",
+       "basis": "观世音菩萨的慈悲化身。"
+      },
+      {
+       "holder": "本土女神说",
+       "basis": "在中国演化为女性救苦女神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "观音是中国佛教与民间信仰中最受崇奉的慈悲菩萨，源自观世音。",
+     "source": "pri-guanyin"
+    },
+    {
+     "claim": "观音在中国演化为女性形象，象征大慈大悲、救苦救难。",
+     "source": "pri-guanyin"
+    }
+   ]
+  },
+  {
+   "id": "fig-caishen",
+   "title": "财神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中国民间信仰的财富之神。",
+   "related": [
+    "myth-chinese",
+    "fig-tudigong",
+    "motif-agriculture"
+   ],
+   "sources": [
+    "pri-caishen",
+    "pri-tudigong",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国民间信仰神祇材料多经后世典籍、庙宇与口传，官方/民间/佛道层次须区分；2) 具体起源与身份有不同说法；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "财神（Caishen）是中国民间信仰的财富之神：最著名的财神是赵公明（武财神），另有比干、范蠡（文财神）等；财神信仰在商贸与年节（迎财神）中极为普遍，象征对财富、生意兴隆与生活富足的祈愿。财神崇拜融合了道教神系、民间信仰与商业伦理，是中国民间宗教中'世俗祈福'取向的典型代表。民间常以财神像、财神符与祭祀求财。",
+   "versions": [
+    "财神（Caishen）是中国民间信仰的财富之神：最著名的财神是赵公明（武财神），另有比干、范蠡（文财神）等；财神信仰在商贸与年节（迎财神）中极为普遍，象征对财富、生意兴隆与生活富足的祈愿。财神崇拜融合了道教神系、民间信仰与商业伦理，是中国民间宗教中'世俗祈福'取向的典型代表。民间常以财神像、财神符与祭祀求财。"
+   ],
+   "interpretations": [
+    {
+     "holder": "民间信仰",
+     "school": "宗教",
+     "view": "财神赵公明等的崇拜。"
+    },
+    {
+     "holder": "现代民俗研究",
+     "school": "学术",
+     "view": "财神信仰与商业文化。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "财富神与世俗祈福可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-caishen",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>财神示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>财神（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>财富神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>赵公明/文财神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>迎财神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>年节习俗</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>商业伦理</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>祈福</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>财神要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "财神的身份",
+     "views": [
+      {
+       "holder": "道教神系说",
+       "basis": "纳入道教神谱的财神。"
+      },
+      {
+       "holder": "民间祈福神说",
+       "basis": "世俗求财的民间神祇。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "财神是中国民间信仰的财富之神，最著名者为赵公明。",
+     "source": "pri-caishen"
+    },
+    {
+     "claim": "财神信仰在商贸与年节（迎财神）中极为普遍。",
+     "source": "pri-caishen"
+    }
+   ]
+  },
+  {
+   "id": "fig-tudigong",
+   "title": "土地公",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中国民间信仰的地方守护神。",
+   "related": [
+    "myth-chinese",
+    "fig-caishen",
+    "motif-ancestor"
+   ],
+   "sources": [
+    "pri-tudigong",
+    "pri-caishen",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国民间信仰神祇材料多经后世典籍、庙宇与口传，官方/民间/佛道层次须区分；2) 具体起源与身份有不同说法；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "土地公（Tudigong，土地神/福德正神）是中国民间信仰的地方守护神：他掌管一方土地、家宅与地方安宁，是基层社会最亲近的神祇——每个村落、街区、家宅都可能供奉土地公（石龛、小庙）。土地公象征地方的守护、农业丰饶与社区秩序，其祭祀（如每月初二、十六'做牙'）是民间日常生活的一部分。土地公信仰体现了中国民间宗教'地方化、生活化'的特征，与城隍（城市守护）形成层级。",
+   "versions": [
+    "土地公（Tudigong，土地神/福德正神）是中国民间信仰的地方守护神：他掌管一方土地、家宅与地方安宁，是基层社会最亲近的神祇——每个村落、街区、家宅都可能供奉土地公（石龛、小庙）。土地公象征地方的守护、农业丰饶与社区秩序，其祭祀（如每月初二、十六'做牙'）是民间日常生活的一部分。土地公信仰体现了中国民间宗教'地方化、生活化'的特征，与城隍（城市守护）形成层级。"
+   ],
+   "interpretations": [
+    {
+     "holder": "民间信仰",
+     "school": "宗教",
+     "view": "土地公的地方守护职能。"
+    },
+    {
+     "holder": "现代民俗研究",
+     "school": "学术",
+     "view": "土地公与基层社会。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "地方守护神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tudigong",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>土地公示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>土地公（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地方守护</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>家宅安宁</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>做牙</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>每月祭祀</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>福德正神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>称号</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>土地公要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "土地公的性质",
+     "views": [
+      {
+       "holder": "地方守护神说",
+       "basis": "掌管一方土地与家宅。"
+      },
+      {
+       "holder": "社区/农业神说",
+       "basis": "守护社区秩序与农产。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "土地公是中国民间信仰的地方守护神，掌管一方土地与家宅。",
+     "source": "pri-tudigong"
+    },
+    {
+     "claim": "土地公信仰体现中国民间宗教'地方化、生活化'的特征。",
+     "source": "pri-tudigong"
+    }
+   ]
+  },
+  {
+   "id": "fig-zhongkui",
+   "title": "钟馗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中国民间的驱鬼辟邪之神。",
+   "related": [
+    "myth-chinese",
+    "fig-tudigong",
+    "motif-magic"
+   ],
+   "sources": [
+    "pri-zhongkui",
+    "pri-tudigong",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国民间信仰神祇材料多经后世典籍、庙宇与口传，官方/民间/佛道层次须区分；2) 具体起源与身份有不同说法；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "钟馗（Zhong Kui）是中国民间信仰的驱鬼辟邪之神与'捉鬼大师'：传说他是唐代因貌丑落第而撞阶自尽的进士，死后被玉帝封为驱鬼之神，专捉恶鬼、护佑人间。钟馗形象（豹头环眼、铁面虬髯、手持宝剑）常被绘于门神画、端午与岁末的辟邪图，象征镇宅驱邪、护佑平安。钟馗信仰融合了道教、民间传说与年节习俗，是中国民间'辟邪'文化的核心符号。",
+   "versions": [
+    "钟馗（Zhong Kui）是中国民间信仰的驱鬼辟邪之神与'捉鬼大师'：传说他是唐代因貌丑落第而撞阶自尽的进士，死后被玉帝封为驱鬼之神，专捉恶鬼、护佑人间。钟馗形象（豹头环眼、铁面虬髯、手持宝剑）常被绘于门神画、端午与岁末的辟邪图，象征镇宅驱邪、护佑平安。钟馗信仰融合了道教、民间传说与年节习俗，是中国民间'辟邪'文化的核心符号。"
+   ],
+   "interpretations": [
+    {
+     "holder": "民间传说/道教",
+     "school": "宗教",
+     "view": "钟馗的驱鬼职能与传说。"
+    },
+    {
+     "holder": "现代民俗研究",
+     "school": "学术",
+     "view": "钟馗与辟邪年节习俗。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "驱邪神与净化可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-zhongkui",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>钟馗示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>钟馗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>捉鬼大师</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>驱邪辟邪</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>门神画</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>端午岁末</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>貌丑进士</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>传说起源</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>钟馗要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "钟馗的职能",
+     "views": [
+      {
+       "holder": "驱鬼辟邪说",
+       "basis": "捉鬼镇宅、护佑平安。"
+      },
+      {
+       "holder": "年节符号说",
+       "basis": "作为端午/岁末的辟邪图。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "钟馗是中国民间的驱鬼辟邪之神与'捉鬼大师'。",
+     "source": "pri-zhongkui"
+    },
+    {
+     "claim": "钟馗形象常被绘于门神画与端午、岁末的辟邪图。",
+     "source": "pri-zhongkui"
+    }
+   ]
+  },
+  {
+   "id": "fig-leigong",
+   "title": "雷公",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中国民间的雷神，司雷电与惩恶。",
+   "related": [
+    "myth-chinese",
+    "fig-zhongkui",
+    "motif-rain-thunder"
+   ],
+   "sources": [
+    "pri-leigong",
+    "pri-zhongkui",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国民间信仰神祇材料多经后世典籍、庙宇与口传，官方/民间/佛道层次须区分；2) 具体起源与身份有不同说法；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "雷公（Leigong，雷神/雷师）是中国民间的雷神：他司掌雷电、风雨，被认为能惩恶扬善、击打不孝与作恶者（'天打雷劈'），其形象常为鸟面、肉翅、持锤与凿（击雷之器），与电母（闪电女神）成对。雷公信仰在道教神系与民间传说中都很重要，象征天道的威严与对恶的惩罚。雷公形象经历了从上古雷神到人格化'雷部'神将的演变。",
+   "versions": [
+    "雷公（Leigong，雷神/雷师）是中国民间的雷神：他司掌雷电、风雨，被认为能惩恶扬善、击打不孝与作恶者（'天打雷劈'），其形象常为鸟面、肉翅、持锤与凿（击雷之器），与电母（闪电女神）成对。雷公信仰在道教神系与民间传说中都很重要，象征天道的威严与对恶的惩罚。雷公形象经历了从上古雷神到人格化'雷部'神将的演变。"
+   ],
+   "interpretations": [
+    {
+     "holder": "道教/民间传说",
+     "school": "宗教",
+     "view": "雷公的雷电与惩恶职能。"
+    },
+    {
+     "holder": "现代民俗研究",
+     "school": "学术",
+     "view": "雷公信仰与天道报应观念。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "雷神与天道威严可作参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-leigong",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>雷公示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>雷公（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>锤凿击雷</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>惩恶扬善</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天打雷劈</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>电母</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>成对</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷公要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "雷公的职能",
+     "views": [
+      {
+       "holder": "雷神说",
+       "basis": "司掌雷电风雨。"
+      },
+      {
+       "holder": "惩恶神说",
+       "basis": "击打作恶者、彰显天道。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "雷公是中国民间的雷神，司雷电与惩恶扬善。",
+     "source": "pri-leigong"
+    },
+    {
+     "claim": "雷公常与电母成对，象征天道的威严与对恶的惩罚。",
+     "source": "pri-leigong"
+    }
+   ]
+  },
+  {
+   "id": "fig-eight-immortals",
+   "title": "八仙",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中国道教与民间信仰的八位仙人。",
+   "related": [
+    "myth-chinese",
+    "fig-laozi",
+    "motif-magic"
+   ],
+   "sources": [
+    "pri-eight-immortals",
+    "pri-caishen",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国民间信仰神祇材料多经后世典籍、庙宇与口传，官方/民间/佛道层次须区分；2) 具体起源与身份有不同说法；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "八仙（Eight Immortals）是中国道教与民间信仰的八位仙人：铁拐李、汉钟离（钟离权）、张果老、吕洞宾、何仙姑、蓝采和、韩湘子、曹国舅——他们各有法宝与故事，象征道教的'神仙'理想与各类人群（男女老少、贫富贵贱）皆可成仙的民间信念。八仙传说在宋元以后盛行，'八仙过海，各显神通'成为家喻户晓的成语。八仙信仰融合了道教内丹、民间传说与节庆艺术，是中国民间宗教'世俗化神仙'的典型。",
+   "versions": [
+    "八仙（Eight Immortals）是中国道教与民间信仰的八位仙人：铁拐李、汉钟离（钟离权）、张果老、吕洞宾、何仙姑、蓝采和、韩湘子、曹国舅——他们各有法宝与故事，象征道教的'神仙'理想与各类人群（男女老少、贫富贵贱）皆可成仙的民间信念。八仙传说在宋元以后盛行，'八仙过海，各显神通'成为家喻户晓的成语。八仙信仰融合了道教内丹、民间传说与节庆艺术，是中国民间宗教'世俗化神仙'的典型。"
+   ],
+   "interpretations": [
+    {
+     "holder": "道教/民间传说",
+     "school": "宗教",
+     "view": "八仙的仙人传说与法宝。"
+    },
+    {
+     "holder": "现代道教研究",
+     "school": "学术",
+     "view": "八仙信仰的世俗化。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "神仙与成仙理想可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-eight-immortals",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>八仙示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>八仙（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>八位仙人</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>各有法宝</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>八仙过海</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>各显神通</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>世俗成仙</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>男女老少</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>八仙要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "八仙的性质",
+     "views": [
+      {
+       "holder": "道教神仙说",
+       "basis": "道教神仙理想的代表。"
+      },
+      {
+       "holder": "民间世俗说",
+       "basis": "象征各色人等皆可成仙的民间信念。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "八仙是中国道教与民间信仰的八位仙人（铁拐李、吕洞宾等）。",
+     "source": "pri-eight-immortals"
+    },
+    {
+     "claim": "'八仙过海，各显神通'是家喻户晓的成语。",
+     "source": "pri-eight-immortals"
+    }
+   ]
   }
  ]
 }

@@ -6434,6 +6434,84 @@
    "link_ok": true,
    "verified": true,
    "note": "怪物及其神话象征的百科综述；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-guanyin",
+   "title": "观音文献（中国佛教/民间信仰）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Guanyin",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "观音（Guanyin）是中国佛教与民间信仰中的慈悲菩萨，源自 Avalokiteśvara；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-caishen",
+   "title": "财神文献（中国民间信仰）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Caishen",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "财神（Caishen）是中国民间信仰的财富之神，最著名者为赵公明；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tudigong",
+   "title": "土地公文献（中国民间信仰）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tudigong",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "土地公（Tudigong）是中国民间信仰的地方守护神，掌管一方土地；2026-11-23 经 Wikipedia API 实测（Tu Di Gong→Tudigong）。"
+  },
+  {
+   "id": "pri-zhongkui",
+   "title": "钟馗文献（中国民间信仰）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "唐代起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Zhong_Kui",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "钟馗（Zhong Kui）是中国民间的驱鬼辟邪之神，捉鬼大师；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-leigong",
+   "title": "雷公文献（中国民间信仰）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Leigong",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雷公（Leigong）是中国民间的雷神，司雷电与惩恶；2026-11-23 经 Wikipedia API 实测（Lei Gong→Leigong）。"
+  },
+  {
+   "id": "pri-eight-immortals",
+   "title": "八仙文献（中国道教/民间）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "宋元起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Eight_Immortals",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "八仙（Eight Immortals）是中国道教与民间信仰的八位仙人（铁拐李、汉钟离、张果老、吕洞宾、何仙姑、蓝采和、韩湘子、曹国舅）；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
