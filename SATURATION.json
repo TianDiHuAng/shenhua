@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 356,
-    "total": 470,
+    "supplement_l2": 362,
+    "total": 476,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/470）；补充层 356 条 L2；来源 399 条"
+    "verdict": "核心与重要层 100% L3（114/476）；补充层 362 条 L2；来源 405 条"
   },
   "round_log": [
     {
@@ -1139,6 +1139,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次53：新增6凯尔特人物（梅芙/努阿达/奥格玛/里安农/阿丽安萝/普伊尔）U4达215；6来源核验；470条0 errors",
       "verdict": "正常扩充（批次53，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-96",
+      "date": "2026-11-24",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次54：新增6中国神话人物（黄帝/炎帝/蚩尤/夸父/后羿/嫦娥）U4达221；6来源核验；476条0 errors",
+      "verdict": "正常扩充（批次54，6条）"
     }
   ]
 }

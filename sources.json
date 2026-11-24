@@ -5186,6 +5186,84 @@
    "link_ok": true,
    "verified": true,
    "note": "普伊尔（Pwyll）是威尔士《马比诺吉昂》第一篇故事的主角，Dyfed 的领主；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-huangdi",
+   "title": "黄帝文献（《史记·五帝本纪》等）",
+   "author": "司马迁等",
+   "year": null,
+   "year_display": "汉代起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yellow_Emperor",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "黄帝是中华民族的人文初祖，五帝之首；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yandi",
+   "title": "炎帝文献（《史记》与《山海经》）",
+   "author": "佚名（中国）/司马迁等",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yan_Emperor",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "炎帝（神农氏）是中华民族的远祖，农业与医药的发明者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-chiyou",
+   "title": "蚩尤文献（《山海经》等）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Chiyou",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "蚩尤是中国神话中与黄帝争战的九黎族首领；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-kuafu",
+   "title": "夸父文献（《山海经·海外北经》）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kuafu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "夸父是中国神话中追逐太阳的巨人（'夸父逐日'）；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-houyi",
+   "title": "后羿文献（《淮南子》等）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hou_Yi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "后羿是中国神话中射日的英雄；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-change",
+   "title": "嫦娥文献（《淮南子》等）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Chang%27e",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "嫦娥是中国神话中奔月的女神，后羿之妻；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

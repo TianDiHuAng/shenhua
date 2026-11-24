@@ -16963,6 +16963,456 @@
      "source": "pri-pwyll"
     }
    ]
+  },
+  {
+   "id": "fig-huangdi",
+   "title": "黄帝",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中华民族的人文初祖，五帝之首，华夏的象征。",
+   "related": [
+    "myth-chinese",
+    "fig-yandi",
+    "fig-chiyou"
+   ],
+   "sources": [
+    "pri-huangdi",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国神话材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "黄帝（Yellow Emperor，轩辕氏）是中国传说中的上古帝王，被尊为中华民族的人文初祖与五帝之首：传统叙事中他与炎帝结盟击败蚩尤（涿鹿之战），统一部落，创制衣冠、舟车、音律、医学（《黄帝内经》托名于他）等文明制度。黄帝被后世（尤其道教与帝王祭祀）神化为得道升仙的圣王，是华夏认同与'炎黄子孙'叙事的核心符号。其历史性与神话性在学界有讨论。",
+   "versions": [
+    "黄帝（Yellow Emperor，轩辕氏）是中国传说中的上古帝王，被尊为中华民族的人文初祖与五帝之首：传统叙事中他与炎帝结盟击败蚩尤（涿鹿之战），统一部落，创制衣冠、舟车、音律、医学（《黄帝内经》托名于他）等文明制度。黄帝被后世（尤其道教与帝王祭祀）神化为得道升仙的圣王，是华夏认同与'炎黄子孙'叙事的核心符号。其历史性与神话性在学界有讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "司马迁",
+     "school": "史家",
+     "view": "《史记·五帝本纪》把黄帝列为五帝之首。"
+    },
+    {
+     "holder": "道教传统",
+     "school": "宗教",
+     "view": "把黄帝神化为得道升仙的圣王。"
+    },
+    {
+     "holder": "现代史学",
+     "school": "疑古与现代研究",
+     "view": "黄帝的历史性与神话建构是讨论议题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-huangdi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>黄帝形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>黄帝（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>人文初祖</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>五帝之首</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>涿鹿之战</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>败蚩尤</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>炎黄子孙</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>民族象征</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>黄帝要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "黄帝的历史性",
+     "views": [
+      {
+       "holder": "历史帝王说",
+       "basis": "基于上古部落联盟首领。"
+      },
+      {
+       "holder": "神话建构说",
+       "basis": "主要是后世民族认同的建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "黄帝被尊为中华民族的人文初祖与五帝之首。",
+     "source": "pri-huangdi"
+    },
+    {
+     "claim": "黄帝与炎帝结盟击败蚩尤的涿鹿之战是其核心叙事。",
+     "source": "pri-huangdi"
+    }
+   ]
+  },
+  {
+   "id": "fig-yandi",
+   "title": "炎帝",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中华民族的远祖，农业与医药的发明者（神农氏）。",
+   "related": [
+    "myth-chinese",
+    "fig-huangdi",
+    "fig-chiyou"
+   ],
+   "sources": [
+    "pri-yandi",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国神话材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "炎帝（Yan Emperor，神农氏）是中国传说中的上古帝王，与黄帝并称'炎黄'，被尊为中华民族的远祖：传统叙事中他'尝百草'而发明医药（《神农本草经》托名于他）、教民农耕（'神农氏'之名）、创立集市贸易。炎帝与黄帝的部落联盟构成华夏的源头（'炎黄子孙'）。炎帝的故里与祭祀地（如湖北随州、陕西宝鸡）是后世文化认同的场所，其历史性与神话性在学界有讨论。",
+   "versions": [
+    "炎帝（Yan Emperor，神农氏）是中国传说中的上古帝王，与黄帝并称'炎黄'，被尊为中华民族的远祖：传统叙事中他'尝百草'而发明医药（《神农本草经》托名于他）、教民农耕（'神农氏'之名）、创立集市贸易。炎帝与黄帝的部落联盟构成华夏的源头（'炎黄子孙'）。炎帝的故里与祭祀地（如湖北随州、陕西宝鸡）是后世文化认同的场所，其历史性与神话性在学界有讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "典籍传统",
+     "school": "文献",
+     "view": "《史记》等把炎帝列为上古帝王。"
+    },
+    {
+     "holder": "农业医药传统",
+     "school": "文化",
+     "view": "神农尝百草、教农耕是其核心贡献。"
+    },
+    {
+     "holder": "现代史学",
+     "school": "研究",
+     "view": "炎帝的历史性与神话建构是讨论议题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yandi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>炎帝形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>炎帝（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神农氏</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>农业医药</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>炎黄子孙</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>民族象征</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尝百草</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>医药起源</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>炎帝要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "炎帝与神农",
+     "views": [
+      {
+       "holder": "同一人说",
+       "basis": "炎帝即神农氏。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "炎帝与神农或为不同来源的合并。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "炎帝（神农氏）被尊为中华民族远祖，农业与医药的发明者。",
+     "source": "pri-yandi"
+    },
+    {
+     "claim": "炎帝与黄帝并称'炎黄'，是华夏认同的核心符号。",
+     "source": "pri-yandi"
+    }
+   ]
+  },
+  {
+   "id": "fig-chiyou",
+   "title": "蚩尤",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国神话中与黄帝争战的九黎族首领。",
+   "related": [
+    "myth-chinese",
+    "fig-huangdi",
+    "fig-yandi"
+   ],
+   "sources": [
+    "pri-chiyou",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国神话材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "蚩尤（Chiyou）是中国神话中的九黎族首领，与黄帝争夺天下：传说他铜头铁额、能作大雾、善用兵器（被奉为兵器之神），与黄帝在涿鹿展开大战，最终被黄帝（借助应龙、女魃等神力）击败杀死。蚩尤在正统叙事中是'叛逆者'，但在部分族群（如苗族）的传统中他被尊为祖先与英雄——这体现了神话叙事与族群认同的复杂关系。蚩尤也是中国古代战神与兵主信仰的对象。",
+   "versions": [
+    "蚩尤（Chiyou）是中国神话中的九黎族首领，与黄帝争夺天下：传说他铜头铁额、能作大雾、善用兵器（被奉为兵器之神），与黄帝在涿鹿展开大战，最终被黄帝（借助应龙、女魃等神力）击败杀死。蚩尤在正统叙事中是'叛逆者'，但在部分族群（如苗族）的传统中他被尊为祖先与英雄——这体现了神话叙事与族群认同的复杂关系。蚩尤也是中国古代战神与兵主信仰的对象。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《山海经》",
+     "school": "文献",
+     "view": "《山海经》等记载蚩尤与黄帝之战。"
+    },
+    {
+     "holder": "族群传统",
+     "school": "文化",
+     "view": "部分苗族传统尊蚩尤为祖先。"
+    },
+    {
+     "holder": "现代研究",
+     "school": "神话学",
+     "view": "蚩尤形象的族群差异是研究议题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-chiyou",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>蚩尤形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>蚩尤（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>九黎首领</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与黄帝争战</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>兵器之神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>铜头铁额</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>族群祖先</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>苗族传统</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>蚩尤要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "蚩尤的形象",
+     "views": [
+      {
+       "holder": "叛逆者说",
+       "basis": "正统叙事中的失败者。"
+      },
+      {
+       "holder": "英雄祖先说",
+       "basis": "部分族群尊为祖先英雄。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "蚩尤是九黎族首领，与黄帝在涿鹿大战。",
+     "source": "pri-chiyou"
+    },
+    {
+     "claim": "蚩尤在部分族群传统中被尊为祖先与英雄。",
+     "source": "pri-chiyou"
+    }
+   ]
+  },
+  {
+   "id": "fig-kuafu",
+   "title": "夸父",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国神话中追逐太阳的巨人。",
+   "related": [
+    "myth-chinese",
+    "motif-sun",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-kuafu",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国神话材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "夸父（Kuafu）是中国神话中的巨人，以'夸父逐日'的叙事著称：他不满太阳的灼热，追逐太阳至禺谷（日落处），途中口渴饮干黄河与渭水，仍不足，欲往北饮大泽，未至而渴死；其手杖化为邓林（桃林）。夸父逐日象征人类对自然（太阳）的挑战与悲壮的牺牲，常被解读为不屈不挠的精神或对自然规律的徒劳抗争，是中国神话中最富哲理的母题之一。",
+   "versions": [
+    "夸父（Kuafu）是中国神话中的巨人，以'夸父逐日'的叙事著称：他不满太阳的灼热，追逐太阳至禺谷（日落处），途中口渴饮干黄河与渭水，仍不足，欲往北饮大泽，未至而渴死；其手杖化为邓林（桃林）。夸父逐日象征人类对自然（太阳）的挑战与悲壮的牺牲，常被解读为不屈不挠的精神或对自然规律的徒劳抗争，是中国神话中最富哲理的母题之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《山海经》",
+     "school": "文献",
+     "view": "《海外北经》《大荒北经》记载夸父逐日。"
+    },
+    {
+     "holder": "现代研究",
+     "school": "神话学",
+     "view": "夸父逐日的象征意义有多种解读。"
+    },
+    {
+     "holder": "比较神话学",
+     "school": "宗教学",
+     "view": "逐日母题可作跨文化比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-kuafu",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>夸父形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>夸父（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>逐日</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>饮河渭</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>道渴而死</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>悲壮牺牲</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>邓林</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>手杖化桃林</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>夸父要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "夸父逐日的意义",
+     "views": [
+      {
+       "holder": "抗争精神说",
+       "basis": "象征不屈不挠挑战自然。"
+      },
+      {
+       "holder": "徒劳警示说",
+       "basis": "象征违背自然规律的徒劳。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "夸父是中国神话中逐日的巨人，渴死途中手杖化为邓林。",
+     "source": "pri-kuafu"
+    },
+    {
+     "claim": "'夸父逐日'是中国神话中最富哲理的母题之一。",
+     "source": "pri-kuafu"
+    }
+   ]
+  },
+  {
+   "id": "fig-houyi",
+   "title": "后羿",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国神话中射日的英雄。",
+   "related": [
+    "myth-chinese",
+    "fig-change",
+    "motif-sun"
+   ],
+   "sources": [
+    "pri-houyi",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国神话材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "后羿（Hou Yi）是中国神话中的射箭英雄：传说尧时十日并出、灼焦大地，后羿受命射落九日（留一日），又除猰貐、凿齿、九婴等凶兽，拯救万民，成为文化英雄。后羿的叙事还与嫦娥（其妻偷食不死药奔月）、以及他从西王母处求得不死药的情节相关联。后羿象征英雄的弓箭技艺与除害安民的功绩，'后羿射日'是中国最著名的神话之一。",
+   "versions": [
+    "后羿（Hou Yi）是中国神话中的射箭英雄：传说尧时十日并出、灼焦大地，后羿受命射落九日（留一日），又除猰貐、凿齿、九婴等凶兽，拯救万民，成为文化英雄。后羿的叙事还与嫦娥（其妻偷食不死药奔月）、以及他从西王母处求得不死药的情节相关联。后羿象征英雄的弓箭技艺与除害安民的功绩，'后羿射日'是中国最著名的神话之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《淮南子》",
+     "school": "文献",
+     "view": "《淮南子·本经训》记载后羿射日除害。"
+    },
+    {
+     "holder": "《山海经》",
+     "school": "文献",
+     "view": "相关神话材料。"
+    },
+    {
+     "holder": "现代研究",
+     "school": "神话学",
+     "view": "后羿与嫦娥叙事的关联是讨论议题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-houyi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>后羿形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>后羿（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>射九日</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>除害</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>文化英雄</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>弓箭技艺</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>嫦娥之夫</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不死药</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>后羿要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "后羿的身份",
+     "views": [
+      {
+       "holder": "神话英雄说",
+       "basis": "射日的文化英雄。"
+      },
+      {
+       "holder": "历史人物说",
+       "basis": "可能基于夏代的后羿（有穷氏首领）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "后羿是中国神话中射落九日、除害安民的英雄。",
+     "source": "pri-houyi"
+    },
+    {
+     "claim": "后羿与嫦娥（偷食不死药奔月）的叙事相关联。",
+     "source": "pri-houyi"
+    }
+   ]
+  },
+  {
+   "id": "fig-change",
+   "title": "嫦娥",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国神话中奔月的女神，后羿之妻。",
+   "related": [
+    "myth-chinese",
+    "fig-houyi",
+    "motif-moon"
+   ],
+   "sources": [
+    "pri-change",
+    "pri-houyi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国神话材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "嫦娥（Chang'e）是中国神话中的月宫女神，后羿之妻：传说后羿从西王母处求得不死药，嫦娥偷食后飞升月宫（广寒宫），成为月神，与玉兔、桂树相伴。'嫦娥奔月'是中国最著名的神话之一，历代文学（如李商隐'嫦娥应悔偷灵药'）与中秋节的月崇拜都与其相关。嫦娥的形象随时代演变（从偷药者到美丽的月神），体现了中国神话的文学化与节庆化。",
+   "versions": [
+    "嫦娥（Chang'e）是中国神话中的月宫女神，后羿之妻：传说后羿从西王母处求得不死药，嫦娥偷食后飞升月宫（广寒宫），成为月神，与玉兔、桂树相伴。'嫦娥奔月'是中国最著名的神话之一，历代文学（如李商隐'嫦娥应悔偷灵药'）与中秋节的月崇拜都与其相关。嫦娥的形象随时代演变（从偷药者到美丽的月神），体现了中国神话的文学化与节庆化。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《淮南子》",
+     "school": "文献",
+     "view": "嫦娥奔月的早期记载见于《淮南子》。"
+    },
+    {
+     "holder": "中秋节",
+     "school": "文化",
+     "view": "嫦娥与中秋月崇拜相关。"
+    },
+    {
+     "holder": "文学传统",
+     "school": "文学",
+     "view": "嫦娥是历代诗歌的重要意象。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-change",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>嫦娥形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>嫦娥（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奔月</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不死药</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>月宫</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>广寒宫/玉兔</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中秋</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>节庆关联</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>嫦娥要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "嫦娥的形象",
+     "views": [
+      {
+       "holder": "偷药者说",
+       "basis": "早期叙事中偷食不死药。"
+      },
+      {
+       "holder": "月神说",
+       "basis": "后世演化为美丽的月宫女神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "嫦娥是中国神话中奔月的月宫女神，后羿之妻。",
+     "source": "pri-change"
+    },
+    {
+     "claim": "嫦娥奔月的故事与中秋节月崇拜相关。",
+     "source": "pri-change"
+    }
+   ]
   }
  ]
 }

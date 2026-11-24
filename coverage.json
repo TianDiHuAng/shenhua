@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:33:13+08:00",
+  "generated": "2026-11-24T10:37:39+08:00",
   "summary": {
-    "total": 470,
+    "total": 476,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 215
+      "U4": 221
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 356
+      "补充": 362
     },
     "by_level": {
       "L1": 0,
-      "L2": 356,
+      "L2": 362,
       "L3": 114
     },
-    "l2_done": 470,
+    "l2_done": 476,
     "l3_done": 114,
-    "verified_sources": 353
+    "verified_sources": 359
   },
   "entries": [
     {
@@ -5185,6 +5185,72 @@
     {
       "id": "fig-pwyll",
       "name": "普伊尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-huangdi",
+      "name": "黄帝",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-yandi",
+      "name": "炎帝",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-chiyou",
+      "name": "蚩尤",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-kuafu",
+      "name": "夸父",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-houyi",
+      "name": "后羿",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-change",
+      "name": "嫦娥",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",
