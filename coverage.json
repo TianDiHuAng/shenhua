@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T11:12:21+08:00",
+  "generated": "2026-11-24T11:17:20+08:00",
   "summary": {
-    "total": 518,
+    "total": 524,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 263
+      "U4": 269
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 404
+      "补充": 410
     },
     "by_level": {
       "L1": 0,
-      "L2": 404,
+      "L2": 410,
       "L3": 114
     },
-    "l2_done": 518,
+    "l2_done": 524,
     "l3_done": 114,
-    "verified_sources": 401
+    "verified_sources": 407
   },
   "entries": [
     {
@@ -5718,6 +5718,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-jupiter",
+      "name": "朱庇特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-mars",
+      "name": "马尔斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-neptune",
+      "name": "涅普顿",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-diana",
+      "name": "狄安娜",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-venus",
+      "name": "维纳斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-uni",
+      "name": "乌尼",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-24"
     }

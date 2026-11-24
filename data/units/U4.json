@@ -20560,6 +20560,455 @@
      "source": "pri-perkunas"
     }
    ]
+  },
+  {
+   "id": "fig-jupiter",
+   "title": "朱庇特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马的最高神，天空与雷电之神，对应希腊宙斯。",
+   "related": [
+    "myth-roman",
+    "fig-zeus",
+    "fig-uni"
+   ],
+   "sources": [
+    "pri-jupiter",
+    "pri-livy-rome",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 罗马/伊特鲁里亚神祇材料跨历史层，希腊—罗马对应须区分本土与借入；2) 具体读法与考古证据的关联有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "朱庇特（Jupiter，Juppiter）是古罗马的最高神，天空、雷电与法律之神，卡比托利欧山（Capitoline）的朱庇特神庙是其崇拜中心：他是罗马国家的守护神，共和—帝国的官员在就职、出征、凯旋时都向其献祭。朱庇特与希腊的宙斯（Zeus）对应，但罗马的朱庇特有其本土的'至高无上'（Optimus Maximus）特征。'Jupiter'一词源自'Jovis pater'（父 Jovis），是印欧天空神 *Dyēus 的罗马后裔。",
+   "versions": [
+    "朱庇特（Jupiter，Juppiter）是古罗马的最高神，天空、雷电与法律之神，卡比托利欧山（Capitoline）的朱庇特神庙是其崇拜中心：他是罗马国家的守护神，共和—帝国的官员在就职、出征、凯旋时都向其献祭。朱庇特与希腊的宙斯（Zeus）对应，但罗马的朱庇特有其本土的'至高无上'（Optimus Maximus）特征。'Jupiter'一词源自'Jovis pater'（父 Jovis），是印欧天空神 *Dyēus 的罗马后裔。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Livy",
+     "school": "古典史家",
+     "view": "《罗马史》记录朱庇特的国家崇拜。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "朱庇特与印欧第一功能（主权）。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "朱庇特—宙斯的对应与本土特征。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-jupiter",
+     "note": "作比较神话学的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>朱庇特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>朱庇特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>最高神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天空雷电</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡比托利欧</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>国家崇拜</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Optimus Maximus</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>至善至大</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>朱庇特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "朱庇特与宙斯",
+     "views": [
+      {
+       "holder": "对应说",
+       "basis": "等同为同一神格。"
+      },
+      {
+       "holder": "本土特征说",
+       "basis": "罗马的朱庇特有独立的'最高主权'特征。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "朱庇特是罗马的最高神，天空与雷电之神。",
+     "source": "pri-jupiter"
+    },
+    {
+     "claim": "朱庇特对应希腊的宙斯，是印欧天空神 *Dyēus 的罗马后裔。",
+     "source": "pri-jupiter"
+    }
+   ]
+  },
+  {
+   "id": "fig-mars",
+   "title": "马尔斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马的战争与农业之神，罗马人的祖先神。",
+   "related": [
+    "myth-roman",
+    "fig-ares",
+    "fig-jupiter"
+   ],
+   "sources": [
+    "pri-mars",
+    "pri-livy-rome",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 罗马/伊特鲁里亚神祇材料跨历史层，希腊—罗马对应须区分本土与借入；2) 具体读法与考古证据的关联有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "马尔斯（Mars）是古罗马的战争与农业之神：他最初可能是农业丰饶神，后成为罗马的战争之神与罗马人的祖先神（传说罗马的建城者罗慕路斯与雷穆斯是马尔斯与女祭司雷亚·西尔维亚之子）。马尔斯的重要性在罗马仅次于朱庇特，罗马的'战神广场'（Campus Martius）与其相关，三月（March，Martius）以其命名。马尔斯与希腊的阿瑞斯（Ares）对应，但罗马的马尔斯地位更高（作为祖先与守护神）。",
+   "versions": [
+    "马尔斯（Mars）是古罗马的战争与农业之神：他最初可能是农业丰饶神，后成为罗马的战争之神与罗马人的祖先神（传说罗马的建城者罗慕路斯与雷穆斯是马尔斯与女祭司雷亚·西尔维亚之子）。马尔斯的重要性在罗马仅次于朱庇特，罗马的'战神广场'（Campus Martius）与其相关，三月（March，Martius）以其命名。马尔斯与希腊的阿瑞斯（Ares）对应，但罗马的马尔斯地位更高（作为祖先与守护神）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Livy",
+     "school": "古典史家",
+     "view": "《罗马史》记录马尔斯的祖先神地位。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "马尔斯与印欧第二功能（战争）。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "马尔斯—阿瑞斯的对应与差异。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-mars",
+     "note": "作比较神话学的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>马尔斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>马尔斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>农业</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗慕路斯之父</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>祖先神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三月</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Martius</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马尔斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "马尔斯的形象",
+     "views": [
+      {
+       "holder": "战争神说",
+       "basis": "罗马的战争守护神。"
+      },
+      {
+       "holder": "农业/祖先神说",
+       "basis": "兼有农业与民族祖先职能。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "马尔斯是罗马的战争与农业之神，罗马人的祖先神。",
+     "source": "pri-mars"
+    },
+    {
+     "claim": "马尔斯是罗慕路斯与雷穆斯之父，三月以其命名。",
+     "source": "pri-mars"
+    }
+   ]
+  },
+  {
+   "id": "fig-neptune",
+   "title": "涅普顿",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马的海洋与淡水之神，对应希腊波塞冬。",
+   "related": [
+    "myth-roman",
+    "fig-poseidon",
+    "fig-jupiter"
+   ],
+   "sources": [
+    "pri-neptune",
+    "pri-livy-rome",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 罗马/伊特鲁里亚神祇材料跨历史层，希腊—罗马对应须区分本土与借入；2) 具体读法与考古证据的关联有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "涅普顿（Neptune，Neptunus）是古罗马的水与海洋之神：他最初是淡水和泉水的神，后经与希腊波塞冬（Poseidon）的对应而成为海洋之神，其节庆（Neptunalia）在盛夏举行以祈求水源。涅普顿在罗马的重要性不如希腊的波塞冬（反映罗马并非海洋民族），但他作为海神在罗马的航海与水利中受崇奉。涅普顿与波塞冬的对应是希腊—罗马宗教融合的典型。",
+   "versions": [
+    "涅普顿（Neptune，Neptunus）是古罗马的水与海洋之神：他最初是淡水和泉水的神，后经与希腊波塞冬（Poseidon）的对应而成为海洋之神，其节庆（Neptunalia）在盛夏举行以祈求水源。涅普顿在罗马的重要性不如希腊的波塞冬（反映罗马并非海洋民族），但他作为海神在罗马的航海与水利中受崇奉。涅普顿与波塞冬的对应是希腊—罗马宗教融合的典型。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Livy",
+     "school": "古典史家",
+     "view": "《罗马史》记录涅普顿的节庆。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "涅普顿—波塞冬的对应。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "水神与印欧功能。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-neptune",
+     "note": "作比较神话学的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>涅普顿形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>涅普顿（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水/海神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Neptunalia</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>波塞冬对应</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>希腊借入</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>淡水起源</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>本土特征</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>涅普顿要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "涅普顿的形象",
+     "views": [
+      {
+       "holder": "海神说",
+       "basis": "经与波塞冬对应当海神。"
+      },
+      {
+       "holder": "淡水神说",
+       "basis": "原为淡水和泉水的神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "涅普顿是罗马的水与海洋之神，对应希腊波塞冬。",
+     "source": "pri-neptune"
+    },
+    {
+     "claim": "涅普顿原为淡水神，后对应波塞冬成为海神。",
+     "source": "pri-neptune"
+    }
+   ]
+  },
+  {
+   "id": "fig-diana",
+   "title": "狄安娜",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马的狩猎、月亮与荒野女神，对应希腊阿尔忒弥斯。",
+   "related": [
+    "myth-roman",
+    "fig-artemis",
+    "fig-jupiter"
+   ],
+   "sources": [
+    "pri-diana",
+    "pri-livy-rome",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 罗马/伊特鲁里亚神祇材料跨历史层，希腊—罗马对应须区分本土与借入；2) 具体读法与考古证据的关联有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "狄安娜（Diana）是古罗马的狩猎、月亮、荒野与分娩女神：她的崇拜中心在内米湖（Lake Nemi）的圣林与阿文提诺山（Aventine）的神庙，是平民与奴隶的守护神。狄安娜与希腊的阿尔忒弥斯（Artemis）对应，但罗马的狄安娜有其本土的'三岔路口/林中'特征（与巫术、月亮的关联）。狄安娜是罗马神话中重要的女神，其形象在文艺复兴与近现代文化中广为流传。",
+   "versions": [
+    "狄安娜（Diana）是古罗马的狩猎、月亮、荒野与分娩女神：她的崇拜中心在内米湖（Lake Nemi）的圣林与阿文提诺山（Aventine）的神庙，是平民与奴隶的守护神。狄安娜与希腊的阿尔忒弥斯（Artemis）对应，但罗马的狄安娜有其本土的'三岔路口/林中'特征（与巫术、月亮的关联）。狄安娜是罗马神话中重要的女神，其形象在文艺复兴与近现代文化中广为流传。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Livy",
+     "school": "古典史家",
+     "view": "《罗马史》记录狄安娜的崇拜。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "狄安娜—阿尔忒弥斯的对应。"
+    },
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "《金枝》以内米湖的狄安娜祭祀开篇。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-diana",
+     "note": "作比较神话学的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>狄安娜形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>狄安娜（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>狩猎/月亮</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>荒野</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>内米湖</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>圣林</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿尔忒弥斯对应</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>希腊</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>狄安娜要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "狄安娜的形象",
+     "views": [
+      {
+       "holder": "狩猎女神说",
+       "basis": "对应阿尔忒弥斯。"
+      },
+      {
+       "holder": "本土女神说",
+       "basis": "有本土的林中/三岔路特征。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "狄安娜是罗马的狩猎、月亮与荒野女神。",
+     "source": "pri-diana"
+    },
+    {
+     "claim": "《金枝》以上古内米湖的狄安娜祭祀开篇。",
+     "source": "pri-diana"
+    }
+   ]
+  },
+  {
+   "id": "fig-venus",
+   "title": "维纳斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马的爱与美之神，埃涅阿斯的母亲。",
+   "related": [
+    "myth-roman",
+    "fig-aphrodite",
+    "fig-aeneas"
+   ],
+   "sources": [
+    "pri-venus",
+    "pri-virgil-aeneid",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 罗马/伊特鲁里亚神祇材料跨历史层，希腊—罗马对应须区分本土与借入；2) 具体读法与考古证据的关联有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "维纳斯（Venus）是古罗马的爱、美、欲望与丰饶女神：她最初可能是花园与丰饶的神，后经与希腊阿佛洛狄忒（Aphrodite）的对应而成为爱与美之神。维纳斯是罗马民族的祖先神——传说她是埃涅阿斯（Aeneas）的母亲，而埃涅阿斯是罗马人的传说祖先（维吉尔的《埃涅阿斯纪》以此为核心）。凯撒家族（Julii）自称维纳斯的后裔。维纳斯是罗马神话中最重要的女神之一，'Venus'也是金星的名称。",
+   "versions": [
+    "维纳斯（Venus）是古罗马的爱、美、欲望与丰饶女神：她最初可能是花园与丰饶的神，后经与希腊阿佛洛狄忒（Aphrodite）的对应而成为爱与美之神。维纳斯是罗马民族的祖先神——传说她是埃涅阿斯（Aeneas）的母亲，而埃涅阿斯是罗马人的传说祖先（维吉尔的《埃涅阿斯纪》以此为核心）。凯撒家族（Julii）自称维纳斯的后裔。维纳斯是罗马神话中最重要的女神之一，'Venus'也是金星的名称。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Virgil",
+     "school": "史诗",
+     "view": "《埃涅阿斯纪》以维纳斯为埃涅阿斯之母。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "维纳斯—阿佛洛狄忒的对应。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "爱与丰饶的第三功能。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-venus",
+     "note": "作比较神话学的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>维纳斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>维纳斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>爱与美</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿佛洛狄忒对应</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃涅阿斯之母</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>罗马祖先</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>金星</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Venus</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>维纳斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "维纳斯的形象",
+     "views": [
+      {
+       "holder": "爱神说",
+       "basis": "对应阿佛洛狄忒的爱与美。"
+      },
+      {
+       "holder": "祖先神说",
+       "basis": "作为罗马民族的神圣祖先。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "维纳斯是罗马的爱与美之神，埃涅阿斯的母亲。",
+     "source": "pri-venus"
+    },
+    {
+     "claim": "维纳斯是罗马民族的祖先神，凯撒家族自称其后裔。",
+     "source": "pri-venus"
+    }
+   ]
+  },
+  {
+   "id": "fig-uni",
+   "title": "乌尼",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "伊特鲁里亚神话的最高女神，对应罗马朱诺。",
+   "related": [
+    "myth-roman",
+    "fig-jupiter",
+    "myth-roman"
+   ],
+   "sources": [
+    "pri-uni",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 罗马/伊特鲁里亚神祇材料跨历史层，希腊—罗马对应须区分本土与借入；2) 具体读法与考古证据的关联有讨论；3) 描述性立场。",
+   "year": null,
+   "source_text": "乌尼（Uni）是伊特鲁里亚（Etruscan）神话的最高女神：她是伊特鲁里亚万神殿的主神之一，与提尼亚（Tinia，对应朱庇特）、门尔瓦（Menrva，对应密涅瓦）构成'三联神'，对应罗马的朱庇特—朱诺—密涅瓦（Jupiter-Juno-Minerva）。乌尼象征王权、母性与城邦的守护，其形象（如哺乳的乌尼）与罗马的朱诺、以及更早的意大利母神传统相关。伊特鲁里亚宗教对罗马宗教有深刻影响（如占卜、神庙形制）。",
+   "versions": [
+    "乌尼（Uni）是伊特鲁里亚（Etruscan）神话的最高女神：她是伊特鲁里亚万神殿的主神之一，与提尼亚（Tinia，对应朱庇特）、门尔瓦（Menrva，对应密涅瓦）构成'三联神'，对应罗马的朱庇特—朱诺—密涅瓦（Jupiter-Juno-Minerva）。乌尼象征王权、母性与城邦的守护，其形象（如哺乳的乌尼）与罗马的朱诺、以及更早的意大利母神传统相关。伊特鲁里亚宗教对罗马宗教有深刻影响（如占卜、神庙形制）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "伊特鲁里亚研究",
+     "school": "学术",
+     "view": "乌尼在三联神中的地位。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "伊特鲁里亚—罗马宗教的影响。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "母神与王权守护可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-uni",
+     "note": "作比较神话学的一般参照，不主张简单等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>乌尼形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>乌尼（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>最高女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>三联神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>朱诺对应</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>罗马</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王权守护</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌尼要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "乌尼的职能",
+     "views": [
+      {
+       "holder": "最高女神说",
+       "basis": "伊特鲁里亚三联神的女神。"
+      },
+      {
+       "holder": "朱诺对应说",
+       "basis": "与罗马朱诺对应。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "乌尼是伊特鲁里亚神话的最高女神，对应罗马朱诺。",
+     "source": "pri-uni"
+    },
+    {
+     "claim": "乌尼与提尼亚、门尔瓦构成伊特鲁里亚三联神。",
+     "source": "pri-uni"
+    }
+   ]
   }
  ]
 }

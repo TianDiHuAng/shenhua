@@ -5810,6 +5810,84 @@
    "link_ok": true,
    "verified": true,
    "note": "佩尔库纳斯（Perkūnas）是波罗的海神话的雷神，立陶宛与拉脱维亚的主神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-jupiter",
+   "title": "朱庇特文献（罗马神话）",
+   "author": "佚名（罗马）",
+   "year": null,
+   "year_display": "罗马王政—帝国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Jupiter_(god)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "朱庇特（Jupiter）是罗马的最高神，天空与雷电之神，对应希腊宙斯；2026-11-23 经 Wikipedia API 实测（Jupiter (mythology)→Jupiter (god)）。"
+  },
+  {
+   "id": "pri-mars",
+   "title": "马尔斯文献（罗马神话）",
+   "author": "佚名（罗马）",
+   "year": null,
+   "year_display": "罗马王政—帝国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "马尔斯（Mars）是罗马的战争与农业之神，罗马人的祖先神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-neptune",
+   "title": "涅普顿文献（罗马神话）",
+   "author": "佚名（罗马）",
+   "year": null,
+   "year_display": "罗马王政—帝国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Neptune_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "涅普顿（Neptune）是罗马的海洋与淡水之神，对应希腊波塞冬；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-diana",
+   "title": "狄安娜文献（罗马神话）",
+   "author": "佚名（罗马）",
+   "year": null,
+   "year_display": "罗马王政—帝国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Diana_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "狄安娜（Diana）是罗马的狩猎、月亮与荒野女神，对应希腊阿尔忒弥斯；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-venus",
+   "title": "维纳斯文献（罗马神话）",
+   "author": "佚名（罗马）",
+   "year": null,
+   "year_display": "罗马王政—帝国",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Venus_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "维纳斯（Venus）是罗马的爱与美之神，埃涅阿斯的母亲，对应希腊阿佛洛狄忒；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-uni",
+   "title": "乌尼文献（伊特鲁里亚神话）",
+   "author": "佚名（伊特鲁里亚）",
+   "year": null,
+   "year_display": "伊特鲁里亚文明",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Uni_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "乌尼（Uni）是伊特鲁里亚神话的最高女神，对应罗马朱诺；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
