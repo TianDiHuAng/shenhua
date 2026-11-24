@@ -15613,6 +15613,456 @@
      "source": "pri-bes"
     }
    ]
+  },
+  {
+   "id": "fig-ereshkigal",
+   "title": "埃列什基伽勒",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔—阿卡德的冥界女王，伊南娜之姐。",
+   "related": [
+    "fig-inanna",
+    "fig-dumuzid",
+    "motif-underworld"
+   ],
+   "sources": [
+    "pri-ereshkigal",
+    "pri-gilgamesh",
+    "aca-sumerian-mythology"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 古代神祇材料跨多个文本层与时代，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "埃列什基伽勒（Ereshkigal）是苏美尔—阿卡德神话的冥界女王，统治'无归之地'（Irkalla）：她是伊南娜（Inanna/Ishtar）的姐姐，在《伊南娜下冥界》叙事中，伊南娜闯入冥界夺权，被埃列什基伽勒以'死亡之眼'击杀并挂在钩上，后经协商伊南娜获释（由杜穆兹替死）。埃列什基伽勒是冥界秩序的守护者，其形象体现了美索不达米亚对死亡与冥界的观念。",
+   "versions": [
+    "埃列什基伽勒（Ereshkigal）是苏美尔—阿卡德神话的冥界女王，统治'无归之地'（Irkalla）：她是伊南娜（Inanna/Ishtar）的姐姐，在《伊南娜下冥界》叙事中，伊南娜闯入冥界夺权，被埃列什基伽勒以'死亡之眼'击杀并挂在钩上，后经协商伊南娜获释（由杜穆兹替死）。埃列什基伽勒是冥界秩序的守护者，其形象体现了美索不达米亚对死亡与冥界的观念。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "《伊南娜下冥界》译注是理解埃列什基伽勒的核心材料。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "冥界女王与死亡秩序（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "冥界女王可作宇宙论与死亡观参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ereshkigal",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>埃列什基伽勒形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>埃列什基伽勒（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冥界女王</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Irkalla</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊南娜之姐</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>下冥界叙事</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>死亡之眼</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>击杀伊南娜</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃列什基伽勒要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "埃列什基伽勒的形象",
+     "views": [
+      {
+       "holder": "冥界统治者说",
+       "basis": "维护冥界秩序的王者。"
+      },
+      {
+       "holder": "悲剧形象说",
+       "basis": "被迫受困冥界的女王。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "埃列什基伽勒是苏美尔冥界女王，伊南娜之姐。",
+     "source": "pri-ereshkigal"
+    },
+    {
+     "claim": "在《伊南娜下冥界》中她击杀伊南娜后又协商释放。",
+     "source": "pri-ereshkigal"
+    }
+   ]
+  },
+  {
+   "id": "fig-ninhursag",
+   "title": "宁胡尔萨格",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔的大母神与山后，与造人相关。",
+   "related": [
+    "fig-enki",
+    "fig-enlil",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-ninhursag",
+    "aca-sumerian-mythology",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 古代神祇材料跨多个文本层与时代，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "宁胡尔萨格（Ninhursag，'山 lady'）是苏美尔的大母神、生育与大地女神，被视为众神之母与人类的创造者之一：在《恩基与宁胡尔萨格》神话中，她与恩基（Enki）合作，以泥土造人并治愈恩基的疾病，是苏美尔造人神话的核心角色。她也被称为 Nintur、Ninmah 等，是苏美尔万神殿中地位崇高的母神，与恩利尔、安等大神并列。",
+   "versions": [
+    "宁胡尔萨格（Ninhursag，'山 lady'）是苏美尔的大母神、生育与大地女神，被视为众神之母与人类的创造者之一：在《恩基与宁胡尔萨格》神话中，她与恩基（Enki）合作，以泥土造人并治愈恩基的疾病，是苏美尔造人神话的核心角色。她也被称为 Nintur、Ninmah 等，是苏美尔万神殿中地位崇高的母神，与恩利尔、安等大神并列。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "《恩基与宁胡尔萨格》译注是理解其造人角色的核心。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "大母神与生育秩序（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "大地母神与造人可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ninhursag",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>宁胡尔萨格形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>宁胡尔萨格（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大母神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>生育</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>造人</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与恩基合作</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>山后</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ninhursag名号</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宁胡尔萨格要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "宁胡尔萨格的角色",
+     "views": [
+      {
+       "holder": "造物母神说",
+       "basis": "人类创造者之一。"
+      },
+      {
+       "holder": "大地母神说",
+       "basis": "象征大地与生育。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "宁胡尔萨格是苏美尔大母神，与恩基合作造人。",
+     "source": "pri-ninhursag"
+    },
+    {
+     "claim": "宁胡尔萨格是苏美尔万神殿中地位崇高的母神。",
+     "source": "pri-ninhursag"
+    }
+   ]
+  },
+  {
+   "id": "fig-anu",
+   "title": "安（安努）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔—阿卡德的天空之神与万神殿之首。",
+   "related": [
+    "fig-enlil",
+    "fig-enki",
+    "motif-skyfather"
+   ],
+   "sources": [
+    "pri-anu",
+    "aca-sumerian-mythology",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 古代神祇材料跨多个文本层与时代，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "安（An，阿卡德语 Anu）是苏美尔—阿卡德的天空之神与万神殿的名义之首，乌鲁克（Uruk）的主神：他是众神之父，其权威高于其他神祇，但在神话叙事中相对超然（实际事务多由其子恩利尔等处理）。安与地神基（Ki）结合生成诸神与宇宙秩序；在阿卡德时期，安（Anu）是'天界'的最高神，与恩利尔（大地/风）、埃阿（水/智慧）并列为三大神。安的崇拜中心是乌鲁克的埃安纳（Eanna）神庙。",
+   "versions": [
+    "安（An，阿卡德语 Anu）是苏美尔—阿卡德的天空之神与万神殿的名义之首，乌鲁克（Uruk）的主神：他是众神之父，其权威高于其他神祇，但在神话叙事中相对超然（实际事务多由其子恩利尔等处理）。安与地神基（Ki）结合生成诸神与宇宙秩序；在阿卡德时期，安（Anu）是'天界'的最高神，与恩利尔（大地/风）、埃阿（水/智慧）并列为三大神。安的崇拜中心是乌鲁克的埃安纳（Eanna）神庙。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "《苏美尔神话》中安是万神殿之首。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "安的超然至高性与三神结构（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天空至高神可作'天父'母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-anu",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>安（安努）形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>安（安努）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天空之神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>万神殿之首</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌鲁克</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>埃安纳神庙</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>安/恩利尔/埃阿</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>安（安努）要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "安的地位",
+     "views": [
+      {
+       "holder": "至高神说",
+       "basis": "名义上的万神殿之首。"
+      },
+      {
+       "holder": "超然神说",
+       "basis": "实际事务由 subordinate 神处理。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "安是苏美尔天空之神与万神殿名义之首，乌鲁克主神。",
+     "source": "pri-anu"
+    },
+    {
+     "claim": "安与恩利尔、埃阿并列为苏美尔—阿卡德三大神。",
+     "source": "pri-anu"
+    }
+   ]
+  },
+  {
+   "id": "fig-nekhbet",
+   "title": "奈赫贝特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及上埃及的秃鹫守护女神。",
+   "related": [
+    "fig-wadjet",
+    "fig-horus",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-nekhbet",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 古代神祇材料跨多个文本层与时代，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "奈赫贝特（Nekhbet）是埃及上埃及（南部）的秃鹫守护女神，与下埃及的眼镜蛇女神瓦吉特（Wadjet）共同构成法老的双冠守护：奈赫贝特代表上埃及的白冠，瓦吉特代表下埃及的红冠，二者的形象（秃鹫与眼镜蛇）出现在法老王冠（'双冠'）上，象征王权对全埃及的统一与庇护。奈赫贝特的崇拜中心在上埃及的 Nekheb（El Kab），她是法老与王权的守护者之一。",
+   "versions": [
+    "奈赫贝特（Nekhbet）是埃及上埃及（南部）的秃鹫守护女神，与下埃及的眼镜蛇女神瓦吉特（Wadjet）共同构成法老的双冠守护：奈赫贝特代表上埃及的白冠，瓦吉特代表下埃及的红冠，二者的形象（秃鹫与眼镜蛇）出现在法老王冠（'双冠'）上，象征王权对全埃及的统一与庇护。奈赫贝特的崇拜中心在上埃及的 Nekheb（El Kab），她是法老与王权的守护者之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中奈赫贝特与瓦吉特的双冠守护结构。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "王权与守护女神的关联（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "王权守护神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nekhbet",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奈赫贝特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奈赫贝特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>上埃及</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>白冠</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>双冠守护</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与瓦吉特</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Nekheb</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奈赫贝特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "奈赫贝特的职能",
+     "views": [
+      {
+       "holder": "王权守护说",
+       "basis": "守护法老与上埃及。"
+      },
+      {
+       "holder": "双冠象征说",
+       "basis": "与瓦吉特构成双冠统一象征。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "奈赫贝特是上埃及的秃鹫守护女神，法老白冠的象征。",
+     "source": "pri-nekhbet"
+    },
+    {
+     "claim": "奈赫贝特与瓦吉特共同构成法老双冠的守护。",
+     "source": "pri-nekhbet"
+    }
+   ]
+  },
+  {
+   "id": "fig-wadjet",
+   "title": "瓦吉特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及下埃及的眼镜蛇守护女神。",
+   "related": [
+    "fig-nekhbet",
+    "fig-horus",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-wadjet",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 古代神祇材料跨多个文本层与时代，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "瓦吉特（Wadjet，亦称 Uto/Buto）是埃及下埃及（北部）的眼镜蛇守护女神，与上埃及的秃鹫女神奈赫贝特共同构成法老的双冠守护：瓦吉特代表下埃及的红冠，其眼镜蛇形象即法老王冠上的'乌赖乌斯'（uraeus，竖起的眼镜蛇），被认为能以喷火威慑敌人、保护法老。瓦吉特的崇拜中心在下埃及的布托（Buto），她是王权、保护与治愈的女神。",
+   "versions": [
+    "瓦吉特（Wadjet，亦称 Uto/Buto）是埃及下埃及（北部）的眼镜蛇守护女神，与上埃及的秃鹫女神奈赫贝特共同构成法老的双冠守护：瓦吉特代表下埃及的红冠，其眼镜蛇形象即法老王冠上的'乌赖乌斯'（uraeus，竖起的眼镜蛇），被认为能以喷火威慑敌人、保护法老。瓦吉特的崇拜中心在下埃及的布托（Buto），她是王权、保护与治愈的女神。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中瓦吉特与奈赫贝特的双冠守护结构。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "乌赖乌斯与王权保护（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "眼镜蛇女神与王权守护可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-wadjet",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>瓦吉特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>瓦吉特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>下埃及</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>红冠</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌赖乌斯</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王冠眼镜蛇</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Buto</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>瓦吉特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "瓦吉特的职能",
+     "views": [
+      {
+       "holder": "王权守护说",
+       "basis": "守护法老与下埃及。"
+      },
+      {
+       "holder": "乌赖乌斯说",
+       "basis": "王冠眼镜蛇的象征来源。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "瓦吉特是下埃及的眼镜蛇守护女神，法老红冠的象征。",
+     "source": "pri-wadjet"
+    },
+    {
+     "claim": "瓦吉特的乌赖乌斯（王冠眼镜蛇）被认为能威慑敌人。",
+     "source": "pri-wadjet"
+    }
+   ]
+  },
+  {
+   "id": "fig-taweret",
+   "title": "塔沃里特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的河马首孕妇与儿童守护女神。",
+   "related": [
+    "fig-bes",
+    "fig-hathor",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-taweret",
+    "pri-book-dead",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 古代神祇材料跨多个文本层与时代，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "塔沃里特（Taweret，'伟大的（女）'）是埃及的河马首孕妇、分娩与儿童守护女神：她以直立的怀孕河马形象出现，兼具河马的凶猛（驱邪）与母性的保护（护佑孕妇儿童）。塔沃里特与贝斯（Bes）同为埃及民间最受欢迎的家宅守护神，护身符与家具常饰以其形象。她也是重生与丰饶的象征，在丧葬文本中偶有出现（帮助亡者重生）。",
+   "versions": [
+    "塔沃里特（Taweret，'伟大的（女）'）是埃及的河马首孕妇、分娩与儿童守护女神：她以直立的怀孕河马形象出现，兼具河马的凶猛（驱邪）与母性的保护（护佑孕妇儿童）。塔沃里特与贝斯（Bes）同为埃及民间最受欢迎的家宅守护神，护身符与家具常饰以其形象。她也是重生与丰饶的象征，在丧葬文本中偶有出现（帮助亡者重生）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中塔沃里特的民间守护职能。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "孕妇儿童守护与河马女神（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "守护女神与重生象征可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-taweret",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>塔沃里特形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>塔沃里特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>河马首</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>孕妇守护</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>分娩儿童</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>护佑</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>重生丰饶</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>丧葬象征</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塔沃里特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "塔沃里特的职能",
+     "views": [
+      {
+       "holder": "孕妇守护说",
+       "basis": "保护孕妇与分娩。"
+      },
+      {
+       "holder": "重生象征说",
+       "basis": "象征重生与丰饶。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "塔沃里特是埃及孕妇与儿童守护女神，河马首形象。",
+     "source": "pri-taweret"
+    },
+    {
+     "claim": "塔沃里特与贝斯同为埃及民间家宅守护神。",
+     "source": "pri-taweret"
+    }
+   ]
   }
  ]
 }

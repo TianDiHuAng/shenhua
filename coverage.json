@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:18:16+08:00",
+  "generated": "2026-11-24T10:23:27+08:00",
   "summary": {
-    "total": 452,
+    "total": 458,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 197
+      "U4": 203
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 338
+      "补充": 344
     },
     "by_level": {
       "L1": 0,
-      "L2": 338,
+      "L2": 344,
       "L3": 114
     },
-    "l2_done": 452,
+    "l2_done": 458,
     "l3_done": 114,
-    "verified_sources": 335
+    "verified_sources": 341
   },
   "entries": [
     {
@@ -4987,6 +4987,72 @@
     {
       "id": "fig-bes",
       "name": "贝斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ereshkigal",
+      "name": "埃列什基伽勒",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ninhursag",
+      "name": "宁胡尔萨格",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-anu",
+      "name": "安（安努）",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-nekhbet",
+      "name": "奈赫贝特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-wadjet",
+      "name": "瓦吉特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-taweret",
+      "name": "塔沃里特",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

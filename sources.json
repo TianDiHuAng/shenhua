@@ -4952,6 +4952,84 @@
    "link_ok": true,
    "verified": true,
    "note": "贝斯（Bes）是埃及的家宅、孕妇与儿童守护神，矮人形象；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ereshkigal",
+   "title": "埃列什基伽勒文献（《伊南娜下冥界》）",
+   "author": "佚名（苏美尔）",
+   "year": null,
+   "year_display": "前2千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ereshkigal",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "埃列什基伽勒（Ereshkigal）是苏美尔—阿卡德的冥界女王，伊南娜之姐；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ninhursag",
+   "title": "宁胡尔萨格文献（苏美尔母神）",
+   "author": "佚名（苏美尔）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ninhursag",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "宁胡尔萨格（Ninhursag）是苏美尔的大母神与山后，与造人相关；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-anu",
+   "title": "安（安努）文献（苏美尔天神）",
+   "author": "佚名（苏美尔）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Anu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "安/安努（An/Anu）是苏美尔—阿卡德的天空之神与万神殿之首，乌鲁克主神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nekhbet",
+   "title": "奈赫贝特文献（埃及秃鹫女神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "早王朝—托勒密期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nekhbet",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "奈赫贝特（Nekhbet）是埃及上埃及的秃鹫守护女神，与瓦吉特并为法老的双冠守护神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-wadjet",
+   "title": "瓦吉特文献（埃及眼镜蛇女神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "早王朝—托勒密期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Wadjet",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "瓦吉特（Wadjet）是埃及下埃及的眼镜蛇守护女神，法老王冠上的'乌赖乌斯'（uraeus）即其形象；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-taweret",
+   "title": "塔沃里特文献（埃及河马女神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "中王国—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Taweret",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "塔沃里特（Taweret）是埃及的河马首孕妇与儿童守护女神；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
