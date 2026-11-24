@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T13:47:00+08:00",
+  "generated": "2026-11-24T13:52:35+08:00",
   "summary": {
-    "total": 596,
+    "total": 601,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 78,
-      "U4": 335
+      "U4": 340
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 482
+      "补充": 487
     },
     "by_level": {
       "L1": 0,
-      "L2": 482,
+      "L2": 487,
       "L3": 114
     },
-    "l2_done": 596,
+    "l2_done": 601,
     "l3_done": 114,
-    "verified_sources": 479
+    "verified_sources": 485
   },
   "entries": [
     {
@@ -6571,6 +6571,61 @@
     {
       "id": "fig-kappa",
       "name": "河童",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-samantabhadra",
+      "name": "普贤",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ksitigarbha",
+      "name": "地藏",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-nagarjuna",
+      "name": "龙树",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-bodhidharma",
+      "name": "菩提达摩",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ananda",
+      "name": "阿难",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

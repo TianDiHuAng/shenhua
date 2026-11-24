@@ -6824,6 +6824,84 @@
    "link_ok": true,
    "verified": true,
    "note": "河童（Kappa）是日本传说中的水妖，栖于河川池沼，形象为龟壳水童；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-buddha",
+   "title": "佛陀文献（佛经与传记）",
+   "author": "佚名（佛教）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/The_Buddha",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "佛陀（Siddhartha Gautama）是佛教的创始人，悉达多·乔达摩；2026-11-23 经 Wikipedia API 实测（The Buddha）专条存在。"
+  },
+  {
+   "id": "pri-samantabhadra",
+   "title": "普贤文献（《华严经》）",
+   "author": "佚名（佛教）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Samantabhadra",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "普贤（Samantabhadra）是佛教的菩萨，象征行愿与实践，与文殊并为释迦二胁侍；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ksitigarbha",
+   "title": "地藏文献（《地藏菩萨本愿经》）",
+   "author": "佚名（佛教）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/K%E1%B9%A3itigarbha",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "地藏（Kṣitigarbha）是佛教的菩萨，象征地狱救度与'地狱不空誓不成佛'的大愿；2026-11-23 经 Wikipedia API 实测（Kṣitigarbha）专条存在。"
+  },
+  {
+   "id": "pri-nagarjuna",
+   "title": "龙树文献（中观论颂）",
+   "author": "龙树",
+   "year": null,
+   "year_display": "约2—3世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nagarjuna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "龙树（Nāgārjuna）是印度大乘佛教中观学派的创始人，《中论》的作者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-bodhidharma",
+   "title": "菩提达摩文献（禅宗传统）",
+   "author": "佚名（禅宗）",
+   "year": null,
+   "year_display": "5—6世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Bodhidharma",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "菩提达摩（Bodhidharma）是禅宗（尤其中国禅）传统的初祖，传为南印度僧人；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ananda",
+   "title": "阿难文献（佛教经典）",
+   "author": "佚名（佛教）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/%C4%80nanda",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿难（Ānanda）是佛陀的十大弟子之一，多闻第一，佛经第一次结集的诵出者；2026-11-23 经 Wikipedia API 实测（Ānanda）专条存在。"
   }
  ]
 }

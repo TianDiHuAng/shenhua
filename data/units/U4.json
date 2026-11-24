@@ -25958,6 +25958,377 @@
      "source": "pri-kappa"
     }
    ]
+  },
+  {
+   "id": "fig-samantabhadra",
+   "title": "普贤",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "佛教的菩萨，象征行愿与实践。",
+   "related": [
+    "rel-buddhism",
+    "fig-manjushri"
+   ],
+   "sources": [
+    "pri-samantabhadra",
+    "pri-ksitigarbha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "普贤（Samantabhadra，'遍吉'）是佛教的重要菩萨，象征行愿、实践与禅定：在《华严经》中，普贤与文殊（智慧）并为释迦牟尼的两位胁侍（'华严三圣'之一），普贤代表'行'（实践、愿行），其十大愿王是华严思想的核心。普贤的坐骑为六牙白象，象征其愿行的广大与坚固。普贤信仰在中国、日本（普贤菩萨）与藏传佛教（作为本初佛的 Samantabhadra 另有一义）中都有重要地位。",
+   "versions": [
+    "普贤（Samantabhadra，'遍吉'）是佛教的重要菩萨，象征行愿、实践与禅定：在《华严经》中，普贤与文殊（智慧）并为释迦牟尼的两位胁侍（'华严三圣'之一），普贤代表'行'（实践、愿行），其十大愿王是华严思想的核心。普贤的坐骑为六牙白象，象征其愿行的广大与坚固。普贤信仰在中国、日本（普贤菩萨）与藏传佛教（作为本初佛的 Samantabhadra 另有一义）中都有重要地位。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《华严经》",
+     "school": "核心文本",
+     "view": "普贤十大愿王是华严核心。"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "普贤的'行愿'象征。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "菩萨行愿可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-samantabhadra",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>普贤示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>普贤（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>行愿</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>实践</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>六牙白象</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>坐骑</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>华严三圣</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与文殊伴释迦</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>普贤要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "普贤的职能",
+     "views": [
+      {
+       "holder": "行愿菩萨说",
+       "basis": "象征实践与十大愿王。"
+      },
+      {
+       "holder": "华严胁侍说",
+       "basis": "与文殊并为释迦胁侍。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "普贤是佛教的菩萨，象征行愿与实践，为华严三圣之一。",
+     "source": "pri-samantabhadra"
+    },
+    {
+     "claim": "普贤的坐骑为六牙白象，其十大愿王是华严思想核心。",
+     "source": "pri-samantabhadra"
+    }
+   ]
+  },
+  {
+   "id": "fig-ksitigarbha",
+   "title": "地藏",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "佛教的菩萨，象征地狱救度的大愿。",
+   "related": [
+    "rel-buddhism",
+    "fig-guanyin",
+    "motif-underworld"
+   ],
+   "sources": [
+    "pri-ksitigarbha",
+    "pri-samantabhadra",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "地藏（Kṣitigarbha，'地藏'）是佛教的菩萨，以大愿'地狱不空，誓不成佛；众生度尽，方证菩提'著称：他象征对地狱众生（最苦者）的救度与无尽的慈悲，其形象为僧形、持锡杖与宝珠。地藏信仰在东亚（中国、日本的地藏菩萨、韩国的地藏）极为普遍，尤与亡者超度、儿童守护（日本的地藏）相关。《地藏菩萨本愿经》是其核心经典。地藏象征大悲的下沉救度与'代众生受苦'的精神。",
+   "versions": [
+    "地藏（Kṣitigarbha，'地藏'）是佛教的菩萨，以大愿'地狱不空，誓不成佛；众生度尽，方证菩提'著称：他象征对地狱众生（最苦者）的救度与无尽的慈悲，其形象为僧形、持锡杖与宝珠。地藏信仰在东亚（中国、日本的地藏菩萨、韩国的地藏）极为普遍，尤与亡者超度、儿童守护（日本的地藏）相关。《地藏菩萨本愿经》是其核心经典。地藏象征大悲的下沉救度与'代众生受苦'的精神。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《地藏菩萨本愿经》",
+     "school": "核心文本",
+     "view": "地藏大愿与救度地狱众生。"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "地藏信仰的东亚传播。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "大悲救度可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ksitigarbha",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>地藏示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>地藏（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地狱救度</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大愿</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>僧形锡杖</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宝珠</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>东亚普及</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>超度/儿童守护</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地藏要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "地藏的性质",
+     "views": [
+      {
+       "holder": "大愿菩萨说",
+       "basis": "'地狱不空誓不成佛'的救度者。"
+      },
+      {
+       "holder": "亡者/儿童守护说",
+       "basis": "东亚民间的地藏信仰。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "地藏是佛教的菩萨，以'地狱不空誓不成佛'的大愿著称。",
+     "source": "pri-ksitigarbha"
+    },
+    {
+     "claim": "地藏信仰在东亚极为普遍，与亡者超度、儿童守护相关。",
+     "source": "pri-ksitigarbha"
+    }
+   ]
+  },
+  {
+   "id": "fig-nagarjuna",
+   "title": "龙树",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度大乘佛教中观学派的创始人。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-nagarjuna",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "龙树（Nāgārjuna，约2—3世纪）是印度大乘佛教中观学派（Madhyamaka）的创始人，被尊为'第二佛陀'：其《中论》（Mūlamadhyamakakārikā）系统阐述'中道'与'空性'（śūnyatā）——一切法缘起而无自性（空），既非有亦非无，超越'有/无'二边。龙树的'空'论是大乘佛教哲学的高峰，对中观、唯识、禅宗与藏传佛教都有深远影响。龙树的生平与著作的真伪（部分托名）在学界有讨论。",
+   "versions": [
+    "龙树（Nāgārjuna，约2—3世纪）是印度大乘佛教中观学派（Madhyamaka）的创始人，被尊为'第二佛陀'：其《中论》（Mūlamadhyamakakārikā）系统阐述'中道'与'空性'（śūnyatā）——一切法缘起而无自性（空），既非有亦非无，超越'有/无'二边。龙树的'空'论是大乘佛教哲学的高峰，对中观、唯识、禅宗与藏传佛教都有深远影响。龙树的生平与著作的真伪（部分托名）在学界有讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《中论》",
+     "school": "核心文本",
+     "view": "龙树的中道与空性思想。"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "龙树中观学派的地位与著作考订。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "空性与中道可作哲学参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nagarjuna",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>龙树示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>龙树（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中观</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Madhyamaka</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>空性</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>śūnyatā缘起</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中道</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>离二边</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>龙树要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "龙树的地位",
+     "views": [
+      {
+       "holder": "中观创始人说",
+       "basis": "大乘中观学派的开创者。"
+      },
+      {
+       "holder": "著作考订说",
+       "basis": "部分著作托名，生平有讨论。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "龙树是印度大乘佛教中观学派的创始人，《中论》的作者。",
+     "source": "pri-nagarjuna"
+    },
+    {
+     "claim": "龙树的'空性'与'中道'思想对大乘佛教影响深远。",
+     "source": "pri-nagarjuna"
+    }
+   ]
+  },
+  {
+   "id": "fig-bodhidharma",
+   "title": "菩提达摩",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "禅宗传统的初祖。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-bodhidharma",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "菩提达摩（Bodhidharma，'达摩'）是禅宗（尤其中国禅）传统的初祖：传为南印度（或波斯）僧人，约5—6世纪来华，'面壁九年'、'一苇渡江'、'直指人心，见性成佛'等传说使其成为禅宗精神的象征。达摩的'教外别传，不立文字'奠定了禅宗'以心传心'的宗旨。其历史性（是否实有其人、生平等）在学界有讨论，但作为禅宗初祖的象征地位无可置疑。达摩也是少林武术传说的关联人物（'易筋经'托名于他，其真实性有争议）。",
+   "versions": [
+    "菩提达摩（Bodhidharma，'达摩'）是禅宗（尤其中国禅）传统的初祖：传为南印度（或波斯）僧人，约5—6世纪来华，'面壁九年'、'一苇渡江'、'直指人心，见性成佛'等传说使其成为禅宗精神的象征。达摩的'教外别传，不立文字'奠定了禅宗'以心传心'的宗旨。其历史性（是否实有其人、生平等）在学界有讨论，但作为禅宗初祖的象征地位无可置疑。达摩也是少林武术传说的关联人物（'易筋经'托名于他，其真实性有争议）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "禅宗灯录",
+     "school": "核心文本",
+     "view": "达摩作为禅宗初祖的传法谱系。"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "达摩的历史性与传说的层累。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "觉悟传承可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-bodhidharma",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>菩提达摩示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>菩提达摩（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>禅宗初祖</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>面壁九年</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>直指人心</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>见性成佛</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>教外别传</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不立文字</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>菩提达摩要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "达摩的形象",
+     "views": [
+      {
+       "holder": "禅宗初祖说",
+       "basis": "禅宗'以心传心'的象征。"
+      },
+      {
+       "holder": "传说层累说",
+       "basis": "生平与事迹含大量传说。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "菩提达摩是禅宗传统的初祖，象征'直指人心，见性成佛'。",
+     "source": "pri-bodhidharma"
+    },
+    {
+     "claim": "达摩的'教外别传，不立文字'奠定禅宗'以心传心'的宗旨。",
+     "source": "pri-bodhidharma"
+    }
+   ]
+  },
+  {
+   "id": "fig-ananda",
+   "title": "阿难",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "佛陀十大弟子之一，多闻第一。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-ananda",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿难（Ānanda，'欢喜'）是佛陀的堂弟与十大弟子之一，以'多闻第一'著称：他侍奉佛陀二十五年，听闻并记忆佛陀的教法最多，因此在佛陀涅槃后的第一次结集（王舍城结集）中诵出经藏（'如是我闻'即源于阿难诵经）。阿难象征对教法的忠实传承与亲近佛陀的弟子情谊；其请求佛陀允许女性出家（比丘尼僧团成立）的叙事也与佛教性别议题相关。阿难是佛教经典传承的关键人物。",
+   "versions": [
+    "阿难（Ānanda，'欢喜'）是佛陀的堂弟与十大弟子之一，以'多闻第一'著称：他侍奉佛陀二十五年，听闻并记忆佛陀的教法最多，因此在佛陀涅槃后的第一次结集（王舍城结集）中诵出经藏（'如是我闻'即源于阿难诵经）。阿难象征对教法的忠实传承与亲近佛陀的弟子情谊；其请求佛陀允许女性出家（比丘尼僧团成立）的叙事也与佛教性别议题相关。阿难是佛教经典传承的关键人物。"
+   ],
+   "interpretations": [
+    {
+     "holder": "佛经/律藏",
+     "school": "核心文本",
+     "view": "阿难诵出经藏、结集的叙事。"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "阿难与经典传承。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "口传传承可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ananda",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿难示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿难（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>多闻第一</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>诵出经藏</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>佛陀堂弟</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>侍者</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>结集</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>如是我闻</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿难要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿难的角色",
+     "views": [
+      {
+       "holder": "传承者说",
+       "basis": "诵出经藏、传承教法。"
+      },
+      {
+       "holder": "亲近弟子说",
+       "basis": "象征弟子情谊与亲近佛陀。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿难是佛陀十大弟子之一，以'多闻第一'著称。",
+     "source": "pri-ananda"
+    },
+    {
+     "claim": "'如是我闻'源于阿难在结集中诵出经藏。",
+     "source": "pri-ananda"
+    }
+   ]
   }
  ]
 }
