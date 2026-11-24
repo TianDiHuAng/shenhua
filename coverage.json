@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:37:39+08:00",
+  "generated": "2026-11-24T10:42:11+08:00",
   "summary": {
-    "total": 476,
+    "total": 482,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 221
+      "U4": 227
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 362
+      "补充": 368
     },
     "by_level": {
       "L1": 0,
-      "L2": 362,
+      "L2": 368,
       "L3": 114
     },
-    "l2_done": 476,
+    "l2_done": 482,
     "l3_done": 114,
-    "verified_sources": 359
+    "verified_sources": 365
   },
   "entries": [
     {
@@ -5251,6 +5251,72 @@
     {
       "id": "fig-change",
       "name": "嫦娥",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-arjuna",
+      "name": "阿周那",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-karna",
+      "name": "迦尔纳",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-yudhishthira",
+      "name": "坚战",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-draupadi",
+      "name": "黑公主",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-duryodhana",
+      "name": "难敌",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-sita",
+      "name": "悉多",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

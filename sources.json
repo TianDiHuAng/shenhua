@@ -5264,6 +5264,84 @@
    "link_ok": true,
    "verified": true,
    "note": "嫦娥是中国神话中奔月的女神，后羿之妻；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-arjuna",
+   "title": "阿周那文献（《摩诃婆罗多》）",
+   "author": "佚名（印度）/毗耶娑",
+   "year": null,
+   "year_display": "古代史诗",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Arjuna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿周那是《摩诃婆罗多》的核心英雄，般度五子之一，《薄伽梵歌》的聆听者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-karna",
+   "title": "迦尔纳文献（《摩诃婆罗多》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "古代史诗",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Karna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "迦尔纳是《摩诃婆罗多》中的悲剧英雄，俱卢军统帅，以慷慨与忠诚著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yudhishthira",
+   "title": "坚战文献（《摩诃婆罗多》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "古代史诗",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yudhishthira",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "坚战是般度五子之长，《摩诃婆罗多》中代表正法（dharma）的君王；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-draupadi",
+   "title": "黑公主文献（《摩诃婆罗多》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "古代史诗",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Draupadi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "黑公主（Draupadi）是《摩诃婆罗多》中般度五子共同的妻子，以智慧与坚韧著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-duryodhana",
+   "title": "难敌文献（《摩诃婆罗多》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "古代史诗",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Duryodhana",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "难敌（Duryodhana）是《摩诃婆罗多》中俱卢族的长子，般度五子的主要对手；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-sita",
+   "title": "悉多文献（《罗摩衍那》）",
+   "author": "蚁垤",
+   "year": null,
+   "year_display": "古代史诗",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sita",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "悉多是《罗摩衍那》中罗摩之妻，被罗波那劫走，象征贞洁与坚忍；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

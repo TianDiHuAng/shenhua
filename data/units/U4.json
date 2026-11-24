@@ -17413,6 +17413,456 @@
      "source": "pri-change"
     }
    ]
+  },
+  {
+   "id": "fig-arjuna",
+   "title": "阿周那",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《摩诃婆罗多》的核心英雄，般度五子之一。",
+   "related": [
+    "myth-hindu",
+    "fig-krishna",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-arjuna",
+    "pri-mahabharata",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 史诗文本层复杂，各个版本与后世改编差异大；2) 人物形象的分析有多种学术视角；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿周那（Arjuna）是印度史诗《摩诃婆罗多》的核心英雄之一，般度五子（Pandavas）的第三子，以无可匹敌的弓箭技艺著称：他是因陀罗之子，师从德罗纳学艺，在俱卢之野大战中担任般度军的主将。阿周那最著名的时刻是战前面对亲族而陷入道德困境，其御者克里希纳（Krishna）为他讲述《薄伽梵歌》（Bhagavad Gita），阐述 duty（dharma）、行动与解脱的教义。阿周那象征武士的正法与虔信，是印度教伦理与哲学讨论的核心人物。",
+   "versions": [
+    "阿周那（Arjuna）是印度史诗《摩诃婆罗多》的核心英雄之一，般度五子（Pandavas）的第三子，以无可匹敌的弓箭技艺著称：他是因陀罗之子，师从德罗纳学艺，在俱卢之野大战中担任般度军的主将。阿周那最著名的时刻是战前面对亲族而陷入道德困境，其御者克里希纳（Krishna）为他讲述《薄伽梵歌》（Bhagavad Gita），阐述 duty（dharma）、行动与解脱的教义。阿周那象征武士的正法与虔信，是印度教伦理与哲学讨论的核心人物。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《摩诃婆罗多》",
+     "school": "核心文献",
+     "view": "阿周那是史诗的核心英雄。"
+    },
+    {
+     "holder": "《薄伽梵歌》",
+     "school": "哲学文本",
+     "view": "阿周那的困境引出《薄伽梵歌》的教义。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "阿周那的试炼与困惑是英雄旅程的典型。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-arjuna",
+     "note": "作比较文学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿周那形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿周那（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神射手</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>弓箭技艺</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>薄伽梵歌</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>聆听者</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>般度五子</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>正法武士</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿周那要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿周那的困境",
+     "views": [
+      {
+       "holder": "正法考验说",
+       "basis": "战前困境体现 dharma 的张力。"
+      },
+      {
+       "holder": "虔信皈依说",
+       "basis": "通过克里希纳的教导走向虔信。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿周那是《摩诃婆罗多》的核心英雄，般度五子之一。",
+     "source": "pri-arjuna"
+    },
+    {
+     "claim": "阿周那的困境引出《薄伽梵歌》的教义。",
+     "source": "pri-arjuna"
+    }
+   ]
+  },
+  {
+   "id": "fig-karna",
+   "title": "迦尔纳",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《摩诃婆罗多》中的悲剧英雄，俱卢军统帅。",
+   "related": [
+    "myth-hindu",
+    "fig-arjuna",
+    "fig-surya"
+   ],
+   "sources": [
+    "pri-karna",
+    "pri-mahabharata",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 史诗文本层复杂，各个版本与后世改编差异大；2) 人物形象的分析有多种学术视角；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "迦尔纳（Karna）是《摩诃婆罗多》中最具悲剧色彩的人物之一：他是般度五子之长坚战之母贡蒂（Kunti）与太阳神苏利耶所生，出生后被遗弃，由车夫抚养长大，因此成为般度兄弟的敌人——俱卢族（Kauravas）的盟友与统帅。迦尔纳以慷慨（'施舍者'）、武艺与对难敌的忠诚著称，其命运充满身份的悖论与悲剧的必然。俱卢之野大战中他被阿周那杀死，其悲剧性使他在印度文化中广受同情与崇敬。",
+   "versions": [
+    "迦尔纳（Karna）是《摩诃婆罗多》中最具悲剧色彩的人物之一：他是般度五子之长坚战之母贡蒂（Kunti）与太阳神苏利耶所生，出生后被遗弃，由车夫抚养长大，因此成为般度兄弟的敌人——俱卢族（Kauravas）的盟友与统帅。迦尔纳以慷慨（'施舍者'）、武艺与对难敌的忠诚著称，其命运充满身份的悖论与悲剧的必然。俱卢之野大战中他被阿周那杀死，其悲剧性使他在印度文化中广受同情与崇敬。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《摩诃婆罗多》",
+     "school": "核心文献",
+     "view": "迦尔纳的命运贯穿史诗。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "文学研究",
+     "view": "迦尔纳的悲剧性是印度文学的重要主题。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "被弃英雄的命运母题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-karna",
+     "note": "作比较文学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>迦尔纳形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>迦尔纳（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳神之子</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>贡蒂之子</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>慷慨施舍</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>悲剧英雄</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>俱卢统帅</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与阿周那对决</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>迦尔纳要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "迦尔纳的悲剧",
+     "views": [
+      {
+       "holder": "身份悖论说",
+       "basis": "出身与阵营的矛盾造成悲剧。"
+      },
+      {
+       "holder": "忠诚美德说",
+       "basis": "对难敌的忠诚是其德性体现。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "迦尔纳是《摩诃婆罗多》的悲剧英雄，俱卢军统帅。",
+     "source": "pri-karna"
+    },
+    {
+     "claim": "迦尔纳以慷慨与忠诚著称，其悲剧命运广为传颂。",
+     "source": "pri-karna"
+    }
+   ]
+  },
+  {
+   "id": "fig-yudhishthira",
+   "title": "坚战",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "般度五子之长，《摩诃婆罗多》中正法的化身。",
+   "related": [
+    "myth-hindu",
+    "fig-arjuna",
+    "rel-hinduism"
+   ],
+   "sources": [
+    "pri-yudhishthira",
+    "pri-mahabharata",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 史诗文本层复杂，各个版本与后世改编差异大；2) 人物形象的分析有多种学术视角；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "坚战（Yudhishthira）是《摩诃婆罗多》中般度五子（Pandavas）的长子，正法（dharma）的化身与般度族的合法继承人：他以诚实、公正与对正法的坚守著称，但在骰子赌局中被难敌设计失去王国与自由（导致流放与大战）。坚战是理想的'法王'（Dharmaraja），其统治与考验体现了印度教关于正法、命运与王权的伦理讨论。史诗结尾他因诚实而升入天堂的叙事是其象征意义的核心。",
+   "versions": [
+    "坚战（Yudhishthira）是《摩诃婆罗多》中般度五子（Pandavas）的长子，正法（dharma）的化身与般度族的合法继承人：他以诚实、公正与对正法的坚守著称，但在骰子赌局中被难敌设计失去王国与自由（导致流放与大战）。坚战是理想的'法王'（Dharmaraja），其统治与考验体现了印度教关于正法、命运与王权的伦理讨论。史诗结尾他因诚实而升入天堂的叙事是其象征意义的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《摩诃婆罗多》",
+     "school": "核心文献",
+     "view": "坚战是史诗的正法君王。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "文学研究",
+     "view": "坚战形象与 dharma 的张力是研究主题。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "法王型英雄的典型。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yudhishthira",
+     "note": "作比较文学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>坚战形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>坚战（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>正法君王</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Dharmaraja</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>骰局失国</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>流放</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>升天</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>史诗结尾</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>坚战要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "坚战的形象",
+     "views": [
+      {
+       "holder": "正法化身说",
+       "basis": "体现 dharma 的理想。"
+      },
+      {
+       "holder": "人性弱点说",
+       "basis": "赌局中的软弱显示其人性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "坚战是般度五子之长，《摩诃婆罗多》中正法的化身。",
+     "source": "pri-yudhishthira"
+    },
+    {
+     "claim": "坚战因骰局失国而流放，最终升天。",
+     "source": "pri-yudhishthira"
+    }
+   ]
+  },
+  {
+   "id": "fig-draupadi",
+   "title": "黑公主",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《摩诃婆罗多》中般度五子共同的妻子。",
+   "related": [
+    "myth-hindu",
+    "fig-arjuna",
+    "rel-hinduism"
+   ],
+   "sources": [
+    "pri-draupadi",
+    "pri-mahabharata",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 史诗文本层复杂，各个版本与后世改编差异大；2) 人物形象的分析有多种学术视角；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "黑公主（Draupadi）是《摩诃婆罗多》中般度五子共同的妻子，般遮罗国王木柱王之女：她以美貌、智慧与坚韧著称，其'待字'时以武艺择婿的场景、以及在骰局中被难敌羞辱（拽发）的事件，成为引发俱卢大战的关键。黑公主象征女性的尊严与羞辱的复仇，她与克里希纳的友谊、以及在流放中的坚韧，是印度文学中女性形象研究的重要对象。",
+   "versions": [
+    "黑公主（Draupadi）是《摩诃婆罗多》中般度五子共同的妻子，般遮罗国王木柱王之女：她以美貌、智慧与坚韧著称，其'待字'时以武艺择婿的场景、以及在骰局中被难敌羞辱（拽发）的事件，成为引发俱卢大战的关键。黑公主象征女性的尊严与羞辱的复仇，她与克里希纳的友谊、以及在流放中的坚韧，是印度文学中女性形象研究的重要对象。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《摩诃婆罗多》",
+     "school": "核心文献",
+     "view": "黑公主是史诗的核心女性角色。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "性别研究",
+     "view": "黑公主形象与女性尊严是研究主题。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "女性角色与战争起因的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-draupadi",
+     "note": "作比较文学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>黑公主形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>黑公主（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五子之妻</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Draupadi</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>骰局受辱</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>复仇导火索</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>坚韧智慧</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>女性尊严</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>黑公主要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "黑公主的形象",
+     "views": [
+      {
+       "holder": "贞烈受害者说",
+       "basis": "其受辱象征被迫害者的尊严。"
+      },
+      {
+       "holder": "权力主体说",
+       "basis": "她在史诗中具有主动的政治能动性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "黑公主是《摩诃婆罗多》中般度五子共同的妻子。",
+     "source": "pri-draupadi"
+    },
+    {
+     "claim": "黑公主在骰局受辱成为俱卢大战的导火索。",
+     "source": "pri-draupadi"
+    }
+   ]
+  },
+  {
+   "id": "fig-duryodhana",
+   "title": "难敌",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《摩诃婆罗多》中俱卢族的长子，般度五子主要对手。",
+   "related": [
+    "myth-hindu",
+    "fig-arjuna",
+    "fig-yudhishthira"
+   ],
+   "sources": [
+    "pri-duryodhana",
+    "pri-mahabharata",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 史诗文本层复杂，各个版本与后世改编差异大；2) 人物形象的分析有多种学术视角；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "难敌（Duryodhana）是《摩诃婆罗多》中俱卢族（Kauravas）的长子与代表，般度五子的主要对手：他因嫉妒般度兄弟而 design 骰局夺其国土、羞辱黑公主，最终导致俱卢之野大战。难敌以勇武与固执著称，其对王位的诉求（认为自己是合法继承人）与对部族的忠诚，使他不是简单的'恶人'，而是具有复杂政治诉求的对手。大战中他与怖军（Bhima）决战而死，其形象在印度文学中被视为傲慢与宿命的悲剧体现。",
+   "versions": [
+    "难敌（Duryodhana）是《摩诃婆罗多》中俱卢族（Kauravas）的长子与代表，般度五子的主要对手：他因嫉妒般度兄弟而 design 骰局夺其国土、羞辱黑公主，最终导致俱卢之野大战。难敌以勇武与固执著称，其对王位的诉求（认为自己是合法继承人）与对部族的忠诚，使他不是简单的'恶人'，而是具有复杂政治诉求的对手。大战中他与怖军（Bhima）决战而死，其形象在印度文学中被视为傲慢与宿命的悲剧体现。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《摩诃婆罗多》",
+     "school": "核心文献",
+     "view": "难敌是史诗的主要对手。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "文学研究",
+     "view": "难敌的复杂性是研究主题。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "对手/阴影形象的原型。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-duryodhana",
+     "note": "作比较文学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>难敌形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>难敌（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>俱卢长子</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王位诉求</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>骰局 design</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>导火索</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与怖军决战</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>终极对决</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>难敌要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "难敌的形象",
+     "views": [
+      {
+       "holder": "恶人典型说",
+       "basis": "象征傲慢与贪婪。"
+      },
+      {
+       "holder": "悲剧对手说",
+       "basis": "有合法诉求与忠诚的复杂性。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "难敌是《摩诃婆罗多》中俱卢族长子，般度五子的主要对手。",
+     "source": "pri-duryodhana"
+    },
+    {
+     "claim": "难敌因嫉妒与王位诉求而引发俱卢大战。",
+     "source": "pri-duryodhana"
+    }
+   ]
+  },
+  {
+   "id": "fig-sita",
+   "title": "悉多",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "《罗摩衍那》中罗摩之妻，被罗波那劫走。",
+   "related": [
+    "myth-hindu",
+    "fig-rama",
+    "fig-ravana"
+   ],
+   "sources": [
+    "pri-sita",
+    "pri-ramayana",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 史诗文本层复杂，各个版本与后世改编差异大；2) 人物形象的分析有多种学术视角；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "悉多（Sita）是印度史诗《罗摩衍那》中罗摩（Rama）的妻子，弥提罗国国王遮那竭之女（传为犁地时从土中所得）：她以美貌、贞洁与坚忍著称，被兰卡的罗波那（Ravana）劫走，引发罗摩远征兰卡的战争。获救后，悉多历经'火中自证'（证明贞洁）与最终因流言而被放逐、在大地母亲的怀抱中回归大地的结局，其叙事展现了古代印度的女性贞洁观与命运悲剧。悉多是印度文化中ideal 女性与忠贞的象征，其故事引发关于性别与正法的现代讨论。",
+   "versions": [
+    "悉多（Sita）是印度史诗《罗摩衍那》中罗摩（Rama）的妻子，弥提罗国国王遮那竭之女（传为犁地时从土中所得）：她以美貌、贞洁与坚忍著称，被兰卡的罗波那（Ravana）劫走，引发罗摩远征兰卡的战争。获救后，悉多历经'火中自证'（证明贞洁）与最终因流言而被放逐、在大地母亲的怀抱中回归大地的结局，其叙事展现了古代印度的女性贞洁观与命运悲剧。悉多是印度文化中ideal 女性与忠贞的象征，其故事引发关于性别与正法的现代讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《罗摩衍那》",
+     "school": "核心文献",
+     "view": "悉多是史诗的核心女性角色。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "性别研究",
+     "view": "悉多形象与女性贞洁观是研究主题。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "被劫女性与英雄救赎的母题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sita",
+     "note": "作比较文学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>悉多形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>悉多（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗摩之妻</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>贞洁坚忍</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>被劫兰卡</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>战争起因</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>火中自证</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>回归大地</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>悉多要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "悉多的形象",
+     "views": [
+      {
+       "holder": "贞洁典范说",
+       "basis": "象征忠贞与坚忍。"
+      },
+      {
+       "holder": "悲剧受害者说",
+       "basis": "命运悲剧引发性别反思。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "悉多是《罗摩衍那》中罗摩之妻，被罗波那劫走。",
+     "source": "pri-sita"
+    },
+    {
+     "claim": "悉多历经'火中自证'与回归大地的悲剧结局。",
+     "source": "pri-sita"
+    }
+   ]
   }
  ]
 }
