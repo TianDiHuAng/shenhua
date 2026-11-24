@@ -16513,6 +16513,456 @@
      "source": "pri-ymir"
     }
    ]
+  },
+  {
+   "id": "fig-medb",
+   "title": "梅芙",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "爱尔兰 Ulster 循环中的康诺特女王，《夺牛记》的核心人物。",
+   "related": [
+    "myth-celtic",
+    "fig-cu-chulainn",
+    "myth-celtic"
+   ],
+   "sources": [
+    "pri-medb",
+    "pri-tain",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特材料多经中世纪基督教化后的记录，须区分文本层次；2) 具体读法与历史性待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "梅芙（Medb/ Maeve）是爱尔兰 Ulster 循环中的康诺特（Connacht）女王，以强势、野心与情欲著称：她为争夺名牛 Donn Cúailnge 发动对 Ulster 的大战（《夺牛记》核心叙事），统帅康诺特军队与库丘林对抗。梅芙是爱尔兰神话中最复杂、最具政治能动性的女性角色之一，象征女王的权力、战争与欲望，与库丘林的命运紧密相连。",
+   "versions": [
+    "梅芙（Medb/ Maeve）是爱尔兰 Ulster 循环中的康诺特（Connacht）女王，以强势、野心与情欲著称：她为争夺名牛 Donn Cúailnge 发动对 Ulster 的大战（《夺牛记》核心叙事），统帅康诺特军队与库丘林对抗。梅芙是爱尔兰神话中最复杂、最具政治能动性的女性角色之一，象征女王的权力、战争与欲望，与库丘林的命运紧密相连。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《夺牛记》文本",
+     "school": "核心文献",
+     "view": "《夺牛记》是梅芙叙事的核心文本。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "区域研究",
+     "view": "强调梅芙作为女性王权形象的意义。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "女王—战争母题可作英雄叙事参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-medb",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>梅芙形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>梅芙（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>康诺特女王</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>权力欲望</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>夺牛大战</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Donn Cúailnge</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与库丘林对抗</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ulster循环</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>梅芙要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "梅芙的形象",
+     "views": [
+      {
+       "holder": "强势女王说",
+       "basis": "象征女性王权与战争。"
+      },
+      {
+       "holder": "负面角色说",
+       "basis": "作为库丘林叙事的对手。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "梅芙是《夺牛记》中康诺特的强势女王。",
+     "source": "pri-medb"
+    },
+    {
+     "claim": "梅芙为争夺名牛发动对 Ulster 的大战。",
+     "source": "pri-medb"
+    }
+   ]
+  },
+  {
+   "id": "fig-nuada",
+   "title": "努阿达",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "爱尔兰 Tuatha Dé Danann 的初代国王，'银臂'。",
+   "related": [
+    "myth-celtic",
+    "fig-dagda",
+    "myth-celtic"
+   ],
+   "sources": [
+    "pri-nuada",
+    "pri-lebor-gabala",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特材料多经中世纪基督教化后的记录，须区分文本层次；2) 具体读法与历史性待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "努阿达（Nuada Airgetlám，'银臂努阿达'）是爱尔兰神话中 Tuatha Dé Danann（达南神族）的初代国王：在第一次莫伊图拉战役中，他的手臂被砍断，因国王须身体无缺而让位；后经医神 Dian Cécht 以银臂替换，重获王位。努阿达代表正义王权与战争，其'银臂'母题象征残缺—修复—复位的王权叙事。努阿达与'Nuada'的词源可联系到不列颠的 Nodens（海与治愈之神），是凯尔特神话的重要比较点。",
+   "versions": [
+    "努阿达（Nuada Airgetlám，'银臂努阿达'）是爱尔兰神话中 Tuatha Dé Danann（达南神族）的初代国王：在第一次莫伊图拉战役中，他的手臂被砍断，因国王须身体无缺而让位；后经医神 Dian Cécht 以银臂替换，重获王位。努阿达代表正义王权与战争，其'银臂'母题象征残缺—修复—复位的王权叙事。努阿达与'Nuada'的词源可联系到不列颠的 Nodens（海与治愈之神），是凯尔特神话的重要比较点。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《莱博尔·加巴拉》",
+     "school": "核心文献",
+     "view": "记载努阿达的王权与银臂叙事。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "努阿达与印欧王权功能（第一功能）。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "区域研究",
+     "view": "强调努阿达与 Nodens 的词源关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nuada",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>努阿达形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>努阿达（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>银臂</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王权修复</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>达南神族</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>初代国王</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Nodens</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不列颠对应</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>努阿达要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "努阿达的银臂",
+     "views": [
+      {
+       "holder": "王权完整说",
+       "basis": "身体无缺方能为王。"
+      },
+      {
+       "holder": "修复复位说",
+       "basis": "银臂象征王权的恢复。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "努阿达是达南神族初代国王，以银臂著称。",
+     "source": "pri-nuada"
+    },
+    {
+     "claim": "努阿达与不列颠的 Nodens 有词源关联。",
+     "source": "pri-nuada"
+    }
+   ]
+  },
+  {
+   "id": "fig-ogma",
+   "title": "奥格玛",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "爱尔兰 Tuatha Dé Danann 的言语与文字之神。",
+   "related": [
+    "myth-celtic",
+    "fig-dagda",
+    "motif-name-magic"
+   ],
+   "sources": [
+    "pri-ogma",
+    "pri-lebor-gabala",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特材料多经中世纪基督教化后的记录，须区分文本层次；2) 具体读法与历史性待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "奥格玛（Ogma）是爱尔兰神话中 Tuatha Dé Danann 的言语、文字与雄辩之神，达格达（The Dagda）之兄：传说欧甘字母（Ogham，最早的书面爱尔兰语字母系统）以他命名或由他创制，象征文字与知识的神圣起源。奥格玛在战场上以勇武著称，同时是'言语的力量'（文字的魔力）的化身。他与高卢的 Ogmios（被描绘为以链条牵引人群的雄辩之神）相关，是凯尔特'文字—雄辩'神格的比较案例。",
+   "versions": [
+    "奥格玛（Ogma）是爱尔兰神话中 Tuatha Dé Danann 的言语、文字与雄辩之神，达格达（The Dagda）之兄：传说欧甘字母（Ogham，最早的书面爱尔兰语字母系统）以他命名或由他创制，象征文字与知识的神圣起源。奥格玛在战场上以勇武著称，同时是'言语的力量'（文字的魔力）的化身。他与高卢的 Ogmios（被描绘为以链条牵引人群的雄辩之神）相关，是凯尔特'文字—雄辩'神格的比较案例。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《莱博尔·加巴拉》",
+     "school": "核心文献",
+     "view": "记载奥格玛与欧甘字母的关联。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "奥格玛与言的语功能。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "区域研究",
+     "view": "强调奥格玛与 Ogmios 的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ogma",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奥格玛形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奥格玛（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>欧甘字母</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>文字起源</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>言语雄辩</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>知识神圣</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Ogmios</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>高卢对应</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥格玛要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "奥格玛的职能",
+     "views": [
+      {
+       "holder": "文字之神说",
+       "basis": "欧甘字母的创始者。"
+      },
+      {
+       "holder": "雄辩之神说",
+       "basis": "言语力量的化身。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "奥格玛是达南神族的言语与文字之神。",
+     "source": "pri-ogma"
+    },
+    {
+     "claim": "欧甘字母的起源传说与奥格玛相关。",
+     "source": "pri-ogma"
+    }
+   ]
+  },
+  {
+   "id": "fig-rhiannon",
+   "title": "里安农",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "威尔士《马比诺吉昂》中的女神/女王，马与鸟的母题。",
+   "related": [
+    "myth-celtic",
+    "fig-pwyll",
+    "motif-horse"
+   ],
+   "sources": [
+    "pri-rhiannon",
+    "pri-mabinogion",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特材料多经中世纪基督教化后的记录，须区分文本层次；2) 具体读法与历史性待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "里安农（Rhiannon）是威尔士《马比诺吉昂》第一篇（Pwyll）中的女神/女王：她以骑白马、无法被追上的形象出现，嫁给 Dyfed 的领主 Pwyll；后因失去儿子而遭诬陷，被罚背负马鞍在城门迎接客人（与马相关的屈辱）。里安农象征马、鸟（三只神鸟能唤醒死者与催眠）与女性的力量，其名字与不列颠的 Rigantona（'大王后'）相关，是凯尔特女神研究的重要对象。现代歌手 Fleetwood Mac 的歌曲《Rhiannon》亦以其为灵感。",
+   "versions": [
+    "里安农（Rhiannon）是威尔士《马比诺吉昂》第一篇（Pwyll）中的女神/女王：她以骑白马、无法被追上的形象出现，嫁给 Dyfed 的领主 Pwyll；后因失去儿子而遭诬陷，被罚背负马鞍在城门迎接客人（与马相关的屈辱）。里安农象征马、鸟（三只神鸟能唤醒死者与催眠）与女性的力量，其名字与不列颠的 Rigantona（'大王后'）相关，是凯尔特女神研究的重要对象。现代歌手 Fleetwood Mac 的歌曲《Rhiannon》亦以其为灵感。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《马比诺吉昂》",
+     "school": "核心文献",
+     "view": "里安农是 Pwyll 篇的核心人物。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "区域研究",
+     "view": "强调里安农与 Rigantona 的词源与女神属性。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "马与神鸟的母题可作象征参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-rhiannon",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>里安农形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>里安农（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>白马女王</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>马母题</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神鸟</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>唤醒死者</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Rigantona</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大王后</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>里安农要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "里安农的性质",
+     "views": [
+      {
+       "holder": "女神说",
+       "basis": "是具有神圣属性的女神。"
+      },
+      {
+       "holder": "女王说",
+       "basis": "是传说中的人间女王。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "里安农是威尔士《马比诺吉昂》中的女神/女王。",
+     "source": "pri-rhiannon"
+    },
+    {
+     "claim": "里安农与马、神鸟的母题相关，名字关联 Rigantona。",
+     "source": "pri-rhiannon"
+    }
+   ]
+  },
+  {
+   "id": "fig-arianrhod",
+   "title": "阿丽安萝",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "威尔士神话的女神，'银轮'与星辰城堡。",
+   "related": [
+    "myth-celtic",
+    "fig-pwyll",
+    "motif-sun"
+   ],
+   "sources": [
+    "pri-arianrhod",
+    "pri-mabinogion",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特材料多经中世纪基督教化后的记录，须区分文本层次；2) 具体读法与历史性待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "阿丽安萝（Arianrhod，'银轮'）是威尔士《马比诺吉昂》第四篇（Math）中的女神：她是 Dôn 之女，与'银轮'（Caer Arianrhod，银河/星辰的城堡）相关，象征星辰与天空；其子 Lleu Llaw Gyffes 是威尔士神话的重要英雄（由 Gwydion 抚养）。阿丽安萝的故事涉及 virginity 考验、命名与武装的诅咒，体现威尔士神话中女性—命运—星辰的交织。她是威尔士神话研究的重要形象。",
+   "versions": [
+    "阿丽安萝（Arianrhod，'银轮'）是威尔士《马比诺吉昂》第四篇（Math）中的女神：她是 Dôn 之女，与'银轮'（Caer Arianrhod，银河/星辰的城堡）相关，象征星辰与天空；其子 Lleu Llaw Gyffes 是威尔士神话的重要英雄（由 Gwydion 抚养）。阿丽安萝的故事涉及 virginity 考验、命名与武装的诅咒，体现威尔士神话中女性—命运—星辰的交织。她是威尔士神话研究的重要形象。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《马比诺吉昂》",
+     "school": "核心文献",
+     "view": "阿丽安萝是 Math 篇的核心女神。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "区域研究",
+     "view": "强调阿丽安萝与星辰/银河的关联。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "星辰女神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-arianrhod",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿丽安萝形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿丽安萝（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>银轮</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>星辰银河</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Lleu之母</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>威尔士英雄</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Dôn之女</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神族谱系</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿丽安萝要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿丽安萝的性质",
+     "views": [
+      {
+       "holder": "星辰女神说",
+       "basis": "象征星辰与天空。"
+      },
+      {
+       "holder": "命运女神说",
+       "basis": "涉及命名与武装的诅咒。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿丽安萝是威尔士神话中与星辰相关的女神。",
+     "source": "pri-arianrhod"
+    },
+    {
+     "claim": "阿丽安萝是英雄 Lleu Llaw Gyffes 的母亲。",
+     "source": "pri-arianrhod"
+    }
+   ]
+  },
+  {
+   "id": "fig-pwyll",
+   "title": "普伊尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "威尔士《马比诺吉昂》第一篇的主角，Dyfed 的领主。",
+   "related": [
+    "myth-celtic",
+    "fig-rhiannon",
+    "motif-underworld"
+   ],
+   "sources": [
+    "pri-pwyll",
+    "pri-mabinogion",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特材料多经中世纪基督教化后的记录，须区分文本层次；2) 具体读法与历史性待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "普伊尔（Pwyll）是威尔士《马比诺吉昂》第一篇（Pwyll Pendefig Dyfed）的主角，Dyfed 的领主：故事叙述他与冥界/异界之王 Arawn 交换身份一年（以智慧统治异界）、赢得里安农（Rhiannon）为妻、以及失子与复得的叙事。普伊尔象征'明智的统治者'（其名意为'审慎/智慧'）与异界—此界的交互，是威尔士神话中'正义领主'的原型，其故事与亚瑟传说圈相关联（其子 Pryderi 是亚瑟传说中的人物）。",
+   "versions": [
+    "普伊尔（Pwyll）是威尔士《马比诺吉昂》第一篇（Pwyll Pendefig Dyfed）的主角，Dyfed 的领主：故事叙述他与冥界/异界之王 Arawn 交换身份一年（以智慧统治异界）、赢得里安农（Rhiannon）为妻、以及失子与复得的叙事。普伊尔象征'明智的统治者'（其名意为'审慎/智慧'）与异界—此界的交互，是威尔士神话中'正义领主'的原型，其故事与亚瑟传说圈相关联（其子 Pryderi 是亚瑟传说中的人物）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《马比诺吉昂》",
+     "school": "核心文献",
+     "view": "普伊尔是该书第一篇故事的主角。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "区域研究",
+     "view": "强调普伊尔与异界交互的母题。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "异界交换身份可作英雄试炼母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-pwyll",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>普伊尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>普伊尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>明智领主</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Pwyll</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>异界交换</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Arawn</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>里安农之夫</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Pryderi之父</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>普伊尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "普伊尔的形象",
+     "views": [
+      {
+       "holder": "正义领主说",
+       "basis": "明智统治的典范。"
+      },
+      {
+       "holder": "异界中介说",
+       "basis": "此界与异界的交互者。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "普伊尔是《马比诺吉昂》第一篇的主角，Dyfed 领主。",
+     "source": "pri-pwyll"
+    },
+    {
+     "claim": "普伊尔与异界之王 Arawn 交换身份一年的叙事。",
+     "source": "pri-pwyll"
+    }
+   ]
   }
  ]
 }

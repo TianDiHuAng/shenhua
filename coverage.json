@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:28:26+08:00",
+  "generated": "2026-11-24T10:33:13+08:00",
   "summary": {
-    "total": 464,
+    "total": 470,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 209
+      "U4": 215
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 350
+      "补充": 356
     },
     "by_level": {
       "L1": 0,
-      "L2": 350,
+      "L2": 356,
       "L3": 114
     },
-    "l2_done": 464,
+    "l2_done": 470,
     "l3_done": 114,
-    "verified_sources": 347
+    "verified_sources": 353
   },
   "entries": [
     {
@@ -5119,6 +5119,72 @@
     {
       "id": "fig-ymir",
       "name": "伊米尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-medb",
+      "name": "梅芙",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-nuada",
+      "name": "努阿达",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ogma",
+      "name": "奥格玛",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-rhiannon",
+      "name": "里安农",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-arianrhod",
+      "name": "阿丽安萝",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-pwyll",
+      "name": "普伊尔",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

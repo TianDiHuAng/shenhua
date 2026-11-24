@@ -5108,6 +5108,84 @@
    "link_ok": true,
    "verified": true,
    "note": "伊米尔（Ymir）是北欧的原初巨人，世界由其身体造化而成；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-medb",
+   "title": "梅芙文献（《夺牛记》）",
+   "author": "佚名（爱尔兰）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Medb",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "梅芙（Medb）是爱尔兰 Ulster 循环中的康诺特女王，《夺牛记》的核心人物；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nuada",
+   "title": "努阿达文献（爱尔兰神话）",
+   "author": "佚名（爱尔兰）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nuada_Airgetl%C3%A1m",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "努阿达（Nuada Airgetlám，'银臂'）是爱尔兰 Tuatha Dé Danann 的初代国王；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ogma",
+   "title": "奥格玛文献（爱尔兰神话）",
+   "author": "佚名（爱尔兰）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ogma",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "奥格玛（Ogma）是爱尔兰 Tuatha Dé Danann 的言语与文字之神，欧甘字母（Ogham）的传说创始者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-rhiannon",
+   "title": "里安农文献（《马比诺吉昂》）",
+   "author": "佚名（威尔士）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Rhiannon",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "里安农（Rhiannon）是威尔士《马比诺吉昂》中的女神/女王，与马和鸟的母题相关；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-arianrhod",
+   "title": "阿丽安萝文献（《马比诺吉昂》）",
+   "author": "佚名（威尔士）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Arianrhod",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿丽安萝（Arianrhod）是威尔士神话的女神，'银轮'（Arianrhod 意为银轮）与星辰、城堡相关；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-pwyll",
+   "title": "普伊尔文献（《马比诺吉昂》）",
+   "author": "佚名（威尔士）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Pwyll",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "普伊尔（Pwyll）是威尔士《马比诺吉昂》第一篇故事的主角，Dyfed 的领主；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
