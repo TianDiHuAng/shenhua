@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 302,
-    "total": 416,
+    "supplement_l2": 308,
+    "total": 422,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/416）；补充层 302 条 L2；来源 345 条"
+    "verdict": "核心与重要层 100% L3（114/422）；补充层 308 条 L2；来源 351 条"
   },
   "round_log": [
     {
@@ -1029,6 +1029,18 @@
       "new_gaps_found": 6,
       "gap_detail": "体检F：416条全通过（零重复/零失效引用）；批次44：新增6仪式母题（圣乐/熏香/钟/预言/神迹/净化）U3达66；6来源核验；check 0 errors",
       "verdict": "正常扩充（批次44，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-87",
+      "date": "2026-11-24",
+      "methods_run": [
+        "D15三重查重",
+        "联网来源核验",
+        "scope6列格式"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次45：新增6宗教概念母题（祖先崇拜/灵魂/禁忌/图腾/巫术/占卜）U3达72；6来源核验；422条0 errors",
+      "verdict": "正常扩充（批次45，6条）"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-23T18:19:18+08:00",
+  "generated": "2026-11-24T09:54:03+08:00",
   "summary": {
-    "total": 416,
+    "total": 422,
     "by_unit": {
       "U1": 90,
       "U2": 75,
-      "U3": 66,
+      "U3": 72,
       "U4": 185
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 302
+      "补充": 308
     },
     "by_level": {
       "L1": 0,
-      "L2": 302,
+      "L2": 308,
       "L3": 114
     },
-    "l2_done": 416,
+    "l2_done": 422,
     "l3_done": 114,
-    "verified_sources": 299
+    "verified_sources": 305
   },
   "entries": [
     {
@@ -32,7 +32,7 @@
       "status": "done",
       "sources_count": 15,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-norse",
@@ -43,7 +43,7 @@
       "status": "done",
       "sources_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-egyptian",
@@ -54,7 +54,7 @@
       "status": "done",
       "sources_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-mesopotamian",
@@ -65,7 +65,7 @@
       "status": "done",
       "sources_count": 7,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-chinese",
@@ -76,7 +76,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-hindu",
@@ -87,7 +87,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-japanese",
@@ -98,7 +98,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-maya",
@@ -109,7 +109,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-aztec",
@@ -120,7 +120,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-celtic",
@@ -131,7 +131,7 @@
       "status": "done",
       "sources_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-roman",
@@ -142,7 +142,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-sumerian",
@@ -153,7 +153,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-akkadian",
@@ -164,7 +164,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-persian",
@@ -175,7 +175,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-finnish",
@@ -186,7 +186,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-slavic",
@@ -197,7 +197,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-hittite",
@@ -208,7 +208,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-yoruba",
@@ -219,7 +219,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-dogon",
@@ -230,7 +230,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-polynesian",
@@ -241,7 +241,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-australian",
@@ -252,7 +252,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-inca",
@@ -263,7 +263,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-olmec",
@@ -274,7 +274,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-canaanite",
@@ -285,7 +285,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-etruscan",
@@ -296,7 +296,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-phoenician",
@@ -307,7 +307,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-thracian",
@@ -318,7 +318,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-turkic",
@@ -329,7 +329,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-ugric",
@@ -340,7 +340,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-korean",
@@ -351,7 +351,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-vietnamese",
@@ -362,7 +362,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-basque",
@@ -373,7 +373,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-lithuanian",
@@ -384,7 +384,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-georgian",
@@ -395,7 +395,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-armenian",
@@ -406,7 +406,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-maori",
@@ -417,7 +417,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-micronesian",
@@ -428,7 +428,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-plains-native",
@@ -439,7 +439,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-northwest-native",
@@ -450,7 +450,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-siberian",
@@ -461,7 +461,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-dravidian",
@@ -472,7 +472,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-berber",
@@ -483,7 +483,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-inuit",
@@ -494,7 +494,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-ainu",
@@ -505,7 +505,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-tupi-guarani",
@@ -516,7 +516,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-mongolian",
@@ -527,7 +527,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-tibetan",
@@ -538,7 +538,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-sami",
@@ -549,7 +549,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-philippine",
@@ -560,7 +560,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-thai",
@@ -571,7 +571,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-nubian",
@@ -582,7 +582,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-javanese",
@@ -593,7 +593,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-malagasy",
@@ -604,7 +604,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-bantu",
@@ -615,7 +615,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-sardinian",
@@ -626,7 +626,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-guanche",
@@ -637,7 +637,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-papuan",
@@ -648,7 +648,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-navajo",
@@ -659,7 +659,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-iroquois",
@@ -670,7 +670,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-cherokee",
@@ -681,7 +681,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-zulu",
@@ -692,7 +692,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-scythian",
@@ -703,7 +703,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-hawaiian",
@@ -714,7 +714,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-tahitian",
@@ -725,7 +725,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-baltic",
@@ -736,7 +736,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-hopi",
@@ -747,7 +747,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-lakota",
@@ -758,7 +758,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-ashanti",
@@ -769,7 +769,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-hausa",
@@ -780,7 +780,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-ugaritic",
@@ -791,7 +791,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-estonian",
@@ -802,7 +802,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-burmese",
@@ -813,7 +813,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-fijian",
@@ -824,7 +824,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-balinese",
@@ -835,7 +835,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-bengali",
@@ -846,7 +846,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-albanian",
@@ -857,7 +857,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-azerbaijani",
@@ -868,7 +868,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-batak",
@@ -879,7 +879,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-cook-islands",
@@ -890,7 +890,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-blackfoot",
@@ -901,7 +901,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-efik",
@@ -912,7 +912,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-ojibwe",
@@ -923,7 +923,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-samoan",
@@ -934,7 +934,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-tongan",
@@ -945,7 +945,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-dayak",
@@ -956,7 +956,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-lao",
@@ -967,7 +967,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-igbo",
@@ -978,7 +978,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-maasai",
@@ -989,7 +989,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-dahomey",
@@ -1000,7 +1000,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "myth-luba",
@@ -1011,7 +1011,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-christianity",
@@ -1022,7 +1022,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-islam",
@@ -1033,7 +1033,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-judaism",
@@ -1044,7 +1044,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-buddhism",
@@ -1055,7 +1055,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-hinduism",
@@ -1066,7 +1066,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-taoism",
@@ -1077,7 +1077,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-confucianism",
@@ -1088,7 +1088,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-shinto",
@@ -1099,7 +1099,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-jainism",
@@ -1110,7 +1110,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-sikhism",
@@ -1121,7 +1121,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-zoroastrianism",
@@ -1132,7 +1132,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-shamanism",
@@ -1143,7 +1143,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-manichaeism",
@@ -1154,7 +1154,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-bahai",
@@ -1165,7 +1165,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-mormonism",
@@ -1176,7 +1176,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-tibetan-buddhism",
@@ -1187,7 +1187,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-zen",
@@ -1198,7 +1198,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-pureland",
@@ -1209,7 +1209,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-caodai",
@@ -1220,7 +1220,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-tenrikyo",
@@ -1231,7 +1231,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-yiguandao",
@@ -1242,7 +1242,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-vaishnavism",
@@ -1253,7 +1253,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-shaivism",
@@ -1264,7 +1264,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-tantrism",
@@ -1275,7 +1275,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-ancient-egyptian",
@@ -1286,7 +1286,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-ancient-greek",
@@ -1297,7 +1297,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-druze",
@@ -1308,7 +1308,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-yazidism",
@@ -1319,7 +1319,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-mandaeism",
@@ -1330,7 +1330,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-sufism",
@@ -1341,7 +1341,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-rastafari",
@@ -1352,7 +1352,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-catholicism",
@@ -1363,7 +1363,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-orthodoxy",
@@ -1374,7 +1374,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-protestantism",
@@ -1385,7 +1385,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-quaker",
@@ -1396,7 +1396,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-methodism",
@@ -1407,7 +1407,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-hasidism",
@@ -1418,7 +1418,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-assyrian-church",
@@ -1429,7 +1429,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-coptic-orthodoxy",
@@ -1440,7 +1440,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-alevi",
@@ -1451,7 +1451,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-santeria",
@@ -1462,7 +1462,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-vodou",
@@ -1473,7 +1473,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-candomble",
@@ -1484,7 +1484,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-samaritan",
@@ -1495,7 +1495,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-karaite",
@@ -1506,7 +1506,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-cathar",
@@ -1517,7 +1517,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-wicca",
@@ -1528,7 +1528,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-lutheran",
@@ -1539,7 +1539,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-anglican",
@@ -1550,7 +1550,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-druidry",
@@ -1561,7 +1561,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-heathenry",
@@ -1572,7 +1572,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-hussite",
@@ -1583,7 +1583,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-unitarian",
@@ -1594,7 +1594,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-hellenism",
@@ -1605,7 +1605,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-kemeticism",
@@ -1616,7 +1616,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-shenism",
@@ -1627,7 +1627,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-creation",
@@ -1638,7 +1638,7 @@
       "status": "done",
       "sources_count": 11,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-flood",
@@ -1649,7 +1649,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-underworld",
@@ -1660,7 +1660,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-herojourney",
@@ -1671,7 +1671,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-sun",
@@ -1682,7 +1682,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-mother-goddess",
@@ -1693,7 +1693,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-dragon",
@@ -1704,7 +1704,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-worldtree",
@@ -1715,7 +1715,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-eschatology",
@@ -1726,7 +1726,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-trickster",
@@ -1737,7 +1737,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-twin",
@@ -1748,7 +1748,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-sacrifice",
@@ -1759,7 +1759,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-scapegoat",
@@ -1770,7 +1770,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-culturehero",
@@ -1781,7 +1781,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-moon",
@@ -1792,7 +1792,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-quest",
@@ -1803,7 +1803,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-labyrinth",
@@ -1814,7 +1814,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-phoenix",
@@ -1825,7 +1825,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-skyfather",
@@ -1836,7 +1836,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-cosmicegg",
@@ -1847,7 +1847,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-myth-vs-religion",
@@ -1858,7 +1858,7 @@
       "status": "done",
       "sources_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-golden-age",
@@ -1869,7 +1869,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-rainbow-serpent",
@@ -1880,7 +1880,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-eternal-return",
@@ -1891,7 +1891,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-hierogamy",
@@ -1902,7 +1902,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-cosmic-combat",
@@ -1913,7 +1913,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-wild-hunt",
@@ -1924,7 +1924,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-shapeshifting",
@@ -1935,7 +1935,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-dreamtime",
@@ -1946,7 +1946,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-tree-of-life",
@@ -1957,7 +1957,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-axis-mundi",
@@ -1968,7 +1968,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-mystery-cult",
@@ -1979,7 +1979,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-world-parents",
@@ -1990,7 +1990,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-divine-weapon",
@@ -2001,7 +2001,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-first-man",
@@ -2012,7 +2012,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-name-magic",
@@ -2023,7 +2023,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-ahmadiyya",
@@ -2034,7 +2034,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-ismaili",
@@ -2045,7 +2045,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-zaydi",
@@ -2056,7 +2056,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-ibadi",
@@ -2067,7 +2067,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-pentecostal",
@@ -2078,7 +2078,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-jehovah",
@@ -2089,7 +2089,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-adventist",
@@ -2100,7 +2100,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-dying-rising",
@@ -2111,7 +2111,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-creation-ex-nihilo",
@@ -2122,7 +2122,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-divine-twins",
@@ -2133,7 +2133,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-sky-earth",
@@ -2144,7 +2144,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-rain-thunder",
@@ -2155,7 +2155,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-paradise",
@@ -2166,7 +2166,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-theravada",
@@ -2177,7 +2177,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-tendai",
@@ -2188,7 +2188,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-shingon",
@@ -2199,7 +2199,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-nichiren",
@@ -2210,7 +2210,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-reformed",
@@ -2221,7 +2221,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-presbyterian",
@@ -2232,7 +2232,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-pharisees",
@@ -2243,7 +2243,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-sadducees",
@@ -2254,7 +2254,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-essenes",
@@ -2265,7 +2265,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-reform-judaism",
@@ -2276,7 +2276,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-conservative-judaism",
@@ -2287,7 +2287,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rel-yarsanism",
@@ -2298,7 +2298,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-fire",
@@ -2309,7 +2309,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-water",
@@ -2320,7 +2320,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-cattle",
@@ -2331,7 +2331,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-horse",
@@ -2342,7 +2342,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-serpent",
@@ -2353,7 +2353,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-bird",
@@ -2364,7 +2364,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-hunt",
@@ -2375,7 +2375,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-agriculture",
@@ -2386,7 +2386,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-metal",
@@ -2397,7 +2397,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-weaving",
@@ -2408,7 +2408,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-mirror",
@@ -2419,7 +2419,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-mountain",
@@ -2430,7 +2430,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-initiation",
@@ -2441,7 +2441,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-pilgrimage",
@@ -2452,7 +2452,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-fasting",
@@ -2463,7 +2463,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-sabbath",
@@ -2474,7 +2474,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-masks",
@@ -2485,7 +2485,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-prayer",
@@ -2496,7 +2496,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-music",
@@ -2507,7 +2507,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-incense",
@@ -2518,7 +2518,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-bells",
@@ -2529,7 +2529,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-prophecy",
@@ -2540,7 +2540,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-miracles",
@@ -2551,7 +2551,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "motif-purification",
@@ -2562,7 +2562,73 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-ancestor",
+      "name": "祖先崇拜",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-soul",
+      "name": "灵魂",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-taboo",
+      "name": "禁忌",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-totem",
+      "name": "图腾",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-magic",
+      "name": "巫术与魔法",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-divination",
+      "name": "占卜",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-zeus",
@@ -2573,7 +2639,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-odin",
@@ -2584,7 +2650,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ra",
@@ -2595,7 +2661,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-pangu",
@@ -2606,7 +2672,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-nuwa",
@@ -2617,7 +2683,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-buddha",
@@ -2628,7 +2694,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-jesus",
@@ -2639,7 +2705,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-muhammad",
@@ -2650,7 +2716,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-moses",
@@ -2661,7 +2727,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-vishnu",
@@ -2672,7 +2738,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-shiva",
@@ -2683,7 +2749,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-indra",
@@ -2694,7 +2760,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hera",
@@ -2705,7 +2771,7 @@
       "status": "done",
       "sources_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-athena",
@@ -2716,7 +2782,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-apollo",
@@ -2727,7 +2793,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hades",
@@ -2738,7 +2804,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-thor",
@@ -2749,7 +2815,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-loki",
@@ -2760,7 +2826,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-osiris",
@@ -2771,7 +2837,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-anubis",
@@ -2782,7 +2848,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-gilgamesh",
@@ -2793,7 +2859,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-inanna",
@@ -2804,7 +2870,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-fuxi",
@@ -2815,7 +2881,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-sun-wukong",
@@ -2826,7 +2892,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-quetzalcoatl",
@@ -2837,7 +2903,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-mictlantecuhtli",
@@ -2848,7 +2914,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-amaterasu",
@@ -2859,7 +2925,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-susanoo",
@@ -2870,7 +2936,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-dagda",
@@ -2881,7 +2947,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-cu-chulainn",
@@ -2892,7 +2958,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-isis",
@@ -2903,7 +2969,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-poseidon",
@@ -2914,7 +2980,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-aphrodite",
@@ -2925,7 +2991,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-dionysus",
@@ -2936,7 +3002,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-demeter",
@@ -2947,7 +3013,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ares",
@@ -2958,7 +3024,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hephaestus",
@@ -2969,7 +3035,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hermes",
@@ -2980,7 +3046,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-persephone",
@@ -2991,7 +3057,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-horus",
@@ -3002,7 +3068,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-set",
@@ -3013,7 +3079,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-izanami",
@@ -3024,7 +3090,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-cronus",
@@ -3035,7 +3101,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-uranus",
@@ -3046,7 +3112,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-gaia",
@@ -3057,7 +3123,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-marduk",
@@ -3068,7 +3134,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-thoth",
@@ -3079,7 +3145,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-lugh",
@@ -3090,7 +3156,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hestia",
@@ -3101,7 +3167,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-helios",
@@ -3112,7 +3178,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-janus",
@@ -3123,7 +3189,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-perun",
@@ -3134,7 +3200,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-brigid",
@@ -3145,7 +3211,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-enki",
@@ -3156,7 +3222,7 @@
       "status": "done",
       "sources_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-bastet",
@@ -3167,7 +3233,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-prometheus",
@@ -3178,7 +3244,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-medusa",
@@ -3189,7 +3255,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-atalanta",
@@ -3200,7 +3266,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-thetis",
@@ -3211,7 +3277,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hecate",
@@ -3222,7 +3288,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-aeneas",
@@ -3233,7 +3299,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-romulus",
@@ -3244,7 +3310,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-tiamat",
@@ -3255,7 +3321,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ptah",
@@ -3266,7 +3332,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-enkidu",
@@ -3277,7 +3343,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-atrahasis",
@@ -3288,7 +3354,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-utnapishtim",
@@ -3299,7 +3365,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-sekhmet",
@@ -3310,7 +3376,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hathor",
@@ -3321,7 +3387,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-amun",
@@ -3332,7 +3398,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-neith",
@@ -3343,7 +3409,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-viracocha",
@@ -3354,7 +3420,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-oduduwa",
@@ -3365,7 +3431,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-shango",
@@ -3376,7 +3442,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-enlil",
@@ -3387,7 +3453,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-dumuzid",
@@ -3398,7 +3464,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ninurta",
@@ -3409,7 +3475,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-shamash",
@@ -3420,7 +3486,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-nephthys",
@@ -3431,7 +3497,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ashur",
@@ -3442,7 +3508,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-nabu",
@@ -3453,7 +3519,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hadad",
@@ -3464,7 +3530,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-apep",
@@ -3475,7 +3541,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-baal",
@@ -3486,7 +3552,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-anat",
@@ -3497,7 +3563,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-artemis",
@@ -3508,7 +3574,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-nike",
@@ -3519,7 +3585,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-eros",
@@ -3530,7 +3596,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-vesta",
@@ -3541,7 +3607,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ceres",
@@ -3552,7 +3618,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-freyr",
@@ -3563,7 +3629,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-freya",
@@ -3574,7 +3640,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-baldr",
@@ -3585,7 +3651,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hel",
@@ -3596,7 +3662,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-fenrir",
@@ -3607,7 +3673,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-tyr",
@@ -3618,7 +3684,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-jormungandr",
@@ -3629,7 +3695,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-valkyrie",
@@ -3640,7 +3706,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-fionn",
@@ -3651,7 +3717,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-arthur",
@@ -3662,7 +3728,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-morrigan",
@@ -3673,7 +3739,7 @@
       "status": "done",
       "sources_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-kali",
@@ -3684,7 +3750,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-durga",
@@ -3695,7 +3761,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-lakshmi",
@@ -3706,7 +3772,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-saraswati",
@@ -3717,7 +3783,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ganesha",
@@ -3728,7 +3794,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hanuman",
@@ -3739,7 +3805,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-rama",
@@ -3750,7 +3816,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-krishna",
@@ -3761,7 +3827,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ravana",
@@ -3772,7 +3838,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-brahma",
@@ -3783,7 +3849,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-surya",
@@ -3794,7 +3860,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-yama",
@@ -3805,7 +3871,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-avalokiteshvara",
@@ -3816,7 +3882,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-manjushri",
@@ -3827,7 +3893,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-tara",
@@ -3838,7 +3904,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-maitreya",
@@ -3849,7 +3915,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-amitabha",
@@ -3860,7 +3926,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-kshitigarbha",
@@ -3871,7 +3937,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-laozi",
@@ -3882,7 +3948,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-zhuangzi",
@@ -3893,7 +3959,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-confucius",
@@ -3904,7 +3970,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-xwangmu",
@@ -3915,7 +3981,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-yuhuang",
@@ -3926,7 +3992,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-mazu",
@@ -3937,7 +4003,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-tsukuyomi",
@@ -3948,7 +4014,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-izanagi",
@@ -3959,7 +4025,7 @@
       "status": "done",
       "sources_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-inari",
@@ -3970,7 +4036,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-hachiman",
@@ -3981,7 +4047,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-tenjin",
@@ -3992,7 +4058,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-kitsune",
@@ -4003,7 +4069,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-abraham",
@@ -4014,7 +4080,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-isaac",
@@ -4025,7 +4091,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-jacob",
@@ -4036,7 +4102,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-noah",
@@ -4047,7 +4113,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-david",
@@ -4058,7 +4124,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-solomon",
@@ -4069,7 +4135,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ali",
@@ -4080,7 +4146,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-fatima",
@@ -4091,7 +4157,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-husayn",
@@ -4102,7 +4168,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-abu-bakr",
@@ -4113,7 +4179,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-omar",
@@ -4124,7 +4190,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-rumi",
@@ -4135,7 +4201,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-al-ghazali",
@@ -4146,7 +4212,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ibn-arabi",
@@ -4157,7 +4223,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ibn-sina",
@@ -4168,7 +4234,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-al-farabi",
@@ -4179,7 +4245,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ibn-khaldun",
@@ -4190,7 +4256,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-averroes",
@@ -4201,7 +4267,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-patanjali",
@@ -4212,7 +4278,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-shankara",
@@ -4223,7 +4289,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ramanuja",
@@ -4234,7 +4300,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-chaitanya",
@@ -4245,7 +4311,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-ramakrishna",
@@ -4256,7 +4322,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-vivekananda",
@@ -4267,7 +4333,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-mencius",
@@ -4278,7 +4344,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-xunzi",
@@ -4289,7 +4355,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-mozi",
@@ -4300,7 +4366,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-han-feizi",
@@ -4311,7 +4377,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-zhu-xi",
@@ -4322,7 +4388,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-wang-yangming",
@@ -4333,7 +4399,7 @@
       "status": "done",
       "sources_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-zhou-dunyi",
@@ -4344,7 +4410,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-zhang-zai",
@@ -4355,7 +4421,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-cheng-yi",
@@ -4366,7 +4432,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-lu-jiuyuan",
@@ -4377,7 +4443,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-dogen",
@@ -4388,7 +4454,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-honen",
@@ -4399,7 +4465,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-maimonides",
@@ -4410,7 +4476,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-rashi",
@@ -4421,7 +4487,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-aquinas",
@@ -4432,7 +4498,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-augustine",
@@ -4443,7 +4509,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-barth",
@@ -4454,7 +4520,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-bonhoeffer",
@@ -4465,7 +4531,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-kierkegaard",
@@ -4476,7 +4542,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-nietzsche",
@@ -4487,7 +4553,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-feuerbach",
@@ -4498,7 +4564,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-schleiermacher",
@@ -4509,7 +4575,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-tillich",
@@ -4520,7 +4586,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-cs-lewis",
@@ -4531,7 +4597,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-socrates",
@@ -4542,7 +4608,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-plato",
@@ -4553,7 +4619,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-aristotle",
@@ -4564,7 +4630,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-plotinus",
@@ -4575,7 +4641,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-epictetus",
@@ -4586,7 +4652,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "fig-seneca",
@@ -4597,7 +4663,7 @@
       "status": "done",
       "sources_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     }
   ],
   "matrix": {

@@ -4484,6 +4484,84 @@
    "link_ok": true,
    "verified": true,
    "note": "作为净化母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在（Purification ritual）。"
+  },
+  {
+   "id": "enc-wiki-ancestor",
+   "title": "Wikipedia: Veneration of the dead",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Veneration_of_the_dead",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为祖先崇拜母题的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-soul",
+   "title": "Wikipedia: Soul",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Soul",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为灵魂概念的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-taboo",
+   "title": "Wikipedia: Taboo",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Taboo",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为禁忌概念的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-totem",
+   "title": "Wikipedia: Totem",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Totem",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为图腾概念的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-magic",
+   "title": "Wikipedia: Magic (supernatural)",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Magic_(supernatural)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为巫术概念的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-divination",
+   "title": "Wikipedia: Divination",
+   "author": "Wikipedia",
+   "year": null,
+   "year_display": "在线百科",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Divination",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "作为占卜概念的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
