@@ -25508,6 +25508,456 @@
      "source": "pri-epona"
     }
    ]
+  },
+  {
+   "id": "fig-raijin",
+   "title": "雷神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本神话的雷神，常与风神成对。",
+   "related": [
+    "myth-japanese",
+    "fig-fujin",
+    "motif-rain-thunder"
+   ],
+   "sources": [
+    "pri-raijin",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本妖怪/神祇材料多经后世说唱、绘卷与民俗记录，形象演变大；2) 佛教/神道/民间层次须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "雷神（Raijin，雷神/雷公）是日本神话的雷神：他司掌雷电、风雨，形象为围绕连鼓（太鼓）的鬼形神，象征雷的轰鸣与天界的威能；他常与风神（Fūjin）成对出现（著名的'风神雷神图屏风'，如俵屋宗达之作）。雷神信仰融合了日本神道、佛教（如三十三天的雷神）与民间传说，在日本艺术中是极常见的题材。雷神与风神一同象征自然力量的神圣威慑。",
+   "versions": [
+    "雷神（Raijin，雷神/雷公）是日本神话的雷神：他司掌雷电、风雨，形象为围绕连鼓（太鼓）的鬼形神，象征雷的轰鸣与天界的威能；他常与风神（Fūjin）成对出现（著名的'风神雷神图屏风'，如俵屋宗达之作）。雷神信仰融合了日本神道、佛教（如三十三天的雷神）与民间传说，在日本艺术中是极常见的题材。雷神与风神一同象征自然力量的神圣威慑。"
+   ],
+   "interpretations": [
+    {
+     "holder": "俵屋宗达",
+     "school": "艺术",
+     "view": "《风神雷神图屏风》是雷神—风神形象的经典。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "民俗学",
+     "view": "雷神信仰的神道/佛教融合。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "雷神与自然威慑可作参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-raijin",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>雷神示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>雷神（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>连鼓</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与风神成对</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>屏风艺术</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鬼形神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>自然威慑</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷神要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "雷神的形象",
+     "views": [
+      {
+       "holder": "雷神说",
+       "basis": "司掌雷电与风雨。"
+      },
+      {
+       "holder": "艺术母题说",
+       "basis": "风神雷神屏风的经典题材。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "雷神是日本神话的雷神，常与风神成对出现。",
+     "source": "pri-raijin"
+    },
+    {
+     "claim": "《风神雷神图屏风》是雷神—风神形象的经典艺术表现。",
+     "source": "pri-raijin"
+    }
+   ]
+  },
+  {
+   "id": "fig-fujin",
+   "title": "风神",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本神话的风神，与雷神成对。",
+   "related": [
+    "myth-japanese",
+    "fig-raijin",
+    "motif-rain-thunder"
+   ],
+   "sources": [
+    "pri-fujin",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本妖怪/神祇材料多经后世说唱、绘卷与民俗记录，形象演变大；2) 佛教/神道/民间层次须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "风神（Fūjin，风神）是日本神话的风神：他司掌风、大气，形象为肩扛大风袋（风袋）的鬼形神，象征风的吹拂与自然的力量；他常与雷神（Raijin）成对出现（'风神雷神图'）。风神信仰融合了日本神道（风之神）与佛教元素，在日本艺术（屏风、雕像）中与雷神共同构成经典的'自然力量'母题，象征风的滋养与破坏两面。",
+   "versions": [
+    "风神（Fūjin，风神）是日本神话的风神：他司掌风、大气，形象为肩扛大风袋（风袋）的鬼形神，象征风的吹拂与自然的力量；他常与雷神（Raijin）成对出现（'风神雷神图'）。风神信仰融合了日本神道（风之神）与佛教元素，在日本艺术（屏风、雕像）中与雷神共同构成经典的'自然力量'母题，象征风的滋养与破坏两面。"
+   ],
+   "interpretations": [
+    {
+     "holder": "俵屋宗达",
+     "school": "艺术",
+     "view": "《风神雷神图屏风》中风神的形象。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "民俗学",
+     "view": "风神信仰的融合。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "风神与自然力量可作参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-fujin",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>风神示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>风神（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>风神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>风袋</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与雷神成对</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>屏风艺术</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鬼形神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>自然力量</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>风神要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "风神的形象",
+     "views": [
+      {
+       "holder": "风神说",
+       "basis": "司掌风与大气。"
+      },
+      {
+       "holder": "艺术母题说",
+       "basis": "风神雷神屏风的经典题材。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "风神是日本神话的风神，常与雷神成对。",
+     "source": "pri-fujin"
+    },
+    {
+     "claim": "风神形象为肩扛风袋的鬼形神，象征风的力量。",
+     "source": "pri-fujin"
+    }
+   ]
+  },
+  {
+   "id": "fig-tengu",
+   "title": "天狗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本传说中的山岳妖怪/神，象征傲慢与山岳之力。",
+   "related": [
+    "myth-japanese",
+    "fig-oni",
+    "motif-mountain"
+   ],
+   "sources": [
+    "pri-tengu",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本妖怪/神祇材料多经后世说唱、绘卷与民俗记录，形象演变大；2) 佛教/神道/民间层次须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "天狗（Tengu）是日本传说中的山岳妖怪/神：其形象经历了从中国'天狗'（彗星/狗形）到日本'鸦天狗'（鸟翼、喙、持羽扇）与'鼻高天狗'（长鼻、红脸、山伏装束）的演变。天狗栖于深山，象征山岳之力、傲慢与超自然能力，常与修验道（山岳修行）相关；传说天狗会诱拐人、惩戒傲慢者。天狗是日本妖怪文化中最具代表性的形象之一，象征自然的神秘与人类傲慢的警示。",
+   "versions": [
+    "天狗（Tengu）是日本传说中的山岳妖怪/神：其形象经历了从中国'天狗'（彗星/狗形）到日本'鸦天狗'（鸟翼、喙、持羽扇）与'鼻高天狗'（长鼻、红脸、山伏装束）的演变。天狗栖于深山，象征山岳之力、傲慢与超自然能力，常与修验道（山岳修行）相关；传说天狗会诱拐人、惩戒傲慢者。天狗是日本妖怪文化中最具代表性的形象之一，象征自然的神秘与人类傲慢的警示。"
+   ],
+   "interpretations": [
+    {
+     "holder": "日本传说/修验道",
+     "school": "宗教",
+     "view": "天狗与山岳修行、傲慢惩戒。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "民俗学",
+     "view": "天狗形象的历时演变。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "山岳精灵可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tengu",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>天狗示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>天狗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>山岳妖怪</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>鸦天狗/鼻高天狗</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>傲慢惩戒</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>修验道</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>形象演变</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>中国→日本</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天狗要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "天狗的性质",
+     "views": [
+      {
+       "holder": "山岳精灵说",
+       "basis": "象征山岳之力与超自然。"
+      },
+      {
+       "holder": "傲慢警示说",
+       "basis": "惩戒傲慢者的妖怪。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "天狗是日本传说中的山岳妖怪/神，象征傲慢与山岳之力。",
+     "source": "pri-tengu"
+    },
+    {
+     "claim": "天狗形象从中国'天狗'演变为日本的鸦天狗与鼻高天狗。",
+     "source": "pri-tengu"
+    }
+   ]
+  },
+  {
+   "id": "fig-oni",
+   "title": "鬼",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本传说中的恶魔/妖怪，象征灾祸与惩罚。",
+   "related": [
+    "myth-japanese",
+    "fig-tengu",
+    "motif-underworld"
+   ],
+   "sources": [
+    "pri-oni",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本妖怪/神祇材料多经后世说唱、绘卷与民俗记录，形象演变大；2) 佛教/神道/民间层次须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "鬼（Oni）是日本传说中的恶魔/妖怪：其形象为长角、虎皮兜裆、手持铁棒（金棒）的巨鬼，象征灾祸、疾病、惩罚与冥界的使者。鬼源于中国'鬼'（亡魂）概念与日本本土的山精/疫神，在佛教地狱观中成为狱卒（如夺衣婆、狱卒鬼）。日本的节分（撒豆驱鬼）与'桃太郎'等传说都与鬼相关。鬼象征需要被驱除的灾祸，也常作为强大而可敬的对手出现。",
+   "versions": [
+    "鬼（Oni）是日本传说中的恶魔/妖怪：其形象为长角、虎皮兜裆、手持铁棒（金棒）的巨鬼，象征灾祸、疾病、惩罚与冥界的使者。鬼源于中国'鬼'（亡魂）概念与日本本土的山精/疫神，在佛教地狱观中成为狱卒（如夺衣婆、狱卒鬼）。日本的节分（撒豆驱鬼）与'桃太郎'等传说都与鬼相关。鬼象征需要被驱除的灾祸，也常作为强大而可敬的对手出现。"
+   ],
+   "interpretations": [
+    {
+     "holder": "日本传说/佛教",
+     "school": "宗教",
+     "view": "鬼与地狱、驱鬼习俗。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "民俗学",
+     "view": "鬼形象的由来与节分。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "恶魔与驱邪可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-oni",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>鬼示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>鬼（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>恶魔</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>角与虎皮</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>金棒</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>巨鬼形象</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>节分驱鬼</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>撒豆习俗</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鬼要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "鬼的形象",
+     "views": [
+      {
+       "holder": "灾祸恶魔说",
+       "basis": "象征疾病、灾祸与惩罚。"
+      },
+      {
+       "holder": "地狱狱卒说",
+       "basis": "佛教地狱中的鬼卒。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "鬼是日本传说中的恶魔/妖怪，长角、虎皮、手持金棒。",
+     "source": "pri-oni"
+    },
+    {
+     "claim": "日本的节分（撒豆驱鬼）与桃太郎等传说都与鬼相关。",
+     "source": "pri-oni"
+    }
+   ]
+  },
+  {
+   "id": "fig-yuki-onna",
+   "title": "雪女",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本传说中的雪之妖怪，象征冬夜的美丽与危险。",
+   "related": [
+    "myth-japanese",
+    "fig-tengu",
+    "motif-shapeshifting"
+   ],
+   "sources": [
+    "pri-yuki-onna",
+    "pri-tengu",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本妖怪/神祇材料多经后世说唱、绘卷与民俗记录，形象演变大；2) 佛教/神道/民间层次须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "雪女（Yuki-onna，'雪女'）是日本传说中的雪之妖怪：她以美丽女子的形象在雪夜出现，肌肤雪白、身着白衣，象征冬夜的美丽与致命危险——她可能冻死旅人、或与男子结缘后又消失。雪女是日本'雪国'（北国）民间传说的代表，小泉八云（Lafcadio Hearn）《怪谈》中的《雪女》使其广为流传。雪女象征自然的严酷与美丽、以及人与超自然之间危险的邂逅，是日本妖怪文化中'美丽妖怪'的典型。",
+   "versions": [
+    "雪女（Yuki-onna，'雪女'）是日本传说中的雪之妖怪：她以美丽女子的形象在雪夜出现，肌肤雪白、身着白衣，象征冬夜的美丽与致命危险——她可能冻死旅人、或与男子结缘后又消失。雪女是日本'雪国'（北国）民间传说的代表，小泉八云（Lafcadio Hearn）《怪谈》中的《雪女》使其广为流传。雪女象征自然的严酷与美丽、以及人与超自然之间危险的邂逅，是日本妖怪文化中'美丽妖怪'的典型。"
+   ],
+   "interpretations": [
+    {
+     "holder": "小泉八云《怪谈》",
+     "school": "文学",
+     "view": "《雪女》是最著名的雪女叙事。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "民俗学",
+     "view": "雪女与雪国民间传说。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "自然精灵与美丽危险可作参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yuki-onna",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>雪女示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>雪女（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雪之妖怪</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>白衣女子</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冻死旅人</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>致命美丽</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雪国民间</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>北国传说</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雪女要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "雪女的性质",
+     "views": [
+      {
+       "holder": "自然精灵说",
+       "basis": "象征冬夜的严酷与美丽。"
+      },
+      {
+       "holder": "美丽妖怪说",
+       "basis": "人与超自然危险邂逅的典型。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "雪女是日本传说中的雪之妖怪，以美丽女子形象在雪夜出现。",
+     "source": "pri-yuki-onna"
+    },
+    {
+     "claim": "小泉八云《怪谈》中的《雪女》使其广为流传。",
+     "source": "pri-yuki-onna"
+    }
+   ]
+  },
+  {
+   "id": "fig-kappa",
+   "title": "河童",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本传说中的水妖，栖于河川池沼。",
+   "related": [
+    "myth-japanese",
+    "fig-tengu",
+    "motif-water"
+   ],
+   "sources": [
+    "pri-kappa",
+    "pri-tengu",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本妖怪/神祇材料多经后世说唱、绘卷与民俗记录，形象演变大；2) 佛教/神道/民间层次须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "河童（Kappa，'川童'）是日本传说中的水妖：栖于河川、池沼与湖泊，形象为孩童大小、龟壳、蹼足、头顶碟（盛水，水干则无力），嗜黄瓜与相扑，传说会拉人下水（'河童拉人'）或掏取'尻子玉'。河童是日本'水'之妖怪的代表，象征水域的危险与丰饶；日本各地有众多河童传说与'河童祭'，河童也常作为地方吉祥物。河童信仰体现了日本民间对水（既滋养又危险）的敬畏。",
+   "versions": [
+    "河童（Kappa，'川童'）是日本传说中的水妖：栖于河川、池沼与湖泊，形象为孩童大小、龟壳、蹼足、头顶碟（盛水，水干则无力），嗜黄瓜与相扑，传说会拉人下水（'河童拉人'）或掏取'尻子玉'。河童是日本'水'之妖怪的代表，象征水域的危险与丰饶；日本各地有众多河童传说与'河童祭'，河童也常作为地方吉祥物。河童信仰体现了日本民间对水（既滋养又危险）的敬畏。"
+   ],
+   "interpretations": [
+    {
+     "holder": "日本传说",
+     "school": "宗教",
+     "view": "河童的水妖形象与传说。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "民俗学",
+     "view": "河童与水域信仰、地方吉祥物。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "水妖与水域的敬畏可作参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-kappa",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>河童示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>河童（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水妖</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>龟壳头顶碟</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉人下水</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>尻子玉</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地方吉祥物</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>河童祭</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>河童要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "河童的性质",
+     "views": [
+      {
+       "holder": "水域妖怪说",
+       "basis": "象征水的危险与丰饶。"
+      },
+      {
+       "holder": "民间吉祥说",
+       "basis": "地方传说与吉祥物。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "河童是日本传说中的水妖，栖于河川池沼，形象为龟壳水童。",
+     "source": "pri-kappa"
+    },
+    {
+     "claim": "河童传说体现日本民间对水（既滋养又危险）的敬畏。",
+     "source": "pri-kappa"
+    }
+   ]
   }
  ]
 }

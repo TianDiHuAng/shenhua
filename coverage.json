@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T13:41:31+08:00",
+  "generated": "2026-11-24T13:47:00+08:00",
   "summary": {
-    "total": 590,
+    "total": 596,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 78,
-      "U4": 329
+      "U4": 335
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 476
+      "补充": 482
     },
     "by_level": {
       "L1": 0,
-      "L2": 476,
+      "L2": 482,
       "L3": 114
     },
-    "l2_done": 590,
+    "l2_done": 596,
     "l3_done": 114,
-    "verified_sources": 473
+    "verified_sources": 479
   },
   "entries": [
     {
@@ -6505,6 +6505,72 @@
     {
       "id": "fig-epona",
       "name": "埃波娜",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-raijin",
+      "name": "雷神",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-fujin",
+      "name": "风神",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-tengu",
+      "name": "天狗",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-oni",
+      "name": "鬼",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-yuki-onna",
+      "name": "雪女",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-kappa",
+      "name": "河童",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

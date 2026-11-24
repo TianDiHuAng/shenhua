@@ -6746,6 +6746,84 @@
    "link_ok": true,
    "verified": true,
    "note": "埃波娜（Epona）是凯尔特（高卢）的马与马匹守护女神，后被罗马人接纳；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-raijin",
+   "title": "雷神文献（日本神道/佛教）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Raijin",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雷神（Raijin）是日本神话的雷神，常与风神成对出现（如风神雷神图屏风）；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-fujin",
+   "title": "风神文献（日本神道）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/F%C5%ABjin",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "风神（Fūjin）是日本神话的风神，与雷神成对；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tengu",
+   "title": "天狗文献（日本传说）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "中世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tengu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "天狗（Tengu）是日本传说中的山岳妖怪/神，具鸟翼或长鼻，象征傲慢与山岳之力；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-oni",
+   "title": "鬼文献（日本传说）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Oni",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "鬼（Oni）是日本传说中的恶魔/妖怪，具角与虎皮，象征灾祸与惩罚；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yuki-onna",
+   "title": "雪女文献（日本传说）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "室町—江户",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yuki-onna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雪女（Yuki-onna）是日本传说中的雪之妖怪，象征冬夜的美丽与危险；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-kappa",
+   "title": "河童文献（日本传说）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "中世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kappa_(folklore)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "河童（Kappa）是日本传说中的水妖，栖于河川池沼，形象为龟壳水童；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
