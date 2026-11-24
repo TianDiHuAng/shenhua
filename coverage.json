@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:42:11+08:00",
+  "generated": "2026-11-24T10:46:45+08:00",
   "summary": {
-    "total": 482,
+    "total": 488,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 227
+      "U4": 233
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 368
+      "补充": 374
     },
     "by_level": {
       "L1": 0,
-      "L2": 368,
+      "L2": 374,
       "L3": 114
     },
-    "l2_done": 482,
+    "l2_done": 488,
     "l3_done": 114,
-    "verified_sources": 365
+    "verified_sources": 371
   },
   "entries": [
     {
@@ -5317,6 +5317,72 @@
     {
       "id": "fig-sita",
       "name": "悉多",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-okuninushi",
+      "name": "大国主",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ninigi",
+      "name": "琼琼杵尊",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-konohanasakuya",
+      "name": "木花咲耶姬",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-toyotama",
+      "name": "丰玉姬",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-yamato-takeru",
+      "name": "日本武尊",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-takemikazuchi",
+      "name": "建御雷",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

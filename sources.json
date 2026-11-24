@@ -5342,6 +5342,84 @@
    "link_ok": true,
    "verified": true,
    "note": "悉多是《罗摩衍那》中罗摩之妻，被罗波那劫走，象征贞洁与坚忍；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-okuninushi",
+   "title": "大国主文献（《古事记》《出云国风土记》）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/%C5%8Ckuninushi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "大国主（Ōkuninushi）是日本神话的出云系主神，'国造'之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ninigi",
+   "title": "琼琼杵尊文献（《古事记》）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ninigi-no-Mikoto",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "琼琼杵尊（Ninigi）是日本神话中天孙降临、受命统治苇原中国之神的皇祖；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-konohanasakuya",
+   "title": "木花咲耶姬文献（《古事记》）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Konohanasakuya-hime",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "木花咲耶姬（Konohanasakuya-hime）是日本神话的樱花女神，富士山之神，琼琼杵尊之妻；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-toyotama",
+   "title": "丰玉姬文献（《古事记》）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Toyotama-hime",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "丰玉姬（Toyotama-hime）是日本神话的海神之女，火远理命之妻，神武天皇之曾祖母；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yamato-takeru",
+   "title": "日本武尊文献（《古事记》《日本书纪》）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yamato_Takeru",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "日本武尊（Yamato Takeru）是日本神话—传说中的英雄王子，以征讨东国著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-takemikazuchi",
+   "title": "建御雷文献（《古事记》）",
+   "author": "佚名（日本）",
+   "year": null,
+   "year_display": "8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Takemikazuchi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "建御雷（Takemikazuchi）是日本神话的雷与剑之神，'国让'（让国）的武力执行者；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

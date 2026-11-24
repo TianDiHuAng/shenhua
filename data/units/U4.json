@@ -17863,6 +17863,455 @@
      "source": "pri-sita"
     }
    ]
+  },
+  {
+   "id": "fig-okuninushi",
+   "title": "大国主",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "日本神话的出云系主神，'国造'之神。",
+   "related": [
+    "myth-japanese",
+    "fig-amaterasu"
+   ],
+   "sources": [
+    "pri-okuninushi",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本神话材料多经8世纪《古事记》《日本书纪》编纂，文本层次须区分；2) 神格与皇统叙事交织，历史性待核对；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "大国主（Ōkuninushi，'大国主神'）是日本神话的出云系（Izumo）主神，'国造'（国土创造）之神：叙事中他历经兄弟（八十神）的迫害与死亡—复活的考验（因幡白兔、根之坚州国），后与少彦名（Sukunabikona）合作经营国土，最终将国土'让'（国让，kuniyuzuri）给天照大神的天孙，换取出云大社的崇奉。大国主是出云大社的主祭神，象征国土经营、医疗与幽冥（'幽世'）的支配，与天照系（高天原）形成对照。",
+   "versions": [
+    "大国主（Ōkuninushi，'大国主神'）是日本神话的出云系（Izumo）主神，'国造'（国土创造）之神：叙事中他历经兄弟（八十神）的迫害与死亡—复活的考验（因幡白兔、根之坚州国），后与少彦名（Sukunabikona）合作经营国土，最终将国土'让'（国让，kuniyuzuri）给天照大神的天孙，换取出云大社的崇奉。大国主是出云大社的主祭神，象征国土经营、医疗与幽冥（'幽世'）的支配，与天照系（高天原）形成对照。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《古事记》/《日本书纪》",
+     "school": "文本来源",
+     "view": "记载大国主的神话与国让叙事。"
+    },
+    {
+     "holder": "本居宣长",
+     "school": "国学研究",
+     "view": "强调出云神话的本土性（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "幽冥之主与国土经营可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-okuninushi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>大国主形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>大国主（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>出云主神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>国造</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>国让</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>让国给天孙</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>因幡白兔</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>考验叙事</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大国主要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经《记纪》记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "大国主的地位",
+     "views": [
+      {
+       "holder": "出云系主神说",
+       "basis": "出云神话的中心神。"
+      },
+      {
+       "holder": "让国者说",
+       "basis": "和平让国以换取崇奉。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "大国主是日本出云系主神，'国造'之神。",
+     "source": "pri-okuninushi"
+    },
+    {
+     "claim": "大国主将国土'让'给天孙，换取出云大社的崇奉。",
+     "source": "pri-okuninushi"
+    }
+   ]
+  },
+  {
+   "id": "fig-ninigi",
+   "title": "琼琼杵尊",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "日本神话的天孙，受命统治苇原中国之神。",
+   "related": [
+    "myth-japanese",
+    "fig-amaterasu",
+    "fig-konohanasakuya"
+   ],
+   "sources": [
+    "pri-ninigi",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本神话材料多经8世纪《古事记》《日本书纪》编纂，文本层次须区分；2) 神格与皇统叙事交织，历史性待核对；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "琼琼杵尊（Ninigi-no-Mikoto）是日本神话中的'天孙'，天照大神之孙：在'天孙降临'（tenson kōrin）叙事中，天照大神派他自高天原降临苇原中国（日本），统治大地，携带三种神器（八咫镜、草薙剑、八尺琼勾玉）。琼琼杵尊娶木花咲耶姬（樱花女神）为妻，其子孙（火远理命—鸬鹚草葺不合尊—神武天皇）延续为日本皇统，是'万世一系'皇统神话的关键环节。",
+   "versions": [
+    "琼琼杵尊（Ninigi-no-Mikoto）是日本神话中的'天孙'，天照大神之孙：在'天孙降临'（tenson kōrin）叙事中，天照大神派他自高天原降临苇原中国（日本），统治大地，携带三种神器（八咫镜、草薙剑、八尺琼勾玉）。琼琼杵尊娶木花咲耶姬（樱花女神）为妻，其子孙（火远理命—鸬鹚草葺不合尊—神武天皇）延续为日本皇统，是'万世一系'皇统神话的关键环节。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《古事记》/《日本书纪》",
+     "school": "文本来源",
+     "view": "记载天孙降临叙事。"
+    },
+    {
+     "holder": "国学研究",
+     "school": "日本史",
+     "view": "天孙降临与皇统神话的关系。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天降王权可作神圣王权参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ninigi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>琼琼杵尊形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>琼琼杵尊（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天孙降临</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>tenson kōrin</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三种神器</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>镜剑玉</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>皇统起源</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神武之祖</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>琼琼杵尊要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经《记纪》记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "琼琼杵尊的地位",
+     "views": [
+      {
+       "holder": "皇祖神说",
+       "basis": "日本皇统的神话祖先。"
+      },
+      {
+       "holder": "天降统治者说",
+       "basis": "受命统治大地之神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "琼琼杵尊是天照大神之孙，'天孙降临'的主角。",
+     "source": "pri-ninigi"
+    },
+    {
+     "claim": "琼琼杵尊携带三种神器降临，开创日本皇统。",
+     "source": "pri-ninigi"
+    }
+   ]
+  },
+  {
+   "id": "fig-konohanasakuya",
+   "title": "木花咲耶姬",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "日本神话的樱花女神，富士山之神。",
+   "related": [
+    "myth-japanese",
+    "fig-ninigi",
+    "myth-japanese"
+   ],
+   "sources": [
+    "pri-konohanasakuya",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本神话材料多经8世纪《古事记》《日本书纪》编纂，文本层次须区分；2) 神格与皇统叙事交织，历史性待核对；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "木花咲耶姬（Konohanasakuya-hime，'木花之咲耶姬'）是日本神话中的樱花（花）女神，大山津见神之女，琼琼杵尊之妻：她的名字象征樱花盛开之美（也象征人生如樱花般绚烂而短暂）。神话中她一夜怀孕，遭琼琼杵尊怀疑，遂以火中产子（'火中出产'）自证清白，生下火远理命等。木花咲耶姬是富士山（浅间神社）的主祭神，象征美丽、短暂与神圣。",
+   "versions": [
+    "木花咲耶姬（Konohanasakuya-hime，'木花之咲耶姬'）是日本神话中的樱花（花）女神，大山津见神之女，琼琼杵尊之妻：她的名字象征樱花盛开之美（也象征人生如樱花般绚烂而短暂）。神话中她一夜怀孕，遭琼琼杵尊怀疑，遂以火中产子（'火中出产'）自证清白，生下火远理命等。木花咲耶姬是富士山（浅间神社）的主祭神，象征美丽、短暂与神圣。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《古事记》/《日本书纪》",
+     "school": "文本来源",
+     "view": "记载木花咲耶姬的婚姻与火中出产。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "神话学",
+     "view": "樱花女神与日本美学的关联。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "火中出产与神圣考验可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-konohanasakuya",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>木花咲耶姬形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>木花咲耶姬（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>樱花女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>花之咲</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>火中出产</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>自证</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>富士山神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>浅间神社</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>木花咲耶姬要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经《记纪》记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "木花咲耶姬的象征",
+     "views": [
+      {
+       "holder": "樱花美学说",
+       "basis": "象征樱花般的美丽与短暂。"
+      },
+      {
+       "holder": "火山女神说",
+       "basis": "作为富士山之神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "木花咲耶姬是日本樱花女神，琼琼杵尊之妻。",
+     "source": "pri-konohanasakuya"
+    },
+    {
+     "claim": "木花咲耶姬以火中出产自证清白，是富士山之神。",
+     "source": "pri-konohanasakuya"
+    }
+   ]
+  },
+  {
+   "id": "fig-toyotama",
+   "title": "丰玉姬",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "日本神话的海神之女，火远理命之妻。",
+   "related": [
+    "myth-japanese",
+    "fig-ninigi",
+    "motif-shapeshifting"
+   ],
+   "sources": [
+    "pri-toyotama",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本神话材料多经8世纪《古事记》《日本书纪》编纂，文本层次须区分；2) 神格与皇统叙事交织，历史性待核对；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "丰玉姬（Toyotama-hime）是日本神话中的海神之女（海神绵津见神之女），火远理命（Hoori）之妻、神武天皇之曾祖母：叙事中火远理命为寻兄长失落的鱼钩而赴海神宫，娶丰玉姬，后违背不得窥视其真身的禁忌（见她化为鳄鱼/鲨鱼原形）而分离；丰玉姬回归海界，留下其妹玉依姬抚养其子。丰玉姬的'海神宫'与'窥视禁忌'母题（与希腊普绪刻/厄洛斯、日本鹤妻等'异类婚姻'母题相通）是其核心。",
+   "versions": [
+    "丰玉姬（Toyotama-hime）是日本神话中的海神之女（海神绵津见神之女），火远理命（Hoori）之妻、神武天皇之曾祖母：叙事中火远理命为寻兄长失落的鱼钩而赴海神宫，娶丰玉姬，后违背不得窥视其真身的禁忌（见她化为鳄鱼/鲨鱼原形）而分离；丰玉姬回归海界，留下其妹玉依姬抚养其子。丰玉姬的'海神宫'与'窥视禁忌'母题（与希腊普绪刻/厄洛斯、日本鹤妻等'异类婚姻'母题相通）是其核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《古事记》/《日本书纪》",
+     "school": "文本来源",
+     "view": "记载火远理命与丰玉姬的叙事。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "神话学",
+     "view": "异类婚姻与窥视禁忌母题。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "海神宫与异类婚姻可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-toyotama",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>丰玉姬形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>丰玉姬（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>海神之女</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Toyotama</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>火远理命之妻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>海神宫</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>窥视禁忌</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>原形分离</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰玉姬要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经《记纪》记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "丰玉姬的母题",
+     "views": [
+      {
+       "holder": "异类婚姻说",
+       "basis": "人与海神女的婚姻。"
+      },
+      {
+       "holder": "窥视禁忌说",
+       "basis": "违反禁忌导致分离。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "丰玉姬是海神之女，火远理命之妻，神武天皇曾祖母。",
+     "source": "pri-toyotama"
+    },
+    {
+     "claim": "'窥视禁忌'与'异类婚姻'是丰玉姬叙事的核心母题。",
+     "source": "pri-toyotama"
+    }
+   ]
+  },
+  {
+   "id": "fig-yamato-takeru",
+   "title": "日本武尊",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "日本传说中的英雄王子，以征讨东国著称。",
+   "related": [
+    "myth-japanese",
+    "motif-herojourney",
+    "myth-japanese"
+   ],
+   "sources": [
+    "pri-yamato-takeru",
+    "pri-kojiki",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本神话材料多经8世纪《古事记》《日本书纪》编纂，文本层次须区分；2) 神格与皇统叙事交织，历史性待核对；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "日本武尊（Yamato Takeru，'倭建命'）是日本神话—传说中的英雄王子，景行天皇之子：他以勇武征讨西国（熊袭）与东国（虾夷）著称，其传说包括以'草薙剑'（天丛云剑）在草原火灾中脱险（剑名'草薙'由此而来）、以女装刺杀熊袭首领、以及晚年因冒犯山神而病死。日本武尊是日本武士道与英雄传说的原型，其白鸟化去的结局成为日本文学的经典意象。",
+   "versions": [
+    "日本武尊（Yamato Takeru，'倭建命'）是日本神话—传说中的英雄王子，景行天皇之子：他以勇武征讨西国（熊袭）与东国（虾夷）著称，其传说包括以'草薙剑'（天丛云剑）在草原火灾中脱险（剑名'草薙'由此而来）、以女装刺杀熊袭首领、以及晚年因冒犯山神而病死。日本武尊是日本武士道与英雄传说的原型，其白鸟化去的结局成为日本文学的经典意象。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《古事记》/《日本书纪》",
+     "school": "文本来源",
+     "view": "记载日本武尊的征讨与白鸟结局。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "文学研究",
+     "view": "日本武尊形象与武士道原型。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "英雄王子与征讨母题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yamato-takeru",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>日本武尊形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>日本武尊（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>征讨东国</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>虾夷</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>草薙剑</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>火灾脱险</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>白鸟化去</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>悲剧结局</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>日本武尊要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经《记纪》记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "日本武尊的形象",
+     "views": [
+      {
+       "holder": "英雄王子说",
+       "basis": "勇武的征服者。"
+      },
+      {
+       "holder": "悲剧英雄说",
+       "basis": "因冒犯山神而早逝。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "日本武尊是日本传说中征讨东国的英雄王子。",
+     "source": "pri-yamato-takeru"
+    },
+    {
+     "claim": "'草薙剑'之名源自日本武尊在草原火灾中脱险。",
+     "source": "pri-yamato-takeru"
+    }
+   ]
+  },
+  {
+   "id": "fig-takemikazuchi",
+   "title": "建御雷",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "日本神话的雷与剑之神。",
+   "related": [
+    "myth-japanese",
+    "fig-okuninushi",
+    "motif-rain-thunder"
+   ],
+   "sources": [
+    "pri-takemikazuchi",
+    "pri-kojiki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 日本神话材料多经8世纪《古事记》《日本书纪》编纂，文本层次须区分；2) 神格与皇统叙事交织，历史性待核对；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "建御雷（Takemikazuchi，'建御雷之男神'）是日本神话中的雷神与剑之神，诞生于伊邪那岐斩杀火神迦具土时（剑锋之血化生）：他是'国让'（让国）叙事中的关键角色——受天照大神之命，与经津主（Futsunushi）一同下凡，以武力迫使大国主让出苇原中国。建御雷是武神与雷神，鹿岛神宫（Kashima）的主祭神，象征以武力确立秩序的天界权威。",
+   "versions": [
+    "建御雷（Takemikazuchi，'建御雷之男神'）是日本神话中的雷神与剑之神，诞生于伊邪那岐斩杀火神迦具土时（剑锋之血化生）：他是'国让'（让国）叙事中的关键角色——受天照大神之命，与经津主（Futsunushi）一同下凡，以武力迫使大国主让出苇原中国。建御雷是武神与雷神，鹿岛神宫（Kashima）的主祭神，象征以武力确立秩序的天界权威。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《古事记》/《日本书纪》",
+     "school": "文本来源",
+     "view": "记载建御雷的诞生与国让。"
+    },
+    {
+     "holder": "现代日本研究",
+     "school": "神话学",
+     "view": "雷神与武神的关联。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "雷神与秩序确立可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-takemikazuchi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>建御雷形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>建御雷（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>剑神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>国让</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>武力说服</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鹿岛神宫</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>建御雷要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经《记纪》记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "建御雷的职能",
+     "views": [
+      {
+       "holder": "雷神说",
+       "basis": "象征雷鸣与武力。"
+      },
+      {
+       "holder": "国让执行者说",
+       "basis": "武力确立天界权威。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "建御雷是日本神话的雷与剑之神。",
+     "source": "pri-takemikazuchi"
+    },
+    {
+     "claim": "建御雷在'国让'叙事中以武力迫使大国主让国。",
+     "source": "pri-takemikazuchi"
+    }
+   ]
   }
  ]
 }
