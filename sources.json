@@ -6278,6 +6278,84 @@
    "link_ok": true,
    "verified": true,
    "note": "妪姬（Âu Cơ）是越南神话的仙姬始祖，雒龙君之妻，百卵生百子之母；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-agni",
+   "title": "阿耆尼文献（《梨俱吠陀》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "前2千纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Agni",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿耆尼（Agni）是吠陀的火神，祭火的拟人化，人与神之间的中介；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-varuna",
+   "title": "伐楼拿文献（《梨俱吠陀》）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "前2千纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Varuna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伐楼拿（Varuna）是吠陀的天空、水与宇宙秩序（Ṛta）之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-vayu",
+   "title": "伐由文献（吠陀风神）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "前2千纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Vayu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伐由（Vayu）是吠陀的风神与生命气息（prana）之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-kubera",
+   "title": "俱毗罗文献（印度财神）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kubera",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "俱毗罗（Kubera）是印度教的财富之神与夜叉之主，守护北方；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-kartikeya",
+   "title": "室建陀文献（印度战神）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kartikeya",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "室建陀（Kartikeya，又名 Skanda/Murugan）是印度教的战神，湿婆与帕尔瓦蒂之子；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-parvati",
+   "title": "帕尔瓦蒂文献（印度女神）",
+   "author": "佚名（印度）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Parvati",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "帕尔瓦蒂（Parvati）是印度教的雪山神女，湿婆之妻，象头神与室建陀之母；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

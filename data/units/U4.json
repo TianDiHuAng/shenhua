@@ -23258,6 +23258,456 @@
      "source": "pri-au-co"
     }
    ]
+  },
+  {
+   "id": "fig-agni",
+   "title": "阿耆尼",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "吠陀的火神，祭火的拟人化与神人中介。",
+   "related": [
+    "myth-hindu",
+    "fig-indra",
+    "motif-fire"
+   ],
+   "sources": [
+    "pri-agni",
+    "pri-varuna",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 吠陀/印度教神祇材料跨《吠陀》、史诗、往世书多个文本层，各层神格有演变；2) 具体年代与文献层次有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿耆尼（Agni，梵语'火'）是吠陀宗教最重要的神祇之一：他是祭火（sacrificial fire）的拟人化，是人与神之间的中介——祭品经火升天献给诸神，诸神的恩赐经火降回人间。阿耆尼在《梨俱吠陀》中受颂极多（仅次于因陀罗），被视为家庭与祭祀的守护者、jātavedas（'知一切生者'）。阿耆尼的'三火'（家庭火、祭火、火葬火）与多种形象（多头、多舌）象征其遍布宇宙的力量。其名与拉丁语 ignis（火）同源，是印欧火神传统的核心。",
+   "versions": [
+    "阿耆尼（Agni，梵语'火'）是吠陀宗教最重要的神祇之一：他是祭火（sacrificial fire）的拟人化，是人与神之间的中介——祭品经火升天献给诸神，诸神的恩赐经火降回人间。阿耆尼在《梨俱吠陀》中受颂极多（仅次于因陀罗），被视为家庭与祭祀的守护者、jātavedas（'知一切生者'）。阿耆尼的'三火'（家庭火、祭火、火葬火）与多种形象（多头、多舌）象征其遍布宇宙的力量。其名与拉丁语 ignis（火）同源，是印欧火神传统的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《梨俱吠陀》",
+     "school": "核心文本",
+     "view": "阿耆尼是《梨俱吠陀》颂诗的核心神祇之一。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "火神与中介功能的印欧比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "火的神圣性与中介可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-agni",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿耆尼示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿耆尼（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祭火</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神人中介</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>jātavedas</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>知一切生者</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三火</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>家庭/祭/葬火</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿耆尼要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿耆尼的职能",
+     "views": [
+      {
+       "holder": "祭火中介说",
+       "basis": "祭品与祈祷经火传达。"
+      },
+      {
+       "holder": "火神说",
+       "basis": "象征火的神圣力量。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿耆尼是吠陀的火神，祭火的拟人化与人与神之间的中介。",
+     "source": "pri-agni"
+    },
+    {
+     "claim": "阿耆尼之名与拉丁语 ignis（火）同源，是印欧火神传统的核心。",
+     "source": "pri-agni"
+    }
+   ]
+  },
+  {
+   "id": "fig-varuna",
+   "title": "伐楼拿",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "吠陀的天空、水与宇宙秩序之神。",
+   "related": [
+    "myth-hindu",
+    "fig-agni",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-varuna",
+    "pri-agni",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 吠陀/印度教神祇材料跨《吠陀》、史诗、往世书多个文本层，各层神格有演变；2) 具体年代与文献层次有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "伐楼拿（Varuna）是吠陀宗教的天空、水与宇宙秩序（Ṛta）之神：他掌管天界、雨水与海洋，是最高的'宇宙监督者'——以绳索（pāśa）惩处违背誓约（Ṛta）者，象征神圣的正义与秩序。伐楼拿与密多罗（Mitra）成对出现（'密多罗—伐楼拿'守护契约与秩序），其名与印欧语的'誓约/守护'（*wer-）相关。在后吠陀时期，伐楼拿的'宇宙之主'地位部分让位于因陀罗，其水神/司法职能则延续。伐楼拿是印欧宗教比较（'主权神'）的关键案例。",
+   "versions": [
+    "伐楼拿（Varuna）是吠陀宗教的天空、水与宇宙秩序（Ṛta）之神：他掌管天界、雨水与海洋，是最高的'宇宙监督者'——以绳索（pāśa）惩处违背誓约（Ṛta）者，象征神圣的正义与秩序。伐楼拿与密多罗（Mitra）成对出现（'密多罗—伐楼拿'守护契约与秩序），其名与印欧语的'誓约/守护'（*wer-）相关。在后吠陀时期，伐楼拿的'宇宙之主'地位部分让位于因陀罗，其水神/司法职能则延续。伐楼拿是印欧宗教比较（'主权神'）的关键案例。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《梨俱吠陀》",
+     "school": "核心文本",
+     "view": "伐楼拿是宇宙秩序（Ṛta）的守护者。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "伐楼拿与印欧主权/司法功能。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "宇宙秩序神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-varuna",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伐楼拿示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伐楼拿（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙秩序</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ṛta</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水/天空</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>海洋雨</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>司法绳索</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>pāśa</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伐楼拿要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "伐楼拿的职能",
+     "views": [
+      {
+       "holder": "宇宙秩序神说",
+       "basis": "守护Ṛta与誓约。"
+      },
+      {
+       "holder": "水神说",
+       "basis": "掌管海洋与雨水。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伐楼拿是吠陀的天空、水与宇宙秩序（Ṛta）之神。",
+     "source": "pri-varuna"
+    },
+    {
+     "claim": "伐楼拿与密多罗成对出现，守护契约与秩序。",
+     "source": "pri-varuna"
+    }
+   ]
+  },
+  {
+   "id": "fig-vayu",
+   "title": "伐由",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "吠陀的风神与生命气息之神。",
+   "related": [
+    "myth-hindu",
+    "fig-indra",
+    "fig-agni"
+   ],
+   "sources": [
+    "pri-vayu",
+    "pri-agni",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 吠陀/印度教神祇材料跨《吠陀》、史诗、往世书多个文本层，各层神格有演变；2) 具体年代与文献层次有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "伐由（Vayu，梵语'风'）是吠陀宗教的风神与生命气息（prāṇa）之神：他掌管风、呼吸与生命力，是诸神中最迅捷者，其战车由群马牵引；伐由与因陀罗常相伴（因陀罗的战车由伐由的马拉动）。在印度哲学（尤其数论与瑜伽）中，'prāṇa'（生命气息）与伐由关联，成为呼吸控制（prāṇāyāma）的神圣原则。伐由之名与印欧语'风'（*h₂weh₁-，如拉丁 ventus、英语 wind）同源，是印欧风神传统的核心。",
+   "versions": [
+    "伐由（Vayu，梵语'风'）是吠陀宗教的风神与生命气息（prāṇa）之神：他掌管风、呼吸与生命力，是诸神中最迅捷者，其战车由群马牵引；伐由与因陀罗常相伴（因陀罗的战车由伐由的马拉动）。在印度哲学（尤其数论与瑜伽）中，'prāṇa'（生命气息）与伐由关联，成为呼吸控制（prāṇāyāma）的神圣原则。伐由之名与印欧语'风'（*h₂weh₁-，如拉丁 ventus、英语 wind）同源，是印欧风神传统的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《梨俱吠陀》",
+     "school": "核心文本",
+     "view": "伐由是风与气息之神。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "风神的印欧比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "生命气息的神圣性可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-vayu",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伐由示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伐由（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>风神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>呼吸prāṇa</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>因陀罗之伴</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>战车群马</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>印欧同源</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>*h₂weh₁-</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伐由要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "伐由的职能",
+     "views": [
+      {
+       "holder": "风神说",
+       "basis": "掌管风与大气。"
+      },
+      {
+       "holder": "生命气息神说",
+       "basis": "象征prāṇa与呼吸。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伐由是吠陀的风神与生命气息（prāṇa）之神。",
+     "source": "pri-vayu"
+    },
+    {
+     "claim": "伐由之名与拉丁 ventus、英语 wind 同源。",
+     "source": "pri-vayu"
+    }
+   ]
+  },
+  {
+   "id": "fig-kubera",
+   "title": "俱毗罗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教的财富之神与夜叉之主，守护北方。",
+   "related": [
+    "myth-hindu",
+    "fig-ravana",
+    "fig-yama"
+   ],
+   "sources": [
+    "pri-kubera",
+    "pri-ramayana",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 吠陀/印度教神祇材料跨《吠陀》、史诗、往世书多个文本层，各层神格有演变；2) 具体年代与文献层次有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "俱毗罗（Kubera，又名 Vaiśravaṇa）是印度教的财富之神、夜叉（yakṣa）与紧那罗（kiṃnara）之主，守护世界的北方：他居于喜马拉雅的阿罗迦（Alakā，财神之城），以财富与宝库著称，其形象为肥胖、多宝、持钱袋。俱毗罗在史诗（《罗摩衍那》《摩诃婆罗多》）中出现，其弟罗波那（Ravana）曾夺取他的兰卡城。俱毗罗在佛教中成为四大天王之一的'多闻天王'（Vaiśravaṇa），是跨宗教的神格。",
+   "versions": [
+    "俱毗罗（Kubera，又名 Vaiśravaṇa）是印度教的财富之神、夜叉（yakṣa）与紧那罗（kiṃnara）之主，守护世界的北方：他居于喜马拉雅的阿罗迦（Alakā，财神之城），以财富与宝库著称，其形象为肥胖、多宝、持钱袋。俱毗罗在史诗（《罗摩衍那》《摩诃婆罗多》）中出现，其弟罗波那（Ravana）曾夺取他的兰卡城。俱毗罗在佛教中成为四大天王之一的'多闻天王'（Vaiśravaṇa），是跨宗教的神格。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《罗摩衍那》/《摩诃婆罗多》",
+     "school": "核心文本",
+     "view": "俱毗罗是财神与北方守护者。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "学术",
+     "view": "俱毗罗的跨宗教传播。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "财神与方位守护可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-kubera",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>俱毗罗示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>俱毗罗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>财神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>夜叉之主</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>北方守护</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>四方守护之一</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿罗迦</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>财神之城</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>俱毗罗要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "俱毗罗的职能",
+     "views": [
+      {
+       "holder": "财富神说",
+       "basis": "掌管财宝与丰饶。"
+      },
+      {
+       "holder": "方位守护说",
+       "basis": "守护世界的北方。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "俱毗罗是印度教的财富之神与夜叉之主，守护北方。",
+     "source": "pri-kubera"
+    },
+    {
+     "claim": "俱毗罗在佛教中成为四大天王之一的'多闻天王'。",
+     "source": "pri-kubera"
+    }
+   ]
+  },
+  {
+   "id": "fig-kartikeya",
+   "title": "室建陀",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教的战神，湿婆与帕尔瓦蒂之子。",
+   "related": [
+    "myth-hindu",
+    "fig-parvati",
+    "fig-shiva"
+   ],
+   "sources": [
+    "pri-kartikeya",
+    "pri-parvati",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 吠陀/印度教神祇材料跨《吠陀》、史诗、往世书多个文本层，各层神格有演变；2) 具体年代与文献层次有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "室建陀（Kartikeya，又名 Skanda、Murugan、Subrahmanya）是印度教的战神与天军统帅：他是湿婆与帕尔瓦蒂之子（传说生于湿婆的精液所化的火中，由六位昴宿（Kṛttikā）抚养，故称 Kārttikeya），以长矛（vel）为武器，率领天军击败恶魔多罗迦（Tāraka）。室建陀在印度南部（泰米尔）以 Murugan 之名广受崇奉，是泰米尔信仰的核心神祇，其崇拜（如大宝森节的苦行游行）极为盛大。室建陀象征武勇、青年与驱邪。",
+   "versions": [
+    "室建陀（Kartikeya，又名 Skanda、Murugan、Subrahmanya）是印度教的战神与天军统帅：他是湿婆与帕尔瓦蒂之子（传说生于湿婆的精液所化的火中，由六位昴宿（Kṛttikā）抚养，故称 Kārttikeya），以长矛（vel）为武器，率领天军击败恶魔多罗迦（Tāraka）。室建陀在印度南部（泰米尔）以 Murugan 之名广受崇奉，是泰米尔信仰的核心神祇，其崇拜（如大宝森节的苦行游行）极为盛大。室建陀象征武勇、青年与驱邪。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《摩诃婆罗多》/往世书",
+     "school": "核心文本",
+     "view": "室建陀的诞生与降魔叙事。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "学术",
+     "view": "Murugan 在泰米尔的崇拜。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "战神与降魔可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-kartikeya",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>室建陀示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>室建陀（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>长矛vel</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>湿婆之子</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>六昴宿抚养</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>降魔</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>多罗迦</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>室建陀要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "室建陀的身份",
+     "views": [
+      {
+       "holder": "战神说",
+       "basis": "天军统帅与降魔者。"
+      },
+      {
+       "holder": "泰米尔神Murugan说",
+       "basis": "南印度信仰的核心。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "室建陀是印度教的战神，湿婆与帕尔瓦蒂之子。",
+     "source": "pri-kartikeya"
+    },
+    {
+     "claim": "室建陀在泰米尔以 Murugan 之名广受崇奉。",
+     "source": "pri-kartikeya"
+    }
+   ]
+  },
+  {
+   "id": "fig-parvati",
+   "title": "帕尔瓦蒂",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度教的雪山神女，湿婆之妻。",
+   "related": [
+    "myth-hindu",
+    "fig-shiva",
+    "fig-kartikeya"
+   ],
+   "sources": [
+    "pri-parvati",
+    "pri-kartikeya",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 吠陀/印度教神祇材料跨《吠陀》、史诗、往世书多个文本层，各层神格有演变；2) 具体年代与文献层次有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "帕尔瓦蒂（Parvati，'山的女儿'）是印度教的雪山神女，湿婆（Shiva）之妻，象头神（Ganesha）与室建陀（Kartikeya）之母：她是湿婆的'性力'（Śakti）的温柔化身，象征婚姻、生育、苦行与家庭。帕尔瓦蒂的前世（或另一面向）是萨蒂（Satī，自焚殉夫的 goddess），重生为雪山神女以再嫁湿婆。帕尔瓦蒂有多重凶猛化身（如杜尔迦 Durga、迦梨 Kali），象征性力的创造与毁灭两面。她是印度教女性神祇（Devī）崇拜的核心。",
+   "versions": [
+    "帕尔瓦蒂（Parvati，'山的女儿'）是印度教的雪山神女，湿婆（Shiva）之妻，象头神（Ganesha）与室建陀（Kartikeya）之母：她是湿婆的'性力'（Śakti）的温柔化身，象征婚姻、生育、苦行与家庭。帕尔瓦蒂的前世（或另一面向）是萨蒂（Satī，自焚殉夫的 goddess），重生为雪山神女以再嫁湿婆。帕尔瓦蒂有多重凶猛化身（如杜尔迦 Durga、迦梨 Kali），象征性力的创造与毁灭两面。她是印度教女性神祇（Devī）崇拜的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《湿婆往世书》/史诗",
+     "school": "核心文本",
+     "view": "帕尔瓦蒂与湿婆的婚姻及诸子。"
+    },
+    {
+     "holder": "现代印度研究",
+     "school": "学术",
+     "view": "性力（Śakti）与女神崇拜。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "神女与性力可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-parvati",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>帕尔瓦蒂示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>帕尔瓦蒂（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雪山神女</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>湿婆之妻</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>二子之母</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>象头神/室建陀</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>性力Śakti</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>杜尔迦/迦梨</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>帕尔瓦蒂要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "帕尔瓦蒂的身份",
+     "views": [
+      {
+       "holder": "温柔配偶说",
+       "basis": "象征婚姻与家庭的雪山神女。"
+      },
+      {
+       "holder": "性力化身说",
+       "basis": "其凶猛化身象征性力两面。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "帕尔瓦蒂是印度教的雪山神女，湿婆之妻，象头神与室建陀之母。",
+     "source": "pri-parvati"
+    },
+    {
+     "claim": "帕尔瓦蒂的凶猛化身（杜尔迦、迦梨）象征性力的创造与毁灭两面。",
+     "source": "pri-parvati"
+    }
+   ]
   }
  ]
 }

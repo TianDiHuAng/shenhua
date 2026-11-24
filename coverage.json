@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T13:02:56+08:00",
+  "generated": "2026-11-24T13:08:55+08:00",
   "summary": {
-    "total": 554,
+    "total": 560,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 299
+      "U4": 305
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 440
+      "补充": 446
     },
     "by_level": {
       "L1": 0,
-      "L2": 440,
+      "L2": 446,
       "L3": 114
     },
-    "l2_done": 554,
+    "l2_done": 560,
     "l3_done": 114,
-    "verified_sources": 437
+    "verified_sources": 443
   },
   "entries": [
     {
@@ -6109,6 +6109,72 @@
     {
       "id": "fig-au-co",
       "name": "妪姬",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-agni",
+      "name": "阿耆尼",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-varuna",
+      "name": "伐楼拿",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-vayu",
+      "name": "伐由",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-kubera",
+      "name": "俱毗罗",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-kartikeya",
+      "name": "室建陀",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-parvati",
+      "name": "帕尔瓦蒂",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",
