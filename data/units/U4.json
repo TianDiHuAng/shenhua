@@ -22808,6 +22808,456 @@
      "source": "pri-asha"
     }
    ]
+  },
+  {
+   "id": "fig-tangun",
+   "title": "檀君",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "朝鲜神话中的建国始祖，檀君朝鲜的开国之君。",
+   "related": [
+    "myth-korean",
+    "fig-hwanung",
+    "motif-first-man"
+   ],
+   "sources": [
+    "pri-dangun",
+    "pri-hwanung",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 朝鲜/越南建国神话多经后世史书（《三国遗事》《大越史记》等）记录，史实性与神话性须区分；2) 具体年代与族群来源有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "檀君（Dangun/Tan'gun）是朝鲜神话中朝鲜半岛的建国始祖：据《三国遗事》，桓雄（Hwanung）与熊女（熊化人）结合而生檀君，檀君于公元前2333年建'檀君朝鲜'，定都平壤（或阿斯达），是朝鲜民族的始祖。檀君的叙事融合了天神（桓雄）与熊图腾（熊女）的元素，是朝鲜'天孙—熊女'建国神话的核心。檀君在韩国民族认同与宗教（如大倧教）中具有重要象征地位，其历史性在学界有讨论（多为神话建构）。",
+   "versions": [
+    "檀君（Dangun/Tan'gun）是朝鲜神话中朝鲜半岛的建国始祖：据《三国遗事》，桓雄（Hwanung）与熊女（熊化人）结合而生檀君，檀君于公元前2333年建'檀君朝鲜'，定都平壤（或阿斯达），是朝鲜民族的始祖。檀君的叙事融合了天神（桓雄）与熊图腾（熊女）的元素，是朝鲜'天孙—熊女'建国神话的核心。檀君在韩国民族认同与宗教（如大倧教）中具有重要象征地位，其历史性在学界有讨论（多为神话建构）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《三国遗事》",
+     "school": "核心文本",
+     "view": "一然记录了桓雄—熊女—檀君的建国神话。"
+    },
+    {
+     "holder": "现代韩国研究",
+     "school": "学术",
+     "view": "檀君神话的民族认同意义。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天孙—图腾始祖建国可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-dangun",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>檀君示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>檀君（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>建国始祖</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>檀君朝鲜</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>桓雄之子</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>熊女所生</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>前2333建国</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>定都平壤</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>檀君要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "檀君的历史性",
+     "views": [
+      {
+       "holder": "神话建构说",
+       "basis": "建国神话是后世民族认同的建构。"
+      },
+      {
+       "holder": "历史记忆说",
+       "basis": "可能反映上古族群记忆。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "檀君是朝鲜神话中的建国始祖，公元前2333年建立檀君朝鲜。",
+     "source": "pri-dangun"
+    },
+    {
+     "claim": "檀君是桓雄与熊女结合所生的天孙—图腾后裔。",
+     "source": "pri-dangun"
+    }
+   ]
+  },
+  {
+   "id": "fig-hwanung",
+   "title": "桓雄",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "朝鲜神话中桓因之子，降临太白山建立神市。",
+   "related": [
+    "myth-korean",
+    "fig-tangun",
+    "motif-sky-earth"
+   ],
+   "sources": [
+    "pri-hwanung",
+    "pri-dangun",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 朝鲜/越南建国神话多经后世史书（《三国遗事》《大越史记》等）记录，史实性与神话性须区分；2) 具体年代与族群来源有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "桓雄（Hwanung）是朝鲜神话中的天神：据《三国遗事》，他是天帝桓因（Hwanin）之子，愿下凡救世，桓因赐他天符印三枚，桓雄率三千天兵降临太白山（妙香山）顶的神檀树下，建立'神市'，掌管人间三百六十余事（农、命、病、刑、善恶等），是'天降—治世'的神王。一熊一虎求化为人，桓雄以艾与蒜考验，熊女成功化人，与桓雄结合而生檀君。桓雄象征天界秩序降临人间、以及天神—图腾的联结。",
+   "versions": [
+    "桓雄（Hwanung）是朝鲜神话中的天神：据《三国遗事》，他是天帝桓因（Hwanin）之子，愿下凡救世，桓因赐他天符印三枚，桓雄率三千天兵降临太白山（妙香山）顶的神檀树下，建立'神市'，掌管人间三百六十余事（农、命、病、刑、善恶等），是'天降—治世'的神王。一熊一虎求化为人，桓雄以艾与蒜考验，熊女成功化人，与桓雄结合而生檀君。桓雄象征天界秩序降临人间、以及天神—图腾的联结。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《三国遗事》",
+     "school": "核心文本",
+     "view": "桓雄降临太白山、熊虎考验的叙事。"
+    },
+    {
+     "holder": "现代韩国研究",
+     "school": "学术",
+     "view": "桓雄与桓因的神谱关系。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天降治世与图腾考验可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hwanung",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>桓雄示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>桓雄（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>桓因之子</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天降神王</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神市</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>太白山顶</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>熊虎考验</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>熊女化人</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>桓雄要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "桓雄的角色",
+     "views": [
+      {
+       "holder": "天降治世神说",
+       "basis": "将天界秩序带给人间。"
+      },
+      {
+       "holder": "神谱中介说",
+       "basis": "连接桓因与檀君的中间神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "桓雄是桓因之子，降临太白山建立神市，是檀君之父。",
+     "source": "pri-hwanung"
+    },
+    {
+     "claim": "桓雄以艾与蒜考验熊虎，熊女化人后与他结合。",
+     "source": "pri-hwanung"
+    }
+   ]
+  },
+  {
+   "id": "fig-jumong",
+   "title": "朱蒙",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "高句丽的建国始祖，卵生神话的主角。",
+   "related": [
+    "myth-korean",
+    "fig-habaek",
+    "fig-tangun"
+   ],
+   "sources": [
+    "pri-jumong",
+    "pri-habaek",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 朝鲜/越南建国神话多经后世史书（《三国遗事》《大越史记》等）记录，史实性与神话性须区分；2) 具体年代与族群来源有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "朱蒙（Jumong，谥号东明圣王 Dongmyeong）是高句丽（Goguryeo）的建国始祖：据《三国史记》《三国遗事》，他是水神河伯（Habaek）之女柳花（Lady Yuhwa）被日光感孕所生之卵化生的英雄，因遭猜忌而出走，渡过淹水（卒本川）、建立高句丽，征服周边部族。朱蒙的'卵生—日感孕—出走建国'叙事是朝鲜卵生神话的典型，象征天命所归的建国英雄，也是高句丽王权神圣性的神话根据。",
+   "versions": [
+    "朱蒙（Jumong，谥号东明圣王 Dongmyeong）是高句丽（Goguryeo）的建国始祖：据《三国史记》《三国遗事》，他是水神河伯（Habaek）之女柳花（Lady Yuhwa）被日光感孕所生之卵化生的英雄，因遭猜忌而出走，渡过淹水（卒本川）、建立高句丽，征服周边部族。朱蒙的'卵生—日感孕—出走建国'叙事是朝鲜卵生神话的典型，象征天命所归的建国英雄，也是高句丽王权神圣性的神话根据。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《三国史记》/《三国遗事》",
+     "school": "核心文本",
+     "view": "金富轼与一然记录朱蒙的卵生建国神话。"
+    },
+    {
+     "holder": "现代韩国研究",
+     "school": "学术",
+     "view": "卵生神话与王权神圣性。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "卵生英雄与日光感孕可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-jumong",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>朱蒙示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>朱蒙（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卵生</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>日感孕</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>渡淹水</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>建国</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>河伯外孙</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神谱</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>朱蒙要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "朱蒙的神性",
+     "views": [
+      {
+       "holder": "日光感孕说",
+       "basis": "其母柳花为日光所感孕。"
+      },
+      {
+       "holder": "卵生英雄说",
+       "basis": "卵生是高句丽王权神圣的象征。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "朱蒙是高句丽的建国始祖，卵生神话的主角。",
+     "source": "pri-jumong"
+    },
+    {
+     "claim": "朱蒙是河伯外孙、柳花被日光感孕所生的卵化英雄。",
+     "source": "pri-jumong"
+    }
+   ]
+  },
+  {
+   "id": "fig-habaek",
+   "title": "河伯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "朝鲜神话中的水神，柳花之父。",
+   "related": [
+    "myth-korean",
+    "fig-jumong",
+    "motif-water"
+   ],
+   "sources": [
+    "pri-habaek",
+    "pri-jumong",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 朝鲜/越南建国神话多经后世史书（《三国遗事》《大越史记》等）记录，史实性与神话性须区分；2) 具体年代与族群来源有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "河伯（Habaek）是朝鲜神话中的水神（河川之神）：据《三国遗事》《三国史记》的朱蒙神话，河伯之女柳花（Lady Yuhwa）被日光（或解慕漱）感孕，生下卵化的朱蒙；河伯曾考验解慕漱（以入水化为鱼/雉），是水神家长的形象。河伯在朝鲜神话中是'水界之主'，其形象与中国的河伯（黄河水神）有相似的名称与职能（文化交流的比较议题），象征水——生命起源与王权神圣的媒介。",
+   "versions": [
+    "河伯（Habaek）是朝鲜神话中的水神（河川之神）：据《三国遗事》《三国史记》的朱蒙神话，河伯之女柳花（Lady Yuhwa）被日光（或解慕漱）感孕，生下卵化的朱蒙；河伯曾考验解慕漱（以入水化为鱼/雉），是水神家长的形象。河伯在朝鲜神话中是'水界之主'，其形象与中国的河伯（黄河水神）有相似的名称与职能（文化交流的比较议题），象征水——生命起源与王权神圣的媒介。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《三国遗事》/《三国史记》",
+     "school": "核心文本",
+     "view": "河伯在朱蒙神话中是柳花之父。"
+    },
+    {
+     "holder": "现代韩国研究",
+     "school": "学术",
+     "view": "河伯与中朝水神传统的比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "水神与生命起源可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-habaek",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>河伯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>河伯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>河伯之女柳花</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>解慕漱考验</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>入水化鱼</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水界之主</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神谱</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>河伯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "河伯的身份",
+     "views": [
+      {
+       "holder": "本地水神说",
+       "basis": "朝鲜本土的河川之神。"
+      },
+      {
+       "holder": "外来影响说",
+       "basis": "与中国河伯信仰有交流关联（有讨论）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "河伯是朝鲜神话中的水神，柳花之父、朱蒙的外祖父。",
+     "source": "pri-habaek"
+    },
+    {
+     "claim": "河伯以入水化鱼等考验解慕漱，是'水界之主'。",
+     "source": "pri-habaek"
+    }
+   ]
+  },
+  {
+   "id": "fig-lac-long-quan",
+   "title": "雒龙君",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "越南神话的龙君始祖，妪姬之夫。",
+   "related": [
+    "myth-vietnamese",
+    "fig-au-co",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-lac-long-quan",
+    "pri-au-co",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 朝鲜/越南建国神话多经后世史书（《三国遗事》《大越史记》等）记录，史实性与神话性须区分；2) 具体年代与族群来源有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "雒龙君（Lạc Long Quân，'雒龙君'）是越南神话的龙族始祖：据《岭南摭怪》等，他是泾阳王（Kinh Dương Vương）之子、龙的后裔，娶仙姬妪姬（Âu Cơ）为妻，妪姬产下百卵、化生百子——百子中长子随父归海、其余随母上山，成为百越（尤其是越南）各族的祖先。雒龙君象征越南民族的'龙种'起源与南北（海—山）分治的族群叙事，是越南建国神话的核心，体现'龙父仙母'的越南民族认同。",
+   "versions": [
+    "雒龙君（Lạc Long Quân，'雒龙君'）是越南神话的龙族始祖：据《岭南摭怪》等，他是泾阳王（Kinh Dương Vương）之子、龙的后裔，娶仙姬妪姬（Âu Cơ）为妻，妪姬产下百卵、化生百子——百子中长子随父归海、其余随母上山，成为百越（尤其是越南）各族的祖先。雒龙君象征越南民族的'龙种'起源与南北（海—山）分治的族群叙事，是越南建国神话的核心，体现'龙父仙母'的越南民族认同。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《岭南摭怪》",
+     "school": "核心文本",
+     "view": "越南建国神话的核心文本记载雒龙君与妪姬。"
+    },
+    {
+     "holder": "现代越南研究",
+     "school": "学术",
+     "view": "'龙子仙孙'的民族认同。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "龙祖—仙母与百卵生可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-lac-long-quan",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>雒龙君示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>雒龙君（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>龙君</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>泾阳王之子</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>妪姬之夫</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>百卵生百子</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>龙种起源</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>越南民族认同</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雒龙君要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "雒龙君的身份",
+     "views": [
+      {
+       "holder": "神话始祖说",
+       "basis": "越南民族的龙族始祖。"
+      },
+      {
+       "holder": "族群叙事说",
+       "basis": "象征海—山分治的族群起源。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "雒龙君是越南神话的龙君始祖，娶妪姬生百卵百子。",
+     "source": "pri-lac-long-quan"
+    },
+    {
+     "claim": "'龙父仙母'是越南民族起源的核心叙事。",
+     "source": "pri-lac-long-quan"
+    }
+   ]
+  },
+  {
+   "id": "fig-au-co",
+   "title": "妪姬",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "越南神话的仙姬始祖，雒龙君之妻。",
+   "related": [
+    "myth-vietnamese",
+    "fig-lac-long-quan",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-au-co",
+    "pri-lac-long-quan",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 朝鲜/越南建国神话多经后世史书（《三国遗事》《大越史记》等）记录，史实性与神话性须区分；2) 具体年代与族群来源有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "妪姬（Âu Cơ，'妪姬'）是越南神话的仙族始祖：她是仙（immortal）之后，与龙君雒龙君（Lạc Long Quân）结合，产下百卵化生百子——'百卵生百男'是越南'百越'（Bách Việt）族群起源的神话解释。妪姬携五十子上山（北方山区），雒龙君携五十子归海（南方沿海），象征越南族群的山—海分居与共同起源。妪姬象征'仙母'与生育、土地，与'龙父'雒龙君共同构成越南'龙子仙孙'（con Rồng cháu Tiên）的民族自我认同。",
+   "versions": [
+    "妪姬（Âu Cơ，'妪姬'）是越南神话的仙族始祖：她是仙（immortal）之后，与龙君雒龙君（Lạc Long Quân）结合，产下百卵化生百子——'百卵生百男'是越南'百越'（Bách Việt）族群起源的神话解释。妪姬携五十子上山（北方山区），雒龙君携五十子归海（南方沿海），象征越南族群的山—海分居与共同起源。妪姬象征'仙母'与生育、土地，与'龙父'雒龙君共同构成越南'龙子仙孙'（con Rồng cháu Tiên）的民族自我认同。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《岭南摭怪》",
+     "school": "核心文本",
+     "view": "妪姬与雒龙君百卵生百子的叙事。"
+    },
+    {
+     "holder": "现代越南研究",
+     "school": "学术",
+     "view": "'龙子仙孙'民族认同。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "仙母—生育与百卵生可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-au-co",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>妪姬示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>妪姬（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>仙姬</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雒龙君之妻</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>百卵生百子</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>百越起源</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>上山</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>山海分居</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>妪姬要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "妪姬的身份",
+     "views": [
+      {
+       "holder": "仙母始祖说",
+       "basis": "越南民族的仙族始祖。"
+      },
+      {
+       "holder": "生育/土地象征说",
+       "basis": "象征生育与土地的母神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "妪姬是越南神话的仙姬始祖，与雒龙君生百卵百子。",
+     "source": "pri-au-co"
+    },
+    {
+     "claim": "'龙子仙孙'（con Rồng cháu Tiên）是越南民族的核心认同。",
+     "source": "pri-au-co"
+    }
+   ]
   }
  ]
 }

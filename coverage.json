@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T11:48:56+08:00",
+  "generated": "2026-11-24T13:02:56+08:00",
   "summary": {
-    "total": 548,
+    "total": 554,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 293
+      "U4": 299
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 434
+      "补充": 440
     },
     "by_level": {
       "L1": 0,
-      "L2": 434,
+      "L2": 440,
       "L3": 114
     },
-    "l2_done": 548,
+    "l2_done": 554,
     "l3_done": 114,
-    "verified_sources": 431
+    "verified_sources": 437
   },
   "entries": [
     {
@@ -6043,6 +6043,72 @@
     {
       "id": "fig-asha",
       "name": "阿沙",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-tangun",
+      "name": "檀君",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-hwanung",
+      "name": "桓雄",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-jumong",
+      "name": "朱蒙",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-habaek",
+      "name": "河伯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-lac-long-quan",
+      "name": "雒龙君",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-au-co",
+      "name": "妪姬",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

@@ -6200,6 +6200,84 @@
    "link_ok": true,
    "verified": true,
    "note": "阿沙（Asha，'真理/秩序'）是琐罗亚斯德教的核心概念与七大天使之一，与'德鲁杰'（谎言）对立；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-dangun",
+   "title": "檀君文献（《三国遗事》等）",
+   "author": "一然等",
+   "year": null,
+   "year_display": "13世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Dangun",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "檀君（Dangun/Tan'gun）是朝鲜神话中朝鲜的建国始祖，檀君朝鲜的开国之君；2026-11-23 经 Wikipedia API 实测（Dangun→Tan'gun）。"
+  },
+  {
+   "id": "pri-hwanung",
+   "title": "桓雄文献（《三国遗事》）",
+   "author": "一然",
+   "year": null,
+   "year_display": "13世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hwanung",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "桓雄（Hwanung）是朝鲜神话中桓因之子，降临太白山、建立神市，檀君之父；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-jumong",
+   "title": "朱蒙文献（《三国史记》《三国遗事》）",
+   "author": "金富轼/一然",
+   "year": null,
+   "year_display": "12—13世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Dongmyeong_of_Goguryeo",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "朱蒙（Jumong/Dongmyeong）是高句丽的建国始祖，卵生神话的主角；2026-11-23 经 Wikipedia API 实测（Jumong→Dongmyeong of Goguryeo）。"
+  },
+  {
+   "id": "pri-habaek",
+   "title": "河伯文献（朝鲜神话）",
+   "author": "佚名（朝鲜）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Habaek",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "河伯（Habaek）是朝鲜神话中的水神，柳花之父，朱蒙之外祖父；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-lac-long-quan",
+   "title": "雒龙君文献（越南神话）",
+   "author": "佚名（越南）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/L%E1%BA%A1c_Long_Qu%C3%A2n",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雒龙君（Lạc Long Quân）是越南神话的龙君始祖，妪姬之夫，百越之祖；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-au-co",
+   "title": "妪姬文献（越南神话）",
+   "author": "佚名（越南）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/%C3%82u_C%C6%A1",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "妪姬（Âu Cơ）是越南神话的仙姬始祖，雒龙君之妻，百卵生百子之母；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
