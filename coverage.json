@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:09:16+08:00",
+  "generated": "2026-11-24T10:13:30+08:00",
   "summary": {
-    "total": 440,
+    "total": 446,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 185
+      "U4": 191
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 326
+      "补充": 332
     },
     "by_level": {
       "L1": 0,
-      "L2": 326,
+      "L2": 332,
       "L3": 114
     },
-    "l2_done": 440,
+    "l2_done": 446,
     "l3_done": 114,
-    "verified_sources": 323
+    "verified_sources": 329
   },
   "entries": [
     {
@@ -4860,6 +4860,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-heracles",
+      "name": "赫拉克勒斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-theseus",
+      "name": "忒修斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-jason",
+      "name": "伊阿宋",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-achilles",
+      "name": "阿喀琉斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-odysseus",
+      "name": "奥德修斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-orpheus",
+      "name": "俄耳甫斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-24"
     }

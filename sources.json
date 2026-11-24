@@ -4796,6 +4796,84 @@
    "link_ok": true,
    "verified": true,
    "note": "厄立特里亚正教 Tewahedo 教会1993年自埃塞俄比亚教会独立，属东方正统教会；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-heracles",
+   "title": "赫拉克勒斯文献（阿波罗多洛斯与荷马）",
+   "author": "佚名（希腊）/Apollodorus 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Heracles",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "赫拉克勒斯是希腊最伟大的英雄，以十二功绩著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-theseus",
+   "title": "忒修斯文献（普鲁塔克与雅典传说）",
+   "author": "佚名（希腊）/Plutarch 等",
+   "year": null,
+   "year_display": "古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Theseus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "忒修斯是雅典的英雄，以杀弥诺陶洛斯、统一雅典著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-jason",
+   "title": "伊阿宋文献（阿波罗尼乌斯《阿尔戈英雄纪》）",
+   "author": "Apollonius of Rhodes 等",
+   "year": null,
+   "year_display": "希腊化时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Jason",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊阿宋是阿尔戈英雄的领袖，以寻取金羊毛著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-achilles",
+   "title": "阿喀琉斯文献（《伊利亚特》）",
+   "author": "荷马",
+   "year": null,
+   "year_display": "约前8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Achilles",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿喀琉斯是《伊利亚特》的核心英雄，以勇武与'阿喀琉斯之踵'著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-odysseus",
+   "title": "奥德修斯文献（《奥德赛》）",
+   "author": "荷马",
+   "year": null,
+   "year_display": "约前8世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Odysseus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "奥德修斯是《奥德赛》的主角，以智谋与十年归乡漂泊著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-orpheus",
+   "title": "俄耳甫斯文献（俄耳甫斯教与神话）",
+   "author": "佚名（希腊）",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Orpheus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "俄耳甫斯是希腊神话的音乐家与诗人，以入冥界寻妻与俄耳甫斯教著称；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
