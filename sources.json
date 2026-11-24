@@ -4562,6 +4562,84 @@
    "link_ok": true,
    "verified": true,
    "note": "作为占卜概念的背景来源，2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-oomoto",
+   "title": "大本教文献（出口王仁三郎著述）",
+   "author": "出口直/出口王仁三郎",
+   "year": null,
+   "year_display": "19世纪末起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Oomoto",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "大本教（Oomoto）是19世纪末日本兴起的新宗教，由出口直与出口王仁三郎发展；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-soka-gakkai",
+   "title": "创价学会文献（池田大作与日莲佛法）",
+   "author": "牧口常三郎/户田城圣/池田大作",
+   "year": null,
+   "year_display": "1930年起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Soka_Gakkai",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "创价学会（Soka Gakkai）是1930年创立、基于日莲佛法的日本新兴宗教团体；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-sabians",
+   "title": "萨比教文献（曼达派与哈兰萨比）",
+   "author": "佚名（萨比派）",
+   "year": null,
+   "year_display": "古代—中世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sabians",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "'萨比教'(Sabians) 是古兰经提到的宗教群体，学界关联曼达派与哈兰的星崇拜萨比派；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-mithraism",
+   "title": "密特拉教文献（密特拉秘仪）",
+   "author": "佚名（罗马密特拉教徒）",
+   "year": null,
+   "year_display": "1–4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mithraism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "密特拉教（Mithraism）是罗马帝国流行的密特拉秘仪宗教，以宰牛（tauroctony）图像为核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-isis-mysteries",
+   "title": "伊西斯秘仪文献（希腊化—罗马期）",
+   "author": "佚名（伊西斯崇拜者）",
+   "year": null,
+   "year_display": "希腊化—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Isis",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊西斯崇拜（Isiac mysteries）在希腊化—罗马期广泛流行，见阿普列乌斯《金驴记》第11卷的描述；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-eleusinian",
+   "title": "厄琉息斯秘仪文献（荷马颂歌等）",
+   "author": "佚名（厄琉息斯）",
+   "year": null,
+   "year_display": "前6世纪—4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Eleusinian_Mysteries",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "厄琉息斯秘仪（Eleusinian Mysteries）是古希腊最重要的秘仪，祭祀得墨忒尔与珀耳塞福涅；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

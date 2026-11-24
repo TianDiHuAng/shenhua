@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 308,
-    "total": 422,
+    "supplement_l2": 314,
+    "total": 428,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/422）；补充层 308 条 L2；来源 351 条"
+    "verdict": "核心与重要层 100% L3（114/428）；补充层 314 条 L2；来源 357 条"
   },
   "round_log": [
     {
@@ -1041,6 +1041,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次45：新增6宗教概念母题（祖先崇拜/灵魂/禁忌/图腾/巫术/占卜）U3达72；6来源核验；422条0 errors",
       "verdict": "正常扩充（批次45，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-88",
+      "date": "2026-11-24",
+      "methods_run": [
+        "D15三重查重",
+        "联网宗教大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次46：新增6宗教传统/秘仪（大本教/创价学会/萨比教/密特拉教/伊西斯秘仪/厄琉息斯秘仪）U2达81；6来源核验；修复sabians引用；428条0 errors",
+      "verdict": "正常扩充（批次46，6条）"
     }
   ]
 }

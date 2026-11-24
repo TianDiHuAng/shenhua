@@ -6356,6 +6356,450 @@
      "source": "pri-yarsanism"
     }
    ]
+  },
+  {
+   "id": "rel-oomoto",
+   "title": "大本教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "19世纪末日本兴起、融合神道与末世论的新宗教。",
+   "related": [
+    "rel-shenism",
+    "rel-tenrikyo",
+    "rel-soka-gakkai"
+   ],
+   "sources": [
+    "pri-oomoto",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 新兴/古代宗教史料不一，部分依考古或外部文献；2) 教派自述与外部研究须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "大本教（Oomoto）是19世纪末（1892年获许可）由出口直（Deguchi Nao）创立的日本新兴宗教，后由其女婿出口王仁三郎（Onisaburo Deguchi）发展而成体系：融合神道、民间信仰与末世论（'立替'——世界的更新重建），强调神灵附体（出口直的'御笔先'自动书写神谕）与'瑞之光'、'大本'的美善理想。大本教在20世纪两次遭日本政府镇压（1921、1935），二战后重建，并派生出合气道、世界救世教等团体，对日本新兴宗教运动影响深远。",
+   "versions": [
+    "大本教（Oomoto）是19世纪末（1892年获许可）由出口直（Deguchi Nao）创立的日本新兴宗教，后由其女婿出口王仁三郎（Onisaburo Deguchi）发展而成体系：融合神道、民间信仰与末世论（'立替'——世界的更新重建），强调神灵附体（出口直的'御笔先'自动书写神谕）与'瑞之光'、'大本'的美善理想。大本教在20世纪两次遭日本政府镇压（1921、1935），二战后重建，并派生出合气道、世界救世教等团体，对日本新兴宗教运动影响深远。"
+   ],
+   "interpretations": [
+    {
+     "holder": "出口直",
+     "school": "创立者",
+     "view": "以自动书写的神谕奠定大本教的教义基础。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把大本教作为日本新兴宗教的代表案例。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "现代日本宗教研究",
+     "school": "宗教学",
+     "view": "强调大本教对20世纪日本新兴宗教的母体作用。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-oomoto",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>大本教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>大本教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>立替</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>世界更新</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>御笔先</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>自动书写神谕</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大本</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>美善理想</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大本教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "大本教的性质",
+     "views": [
+      {
+       "holder": "神道改革说",
+       "basis": "是神道传统内的改革复兴。"
+      },
+      {
+       "holder": "新兴宗教说",
+       "basis": "是独立的新宗教运动。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "大本教1892年由出口直创立，由出口王仁三郎发展。",
+     "source": "pri-oomoto"
+    },
+    {
+     "claim": "大本教曾两次遭日本政府镇压，二战后重建。",
+     "source": "pri-oomoto"
+    }
+   ]
+  },
+  {
+   "id": "rel-soka-gakkai",
+   "title": "创价学会",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "1930年创立、基于日莲佛法的日本新兴宗教团体。",
+   "related": [
+    "rel-nichiren",
+    "rel-tenrikyo",
+    "rel-oomoto"
+   ],
+   "sources": [
+    "pri-soka-gakkai",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 新兴/古代宗教史料不一，部分依考古或外部文献；2) 教派自述与外部研究须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "创价学会（Soka Gakkai，'创造价值学会'）是1930年由牧口常三郎与户田城圣创立、基于日莲佛法（日莲宗系）的日本在家佛教团体：以'南无妙法莲华经'唱名与'人间革命'为核心理念，强调通过信仰实现个人幸福与社会和平。战后在户田城圣与池田大作领导下迅速扩张，成为日本最大的在家佛教组织之一，并派生国际创价学会（SGI）。创价学会与公明党（日本政党）的关系及其政治参与是日本社会的讨论议题。",
+   "versions": [
+    "创价学会（Soka Gakkai，'创造价值学会'）是1930年由牧口常三郎与户田城圣创立、基于日莲佛法（日莲宗系）的日本在家佛教团体：以'南无妙法莲华经'唱名与'人间革命'为核心理念，强调通过信仰实现个人幸福与社会和平。战后在户田城圣与池田大作领导下迅速扩张，成为日本最大的在家佛教组织之一，并派生国际创价学会（SGI）。创价学会与公明党（日本政党）的关系及其政治参与是日本社会的讨论议题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "牧口常三郎",
+     "school": "创立者",
+     "view": "创价教育学与日莲信仰是其思想基础。"
+    },
+    {
+     "holder": "池田大作",
+     "school": "领导者",
+     "view": "推动创价学会国际化与SGI的建立。"
+    },
+    {
+     "holder": "现代日本宗教研究",
+     "school": "宗教学",
+     "view": "强调创价学会作为在家佛教运动的扩张模式。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-soka-gakkai",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>创价学会结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>创价学会（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>日莲佛法</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>唱名修行</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>人间革命</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>个人转化</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>SGI国际化</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>全球传播</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>创价学会要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "创价学会的地位",
+     "views": [
+      {
+       "holder": "在家佛教说",
+       "basis": "是日莲系在家信徒的现代运动。"
+      },
+      {
+       "holder": "新兴宗教说",
+       "basis": "是20世纪日本新兴宗教。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "创价学会1930年创立，基于日莲佛法。",
+     "source": "pri-soka-gakkai"
+    },
+    {
+     "claim": "创价学会派生国际创价学会（SGI），影响全球。",
+     "source": "pri-soka-gakkai"
+    }
+   ]
+  },
+  {
+   "id": "rel-sabians",
+   "title": "萨比教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "古兰经提及的宗教群体，学界关联曼达派与哈兰星崇拜者。",
+   "related": [
+    "rel-mandaeism",
+    "rel-islam",
+    "rel-judaism"
+   ],
+   "sources": [
+    "pri-sabians",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 新兴/古代宗教史料不一，部分依考古或外部文献；2) 教派自述与外部研究须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "萨比教（Sabians，阿拉伯语 ṣābiʾa）是《古兰经》中提到的一类'有经者'（与犹太教徒、基督徒并列），其具体身份是学术难题：多数学者把南伊拉克的曼达派（Mandaeans）与'萨比派'关联，另有观点关联哈兰（Harran）的星崇拜者（Hermetic 传统的萨比派）。萨比派在伊斯兰社会中获得一定的'有经者'地位（尤其曼达派）。'萨比'一名在中东宗教史中涵盖多样群体，须区分不同历史语境。",
+   "versions": [
+    "萨比教（Sabians，阿拉伯语 ṣābiʾa）是《古兰经》中提到的一类'有经者'（与犹太教徒、基督徒并列），其具体身份是学术难题：多数学者把南伊拉克的曼达派（Mandaeans）与'萨比派'关联，另有观点关联哈兰（Harran）的星崇拜者（Hermetic 传统的萨比派）。萨比派在伊斯兰社会中获得一定的'有经者'地位（尤其曼达派）。'萨比'一名在中东宗教史中涵盖多样群体，须区分不同历史语境。"
+   ],
+   "interpretations": [
+    {
+     "holder": "曼达派传统",
+     "school": "宗教史",
+     "view": "曼达派常被认同为古兰经的萨比派。"
+    },
+    {
+     "holder": "哈兰派研究",
+     "school": "宗教史",
+     "view": "哈兰的星崇拜萨比派是另一关联群体。"
+    },
+    {
+     "holder": "现代伊斯兰研究",
+     "school": "宗教学",
+     "view": "强调'萨比'名称在不同语境的多样所指。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sabians",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>萨比教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>萨比教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>有经者</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>古兰经地位</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>曼达派</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>南伊拉克</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈兰星崇拜</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Hermetic传统</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>萨比教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "萨比派的身份",
+     "views": [
+      {
+       "holder": "曼达派说",
+       "basis": "萨比派即曼达派。"
+      },
+      {
+       "holder": "哈兰说",
+       "basis": "萨比派指哈兰的星崇拜群体。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "萨比教是古兰经提及的有经者群体。",
+     "source": "pri-sabians"
+    },
+    {
+     "claim": "学界多把萨比派与曼达派或哈兰星崇拜者关联。",
+     "source": "pri-sabians"
+    }
+   ]
+  },
+  {
+   "id": "rel-mithraism",
+   "title": "密特拉教",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马帝国流行的密特拉秘仪宗教，以宰牛图像为核心。",
+   "related": [
+    "rel-zoroastrianism",
+    "myth-persian",
+    "motif-mystery-cult"
+   ],
+   "sources": [
+    "pri-mithraism",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 新兴/古代宗教史料不一，部分依考古或外部文献；2) 教派自述与外部研究须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "密特拉教（Mithraism）是1—4世纪在罗马帝国（尤其军队中）流行的密特拉（Mithras）秘仪宗教：其核心图像是密特拉在洞穴中宰杀神牛（tauroctony），象征宇宙的创生与救赎；入教者经七级阶梯式的密仪（从'乌鸦'到'父'）逐级晋升，仪式在地下洞窟（mithraeum）中举行。密特拉教源于更早的伊朗密特拉（Mithra）崇拜，但其罗马形态有独特的秘仪与神学。它与早期基督教的竞争关系是古代宗教史的讨论议题。",
+   "versions": [
+    "密特拉教（Mithraism）是1—4世纪在罗马帝国（尤其军队中）流行的密特拉（Mithras）秘仪宗教：其核心图像是密特拉在洞穴中宰杀神牛（tauroctony），象征宇宙的创生与救赎；入教者经七级阶梯式的密仪（从'乌鸦'到'父'）逐级晋升，仪式在地下洞窟（mithraeum）中举行。密特拉教源于更早的伊朗密特拉（Mithra）崇拜，但其罗马形态有独特的秘仪与神学。它与早期基督教的竞争关系是古代宗教史的讨论议题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "罗马密特拉研究",
+     "school": "宗教史",
+     "view": "密特拉密仪与宰牛图像是研究核心。"
+    },
+    {
+     "holder": "伊朗学",
+     "school": "比较宗教",
+     "view": "密特拉教的伊朗源流与罗马形态的差异是讨论议题。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "秘仪与入会阶梯可作宗教现象学参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-mithraism",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>密特拉教结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>密特拉教（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宰牛</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>tauroctony</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>七级秘仪</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>入会阶梯</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>洞窟神殿</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>mithraeum</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>密特拉教要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "密特拉教的起源",
+     "views": [
+      {
+       "holder": "伊朗源流说",
+       "basis": "源于伊朗密特拉崇拜。"
+      },
+      {
+       "holder": "罗马独创说",
+       "basis": "罗马形态是独立发展的新宗教。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "密特拉教是罗马帝国流行的密特拉秘仪宗教。",
+     "source": "pri-mithraism"
+    },
+    {
+     "claim": "宰牛（tauroctony）图像是密特拉教的核心。",
+     "source": "pri-mithraism"
+    }
+   ]
+  },
+  {
+   "id": "rel-isis-mysteries",
+   "title": "伊西斯秘仪",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊化—罗马期广泛流行的伊西斯崇拜与秘仪。",
+   "related": [
+    "fig-isis",
+    "myth-egyptian",
+    "motif-mystery-cult"
+   ],
+   "sources": [
+    "pri-isis-mysteries",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 新兴/古代宗教史料不一，部分依考古或外部文献；2) 教派自述与外部研究须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "伊西斯秘仪（Isiac mysteries）是希腊化—罗马时期对埃及女神伊西斯（Isis）的崇拜与秘仪：伊西斯被塑造为普世的救赎女神（'万神之母'），其秘仪包括入会仪式、洁净与象征性的死亡—重生体验。阿普列乌斯《金驴记》（《变形记》）第11卷详细描述了主人公 Lucius 入伊西斯秘仪的经历，是研究该崇拜的核心文本。伊西斯崇拜遍布罗马帝国（从庞贝到不列颠），与密特拉教、早期基督教同处一个宗教竞争市场。",
+   "versions": [
+    "伊西斯秘仪（Isiac mysteries）是希腊化—罗马时期对埃及女神伊西斯（Isis）的崇拜与秘仪：伊西斯被塑造为普世的救赎女神（'万神之母'），其秘仪包括入会仪式、洁净与象征性的死亡—重生体验。阿普列乌斯《金驴记》（《变形记》）第11卷详细描述了主人公 Lucius 入伊西斯秘仪的经历，是研究该崇拜的核心文本。伊西斯崇拜遍布罗马帝国（从庞贝到不列颠），与密特拉教、早期基督教同处一个宗教竞争市场。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Apuleius",
+     "school": "古典作家",
+     "view": "《金驴记》第11卷是伊西斯秘仪的第一手文学描述。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "秘仪的死亡—重生体验是宗教现象学的重要案例。"
+    },
+    {
+     "holder": "现代古代宗教研究",
+     "school": "宗教史",
+     "view": "伊西斯崇拜的普世化是希腊化宗教融合的典型。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-isis-mysteries",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊西斯秘仪结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊西斯秘仪（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>普世救赎女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>万神之母</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>入会秘仪</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>死亡重生</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>金驴记</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心文本</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊西斯秘仪要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "伊西斯崇拜的性质",
+     "views": [
+      {
+       "holder": "埃及延续说",
+       "basis": "是埃及伊西斯崇拜的延续。"
+      },
+      {
+       "holder": "希腊化重构说",
+       "basis": "希腊化形态是普世化的重构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊西斯秘仪在希腊化—罗马期广泛流行。",
+     "source": "pri-isis-mysteries"
+    },
+    {
+     "claim": "阿普列乌斯《金驴记》第11卷是研究伊西斯秘仪的核心文本。",
+     "source": "pri-isis-mysteries"
+    }
+   ]
+  },
+  {
+   "id": "rel-eleusinian",
+   "title": "厄琉息斯秘仪",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "古希腊最重要的秘仪，祭祀得墨忒尔与珀耳塞福涅。",
+   "related": [
+    "fig-demeter",
+    "myth-greek",
+    "motif-mystery-cult"
+   ],
+   "sources": [
+    "pri-eleusinian",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 新兴/古代宗教史料不一，部分依考古或外部文献；2) 教派自述与外部研究须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "厄琉息斯秘仪（Eleusinian Mysteries）是古希腊最重要的秘仪，每年在雅典附近的厄琉息斯举行，祭祀得墨忒尔（Demeter）与她的女儿珀耳塞福涅（Persephone）——其神话讲述珀耳塞福涅被冥王哈迪斯劫走、得墨忒尔寻女、最终母女部分团聚（解释季节循环）的故事。秘仪分为'小秘仪'与'大秘仪'，入会者（mystai）经历严守秘密的仪式，据说能获得对死亡的更好希望与来世的福佑。秘仪延续近两千年（约前15世纪—公元4世纪），其具体内容因守密而失传，是古典宗教研究的核心谜题。",
+   "versions": [
+    "厄琉息斯秘仪（Eleusinian Mysteries）是古希腊最重要的秘仪，每年在雅典附近的厄琉息斯举行，祭祀得墨忒尔（Demeter）与她的女儿珀耳塞福涅（Persephone）——其神话讲述珀耳塞福涅被冥王哈迪斯劫走、得墨忒尔寻女、最终母女部分团聚（解释季节循环）的故事。秘仪分为'小秘仪'与'大秘仪'，入会者（mystai）经历严守秘密的仪式，据说能获得对死亡的更好希望与来世的福佑。秘仪延续近两千年（约前15世纪—公元4世纪），其具体内容因守密而失传，是古典宗教研究的核心谜题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "得墨忒尔神话",
+     "school": "核心神话",
+     "view": "母女团聚叙事解释季节循环与来世。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "《希腊宗教》对厄琉息斯秘仪有系统研究（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "秘仪的入会与来世希望是宗教现象学的重要案例。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-eleusinian",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>厄琉息斯秘仪结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>厄琉息斯秘仪（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>得墨忒尔/珀耳塞福涅</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>母女神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>入会（mystai）</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>严守秘密</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>来世希望</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>福佑</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>厄琉息斯秘仪要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "秘仪的内容",
+     "views": [
+      {
+       "holder": "农业丰饶说",
+       "basis": "秘仪关乎农业与季节。"
+      },
+      {
+       "holder": "来世救赎说",
+       "basis": "秘仪提供来世的福佑与希望。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "厄琉息斯秘仪是古希腊最重要的秘仪，祭祀得墨忒尔与珀耳塞福涅。",
+     "source": "pri-eleusinian"
+    },
+    {
+     "claim": "秘仪的具体内容因守密而失传，是古典研究的核心谜题。",
+     "source": "pri-eleusinian"
+    }
+   ]
   }
  ]
 }
