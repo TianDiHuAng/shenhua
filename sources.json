@@ -5654,6 +5654,84 @@
    "link_ok": true,
    "verified": true,
    "note": "奈费尔图姆（Nefertem）是埃及的莲花与芬芳之神，普塔与塞赫麦特之子，孟菲斯三神组之一；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nergal",
+   "title": "涅伽尔文献（两河冥界与战争神）",
+   "author": "佚名（两河）",
+   "year": null,
+   "year_display": "前2千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nergal",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "涅伽尔（Nergal）是两河的冥界、战争与瘟疫之神，与埃列什基伽勒共治冥界；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ninlil",
+   "title": "宁利尔文献（苏美尔女神）",
+   "author": "佚名（苏美尔）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ninlil",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "宁利尔（Ninlil）是苏美尔女神，恩利尔之妻，尼普尔的女主神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ningishzida",
+   "title": "宁吉什济达文献（苏美尔神）",
+   "author": "佚名（苏美尔）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ningishzida",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "宁吉什济达（Ningishzida）是苏美尔的冥界与丰饶神，蛇/杖的象征与医疗相关；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ninkasi",
+   "title": "宁卡西文献（苏美尔啤酒女神）",
+   "author": "佚名（苏美尔）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ninkasi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "宁卡西（Ninkasi）是苏美尔的啤酒酿造女神，'啤酒颂歌'的主角；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-sin",
+   "title": "辛（南纳）文献（两河月神）",
+   "author": "佚名（两河）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sin_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "辛/南纳（Sin/Nanna）是两河的月神，乌尔（Ur）主神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nuska",
+   "title": "努斯卡文献（苏美尔神）",
+   "author": "佚名（苏美尔）",
+   "year": null,
+   "year_display": "前3千纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nuska",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "努斯卡（Nuska）是苏美尔的火与光之神，恩利尔的执事与顾问；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

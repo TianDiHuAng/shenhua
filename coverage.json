@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T11:01:06+08:00",
+  "generated": "2026-11-24T11:06:55+08:00",
   "summary": {
-    "total": 506,
+    "total": 512,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 251
+      "U4": 257
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 392
+      "补充": 398
     },
     "by_level": {
       "L1": 0,
-      "L2": 392,
+      "L2": 398,
       "L3": 114
     },
-    "l2_done": 506,
+    "l2_done": 512,
     "l3_done": 114,
-    "verified_sources": 389
+    "verified_sources": 395
   },
   "entries": [
     {
@@ -5586,6 +5586,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-nergal",
+      "name": "涅伽尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ninlil",
+      "name": "宁利尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ningishzida",
+      "name": "宁吉什济达",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ninkasi",
+      "name": "宁卡西",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-sin",
+      "name": "辛（南纳）",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-nuska",
+      "name": "努斯卡",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-24"
     }

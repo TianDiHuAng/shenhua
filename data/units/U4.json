@@ -19662,6 +19662,454 @@
      "source": "pri-nefertum"
     }
    ]
+  },
+  {
+   "id": "fig-nergal",
+   "title": "涅伽尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "两河的冥界、战争与瘟疫之神。",
+   "related": [
+    "fig-ereshkigal",
+    "fig-dumuzid",
+    "motif-underworld"
+   ],
+   "sources": [
+    "pri-nergal",
+    "pri-gilgamesh",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 两河神祇材料跨苏美尔语与阿卡德语多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "涅伽尔（Nergal）是两河的冥界、战争与瘟疫之神：他最初是战争与死亡的神，后与冥界女王埃列什基伽勒共治冥界（在《涅伽尔与埃列什基伽勒》叙事中成为冥界之王）。涅伽尔象征战争、死亡与瘟疫的毁灭力量，其崇拜中心是库塔（Kutha）。他也与太阳的灼热、火与沙漠相关。涅伽尔在美索不达米亚的冥界神学中地位重要。",
+   "versions": [
+    "涅伽尔（Nergal）是两河的冥界、战争与瘟疫之神：他最初是战争与死亡的神，后与冥界女王埃列什基伽勒共治冥界（在《涅伽尔与埃列什基伽勒》叙事中成为冥界之王）。涅伽尔象征战争、死亡与瘟疫的毁灭力量，其崇拜中心是库塔（Kutha）。他也与太阳的灼热、火与沙漠相关。涅伽尔在美索不达米亚的冥界神学中地位重要。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "冥界与战争神的神格分析（著作未录入来源库）。"
+    },
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "冥界叙事的译注。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "冥界与死亡之神可作宇宙论参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nergal",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>涅伽尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>涅伽尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冥界之王</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与埃列什基伽勒共治</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战争瘟疫</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>毁灭力量</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>库塔</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>涅伽尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "涅伽尔的职能",
+     "views": [
+      {
+       "holder": "冥界神说",
+       "basis": "与埃列什基伽勒共治冥界。"
+      },
+      {
+       "holder": "战争瘟疫神说",
+       "basis": "象征战争与瘟疫的毁灭。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "涅伽尔是两河的冥界、战争与瘟疫之神。",
+     "source": "pri-nergal"
+    },
+    {
+     "claim": "涅伽尔在《涅伽尔与埃列什基伽勒》中成为冥界之王。",
+     "source": "pri-nergal"
+    }
+   ]
+  },
+  {
+   "id": "fig-ninlil",
+   "title": "宁利尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔女神，恩利尔之妻，尼普尔的女主神。",
+   "related": [
+    "fig-enlil",
+    "fig-ninhursag",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-ninlil",
+    "aca-sumerian-mythology",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 两河神祇材料跨苏美尔语与阿卡德语多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "宁利尔（Ninlil，'风之女'）是苏美尔女神，恩利尔（Enlil）之妻，尼普尔（Nippur）的女主神：在《恩利尔与宁利尔》神话中，恩利尔被放逐、宁利尔追随他，二人在冥界以替代祭品（三个孩子的诞生）赎罪，最终重返尼普尔。宁利尔是苏美尔万神殿中的'天后'（与恩利尔对应），象征母性、丰饶与王后的神圣地位。她在阿卡德传统中与穆利苏（Mullissu）相关联。",
+   "versions": [
+    "宁利尔（Ninlil，'风之女'）是苏美尔女神，恩利尔（Enlil）之妻，尼普尔（Nippur）的女主神：在《恩利尔与宁利尔》神话中，恩利尔被放逐、宁利尔追随他，二人在冥界以替代祭品（三个孩子的诞生）赎罪，最终重返尼普尔。宁利尔是苏美尔万神殿中的'天后'（与恩利尔对应），象征母性、丰饶与王后的神圣地位。她在阿卡德传统中与穆利苏（Mullissu）相关联。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "《恩利尔与宁利尔》译注是其神话核心。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "恩利尔—宁利尔的配偶结构（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天后与母神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ninlil",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>宁利尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>宁利尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>恩利尔之妻</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天后</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼普尔女主</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冥界赎罪</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>三子诞生</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宁利尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "宁利尔的地位",
+     "views": [
+      {
+       "holder": "天后的说",
+       "basis": "与恩利尔对应的万神殿之后。"
+      },
+      {
+       "holder": "母神说",
+       "basis": "象征母性与丰饶。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "宁利尔是苏美尔女神，恩利尔之妻，尼普尔女主神。",
+     "source": "pri-ninlil"
+    },
+    {
+     "claim": "《恩利尔与宁利尔》叙述二人的冥界赎罪与重返。",
+     "source": "pri-ninlil"
+    }
+   ]
+  },
+  {
+   "id": "fig-ningishzida",
+   "title": "宁吉什济达",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔的冥界与丰饶神，蛇/杖的象征。",
+   "related": [
+    "fig-dumuzid",
+    "fig-ereshkigal",
+    "motif-serpent"
+   ],
+   "sources": [
+    "pri-ningishzida",
+    "pri-gilgamesh",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 两河神祇材料跨苏美尔语与阿卡德语多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "宁吉什济达（Ningishzida，'好树之主'）是苏美尔的冥界与丰饶神：他是冥界守门神之一，与蛇（或龙）和杖的象征相关，其形象（双蛇缠绕的杖）被学者与希腊医神杖（caduceus/阿斯克勒庇俄斯杖）作比较（但直接关联有争议）。宁吉什济达也是拉格什（Lagash）地区的崇拜对象，象征植物、丰饶与冥界的生命力。",
+   "versions": [
+    "宁吉什济达（Ningishzida，'好树之主'）是苏美尔的冥界与丰饶神：他是冥界守门神之一，与蛇（或龙）和杖的象征相关，其形象（双蛇缠绕的杖）被学者与希腊医神杖（caduceus/阿斯克勒庇俄斯杖）作比较（但直接关联有争议）。宁吉什济达也是拉格什（Lagash）地区的崇拜对象，象征植物、丰饶与冥界的生命力。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "宁吉什济达的冥界与杖的象征。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "冥界守门神与丰饶（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "蛇杖与丰饶/医疗可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ningishzida",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>宁吉什济达形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>宁吉什济达（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冥界守门</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>丰饶</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>蛇杖</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>象征</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉格什</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜地</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宁吉什济达要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "宁吉什济达的象征",
+     "views": [
+      {
+       "holder": "冥界神说",
+       "basis": "冥界守门与丰饶。"
+      },
+      {
+       "holder": "医疗蛇杖说",
+       "basis": "双蛇杖与医疗的关联（有争议）。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "宁吉什济达是苏美尔的冥界与丰饶神。",
+     "source": "pri-ningishzida"
+    },
+    {
+     "claim": "宁吉什济达的蛇杖象征被与医神杖作比较（直接关联有争议）。",
+     "source": "pri-ningishzida"
+    }
+   ]
+  },
+  {
+   "id": "fig-ninkasi",
+   "title": "宁卡西",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔的啤酒酿造女神。",
+   "related": [
+    "myth-mesopotamian",
+    "fig-ninhursag",
+    "motif-agriculture"
+   ],
+   "sources": [
+    "pri-ninkasi",
+    "aca-sumerian-mythology"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 两河神祇材料跨苏美尔语与阿卡德语多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "宁卡西（Ninkasi）是苏美尔的啤酒酿造女神：她的名字意为'（用发酵的）口充满的女士'，苏美尔文献中的'给宁卡西的赞美诗'（Hymn to Ninkasi）不仅赞颂她，也以诗歌形式记录了古代啤酒的酿造工艺（大麦面包、麦芽、发酵）。宁卡西象征啤酒、酿造、丰饶与 joyful 的饮宴，是苏美尔饮食文化与宗教交织的典型。啤酒在美索不达米亚是日常与仪式的重要饮品。",
+   "versions": [
+    "宁卡西（Ninkasi）是苏美尔的啤酒酿造女神：她的名字意为'（用发酵的）口充满的女士'，苏美尔文献中的'给宁卡西的赞美诗'（Hymn to Ninkasi）不仅赞颂她，也以诗歌形式记录了古代啤酒的酿造工艺（大麦面包、麦芽、发酵）。宁卡西象征啤酒、酿造、丰饶与 joyful 的饮宴，是苏美尔饮食文化与宗教交织的典型。啤酒在美索不达米亚是日常与仪式的重要饮品。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "'给宁卡西的赞美诗'的译注。"
+    },
+    {
+     "holder": "现代亚述学",
+     "school": "社会史",
+     "view": "啤酒在美索不达米亚经济与仪式中的地位。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "丰饶与酿造可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ninkasi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>宁卡西形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>宁卡西（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>啤酒女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>酿造</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>赞美诗</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>工艺记录</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶饮宴</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>日常与仪式</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宁卡西要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "宁卡西的职能",
+     "views": [
+      {
+       "holder": "啤酒酿造神说",
+       "basis": "主管酿造与啤酒。"
+      },
+      {
+       "holder": "丰饶饮宴说",
+       "basis": "象征丰饶与欢乐。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "宁卡西是苏美尔的啤酒酿造女神。",
+     "source": "pri-ninkasi"
+    },
+    {
+     "claim": "'给宁卡西的赞美诗'记录了古代啤酒的酿造工艺。",
+     "source": "pri-ninkasi"
+    }
+   ]
+  },
+  {
+   "id": "fig-sin",
+   "title": "辛（南纳）",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "两河的月神，乌尔主神。",
+   "related": [
+    "fig-shamash",
+    "fig-ereshkigal",
+    "motif-moon"
+   ],
+   "sources": [
+    "pri-sin",
+    "aca-sumerian-mythology",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 两河神祇材料跨苏美尔语与阿卡德语多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "辛（Sin，苏美尔名 Nanna/Nannar）是两河的月神，乌尔（Ur）的城邦主神：他是太阳神沙马什（Shamash）与冥界女神埃列什基伽勒之父，以月牙（新月/满月/残月）的周期性著称，象征时间的计量与历法。辛的神兽是 crescent 月牙上的小船，乌尔的大塔庙（ziggurat）是其崇拜的核心。月神在两河宗教中是重要的天体神，其周期性象征再生与时间的秩序。",
+   "versions": [
+    "辛（Sin，苏美尔名 Nanna/Nannar）是两河的月神，乌尔（Ur）的城邦主神：他是太阳神沙马什（Shamash）与冥界女神埃列什基伽勒之父，以月牙（新月/满月/残月）的周期性著称，象征时间的计量与历法。辛的神兽是 crescent 月牙上的小船，乌尔的大塔庙（ziggurat）是其崇拜的核心。月神在两河宗教中是重要的天体神，其周期性象征再生与时间的秩序。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "月神叙事的译注。"
+    },
+    {
+     "holder": "Thorkild Jacobsen",
+     "school": "亚述学",
+     "view": "月神与时间秩序（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "月神与周期性再生可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sin",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>辛（南纳）形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>辛（南纳）（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>月神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>月牙</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌尔主神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大塔庙</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>时间计量</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>历法</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>辛（南纳）要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "辛的职能",
+     "views": [
+      {
+       "holder": "月神说",
+       "basis": "象征月亮的周期性。"
+      },
+      {
+       "holder": "时间神说",
+       "basis": "掌管历法与时间秩序。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "辛（南纳）是两河的月神，乌尔主神。",
+     "source": "pri-sin"
+    },
+    {
+     "claim": "辛的月牙周期性象征再生与时间秩序。",
+     "source": "pri-sin"
+    }
+   ]
+  },
+  {
+   "id": "fig-nuska",
+   "title": "努斯卡",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "苏美尔的火与光之神，恩利尔的执事。",
+   "related": [
+    "fig-enlil",
+    "fig-ninlil",
+    "motif-fire"
+   ],
+   "sources": [
+    "pri-nuska",
+    "aca-sumerian-mythology"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 两河神祇材料跨苏美尔语与阿卡德语多个文本层，具体读法依版本；2) 神格在城邦政治中的演变须分层描述；3) 描述性立场。",
+   "year": null,
+   "source_text": "努斯卡（Nuska）是苏美尔的火、光与治安之神：他是恩利尔（Enlil）的执事（sukkal）与顾问，掌管照明、火把与神圣的仪式程序，也是王权的守护者与'恩利尔之杖'的持有者。努斯卡象征火的净化与光的引导，在尼普尔的神庙体系中地位重要。他体现了美索不达米亚'执事神'（sukkal）这一神格类型——作为大神的侍从而具独立的神圣职能。",
+   "versions": [
+    "努斯卡（Nuska）是苏美尔的火、光与治安之神：他是恩利尔（Enlil）的执事（sukkal）与顾问，掌管照明、火把与神圣的仪式程序，也是王权的守护者与'恩利尔之杖'的持有者。努斯卡象征火的净化与光的引导，在尼普尔的神庙体系中地位重要。他体现了美索不达米亚'执事神'（sukkal）这一神格类型——作为大神的侍从而具独立的神圣职能。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Samuel Kramer",
+     "school": "苏美尔学",
+     "view": "努斯卡作为恩利尔执事的职能。"
+    },
+    {
+     "holder": "现代亚述学",
+     "school": "神学",
+     "view": "执事神（sukkal）类型的分析。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "火与光的净化可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nuska",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>努斯卡形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>努斯卡（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>火与光</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>净化</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>恩利尔执事</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>sukkal</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王权守护</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>照明</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>努斯卡要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "努斯卡的职能",
+     "views": [
+      {
+       "holder": "火神说",
+       "basis": "象征火的净化。"
+      },
+      {
+       "holder": "执事神说",
+       "basis": "作为恩利尔的侍从。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "努斯卡是苏美尔的火与光之神，恩利尔的执事。",
+     "source": "pri-nuska"
+    },
+    {
+     "claim": "努斯卡体现美索不达米亚'执事神'（sukkal）的神格类型。",
+     "source": "pri-nuska"
+    }
+   ]
   }
  ]
 }
