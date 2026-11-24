@@ -5030,6 +5030,84 @@
    "link_ok": true,
    "verified": true,
    "note": "塔沃里特（Taweret）是埃及的河马首孕妇与儿童守护女神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-frigg",
+   "title": "弗丽嘉文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Frigg",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "弗丽嘉（Frigg）是北欧神后，奥丁之妻，掌管婚姻与母性；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-heimdall",
+   "title": "海姆达尔文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Heimdall",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "海姆达尔（Heimdallr）是北欧的守护神，守卫彩虹桥比弗罗斯特，持 Gjallarhorn 号角；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-njord",
+   "title": "尼约德文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "尼约德（Njörðr）是北欧 Vanir 神族的海洋与丰饶之神，弗雷与弗蕾亚之父；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-skadi",
+   "title": "斯卡蒂文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ska%C3%B0i",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "斯卡蒂（Skaði）是北欧的女巨人，滑雪与冬季女神，尼约德之妻；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-idunn",
+   "title": "伊登文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/I%C3%B0unn",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊登（Iðunn）是北欧的青春苹果守护女神，Bragi 之妻；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ymir",
+   "title": "伊米尔文献（《埃达》原初巨人）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ymir",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊米尔（Ymir）是北欧的原初巨人，世界由其身体造化而成；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

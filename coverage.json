@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:23:27+08:00",
+  "generated": "2026-11-24T10:28:26+08:00",
   "summary": {
-    "total": 458,
+    "total": 464,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 203
+      "U4": 209
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 344
+      "补充": 350
     },
     "by_level": {
       "L1": 0,
-      "L2": 344,
+      "L2": 350,
       "L3": 114
     },
-    "l2_done": 458,
+    "l2_done": 464,
     "l3_done": 114,
-    "verified_sources": 341
+    "verified_sources": 347
   },
   "entries": [
     {
@@ -5053,6 +5053,72 @@
     {
       "id": "fig-taweret",
       "name": "塔沃里特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-frigg",
+      "name": "弗丽嘉",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-heimdall",
+      "name": "海姆达尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-njord",
+      "name": "尼约德",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-skadi",
+      "name": "斯卡蒂",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-idunn",
+      "name": "伊登",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ymir",
+      "name": "伊米尔",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

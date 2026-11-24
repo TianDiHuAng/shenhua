@@ -16063,6 +16063,456 @@
      "source": "pri-taweret"
     }
    ]
+  },
+  {
+   "id": "fig-frigg",
+   "title": "弗丽嘉",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧神后，奥丁之妻，掌管婚姻与母性。",
+   "related": [
+    "fig-odin",
+    "fig-freya",
+    "fig-baldr"
+   ],
+   "sources": [
+    "pri-frigg",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "弗丽嘉（Frigg）是北欧神话的神后，奥丁之妻，掌管婚姻、母性与家庭：她以智慧与沉默著称（知晓众神命运却不言），其宫殿 Fensalir 是诸神之后居所。弗丽嘉与弗蕾亚常被现代学者关联（二者在功能与名号上有重叠，可能是同一神格的分化）。在巴德尔之死的故事中，弗丽嘉让万物发誓不伤害巴德尔（唯独漏掉槲寄生），成为悲剧的转折。'Friday'（星期五）之名与弗丽嘉（或弗蕾亚）相关。",
+   "versions": [
+    "弗丽嘉（Frigg）是北欧神话的神后，奥丁之妻，掌管婚姻、母性与家庭：她以智慧与沉默著称（知晓众神命运却不言），其宫殿 Fensalir 是诸神之后居所。弗丽嘉与弗蕾亚常被现代学者关联（二者在功能与名号上有重叠，可能是同一神格的分化）。在巴德尔之死的故事中，弗丽嘉让万物发誓不伤害巴德尔（唯独漏掉槲寄生），成为悲剧的转折。'Friday'（星期五）之名与弗丽嘉（或弗蕾亚）相关。"
+   ],
+   "interpretations": [
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调弗丽嘉材料的中世纪语境与与弗蕾亚的关系。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "神后与主权功能的关联。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "神后与婚姻守护可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-frigg",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>弗丽嘉形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>弗丽嘉（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神后</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>奥丁之妻</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>婚姻母性</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>守护</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴德尔之母</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>槲寄生</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弗丽嘉要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "弗丽嘉与弗蕾亚",
+     "views": [
+      {
+       "holder": "同一神说",
+       "basis": "可能是同一神格的分化。"
+      },
+      {
+       "holder": "区分说",
+       "basis": "是不同神祇，职能有重叠。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "弗丽嘉是北欧神后，奥丁之妻，掌管婚姻与母性。",
+     "source": "pri-frigg"
+    },
+    {
+     "claim": "弗丽嘉在巴德尔之死中漏掉槲寄生的誓言。",
+     "source": "pri-frigg"
+    }
+   ]
+  },
+  {
+   "id": "fig-heimdall",
+   "title": "海姆达尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧守护神，守卫彩虹桥比弗罗斯特。",
+   "related": [
+    "fig-odin",
+    "fig-loki",
+    "motif-axis-mundi"
+   ],
+   "sources": [
+    "pri-heimdall",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "海姆达尔（Heimdallr）是北欧神话的守护神，负责守卫连接人间与神界的彩虹桥（Bifröst），防巨人入侵：他感官极其敏锐（能听见草生长、看见百里之外），手持 Gjallarhorn 号角（诸神黄昏时吹响召集众神），坐骑为金鬃马 Gulltoppr。海姆达尔被认为是'九母之子'，与洛基是宿敌（传说二者在诸神黄昏中同归于尽）。海姆达尔与人类社会的等级起源（Rígsþula 中的 Rig）相关。",
+   "versions": [
+    "海姆达尔（Heimdallr）是北欧神话的守护神，负责守卫连接人间与神界的彩虹桥（Bifröst），防巨人入侵：他感官极其敏锐（能听见草生长、看见百里之外），手持 Gjallarhorn 号角（诸神黄昏时吹响召集众神），坐骑为金鬃马 Gulltoppr。海姆达尔被认为是'九母之子'，与洛基是宿敌（传说二者在诸神黄昏中同归于尽）。海姆达尔与人类社会的等级起源（Rígsþula 中的 Rig）相关。"
+   ],
+   "interpretations": [
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调海姆达尔叙事的中世纪版本。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "海姆达尔与'世界轴心/边界'功能的关联。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "守护神与宇宙边界可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-heimdall",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>海姆达尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>海姆达尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>守护彩虹桥</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Bifröst</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Gjallarhorn</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>号角</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>九母之子</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与洛基宿敌</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>海姆达尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "海姆达尔的职能",
+     "views": [
+      {
+       "holder": "宇宙守护说",
+       "basis": "守卫神界边界。"
+      },
+      {
+       "holder": "末世号角说",
+       "basis": "诸神黄昏吹响号角。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "海姆达尔是北欧守护神，守卫彩虹桥比弗罗斯特。",
+     "source": "pri-heimdall"
+    },
+    {
+     "claim": "海姆达尔在诸神黄昏中吹响 Gjallarhorn 号角。",
+     "source": "pri-heimdall"
+    }
+   ]
+  },
+  {
+   "id": "fig-njord",
+   "title": "尼约德",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧 Vanir 神族的海洋与丰饶之神。",
+   "related": [
+    "fig-freyr",
+    "fig-freya",
+    "fig-skadi"
+   ],
+   "sources": [
+    "pri-njord",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "尼约德（Njörðr）是北欧 Vanir 神族的海洋、航海、渔业与丰饶之神，弗雷与弗蕾亚之父：作为 Vanir 与 Æsir 神族和解的人质之一，他居于海边的 Nóatún。尼约德与女巨人斯卡蒂（Skaði）的婚姻（因二人无法适应彼此的居所——海与山——而分离）是《诗体埃达》中关于婚姻与环境冲突的著名叙事。尼约德象征海洋的丰饶与航海者的庇护。",
+   "versions": [
+    "尼约德（Njörðr）是北欧 Vanir 神族的海洋、航海、渔业与丰饶之神，弗雷与弗蕾亚之父：作为 Vanir 与 Æsir 神族和解的人质之一，他居于海边的 Nóatún。尼约德与女巨人斯卡蒂（Skaði）的婚姻（因二人无法适应彼此的居所——海与山——而分离）是《诗体埃达》中关于婚姻与环境冲突的著名叙事。尼约德象征海洋的丰饶与航海者的庇护。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "尼约德归入第三功能（丰饶/生产）。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调尼约德与斯卡蒂婚姻叙事的文本语境。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "海神与丰饶可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-njord",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>尼约德形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>尼约德（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>海洋丰饶</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>航海庇护</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Vanir神族</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>弗雷之父</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与斯卡蒂婚姻</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>海山冲突</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼约德要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "尼约德的归属",
+     "views": [
+      {
+       "holder": "Vanir说",
+       "basis": "属 Vanir 神族。"
+      },
+      {
+       "holder": "Æsir接纳说",
+       "basis": "作为人质被 Æsir 接纳。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "尼约德是北欧 Vanir 神族的海洋与丰饶之神，弗雷之父。",
+     "source": "pri-njord"
+    },
+    {
+     "claim": "尼约德与斯卡蒂的婚姻因海山环境冲突而分离。",
+     "source": "pri-njord"
+    }
+   ]
+  },
+  {
+   "id": "fig-skadi",
+   "title": "斯卡蒂",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧女巨人，滑雪与冬季女神，尼约德之妻。",
+   "related": [
+    "fig-njord",
+    "myth-norse",
+    "myth-norse"
+   ],
+   "sources": [
+    "pri-skadi",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "斯卡蒂（Skaði）是北欧神话的女巨人（jötunn），滑雪、冬季、狩猎与山脉的女神：她因父亲 Thjazi 之死而持械前往阿斯加德复仇，众神以赔偿（包括让她在诸神中择婿、逗她发笑）平息，她最终嫁给尼约德，但因无法适应海边与山中的居所而分离。斯卡蒂象征严酷的冬季自然与独立的女战士形象，'Skadi'也被用作北欧/现代滑雪文化中的象征。她与乌勒尔（Ullr）的关联见于滑雪传统。",
+   "versions": [
+    "斯卡蒂（Skaði）是北欧神话的女巨人（jötunn），滑雪、冬季、狩猎与山脉的女神：她因父亲 Thjazi 之死而持械前往阿斯加德复仇，众神以赔偿（包括让她在诸神中择婿、逗她发笑）平息，她最终嫁给尼约德，但因无法适应海边与山中的居所而分离。斯卡蒂象征严酷的冬季自然与独立的女战士形象，'Skadi'也被用作北欧/现代滑雪文化中的象征。她与乌勒尔（Ullr）的关联见于滑雪传统。"
+   ],
+   "interpretations": [
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调斯卡蒂与尼约德婚姻叙事的文本版本。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "冬季女神与狩猎功能的关联。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "女巨人—自然力量可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-skadi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>斯卡蒂形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>斯卡蒂（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冬季滑雪</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>狩猎山脉</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼约德之妻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>海山冲突</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>复仇与赔偿</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿斯加德</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>斯卡蒂要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "斯卡蒂的形象",
+     "views": [
+      {
+       "holder": "自然女神说",
+       "basis": "象征冬季与山脉。"
+      },
+      {
+       "holder": "独立女战士说",
+       "basis": "持械复仇的女巨人。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "斯卡蒂是北欧滑雪与冬季女神，尼约德之妻。",
+     "source": "pri-skadi"
+    },
+    {
+     "claim": "斯卡蒂因海山环境冲突与尼约德分离。",
+     "source": "pri-skadi"
+    }
+   ]
+  },
+  {
+   "id": "fig-idunn",
+   "title": "伊登",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的青春苹果守护女神。",
+   "related": [
+    "myth-norse",
+    "fig-loki",
+    "motif-tree-of-life"
+   ],
+   "sources": [
+    "pri-idunn",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "伊登（Iðunn）是北欧神话的青春女神，守护能使诸神保持青春不朽的苹果，是诗人 Bragi 之妻：在《诗体埃达》的叙事中，巨人 Thjazi（斯卡蒂之父）化鹰劫走伊登与她的苹果，导致诸神衰老，后洛基奉命将她救回。伊登象征青春、生命力与丰饶，其苹果母题与希腊的金苹果（赫斯珀里得斯）等可作比较。伊登在北欧神话中是较'温和'的丰饶—青春神祇。",
+   "versions": [
+    "伊登（Iðunn）是北欧神话的青春女神，守护能使诸神保持青春不朽的苹果，是诗人 Bragi 之妻：在《诗体埃达》的叙事中，巨人 Thjazi（斯卡蒂之父）化鹰劫走伊登与她的苹果，导致诸神衰老，后洛基奉命将她救回。伊登象征青春、生命力与丰饶，其苹果母题与希腊的金苹果（赫斯珀里得斯）等可作比较。伊登在北欧神话中是较'温和'的丰饶—青春神祇。"
+   ],
+   "interpretations": [
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调伊登叙事的中世纪版本。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "青春女神与丰饶功能。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "青春苹果与不朽可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-idunn",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊登形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊登（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>青春苹果</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>诸神不老</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Bragi之妻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>诗人配偶</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>被劫与救回</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Thjazi</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊登要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "伊登的象征",
+     "views": [
+      {
+       "holder": "青春丰饶说",
+       "basis": "象征青春与生命力。"
+      },
+      {
+       "holder": "不朽象征说",
+       "basis": "苹果象征神的不朽。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊登是北欧守护青春苹果的女神，Bragi 之妻。",
+     "source": "pri-idunn"
+    },
+    {
+     "claim": "伊登被巨人 Thjazi 劫走的叙事见于《诗体埃达》。",
+     "source": "pri-idunn"
+    }
+   ]
+  },
+  {
+   "id": "fig-ymir",
+   "title": "伊米尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的原初巨人，世界由其身体造化而成。",
+   "related": [
+    "myth-norse",
+    "motif-creation",
+    "motif-first-man"
+   ],
+   "sources": [
+    "pri-ymir",
+    "pri-poetic-eddas",
+    "aca-eternal-return"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "伊米尔（Ymir，Aurgelmir）是北欧神话的原初巨人，由原初之冰（Niflheim 的冰与 Muspelheim 的火相遇）中诞生，是霜巨人的始祖：他从原初母牛 Auðumbla 的乳汁中获食，其身体（或与巨人 Búri 后裔的战争后）被奥丁三兄弟杀死，以其身体造化世界——血肉成大地、骨骼成山、血液成海洋、头颅成天空、脑髓成云（'以巨人身体造世'的母题）。伊米尔的死亡与世界创造是北欧创世论的核心。",
+   "versions": [
+    "伊米尔（Ymir，Aurgelmir）是北欧神话的原初巨人，由原初之冰（Niflheim 的冰与 Muspelheim 的火相遇）中诞生，是霜巨人的始祖：他从原初母牛 Auðumbla 的乳汁中获食，其身体（或与巨人 Búri 后裔的战争后）被奥丁三兄弟杀死，以其身体造化世界——血肉成大地、骨骼成山、血液成海洋、头颅成天空、脑髓成云（'以巨人身体造世'的母题）。伊米尔的死亡与世界创造是北欧创世论的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "强调伊米尔创世叙事的文本版本。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "以原初巨人身体造世是'宇宙人'（cosmic man）母题的典型。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "原初巨人—造世的结构可作印欧比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ymir",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊米尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊米尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>原初巨人</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>霜巨人始祖</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>身体造世</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>血肉成大地</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Auðumbla</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>原初母牛</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊米尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "伊米尔的创世",
+     "views": [
+      {
+       "holder": "巨人造世说",
+       "basis": "身体成为世界材料。"
+      },
+      {
+       "holder": "献祭创世说",
+       "basis": "其死是宇宙秩序的奠基。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊米尔是北欧原初巨人，世界由其身体造化而成。",
+     "source": "pri-ymir"
+    },
+    {
+     "claim": "'以巨人身体造世'是北欧创世论的核心母题。",
+     "source": "pri-ymir"
+    }
+   ]
   }
  ]
 }
