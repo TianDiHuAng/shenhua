@@ -21459,6 +21459,456 @@
      "source": "pri-aegir"
     }
    ]
+  },
+  {
+   "id": "fig-huitzilopochtli",
+   "title": "维齐洛波奇特利",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "阿兹特克的战争与太阳神，特诺奇蒂特兰的主神。",
+   "related": [
+    "fig-quetzalcoatl",
+    "fig-tlaloc",
+    "myth-aztec"
+   ],
+   "sources": [
+    "pri-huitzilopochtli",
+    "pri-florentine-codex",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中美洲神祇材料多经16世纪西班牙传教士与抄本记录，须注意记录者的中介视角；2) 图像与象形文字的释读有学术争论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "维齐洛波奇特利（Huītzilōpōchtli，'左方的蜂鸟'）是阿兹特克（墨西加）的战争、太阳与献祭之神，特诺奇蒂特兰（Tenochtitlan）的主神：传说他指引墨西加人迁徙、以鹰衔蛇立于仙人掌上的神谕指示建城之地。他是'白南方的蓝蜂鸟'，以太阳的炽烈与战争的武力著称，其神庙（Templo Mayor）与特拉洛克共享。维齐洛波奇特利象征墨西加的国家权力与太阳—战争的宇宙秩序，其人祭与'供养太阳'的观念是阿兹特克宗教的核心。",
+   "versions": [
+    "维齐洛波奇特利（Huītzilōpōchtli，'左方的蜂鸟'）是阿兹特克（墨西加）的战争、太阳与献祭之神，特诺奇蒂特兰（Tenochtitlan）的主神：传说他指引墨西加人迁徙、以鹰衔蛇立于仙人掌上的神谕指示建城之地。他是'白南方的蓝蜂鸟'，以太阳的炽烈与战争的武力著称，其神庙（Templo Mayor）与特拉洛克共享。维齐洛波奇特利象征墨西加的国家权力与太阳—战争的宇宙秩序，其人祭与'供养太阳'的观念是阿兹特克宗教的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sahagún",
+     "school": "史料",
+     "view": "《佛罗伦萨抄本》记录其神话与祭祀。"
+    },
+    {
+     "holder": "Miguel León-Portilla",
+     "school": "阿兹特克研究",
+     "view": "纳瓦哲学的宇宙观（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "太阳—战争神与献祭可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-huitzilopochtli",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>维齐洛波奇特利形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>维齐洛波奇特利（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战争太阳神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>特诺奇蒂特兰</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鹰蛇仙人掌</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>建城神谕</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>人祭</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>供养太阳</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>维齐洛波奇特利要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经16世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "维齐洛波奇特利的性质",
+     "views": [
+      {
+       "holder": "国家战神说",
+       "basis": "墨西加帝国的守护与战争神。"
+      },
+      {
+       "holder": "太阳神说",
+       "basis": "太阳与宇宙秩序的维持者。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "维齐洛波奇特利是阿兹特克的战争与太阳神，特诺奇蒂特兰主神。",
+     "source": "pri-huitzilopochtli"
+    },
+    {
+     "claim": "其神庙 Templo Mayor 与特拉洛克共享。",
+     "source": "pri-huitzilopochtli"
+    }
+   ]
+  },
+  {
+   "id": "fig-tlaloc",
+   "title": "特拉洛克",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "阿兹特克及中美洲的雨、水与丰饶之神。",
+   "related": [
+    "fig-huitzilopochtli",
+    "fig-chalchiuhtlicue",
+    "motif-rain-thunder"
+   ],
+   "sources": [
+    "pri-tlaloc",
+    "pri-florentine-codex",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中美洲神祇材料多经16世纪西班牙传教士与抄本记录，须注意记录者的中介视角；2) 图像与象形文字的释读有学术争论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "特拉洛克（Tláloc）是中美洲（尤其阿兹特克与特奥蒂瓦坎）的雨、水、雷电与丰饶之神：他以'护目镜'状的眼圈与獠牙形象著称，掌管雨水、干旱与丰产，其崇拜远早于阿兹特克（特奥蒂瓦坎已有宏伟的特拉洛克神庙）。特拉洛克的天堂（Tlalocan）是 drowned 者与雨受害者的归宿。他既是赐予生命雨水者，也是以雷电与洪水带来毁灭者——象征水之双面性。特拉洛克的祭祀包含儿童献祭（以求雨）。",
+   "versions": [
+    "特拉洛克（Tláloc）是中美洲（尤其阿兹特克与特奥蒂瓦坎）的雨、水、雷电与丰饶之神：他以'护目镜'状的眼圈与獠牙形象著称，掌管雨水、干旱与丰产，其崇拜远早于阿兹特克（特奥蒂瓦坎已有宏伟的特拉洛克神庙）。特拉洛克的天堂（Tlalocan）是 drowned 者与雨受害者的归宿。他既是赐予生命雨水者，也是以雷电与洪水带来毁灭者——象征水之双面性。特拉洛克的祭祀包含儿童献祭（以求雨）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sahagún",
+     "school": "史料",
+     "view": "《佛罗伦萨抄本》记录特拉洛克的祭祀。"
+    },
+    {
+     "holder": "Miguel León-Portilla",
+     "school": "阿兹特克研究",
+     "view": "中美洲雨神传统（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "雨神与丰饶可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tlaloc",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>特拉洛克形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>特拉洛克（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雨神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>护目镜眼圈</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Tlalocan</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>水之天堂</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶/干旱</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>双面性</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>特拉洛克要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经16世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "特拉洛克的形象",
+     "views": [
+      {
+       "holder": "丰饶雨神说",
+       "basis": "赐予雨水与丰产。"
+      },
+      {
+       "holder": "毁灭神说",
+       "basis": "以雷电洪水带来灾难。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "特拉洛克是中美洲的雨、水与丰饶之神，崇拜远早于阿兹特克。",
+     "source": "pri-tlaloc"
+    },
+    {
+     "claim": "特拉洛克的 Tlalocan 是溺亡者与水相关死者的归宿。",
+     "source": "pri-tlaloc"
+    }
+   ]
+  },
+  {
+   "id": "fig-tezcatlipoca",
+   "title": "特斯卡特利波卡",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "阿兹特克的夜、命运与王权之神，'冒烟的镜'。",
+   "related": [
+    "fig-quetzalcoatl",
+    "fig-huitzilopochtli",
+    "motif-trickster"
+   ],
+   "sources": [
+    "pri-tezcatlipoca",
+    "pri-florentine-codex",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中美洲神祇材料多经16世纪西班牙传教士与抄本记录，须注意记录者的中介视角；2) 图像与象形文字的释读有学术争论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "特斯卡特利波卡（Tezcatlipoca，'冒烟的镜'）是阿兹特克的最强大、最复杂的神祇之一：他是夜、黑暗、命运、巫术、美丽与王权之神，以黑曜石镜（能照见人心与未来）为其标志；他的一只脚被美洲豹咬断（或代之以镜/蛇），象征其残缺与全能。特斯卡特利波卡是'四主神'之一，与克察尔科亚特尔既合作又对抗（二者共同创世又相互争斗）。他象征命运的不可测与王权的神圣来源。",
+   "versions": [
+    "特斯卡特利波卡（Tezcatlipoca，'冒烟的镜'）是阿兹特克的最强大、最复杂的神祇之一：他是夜、黑暗、命运、巫术、美丽与王权之神，以黑曜石镜（能照见人心与未来）为其标志；他的一只脚被美洲豹咬断（或代之以镜/蛇），象征其残缺与全能。特斯卡特利波卡是'四主神'之一，与克察尔科亚特尔既合作又对抗（二者共同创世又相互争斗）。他象征命运的不可测与王权的神圣来源。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sahagún",
+     "school": "史料",
+     "view": "《佛罗伦萨抄本》记录特斯卡特利波卡的神话。"
+    },
+    {
+     "holder": "Miguel León-Portilla",
+     "school": "阿兹特克研究",
+     "view": "特斯卡特利波卡与纳瓦哲学（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "命运神与镜的象征可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-tezcatlipoca",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>特斯卡特利波卡形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>特斯卡特利波卡（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冒烟的镜</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>黑曜石镜</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>命运巫术</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>王权</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与羽蛇对立</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世竞争</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>特斯卡特利波卡要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经16世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "特斯卡特利波卡的性质",
+     "views": [
+      {
+       "holder": "命运神说",
+       "basis": "掌控命运与王权。"
+      },
+      {
+       "holder": "混沌/诱惑神说",
+       "basis": "象征黑暗与诱惑的力量。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "特斯卡特利波卡是阿兹特克的夜、命运与王权之神。",
+     "source": "pri-tezcatlipoca"
+    },
+    {
+     "claim": "特斯卡特利波卡与克察尔科亚特尔既合作又对抗。",
+     "source": "pri-tezcatlipoca"
+    }
+   ]
+  },
+  {
+   "id": "fig-xipe-totec",
+   "title": "希佩·托特克",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "阿兹特克的春、再生与金属工艺之神。",
+   "related": [
+    "fig-tlaloc",
+    "fig-xochiquetzal",
+    "motif-dying-rising"
+   ],
+   "sources": [
+    "pri-xipe-totec",
+    "pri-florentine-codex",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中美洲神祇材料多经16世纪西班牙传教士与抄本记录，须注意记录者的中介视角；2) 图像与象形文字的释读有学术争论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "希佩·托特克（Xipe Totec，'我们的剥皮之主'）是阿兹特克的春季、植物再生、金属工艺与工匠之神：其祭祀仪式中祭司披上被献祭者的剥皮（'剥皮'仪式），象征旧皮褪去、新芽萌发——即春季植物再生与大地更新的宇宙循环。希佩·托特克象征死亡与再生的循环、丰饶的再生，其形象（披人皮的骨骼、金色）与'褪皮—更新'母题相关。他也是金匠的守护神。",
+   "versions": [
+    "希佩·托特克（Xipe Totec，'我们的剥皮之主'）是阿兹特克的春季、植物再生、金属工艺与工匠之神：其祭祀仪式中祭司披上被献祭者的剥皮（'剥皮'仪式），象征旧皮褪去、新芽萌发——即春季植物再生与大地更新的宇宙循环。希佩·托特克象征死亡与再生的循环、丰饶的再生，其形象（披人皮的骨骼、金色）与'褪皮—更新'母题相关。他也是金匠的守护神。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sahagún",
+     "school": "史料",
+     "view": "《佛罗伦萨抄本》记录剥皮仪式。"
+    },
+    {
+     "holder": "Miguel León-Portilla",
+     "school": "阿兹特克研究",
+     "view": "再生仪式与宇宙循环（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "褪皮—更新母题可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-xipe-totec",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>希佩·托特克形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>希佩·托特克（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>剥皮之主</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>再生</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>春季植物</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>更新循环</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>金匠守护</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>工艺</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>希佩·托特克要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经16世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "希佩·托特克的象征",
+     "views": [
+      {
+       "holder": "再生神说",
+       "basis": "象征植物与宇宙的更新。"
+      },
+      {
+       "holder": "丰饶/工艺神说",
+       "basis": "工匠与金属工艺的守护。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "希佩·托特克是阿兹特克的春、再生与金属工艺之神。",
+     "source": "pri-xipe-totec"
+    },
+    {
+     "claim": "'剥皮'仪式象征旧皮褪去与新芽萌发的宇宙循环。",
+     "source": "pri-xipe-totec"
+    }
+   ]
+  },
+  {
+   "id": "fig-chalchiuhtlicue",
+   "title": "查尔丘特利库埃",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "阿兹特克的地表水、河流与分娩女神。",
+   "related": [
+    "fig-tlaloc",
+    "fig-xochiquetzal",
+    "motif-water"
+   ],
+   "sources": [
+    "pri-chalchiuhtlicue",
+    "pri-florentine-codex",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中美洲神祇材料多经16世纪西班牙传教士与抄本记录，须注意记录者的中介视角；2) 图像与象形文字的释读有学术争论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "查尔丘特利库埃（Chalchiuhtlicue，'玉裙'）是阿兹特克的地表水（河流、湖泊、海洋）、分娩与洗礼的女神：她是特拉洛克（Tláloc）的配偶（或姐妹），掌管流动的水与女性的生育——分娩被视为'水的战斗'，产妇的死亡与战士的死亡同等神圣。查尔丘特利库埃也是洗礼（儿童命名仪式）的守护者。其形象以玉裙、水纹与蓝色的头饰著称，象征水之滋养与女性生育力。",
+   "versions": [
+    "查尔丘特利库埃（Chalchiuhtlicue，'玉裙'）是阿兹特克的地表水（河流、湖泊、海洋）、分娩与洗礼的女神：她是特拉洛克（Tláloc）的配偶（或姐妹），掌管流动的水与女性的生育——分娩被视为'水的战斗'，产妇的死亡与战士的死亡同等神圣。查尔丘特利库埃也是洗礼（儿童命名仪式）的守护者。其形象以玉裙、水纹与蓝色的头饰著称，象征水之滋养与女性生育力。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sahagún",
+     "school": "史料",
+     "view": "《佛罗伦萨抄本》记录其职能。"
+    },
+    {
+     "holder": "Miguel León-Portilla",
+     "school": "阿兹特克研究",
+     "view": "水女神与生育（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "水与生育的女神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-chalchiuhtlicue",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>查尔丘特利库埃形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>查尔丘特利库埃（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>玉裙</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>地表水</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>分娩守护</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>水的战斗</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>洗礼</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>命名仪式</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>查尔丘特利库埃要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经16世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "查尔丘特利库埃的职能",
+     "views": [
+      {
+       "holder": "水女神说",
+       "basis": "掌管河流湖泊与海洋。"
+      },
+      {
+       "holder": "生育女神说",
+       "basis": "守护分娩与洗礼。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "查尔丘特利库埃是阿兹特克的地表水、河流与分娩女神。",
+     "source": "pri-chalchiuhtlicue"
+    },
+    {
+     "claim": "分娩在阿兹特克被视为'水的战斗'，产妇之死与战士之死同等神圣。",
+     "source": "pri-chalchiuhtlicue"
+    }
+   ]
+  },
+  {
+   "id": "fig-xochiquetzal",
+   "title": "索奇克察尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "阿兹特克的爱、美、花与工艺女神。",
+   "related": [
+    "fig-tezcatlipoca",
+    "fig-chalchiuhtlicue",
+    "motif-agriculture"
+   ],
+   "sources": [
+    "pri-xochiquetzal",
+    "pri-florentine-codex",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中美洲神祇材料多经16世纪西班牙传教士与抄本记录，须注意记录者的中介视角；2) 图像与象形文字的释读有学术争论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "索奇克察尔（Xōchiquetzal，'花羽'）是阿兹特克的爱、美、花、舞蹈、工艺（编织与刺绣）与青春的女神：她是花与春天的女神，与艺术、欢愉与女性技艺（纺织）相关，其形象以花朵头饰、彩羽与华服著称。索奇克察尔是'花的世界'（In Xochitl In Cuicatl，'花与歌'）的守护者——纳瓦诗歌以'花与歌'表达对美与短暂性的哲思。她象征美、创造与生命力，是阿兹特克宗教中较温和、审美化的神格。",
+   "versions": [
+    "索奇克察尔（Xōchiquetzal，'花羽'）是阿兹特克的爱、美、花、舞蹈、工艺（编织与刺绣）与青春的女神：她是花与春天的女神，与艺术、欢愉与女性技艺（纺织）相关，其形象以花朵头饰、彩羽与华服著称。索奇克察尔是'花的世界'（In Xochitl In Cuicatl，'花与歌'）的守护者——纳瓦诗歌以'花与歌'表达对美与短暂性的哲思。她象征美、创造与生命力，是阿兹特克宗教中较温和、审美化的神格。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Sahagún",
+     "school": "史料",
+     "view": "《佛罗伦萨抄本》记录其职能。"
+    },
+    {
+     "holder": "Miguel León-Portilla",
+     "school": "阿兹特克研究",
+     "view": "'花与歌'的纳瓦美学（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "美与花的女神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-xochiquetzal",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>索奇克察尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>索奇克察尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>花羽</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>爱与美</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>工艺纺织</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>女性技艺</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>花与歌</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>纳瓦美学</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>索奇克察尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经16世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "索奇克察尔的性质",
+     "views": [
+      {
+       "holder": "爱与美女神说",
+       "basis": "象征美、欢愉与青春。"
+      },
+      {
+       "holder": "工艺/诗歌女神说",
+       "basis": "守护纺织与'花与歌'的艺术。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "索奇克察尔是阿兹特克的爱、美、花与工艺女神。",
+     "source": "pri-xochiquetzal"
+    },
+    {
+     "claim": "纳瓦诗歌以'花与歌'表达对美与短暂性的哲思。",
+     "source": "pri-xochiquetzal"
+    }
+   ]
   }
  ]
 }

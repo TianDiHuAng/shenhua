@@ -5966,6 +5966,97 @@
    "link_ok": true,
    "verified": true,
    "note": "埃吉尔（Ægir）是北欧的海神/巨人，与妻子澜（Rán）掌管海洋；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-huitzilopochtli",
+   "title": "维齐洛波奇特利文献（《佛罗伦萨抄本》等）",
+   "author": "佚名（墨西加）/Sahagún 等",
+   "year": null,
+   "year_display": "16世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hu%C4%ABtzil%C5%8Dp%C5%8Dchtli",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "维齐洛波奇特利（Huītzilōpōchtli）是阿兹特克（墨西加）的战争与太阳神，特诺奇蒂特兰的主神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tlaloc",
+   "title": "特拉洛克文献（中美洲雨神）",
+   "author": "佚名（中美洲）/Sahagún 等",
+   "year": null,
+   "year_display": "16世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tl%C3%A1loc",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "特拉洛克（Tláloc）是阿兹特克及中美洲的雨、水与丰饶之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-tezcatlipoca",
+   "title": "特斯卡特利波卡文献（中美洲神）",
+   "author": "佚名（中美洲）",
+   "year": null,
+   "year_display": "16世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Tezcatlipoca",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "特斯卡特利波卡（Tezcatlipoca，'冒烟的镜'）是阿兹特克的夜、命运与王权之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-xipe-totec",
+   "title": "希佩·托特克文献（中美洲神）",
+   "author": "佚名（中美洲）",
+   "year": null,
+   "year_display": "16世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Xipe_Totec",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "希佩·托特克（Xipe Totec，'我们的剥皮之主'）是阿兹特克的春、再生与金属工艺之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-chalchiuhtlicue",
+   "title": "查尔丘特利库埃文献（中美洲水神）",
+   "author": "佚名（中美洲）",
+   "year": null,
+   "year_display": "16世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Chalchiuhtlicue",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "查尔丘特利库埃（Chalchiuhtlicue，'玉裙'）是阿兹特克的地表水、河流与分娩女神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-xochiquetzal",
+   "title": "索奇克察尔文献（中美洲女神）",
+   "author": "佚名（中美洲）",
+   "year": null,
+   "year_display": "16世纪记录",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/X%C5%8Dchiquetzal",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "索奇克察尔（Xōchiquetzal，'花羽'）是阿兹特克的爱、美、花与工艺女神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-florentine-codex",
+   "title": "《佛罗伦萨抄本》（萨阿贡的中美洲民族志）",
+   "author": "Bernardino de Sahagún 等",
+   "year": null,
+   "year_display": "16世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Florentine_Codex",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "《佛罗伦萨抄本》是16世纪方济各会士萨阿贡主持编纂的纳瓦（阿兹特克）民族志，是研究中美洲宗教的核心史料；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
