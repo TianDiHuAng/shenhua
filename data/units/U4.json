@@ -4581,11 +4581,11 @@
     },
     {
      "claim": "雅努斯是罗马的门与过渡之神，以双面形象著称。",
-     "source": "pri-janus"
+     "basis_source": "pri-janus"
     },
     {
      "claim": "January 月名源自雅努斯（Januarius）。",
-     "source": "pri-janus"
+     "basis_source": "pri-janus"
     }
    ]
   },
@@ -26771,6 +26771,2652 @@
     {
      "claim": "《六祖坛经》记录慧能的说法。",
      "source": "pri-huineng"
+    }
+   ]
+  },
+  {
+   "id": "fig-paul",
+   "title": "使徒保罗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "早期基督教最重要的传教者与书信作者。",
+   "related": [
+    "rel-christianity",
+    "fig-jesus"
+   ],
+   "sources": [
+    "pri-paul",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "保罗（Paul，原名扫罗）出身塔尔苏斯，原为迫害教会的法利赛人，据《使徒行传》在往大马士革途中经历异象而归信，此后成为向外邦人传教的使徒，足迹遍及小亚细亚、希腊与罗马。新约中归于其名下的书信（如《罗马书》《哥林多前书》《加拉太书》）是基督教神学最早的文献之一，阐述因信称义、恩典与教会合一。学界通常区分“无争议书信”与后世托名书信，并讨论保罗与耶路撒冷教会的关系。",
+   "versions": [
+    "保罗（Paul，原名扫罗）出身塔尔苏斯，原为迫害教会的法利赛人，据《使徒行传》在往大马士革途中经历异象而归信，此后成为向外邦人传教的使徒，足迹遍及小亚细亚、希腊与罗马。新约中归于其名下的书信（如《罗马书》《哥林多前书》《加拉太书》）是基督教神学最早的文献之一，阐述因信称义、恩典与教会合一。学界通常区分“无争议书信”与后世托名书信，并讨论保罗与耶路撒冷教会的关系。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>使徒保罗示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>使徒保罗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>外邦人使徒</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>书信</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>因信称义</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>使徒保罗要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "早期基督教最重要的传教者与书信作者。",
+     "source": "pri-paul"
+    },
+    {
+     "claim": "保罗是早期基督教向外邦人传教的使徒。",
+     "source": "pri-paul"
+    }
+   ]
+  },
+  {
+   "id": "fig-peter",
+   "title": "使徒彼得",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "耶稣十二门徒之首，天主教传统中的首任教宗。",
+   "related": [
+    "rel-christianity",
+    "fig-jesus"
+   ],
+   "sources": [
+    "pri-peter",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "彼得（Simon Peter）原为加利利的渔夫，是耶稣十二门徒之首，福音书中常居门徒发言人之位。《马太福音》16章“你是彼得，我要把我的教会建在这磐石上”一语，被天主教解释为教宗首席权的依据，而东正教与新教对其含义另有理解。传统称彼得殉道于罗马，圣彼得大教堂即以其命名。归于其名下的《彼得前后书》的作者问题，学界多有讨论。",
+   "versions": [
+    "彼得（Simon Peter）原为加利利的渔夫，是耶稣十二门徒之首，福音书中常居门徒发言人之位。《马太福音》16章“你是彼得，我要把我的教会建在这磐石上”一语，被天主教解释为教宗首席权的依据，而东正教与新教对其含义另有理解。传统称彼得殉道于罗马，圣彼得大教堂即以其命名。归于其名下的《彼得前后书》的作者问题，学界多有讨论。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>使徒彼得示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>使徒彼得（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>十二门徒之首</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>磐石</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗马殉道</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>使徒彼得要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "耶稣十二门徒之首，天主教传统中的首任教宗。",
+     "source": "pri-peter"
+    },
+    {
+     "claim": "彼得是耶稣十二门徒之首。",
+     "source": "pri-peter"
+    }
+   ]
+  },
+  {
+   "id": "fig-luther",
+   "title": "马丁·路德",
+   "level": "L2",
+   "tier": "补充",
+   "period": "early_modern",
+   "summary": "德国宗教改革的发起者，路德宗的奠基人。",
+   "related": [
+    "rel-protestantism",
+    "rel-lutheran"
+   ],
+   "sources": [
+    "pri-luther",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "马丁·路德（1483—1546）原为奥古斯丁修会修士与威登堡大学神学教授，1517年发表《九十五条论纲》，批评赎罪券的销售，成为宗教改革的导火索。他主张“唯独信心”“唯独圣经”，1521年在沃尔姆斯帝国议会拒绝收回主张，其后将《圣经》译为德语，对德语书面语的形成影响深远。路德的神学成为路德宗的基础，其晚年对犹太人的言论至今受到严厉批评。",
+   "versions": [
+    "马丁·路德（1483—1546）原为奥古斯丁修会修士与威登堡大学神学教授，1517年发表《九十五条论纲》，批评赎罪券的销售，成为宗教改革的导火索。他主张“唯独信心”“唯独圣经”，1521年在沃尔姆斯帝国议会拒绝收回主张，其后将《圣经》译为德语，对德语书面语的形成影响深远。路德的神学成为路德宗的基础，其晚年对犹太人的言论至今受到严厉批评。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>马丁·路德示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>马丁·路德（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>九十五条论纲</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>唯独信心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>德语圣经</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马丁·路德要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "德国宗教改革的发起者，路德宗的奠基人。",
+     "source": "pri-luther"
+    },
+    {
+     "claim": "马丁·路德于1517年发表《九十五条论纲》，引发宗教改革。",
+     "source": "pri-luther"
+    }
+   ]
+  },
+  {
+   "id": "fig-calvin",
+   "title": "约翰·加尔文",
+   "level": "L2",
+   "tier": "补充",
+   "period": "early_modern",
+   "summary": "法国出身的宗教改革家，改革宗神学的奠基者。",
+   "related": [
+    "rel-protestantism",
+    "rel-reformed"
+   ],
+   "sources": [
+    "pri-calvin",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "约翰·加尔文（1509—1564）生于法国，受人文主义与法学教育，后转向宗教改革并长期在日内瓦工作。他的《基督教要义》是新教神学的系统之作，强调上帝的主权、预定论与圣经权威；他在日内瓦推动的教会治理与道德纪律成为改革宗教会的典范。其思想经苏格兰、荷兰与英国清教徒传播，影响了长老会与改革宗传统。对其在日内瓦的纪律措施与塞尔维特案，学界评价不一。",
+   "versions": [
+    "约翰·加尔文（1509—1564）生于法国，受人文主义与法学教育，后转向宗教改革并长期在日内瓦工作。他的《基督教要义》是新教神学的系统之作，强调上帝的主权、预定论与圣经权威；他在日内瓦推动的教会治理与道德纪律成为改革宗教会的典范。其思想经苏格兰、荷兰与英国清教徒传播，影响了长老会与改革宗传统。对其在日内瓦的纪律措施与塞尔维特案，学界评价不一。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>约翰·加尔文示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>约翰·加尔文（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>基督教要义</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>预定论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>日内瓦</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>约翰·加尔文要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "法国出身的宗教改革家，改革宗神学的奠基者。",
+     "source": "pri-calvin"
+    },
+    {
+     "claim": "加尔文著有《基督教要义》，是改革宗神学的奠基者。",
+     "source": "pri-calvin"
+    }
+   ]
+  },
+  {
+   "id": "fig-hallaj",
+   "title": "哈拉智",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "9—10世纪的苏菲神秘主义者，因“我即真理”之语被处死。",
+   "related": [
+    "rel-islam",
+    "rel-sufism"
+   ],
+   "sources": [
+    "pri-hallaj",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "曼苏尔·哈拉智（Mansur al-Hallaj，约858—922）出身波斯，是巴格达的苏菲神秘主义者，以“我即真理”（Ana al-Haqq）之语闻名，这句话被其批评者理解为神人合一的僭越，也被其追随者视为在爱中泯灭自我、唯真主存在的体验。他于922年在巴格达因异端罪名被处死。后世苏菲对他评价分歧：有人视其为殉道者，有人认为其公开说出了应守秘的体验。他的形象深刻影响波斯与南亚的神秘主义诗歌。",
+   "versions": [
+    "曼苏尔·哈拉智（Mansur al-Hallaj，约858—922）出身波斯，是巴格达的苏菲神秘主义者，以“我即真理”（Ana al-Haqq）之语闻名，这句话被其批评者理解为神人合一的僭越，也被其追随者视为在爱中泯灭自我、唯真主存在的体验。他于922年在巴格达因异端罪名被处死。后世苏菲对他评价分歧：有人视其为殉道者，有人认为其公开说出了应守秘的体验。他的形象深刻影响波斯与南亚的神秘主义诗歌。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>哈拉智示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>哈拉智（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>我即真理</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神秘合一</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>殉道</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈拉智要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "9—10世纪的苏菲神秘主义者，因“我即真理”之语被处死。",
+     "source": "pri-hallaj"
+    },
+    {
+     "claim": "哈拉智是苏菲神秘主义者，以“我即真理”之语闻名，922年在巴格达被处死。",
+     "source": "pri-hallaj"
+    }
+   ]
+  },
+  {
+   "id": "fig-francis",
+   "title": "阿西西的方济各",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "方济各会的创始人，以清贫与对万物的爱闻名。",
+   "related": [
+    "rel-catholicism",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-francis",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿西西的方济各（约1181—1226）出身富裕的商人之家，青年时放弃财产，选择清贫的生活，创立方济各会（小兄弟会），强调效法基督的贫穷与朴素。传统传记称他对飞鸟走兽宣讲，《太阳歌》赞美受造万物，因此在近代被天主教奉为生态守护圣人。据传他晚年领受了“圣伤”。他对教会改革与后世灵修影响深远，其传记《圣方济各小花》包含大量传说成分。",
+   "versions": [
+    "阿西西的方济各（约1181—1226）出身富裕的商人之家，青年时放弃财产，选择清贫的生活，创立方济各会（小兄弟会），强调效法基督的贫穷与朴素。传统传记称他对飞鸟走兽宣讲，《太阳歌》赞美受造万物，因此在近代被天主教奉为生态守护圣人。据传他晚年领受了“圣伤”。他对教会改革与后世灵修影响深远，其传记《圣方济各小花》包含大量传说成分。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿西西的方济各示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿西西的方济各（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>清贫</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳歌</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>方济各会</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿西西的方济各要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "方济各会的创始人，以清贫与对万物的爱闻名。",
+     "source": "pri-francis"
+    },
+    {
+     "claim": "方济各创立方济各会，主张效法基督的清贫。",
+     "source": "pri-francis"
+    }
+   ]
+  },
+  {
+   "id": "fig-shinran",
+   "title": "亲鸾",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "法然的弟子，日本净土真宗的开创者。",
+   "related": [
+    "rel-pureland",
+    "fig-honen"
+   ],
+   "sources": [
+    "pri-shinran",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "亲鸾（1173—1263）原为比叡山的天台宗僧人，后师从法然，主张依靠阿弥陀佛的本愿他力往生。因念佛宗团遭朝廷镇压，他被流放越后，其后还俗娶妻，自称“非僧非俗”。其著作《教行信证》阐述他力信心与“恶人正机”之说，即阿弥陀佛的救度尤其及于自觉罪业深重之人。后世以其教说为基础形成净土真宗，成为日本信众最多的佛教宗派之一。",
+   "versions": [
+    "亲鸾（1173—1263）原为比叡山的天台宗僧人，后师从法然，主张依靠阿弥陀佛的本愿他力往生。因念佛宗团遭朝廷镇压，他被流放越后，其后还俗娶妻，自称“非僧非俗”。其著作《教行信证》阐述他力信心与“恶人正机”之说，即阿弥陀佛的救度尤其及于自觉罪业深重之人。后世以其教说为基础形成净土真宗，成为日本信众最多的佛教宗派之一。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>亲鸾示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>亲鸾（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>他力本愿</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>恶人正机</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>教行信证</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亲鸾要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "法然的弟子，日本净土真宗的开创者。",
+     "source": "pri-shinran"
+    },
+    {
+     "claim": "亲鸾是法然的弟子，教说被后世发展为净土真宗。",
+     "source": "pri-shinran"
+    }
+   ]
+  },
+  {
+   "id": "fig-eisai",
+   "title": "荣西",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "把临济禅与茶带入日本的僧人。",
+   "related": [
+    "rel-zen",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-eisai",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "荣西（1141—1215）是日本镰仓初期的僧人，曾两度入宋，在天台山与虚庵怀敞学禅，回国后传播临济宗，被视为日本临济禅的开创者。其著作《兴禅护国论》主张以禅护国，因受到比叡山天台宗的压力而一度遭到限制。他另著《吃茶养生记》，介绍饮茶的养生功用，因此在日本茶史上也占有一席之地。",
+   "versions": [
+    "荣西（1141—1215）是日本镰仓初期的僧人，曾两度入宋，在天台山与虚庵怀敞学禅，回国后传播临济宗，被视为日本临济禅的开创者。其著作《兴禅护国论》主张以禅护国，因受到比叡山天台宗的压力而一度遭到限制。他另著《吃茶养生记》，介绍饮茶的养生功用，因此在日本茶史上也占有一席之地。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>荣西示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>荣西（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>临济禅</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>兴禅护国论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>吃茶养生记</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>荣西要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "把临济禅与茶带入日本的僧人。",
+     "source": "pri-eisai"
+    },
+    {
+     "claim": "荣西把临济禅传入日本，著有《兴禅护国论》。",
+     "source": "pri-eisai"
+    }
+   ]
+  },
+  {
+   "id": "fig-kukai",
+   "title": "空海",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本真言宗的开创者，号弘法大师。",
+   "related": [
+    "rel-buddhism",
+    "rel-tantrism"
+   ],
+   "sources": [
+    "pri-kukai",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "空海（774—835）生于赞岐，804年随遣唐使入唐，在长安青龙寺从惠果学习密教，回国后创立真言宗，以高野山为根本道场。其著作《十住心论》将各种思想与佛教宗派按心灵境界分为十层，以真言密教为最高。传统上空海也与书法、水利及讲学等多种事迹相联系，其中不少属于后世传说，民间有“入定”留在高野山的信仰。",
+   "versions": [
+    "空海（774—835）生于赞岐，804年随遣唐使入唐，在长安青龙寺从惠果学习密教，回国后创立真言宗，以高野山为根本道场。其著作《十住心论》将各种思想与佛教宗派按心灵境界分为十层，以真言密教为最高。传统上空海也与书法、水利及讲学等多种事迹相联系，其中不少属于后世传说，民间有“入定”留在高野山的信仰。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>空海示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>空海（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>真言宗</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>十住心论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>高野山</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>空海要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "日本真言宗的开创者，号弘法大师。",
+     "source": "pri-kukai"
+    },
+    {
+     "claim": "空海入唐从惠果学密教，回国后创立真言宗。",
+     "source": "pri-kukai"
+    }
+   ]
+  },
+  {
+   "id": "fig-saicho",
+   "title": "最澄",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "日本天台宗的开创者，号传教大师。",
+   "related": [
+    "rel-buddhism",
+    "fig-kukai"
+   ],
+   "sources": [
+    "pri-saicho",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "最澄（767—822）原在比叡山修行，804年随遣唐使入唐，在天台山学习天台教义与禅、密，回国后创立日本天台宗，并在比叡山设立大乘戒坛，主张僧人依大乘菩萨戒受戒。他与空海同期入唐，曾向空海请益密教，后因经典借阅与弟子去留之事与空海疏远。比叡山其后成为日本佛教的重要母体，后来的净土、禅与日莲诸宗多出其门下。",
+   "versions": [
+    "最澄（767—822）原在比叡山修行，804年随遣唐使入唐，在天台山学习天台教义与禅、密，回国后创立日本天台宗，并在比叡山设立大乘戒坛，主张僧人依大乘菩萨戒受戒。他与空海同期入唐，曾向空海请益密教，后因经典借阅与弟子去留之事与空海疏远。比叡山其后成为日本佛教的重要母体，后来的净土、禅与日莲诸宗多出其门下。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>最澄示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>最澄（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天台宗</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大乘戒坛</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>比叡山</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>最澄要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "日本天台宗的开创者，号传教大师。",
+     "source": "pri-saicho"
+    },
+    {
+     "claim": "最澄在804年入唐，回国后创立日本天台宗。",
+     "source": "pri-saicho"
+    }
+   ]
+  },
+  {
+   "id": "fig-mahavira",
+   "title": "马哈维拉",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "耆那教传统中的第二十四位祖师。",
+   "related": [
+    "rel-jainism"
+   ],
+   "sources": [
+    "pri-mahavira",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "马哈维拉（Mahavira，意为“大雄”）在耆那教传统中是第二十四位渡津者（祖师），传统生活年代约在公元前六至五世纪，与佛陀大致同时。传统叙事称他出身王族，三十岁左右出家苦修，历十二年而得“全知”，此后传教约三十年。他的教说强调非暴力（不杀生）、不妄语、不偷盗、不淫、不执着五戒，以及业的净化与解脱。其具体生卒年代因耆那教派别与学界推算而异。",
+   "versions": [
+    "马哈维拉（Mahavira，意为“大雄”）在耆那教传统中是第二十四位渡津者（祖师），传统生活年代约在公元前六至五世纪，与佛陀大致同时。传统叙事称他出身王族，三十岁左右出家苦修，历十二年而得“全知”，此后传教约三十年。他的教说强调非暴力（不杀生）、不妄语、不偷盗、不淫、不执着五戒，以及业的净化与解脱。其具体生卒年代因耆那教派别与学界推算而异。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>马哈维拉示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>马哈维拉（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>非暴力</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五戒</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>全知</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马哈维拉要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "耆那教传统中的第二十四位祖师。",
+     "source": "pri-mahavira"
+    },
+    {
+     "claim": "马哈维拉是耆那教传统的第二十四位祖师，强调非暴力。",
+     "source": "pri-mahavira"
+    }
+   ]
+  },
+  {
+   "id": "fig-nanak",
+   "title": "那纳克",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "锡克教的创始人，十位上师中的第一位。",
+   "related": [
+    "rel-sikhism"
+   ],
+   "sources": [
+    "pri-nanak",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "古鲁·那纳克（1469—1539）生于今巴基斯坦旁遮普地区，是锡克教的创始人与第一位上师。传统传记称他早年得神启，宣讲唯一的神、人人平等与以诚实劳动、分享和念神名为生活之道，并反对种姓差别与形式化的仪式。他周游各地的“远行”见于《生平传记》（Janamsakhi），其中含有大量传说成分。他的诗篇被收入锡克教圣典《古鲁·格兰特·萨希卜》。",
+   "versions": [
+    "古鲁·那纳克（1469—1539）生于今巴基斯坦旁遮普地区，是锡克教的创始人与第一位上师。传统传记称他早年得神启，宣讲唯一的神、人人平等与以诚实劳动、分享和念神名为生活之道，并反对种姓差别与形式化的仪式。他周游各地的“远行”见于《生平传记》（Janamsakhi），其中含有大量传说成分。他的诗篇被收入锡克教圣典《古鲁·格兰特·萨希卜》。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>那纳克示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>那纳克（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>唯一的神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>平等</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣典</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>那纳克要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "锡克教的创始人，十位上师中的第一位。",
+     "source": "pri-nanak"
+    },
+    {
+     "claim": "那纳克是锡克教的创始人与第一位上师。",
+     "source": "pri-nanak"
+    }
+   ]
+  },
+  {
+   "id": "fig-zhiyi",
+   "title": "智顗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "天台宗的实际创立者，号智者大师。",
+   "related": [
+    "rel-buddhism",
+    "fig-saicho"
+   ],
+   "sources": [
+    "pri-zhiyi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "智顗（538—597）是中国南北朝末至隋代的僧人，被尊为天台宗的实际创立者，因驻锡天台山而得名。他以《法华经》为宗，提出“五时八教”的判教体系，并阐发“一念三千”“圆融三谛”等教理，著有《摩诃止观》《法华玄义》《法华文句》。他强调止观双修，把教理研究与禅修实践结合起来。其教说后传入日本，成为最澄所创日本天台宗的源头。",
+   "versions": [
+    "智顗（538—597）是中国南北朝末至隋代的僧人，被尊为天台宗的实际创立者，因驻锡天台山而得名。他以《法华经》为宗，提出“五时八教”的判教体系，并阐发“一念三千”“圆融三谛”等教理，著有《摩诃止观》《法华玄义》《法华文句》。他强调止观双修，把教理研究与禅修实践结合起来。其教说后传入日本，成为最澄所创日本天台宗的源头。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>智顗示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>智顗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五时八教</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>一念三千</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>止观双修</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智顗要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "天台宗的实际创立者，号智者大师。",
+     "source": "pri-zhiyi"
+    },
+    {
+     "claim": "智顗被尊为天台宗的实际创立者，著有《摩诃止观》。",
+     "source": "pri-zhiyi"
+    }
+   ]
+  },
+  {
+   "id": "fig-jianzhen",
+   "title": "鉴真",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "东渡日本传授戒律的唐代高僧。",
+   "related": [
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-jianzhen",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "鉴真（688—763）是唐代扬州大明寺的律宗高僧，应日本留学僧荣睿、普照之邀赴日传戒。据传统记载，他先后数次东渡均告失败，其间双目失明，直至753年第六次才抵达日本。他在奈良设立戒坛，为圣武上皇等人授戒，建立了日本正式的授戒制度，并创建唐招提寺。他也带去了医药、建筑与雕塑等方面的知识，对日本佛教与文化影响深远。",
+   "versions": [
+    "鉴真（688—763）是唐代扬州大明寺的律宗高僧，应日本留学僧荣睿、普照之邀赴日传戒。据传统记载，他先后数次东渡均告失败，其间双目失明，直至753年第六次才抵达日本。他在奈良设立戒坛，为圣武上皇等人授戒，建立了日本正式的授戒制度，并创建唐招提寺。他也带去了医药、建筑与雕塑等方面的知识，对日本佛教与文化影响深远。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>鉴真示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>鉴真（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>东渡传戒</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>唐招提寺</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>律宗</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鉴真要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "东渡日本传授戒律的唐代高僧。",
+     "source": "pri-jianzhen"
+    },
+    {
+     "claim": "鉴真历经数次失败后于753年抵达日本，建立日本的授戒制度。",
+     "source": "pri-jianzhen"
+    }
+   ]
+  },
+  {
+   "id": "fig-tsongkhapa",
+   "title": "宗喀巴",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "藏传佛教格鲁派的创立者。",
+   "related": [
+    "rel-tibetan-buddhism",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-tsongkhapa",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "宗喀巴（1357—1419）生于青海宗喀地方，早年赴卫藏求学，师从多位各派上师，后致力于整顿戒律与教理，被视为藏传佛教格鲁派的创立者。其代表作《菩提道次第广论》以“道次第”的结构，把显宗修学次第与密宗修习组织为一体，强调先修出离、菩提心与空性见，再入密乘。他在拉萨附近建立甘丹寺，格鲁派后来发展出达赖喇嘛与班禅喇嘛的转世系统，并在西藏政教事务中居于重要地位。",
+   "versions": [
+    "宗喀巴（1357—1419）生于青海宗喀地方，早年赴卫藏求学，师从多位各派上师，后致力于整顿戒律与教理，被视为藏传佛教格鲁派的创立者。其代表作《菩提道次第广论》以“道次第”的结构，把显宗修学次第与密宗修习组织为一体，强调先修出离、菩提心与空性见，再入密乘。他在拉萨附近建立甘丹寺，格鲁派后来发展出达赖喇嘛与班禅喇嘛的转世系统，并在西藏政教事务中居于重要地位。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>宗喀巴示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>宗喀巴（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>菩提道次第</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>格鲁派</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>戒律</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宗喀巴要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "藏传佛教格鲁派的创立者。",
+     "source": "pri-tsongkhapa"
+    },
+    {
+     "claim": "宗喀巴著有《菩提道次第广论》，是格鲁派的创立者。",
+     "source": "pri-tsongkhapa"
+    }
+   ]
+  },
+  {
+   "id": "fig-padmasambhava",
+   "title": "莲花生",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "传统上把密教带入西藏的印度上师。",
+   "related": [
+    "rel-tibetan-buddhism",
+    "rel-tantrism"
+   ],
+   "sources": [
+    "pri-padmasambhava",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "莲花生（Padmasambhava，意为“莲花所生”）在藏传佛教传统中被尊为“古汝仁波切”，据传于八世纪应藏王赤松德赞之邀入藏，降伏本土的神灵与魔障，协助建造桑耶寺，并传授密教。宁玛派奉其为祖师，并相信他埋藏了许多“伏藏”经典，留待后世“掘藏师”发现。关于他的生平，早期史料极少，后世的传记含大量神话成分，学界对其历史事迹的复原存在分歧。",
+   "versions": [
+    "莲花生（Padmasambhava，意为“莲花所生”）在藏传佛教传统中被尊为“古汝仁波切”，据传于八世纪应藏王赤松德赞之邀入藏，降伏本土的神灵与魔障，协助建造桑耶寺，并传授密教。宁玛派奉其为祖师，并相信他埋藏了许多“伏藏”经典，留待后世“掘藏师”发现。关于他的生平，早期史料极少，后世的传记含大量神话成分，学界对其历史事迹的复原存在分歧。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>莲花生示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>莲花生（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>古汝仁波切</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>桑耶寺</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伏藏</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>莲花生要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "传统上把密教带入西藏的印度上师。",
+     "source": "pri-padmasambhava"
+    },
+    {
+     "claim": "莲花生在传统上被认为把密教传入西藏，是宁玛派的祖师。",
+     "source": "pri-padmasambhava"
+    }
+   ]
+  },
+  {
+   "id": "fig-milarepa",
+   "title": "米拉日巴",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "藏传佛教噶举派的瑜伽行者与诗人。",
+   "related": [
+    "rel-tibetan-buddhism",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-milarepa",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "米拉日巴（约1052—1135）是藏传佛教噶举派的瑜伽行者，传统传记称他早年为报家仇而习黑巫术，后悔悟，师从翻译家玛尔巴，历经严苛考验，其后长期在山中苦修，证得成就。他以“道歌”（miguru）传法，歌词质朴，流传至今。《米拉日巴传》与《十万道歌》是其主要的传记与歌集，二者的成书较晚，据说由后世的弟子与编者整理，故文献性质须与史实区分。",
+   "versions": [
+    "米拉日巴（约1052—1135）是藏传佛教噶举派的瑜伽行者，传统传记称他早年为报家仇而习黑巫术，后悔悟，师从翻译家玛尔巴，历经严苛考验，其后长期在山中苦修，证得成就。他以“道歌”（miguru）传法，歌词质朴，流传至今。《米拉日巴传》与《十万道歌》是其主要的传记与歌集，二者的成书较晚，据说由后世的弟子与编者整理，故文献性质须与史实区分。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>米拉日巴示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>米拉日巴（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>道歌</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苦修</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>玛尔巴</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>米拉日巴要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "藏传佛教噶举派的瑜伽行者与诗人。",
+     "source": "pri-milarepa"
+    },
+    {
+     "claim": "米拉日巴是噶举派的瑜伽行者，以道歌传法。",
+     "source": "pri-milarepa"
+    }
+   ]
+  },
+  {
+   "id": "fig-vasubandhu",
+   "title": "世亲",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "印度佛教瑜伽行派与有部的重要论师。",
+   "related": [
+    "rel-buddhism",
+    "fig-nagarjuna"
+   ],
+   "sources": [
+    "pri-vasubandhu",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "世亲（Vasubandhu，约四至五世纪）是印度佛教的论师，传统上是无著的兄弟。据传他早年依说一切有部，著有《阿毗达磨俱舍论》，其后转入大乘，成为瑜伽行派（唯识学派）的重要人物，著有《唯识二十论》与《唯识三十颂》，主张“万法唯识”。关于他是否为同一人，还是前后有两位世亲，学界长期有争论；其生卒年代也有不同推算。",
+   "versions": [
+    "世亲（Vasubandhu，约四至五世纪）是印度佛教的论师，传统上是无著的兄弟。据传他早年依说一切有部，著有《阿毗达磨俱舍论》，其后转入大乘，成为瑜伽行派（唯识学派）的重要人物，著有《唯识二十论》与《唯识三十颂》，主张“万法唯识”。关于他是否为同一人，还是前后有两位世亲，学界长期有争论；其生卒年代也有不同推算。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>世亲示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>世亲（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>俱舍论</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>唯识</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>瑜伽行派</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>世亲要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "印度佛教瑜伽行派与有部的重要论师。",
+     "source": "pri-vasubandhu"
+    },
+    {
+     "claim": "世亲著有《阿毗达磨俱舍论》，后成为瑜伽行派的重要论师。",
+     "source": "pri-vasubandhu"
+    }
+   ]
+  },
+  {
+   "id": "fig-madhva",
+   "title": "马德瓦",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "二元论吠檀多的创立者，毗湿奴派重要导师。",
+   "related": [
+    "rel-vaishnavism",
+    "fig-ramanuja"
+   ],
+   "sources": [
+    "pri-madhva",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "马德瓦（Madhvacharya，约十三世纪）出生于南印度卡纳塔克，是吠檀多“二元论”（Dvaita）学派的创立者。与商羯罗的不二论不同，他主张神与个体灵魂、物质世界之间存在根本而永恒的差别，毗湿奴是至上的神，灵魂依靠虔信与神的恩典获得解脱。他为《梵经》《薄伽梵歌》等作注疏，并在乌杜皮建立克里希纳神庙与修道院体系。其生卒年代因文献而有不同推算。",
+   "versions": [
+    "马德瓦（Madhvacharya，约十三世纪）出生于南印度卡纳塔克，是吠檀多“二元论”（Dvaita）学派的创立者。与商羯罗的不二论不同，他主张神与个体灵魂、物质世界之间存在根本而永恒的差别，毗湿奴是至上的神，灵魂依靠虔信与神的恩典获得解脱。他为《梵经》《薄伽梵歌》等作注疏，并在乌杜皮建立克里希纳神庙与修道院体系。其生卒年代因文献而有不同推算。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>马德瓦示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>马德瓦（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>二元论</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>毗湿奴至上</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌杜皮</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马德瓦要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "二元论吠檀多的创立者，毗湿奴派重要导师。",
+     "source": "pri-madhva"
+    },
+    {
+     "claim": "马德瓦创立二元论吠檀多，主张神与灵魂的根本差别。",
+     "source": "pri-madhva"
+    }
+   ]
+  },
+  {
+   "id": "fig-kabir",
+   "title": "卡比尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "十五世纪北印度的神秘主义诗人，批评宗教形式主义。",
+   "related": [
+    "rel-hinduism",
+    "rel-sikhism"
+   ],
+   "sources": [
+    "pri-kabir",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "卡比尔（Kabir，约十五世纪）是北印度的神秘主义诗人与圣者，传统上出身织工家庭，其归属长期有争议：印度教徒与穆斯林都视其为本教之人。他以质朴的口语诗句批评宗教的形式、种姓与偶像崇拜，主张通过内在的虔爱接近唯一的神。他的诗句（dohe）与歌曲被收入锡克教圣典《古鲁·格兰特·萨希卜》，也由“卡比尔教派”传承。其生卒年代与诗作的真伪，学界多有讨论。",
+   "versions": [
+    "卡比尔（Kabir，约十五世纪）是北印度的神秘主义诗人与圣者，传统上出身织工家庭，其归属长期有争议：印度教徒与穆斯林都视其为本教之人。他以质朴的口语诗句批评宗教的形式、种姓与偶像崇拜，主张通过内在的虔爱接近唯一的神。他的诗句（dohe）与歌曲被收入锡克教圣典《古鲁·格兰特·萨希卜》，也由“卡比尔教派”传承。其生卒年代与诗作的真伪，学界多有讨论。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>卡比尔示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>卡比尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诗句</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>内在虔爱</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>反形式主义</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡比尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "十五世纪北印度的神秘主义诗人，批评宗教形式主义。",
+     "source": "pri-kabir"
+    },
+    {
+     "claim": "卡比尔是北印度的神秘主义诗人，批评宗教形式主义。",
+     "source": "pri-kabir"
+    }
+   ]
+  },
+  {
+   "id": "fig-mirabai",
+   "title": "米拉白",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "十六世纪北印度的虔信派女诗人，克里希纳的虔诚信徒。",
+   "related": [
+    "rel-vaishnavism",
+    "fig-krishna"
+   ],
+   "sources": [
+    "pri-mirabai",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "米拉白（Mirabai，约十六世纪）传统上被认为出身拉杰普特王室，嫁入梅瓦尔王室后仍把克里希纳当作自己的丈夫，因此与家人与社会习俗发生冲突。她以大量虔信诗歌（bhajan）赞美克里希纳，在北印度与古吉拉特广为传唱，成为虔信派运动中最著名的女性之一。关于她的生平，如被迫害、逃离王宫等情节，多见于后世传说，其诗作的归属也有不确定性。",
+   "versions": [
+    "米拉白（Mirabai，约十六世纪）传统上被认为出身拉杰普特王室，嫁入梅瓦尔王室后仍把克里希纳当作自己的丈夫，因此与家人与社会习俗发生冲突。她以大量虔信诗歌（bhajan）赞美克里希纳，在北印度与古吉拉特广为传唱，成为虔信派运动中最著名的女性之一。关于她的生平，如被迫害、逃离王宫等情节，多见于后世传说，其诗作的归属也有不确定性。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>米拉白示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>米拉白（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>虔信诗歌</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>克里希纳</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>女性圣者</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>米拉白要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "十六世纪北印度的虔信派女诗人，克里希纳的虔诚信徒。",
+     "source": "pri-mirabai"
+    },
+    {
+     "claim": "米拉白是克里希纳的虔诚信徒，以虔信诗歌闻名。",
+     "source": "pri-mirabai"
+    }
+   ]
+  },
+  {
+   "id": "fig-hillel",
+   "title": "希勒尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "公元前后之交的犹太教师，以黄金律式的教导闻名。",
+   "related": [
+    "rel-judaism"
+   ],
+   "sources": [
+    "pri-hillel",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "希勒尔（Hillel the Elder，约公元前一世纪至公元一世纪）是巴比伦出身的犹太教师，《塔木德》传统中法利赛人的重要权威，其学派“希勒尔学院”与沙迈学院长期争论律法。《塔木德》记载他以“你所憎恶的，不要对别人做”概括《托拉》的要义，常被与黄金律相比较。他以谦和与宽容著称，后世的拉比犹太教多依从希勒尔学院的裁决。其生平记载多出自后世的拉比文献。",
+   "versions": [
+    "希勒尔（Hillel the Elder，约公元前一世纪至公元一世纪）是巴比伦出身的犹太教师，《塔木德》传统中法利赛人的重要权威，其学派“希勒尔学院”与沙迈学院长期争论律法。《塔木德》记载他以“你所憎恶的，不要对别人做”概括《托拉》的要义，常被与黄金律相比较。他以谦和与宽容著称，后世的拉比犹太教多依从希勒尔学院的裁决。其生平记载多出自后世的拉比文献。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>希勒尔示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>希勒尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>希勒尔学院</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>黄金律</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>谦和</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>希勒尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "公元前后之交的犹太教师，以黄金律式的教导闻名。",
+     "source": "pri-hillel"
+    },
+    {
+     "claim": "希勒尔是犹太教的重要教师，其学院与沙迈学院长期争论律法。",
+     "source": "pri-hillel"
+    }
+   ]
+  },
+  {
+   "id": "fig-akiva",
+   "title": "阿基巴",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "二世纪初的重要拉比，传统上与巴尔·科赫巴起义相联系。",
+   "related": [
+    "rel-judaism",
+    "fig-hillel"
+   ],
+   "sources": [
+    "pri-akiva",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿基巴·本·约瑟夫（Rabbi Akiva，约50—135）是《密西拿》时代最重要的拉比之一，传统记载他四十岁才开始学习《托拉》，后成为极有影响力的教师，其学生包括许多后世著名的拉比。他把对《托拉》的解释体系化，被视为《密西拿》编纂的重要先驱。传统称他支持巴尔·科赫巴起义，并在罗马统治者的迫害下殉道。关于他的生平与殉道的细节，主要见于后世的拉比文献。",
+   "versions": [
+    "阿基巴·本·约瑟夫（Rabbi Akiva，约50—135）是《密西拿》时代最重要的拉比之一，传统记载他四十岁才开始学习《托拉》，后成为极有影响力的教师，其学生包括许多后世著名的拉比。他把对《托拉》的解释体系化，被视为《密西拿》编纂的重要先驱。传统称他支持巴尔·科赫巴起义，并在罗马统治者的迫害下殉道。关于他的生平与殉道的细节，主要见于后世的拉比文献。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿基巴示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿基巴（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>密西拿</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>托拉解释</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>殉道</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿基巴要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "二世纪初的重要拉比，传统上与巴尔·科赫巴起义相联系。",
+     "source": "pri-akiva"
+    },
+    {
+     "claim": "阿基巴是密西拿时代最重要的拉比之一。",
+     "source": "pri-akiva"
+    }
+   ]
+  },
+  {
+   "id": "fig-isaiah",
+   "title": "以赛亚",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "公元前八世纪的先知，《以赛亚书》以其名传世。",
+   "related": [
+    "rel-judaism",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-isaiah",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "以赛亚（Isaiah）是《希伯来圣经》中的先知，传统上活动于公元前八世纪的犹大王国，《以赛亚书》以其名传世，书中包含对审判与拯救的预言，以及“受苦的仆人”等著名篇章。现代圣经学者多认为该书非一人一时之作，通常把它分为第一以赛亚（1—39章）、第二以赛亚（40—55章）与第三以赛亚（56—66章），分属不同的历史时期。基督教传统常把部分篇章解释为对弥赛亚的预言，犹太教传统则有不同的解读。",
+   "versions": [
+    "以赛亚（Isaiah）是《希伯来圣经》中的先知，传统上活动于公元前八世纪的犹大王国，《以赛亚书》以其名传世，书中包含对审判与拯救的预言，以及“受苦的仆人”等著名篇章。现代圣经学者多认为该书非一人一时之作，通常把它分为第一以赛亚（1—39章）、第二以赛亚（40—55章）与第三以赛亚（56—66章），分属不同的历史时期。基督教传统常把部分篇章解释为对弥赛亚的预言，犹太教传统则有不同的解读。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>以赛亚示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>以赛亚（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>先知</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>受苦的仆人</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三部分说</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>以赛亚要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "公元前八世纪的先知，《以赛亚书》以其名传世。",
+     "source": "pri-isaiah"
+    },
+    {
+     "claim": "以赛亚是希伯来圣经中的先知，《以赛亚书》以其名传世。",
+     "source": "pri-isaiah"
+    }
+   ]
+  },
+  {
+   "id": "fig-gehong",
+   "title": "葛洪",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "东晋道教理论家与炼丹家，著有《抱朴子》。",
+   "related": [
+    "rel-taoism"
+   ],
+   "sources": [
+    "pri-gehong",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "葛洪（约283—343），号抱朴子，东晋丹阳句容人，是道教神仙方术与外丹炼养的重要理论家。其《抱朴子》内篇讨论神仙、炼丹、符箓与养生，外篇论述儒家的政治与伦理，体现其“内道外儒”的立场。他整理了早期金丹与神仙传说，其《神仙传》收录了众多神仙事迹。他也有医学著述，如《肘后备急方》，后世常把青蒿治疟相关的记载与之联系。",
+   "versions": [
+    "葛洪（约283—343），号抱朴子，东晋丹阳句容人，是道教神仙方术与外丹炼养的重要理论家。其《抱朴子》内篇讨论神仙、炼丹、符箓与养生，外篇论述儒家的政治与伦理，体现其“内道外儒”的立场。他整理了早期金丹与神仙传说，其《神仙传》收录了众多神仙事迹。他也有医学著述，如《肘后备急方》，后世常把青蒿治疟相关的记载与之联系。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>葛洪示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>葛洪（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>抱朴子</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>外丹</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神仙传</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>葛洪要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "东晋道教理论家与炼丹家，著有《抱朴子》。",
+     "source": "pri-gehong"
+    },
+    {
+     "claim": "葛洪著有《抱朴子》，是东晋道教神仙方术与外丹的重要理论家。",
+     "source": "pri-gehong"
+    }
+   ]
+  },
+  {
+   "id": "fig-zhangdaoling",
+   "title": "张道陵",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "传统上被奉为天师道的创始人，号张天师。",
+   "related": [
+    "rel-taoism"
+   ],
+   "sources": [
+    "pri-zhangdaoling",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "张道陵（传统上生活于东汉，约34—156）又称张陵，传统上被尊为天师道（五斗米道）的创始人，后世称“张天师”。据传他在蜀地鹤鸣山得太上老君授命，创立道教教团，以符水治病，信徒需交五斗米而得名。教团其后由其子张衡与孙张鲁继承，张鲁曾在汉中建立政教合一的政权。其历史事迹与后世神化的叙述须区分，其后裔世袭天师称号，形成龙虎山正一派的传统。",
+   "versions": [
+    "张道陵（传统上生活于东汉，约34—156）又称张陵，传统上被尊为天师道（五斗米道）的创始人，后世称“张天师”。据传他在蜀地鹤鸣山得太上老君授命，创立道教教团，以符水治病，信徒需交五斗米而得名。教团其后由其子张衡与孙张鲁继承，张鲁曾在汉中建立政教合一的政权。其历史事迹与后世神化的叙述须区分，其后裔世袭天师称号，形成龙虎山正一派的传统。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>张道陵示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>张道陵（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天师道</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五斗米</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>正一</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>张道陵要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "传统上被奉为天师道的创始人，号张天师。",
+     "source": "pri-zhangdaoling"
+    },
+    {
+     "claim": "张道陵传统上被奉为天师道的创始人。",
+     "source": "pri-zhangdaoling"
+    }
+   ]
+  },
+  {
+   "id": "fig-wangchongyang",
+   "title": "王重阳",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "全真道的创始人，主张三教合一。",
+   "related": [
+    "rel-taoism",
+    "fig-laozi"
+   ],
+   "sources": [
+    "pri-wangchongyang",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "王重阳（1113—1170）原名王中孚，陕西咸阳人，生活于金代，传说他在甘河镇遇仙人而悟道，后创立全真道。他主张儒释道三教合一，以《孝经》《道德经》《般若心经》为修行的基础，强调“识心见性”的内丹修炼与出家修行，并重视苦行。其七位弟子“全真七子”（马钰、谭处端、刘处玄、丘处机、王处一、郝大通、孙不二）将全真道发展为北方最重要的道教教派之一。",
+   "versions": [
+    "王重阳（1113—1170）原名王中孚，陕西咸阳人，生活于金代，传说他在甘河镇遇仙人而悟道，后创立全真道。他主张儒释道三教合一，以《孝经》《道德经》《般若心经》为修行的基础，强调“识心见性”的内丹修炼与出家修行，并重视苦行。其七位弟子“全真七子”（马钰、谭处端、刘处玄、丘处机、王处一、郝大通、孙不二）将全真道发展为北方最重要的道教教派之一。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>王重阳示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>王重阳（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>全真道</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三教合一</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>全真七子</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>王重阳要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "全真道的创始人，主张三教合一。",
+     "source": "pri-wangchongyang"
+    },
+    {
+     "claim": "王重阳是全真道的创始人，主张儒释道三教合一。",
+     "source": "pri-wangchongyang"
+    }
+   ]
+  },
+  {
+   "id": "fig-qiuchuji",
+   "title": "丘处机",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "全真七子之一，因应成吉思汗之召西行而著名。",
+   "related": [
+    "rel-taoism",
+    "fig-wangchongyang"
+   ],
+   "sources": [
+    "pri-qiuchuji",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "丘处机（1148—1227），号长春子，山东栖霞人，是全真七子之一，后来成为全真道的领袖。1219年，成吉思汗遣使相召，年逾七旬的丘处机率弟子西行万里，在中亚兴都库什山一带与成吉思汗相见，据记载多次论及养生与止杀之道。其弟子李志常据此撰成《长春真人西游记》。成吉思汗赐予全真道免除赋役的特权，使全真道在元初迅速发展。",
+   "versions": [
+    "丘处机（1148—1227），号长春子，山东栖霞人，是全真七子之一，后来成为全真道的领袖。1219年，成吉思汗遣使相召，年逾七旬的丘处机率弟子西行万里，在中亚兴都库什山一带与成吉思汗相见，据记载多次论及养生与止杀之道。其弟子李志常据此撰成《长春真人西游记》。成吉思汗赐予全真道免除赋役的特权，使全真道在元初迅速发展。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>丘处机示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>丘处机（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>长春子</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西游记</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>止杀</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丘处机要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "全真七子之一，因应成吉思汗之召西行而著名。",
+     "source": "pri-qiuchuji"
+    },
+    {
+     "claim": "丘处机应成吉思汗之召西行，其行程见于《长春真人西游记》。",
+     "source": "pri-qiuchuji"
+    }
+   ]
+  },
+  {
+   "id": "fig-ludongbin",
+   "title": "吕洞宾",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "八仙之一，道教内丹传统中被奉为祖师的仙人。",
+   "related": [
+    "rel-taoism",
+    "fig-eight-immortals"
+   ],
+   "sources": [
+    "pri-ludongbin",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "吕洞宾，号纯阳子，传统上被认为是唐末或五代的人物，是民间“八仙”中最著名的一位，在道教内丹传统中被尊为“纯阳祖师”，被全真道奉为北五祖之一。传说他在长安酒肆遇钟离权而得传道，后又斩妖除魔、济世度人。归于其名下的诗词与内丹文献数量众多，其中多数为后世托名之作。其历史原型的生平难以确考，民间也有大量与他相关的故事与庙宇。",
+   "versions": [
+    "吕洞宾，号纯阳子，传统上被认为是唐末或五代的人物，是民间“八仙”中最著名的一位，在道教内丹传统中被尊为“纯阳祖师”，被全真道奉为北五祖之一。传说他在长安酒肆遇钟离权而得传道，后又斩妖除魔、济世度人。归于其名下的诗词与内丹文献数量众多，其中多数为后世托名之作。其历史原型的生平难以确考，民间也有大量与他相关的故事与庙宇。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>吕洞宾示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>吕洞宾（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>纯阳祖师</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>八仙</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>内丹</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>吕洞宾要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "八仙之一，道教内丹传统中被奉为祖师的仙人。",
+     "source": "pri-ludongbin"
+    },
+    {
+     "claim": "吕洞宾是八仙之一，在道教内丹传统中被尊为纯阳祖师。",
+     "source": "pri-ludongbin"
+    }
+   ]
+  },
+  {
+   "id": "fig-dongzhongshu",
+   "title": "董仲舒",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "西汉儒者，以天人感应与“独尊儒术”之议闻名。",
+   "related": [
+    "rel-confucianism"
+   ],
+   "sources": [
+    "pri-dongzhongshu",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "董仲舒（约前179—前104），西汉广川人，是今文经学的代表人物，以研究《春秋公羊传》著称。他提出“天人感应”之说，认为天与人事相互感应，灾异是对君主失德的警告；又提出“大一统”与“三纲五常”的思想。传统上认为他在对策中建议汉武帝“罢黜百家，独尊儒术”，从而使儒学成为国家意识形态，不过这一说法在现代学界受到较多质疑。其著作《春秋繁露》被归于其名下。",
+   "versions": [
+    "董仲舒（约前179—前104），西汉广川人，是今文经学的代表人物，以研究《春秋公羊传》著称。他提出“天人感应”之说，认为天与人事相互感应，灾异是对君主失德的警告；又提出“大一统”与“三纲五常”的思想。传统上认为他在对策中建议汉武帝“罢黜百家，独尊儒术”，从而使儒学成为国家意识形态，不过这一说法在现代学界受到较多质疑。其著作《春秋繁露》被归于其名下。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>董仲舒示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>董仲舒（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天人感应</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>春秋公羊</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>独尊儒术</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>董仲舒要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "西汉儒者，以天人感应与“独尊儒术”之议闻名。",
+     "source": "pri-dongzhongshu"
+    },
+    {
+     "claim": "董仲舒提出天人感应与大一统之说，著作《春秋繁露》归于其名下。",
+     "source": "pri-dongzhongshu"
+    }
+   ]
+  },
+  {
+   "id": "fig-akhenaten",
+   "title": "阿肯那顿",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "古埃及第十八王朝法老，推行以阿顿为中心的宗教改革。",
+   "related": [
+    "rel-ancient-egyptian",
+    "fig-amun"
+   ],
+   "sources": [
+    "pri-akhenaten",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿肯那顿（Akhenaten，约公元前十四世纪，原名阿蒙霍特普四世）是古埃及第十八王朝的法老，他推行以太阳圆盘“阿顿”为崇拜中心的宗教改革，把都城迁往阿马尔纳（阿赫塔顿），并压制阿蒙等传统神祇的崇拜。他的改革常被称为人类早期“一神崇拜”的尝试，但学界对它是严格的一神教、单一主神崇拜还是以王权为中心的神学，意见不一。他死后改革迅速被废止，其名字在后世王表中遭到抹除。",
+   "versions": [
+    "阿肯那顿（Akhenaten，约公元前十四世纪，原名阿蒙霍特普四世）是古埃及第十八王朝的法老，他推行以太阳圆盘“阿顿”为崇拜中心的宗教改革，把都城迁往阿马尔纳（阿赫塔顿），并压制阿蒙等传统神祇的崇拜。他的改革常被称为人类早期“一神崇拜”的尝试，但学界对它是严格的一神教、单一主神崇拜还是以王权为中心的神学，意见不一。他死后改革迅速被废止，其名字在后世王表中遭到抹除。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿肯那顿示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿肯那顿（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿顿</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿马尔纳</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宗教改革</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿肯那顿要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "古埃及第十八王朝法老，推行以阿顿为中心的宗教改革。",
+     "source": "pri-akhenaten"
+    },
+    {
+     "claim": "阿肯那顿推行以阿顿为中心的宗教改革，并迁都阿马尔纳。",
+     "source": "pri-akhenaten"
+    }
+   ]
+  },
+  {
+   "id": "fig-hammurabi",
+   "title": "汉谟拉比",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "古巴比伦国王，以《汉谟拉比法典》闻名。",
+   "related": [
+    "rel-ancient-greek"
+   ],
+   "sources": [
+    "pri-hammurabi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "汉谟拉比（Hammurabi，约公元前十八世纪）是古巴比伦第一王朝的国王，统一了两河流域南部，在位期间颁布了刻于石碑上的《汉谟拉比法典》。石碑上部浮雕刻画他从太阳与正义之神沙马什手中接受权杖与环的场面，把王权与神意联系起来。法典中的“以眼还眼”式的同态复仇条文与按身份分等的惩罚，常被用来讨论古代近东的法律观念，以及它与《希伯来圣经》律法的关系。",
+   "versions": [
+    "汉谟拉比（Hammurabi，约公元前十八世纪）是古巴比伦第一王朝的国王，统一了两河流域南部，在位期间颁布了刻于石碑上的《汉谟拉比法典》。石碑上部浮雕刻画他从太阳与正义之神沙马什手中接受权杖与环的场面，把王权与神意联系起来。法典中的“以眼还眼”式的同态复仇条文与按身份分等的惩罚，常被用来讨论古代近东的法律观念，以及它与《希伯来圣经》律法的关系。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>汉谟拉比示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>汉谟拉比（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>汉谟拉比法典</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>沙马什</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>同态复仇</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>汉谟拉比要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "古巴比伦国王，以《汉谟拉比法典》闻名。",
+     "source": "pri-hammurabi"
+    },
+    {
+     "claim": "汉谟拉比颁布了刻于石碑上的《汉谟拉比法典》。",
+     "source": "pri-hammurabi"
+    }
+   ]
+  },
+  {
+   "id": "fig-cyrus",
+   "title": "居鲁士",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "波斯帝国的创建者，以宗教宽容的政策闻名。",
+   "related": [
+    "rel-zoroastrianism"
+   ],
+   "sources": [
+    "pri-cyrus",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "居鲁士大帝（Cyrus the Great，约前600—前530）是阿契美尼德波斯帝国的创建者，他征服了米底、吕底亚与巴比伦，建立了横跨西亚的帝国。《居鲁士圆柱》记载他尊重被征服地区的神祇与祭祀，《希伯来圣经》也称他允许被掳至巴比伦的犹太人回归并重建圣殿，称之为“受膏者”。关于他本人是否信仰琐罗亚斯德教，学界没有定论，圆柱的文字也常被视为一种帝国宣传，而不必理解为现代意义的宗教自由宣言。",
+   "versions": [
+    "居鲁士大帝（Cyrus the Great，约前600—前530）是阿契美尼德波斯帝国的创建者，他征服了米底、吕底亚与巴比伦，建立了横跨西亚的帝国。《居鲁士圆柱》记载他尊重被征服地区的神祇与祭祀，《希伯来圣经》也称他允许被掳至巴比伦的犹太人回归并重建圣殿，称之为“受膏者”。关于他本人是否信仰琐罗亚斯德教，学界没有定论，圆柱的文字也常被视为一种帝国宣传，而不必理解为现代意义的宗教自由宣言。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>居鲁士示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>居鲁士（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>居鲁士圆柱</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宗教宽容</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>受膏者</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>居鲁士要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "波斯帝国的创建者，以宗教宽容的政策闻名。",
+     "source": "pri-cyrus"
+    },
+    {
+     "claim": "居鲁士创建了阿契美尼德波斯帝国，以宗教宽容的政策闻名。",
+     "source": "pri-cyrus"
+    }
+   ]
+  },
+  {
+   "id": "fig-constantine",
+   "title": "君士坦丁",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马皇帝，313年颁布米兰敕令，推动基督教合法化。",
+   "related": [
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-constantine",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "君士坦丁一世（Constantine the Great，约272—337）是罗马皇帝，据传统记载，他在312年米尔维安桥之战前见到异象而归向基督教的上帝。313年，他与李锡尼共同颁布《米兰敕令》，承认基督教的合法地位；325年，他召集了尼西亚公会议，讨论阿里乌争论与教义的统一。他又创建了君士坦丁堡，作为新的帝国都城。关于他信仰的真诚程度，以及他何时受洗，学界长期有争议，他据传在临终前才受洗。",
+   "versions": [
+    "君士坦丁一世（Constantine the Great，约272—337）是罗马皇帝，据传统记载，他在312年米尔维安桥之战前见到异象而归向基督教的上帝。313年，他与李锡尼共同颁布《米兰敕令》，承认基督教的合法地位；325年，他召集了尼西亚公会议，讨论阿里乌争论与教义的统一。他又创建了君士坦丁堡，作为新的帝国都城。关于他信仰的真诚程度，以及他何时受洗，学界长期有争议，他据传在临终前才受洗。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>君士坦丁示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>君士坦丁（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>米兰敕令</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼西亚公会议</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>君士坦丁堡</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>君士坦丁要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "罗马皇帝，313年颁布米兰敕令，推动基督教合法化。",
+     "source": "pri-constantine"
+    },
+    {
+     "claim": "君士坦丁在313年颁布米兰敕令，并召集了325年的尼西亚公会议。",
+     "source": "pri-constantine"
+    }
+   ]
+  },
+  {
+   "id": "fig-julian",
+   "title": "尤利安",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "罗马皇帝，因试图恢复传统宗教被基督教史家称为“叛教者”。",
+   "related": [
+    "rel-hellenism",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-julian",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "尤利安（Julian，331—363）是罗马皇帝，君士坦丁家族成员，幼年接受基督教教育，后来转向希腊罗马传统宗教与新柏拉图主义，被基督教作者称为“叛教者”。他于361年即位，试图恢复传统神庙的崇拜，限制基督徒担任教职，并支持重建耶路撒冷的犹太圣殿，不过这些尝试随着他363年在对波斯的战役中去世而告终。他自己的著作如《驳加利利人》，是反基督教论述的重要文献。",
+   "versions": [
+    "尤利安（Julian，331—363）是罗马皇帝，君士坦丁家族成员，幼年接受基督教教育，后来转向希腊罗马传统宗教与新柏拉图主义，被基督教作者称为“叛教者”。他于361年即位，试图恢复传统神庙的崇拜，限制基督徒担任教职，并支持重建耶路撒冷的犹太圣殿，不过这些尝试随着他363年在对波斯的战役中去世而告终。他自己的著作如《驳加利利人》，是反基督教论述的重要文献。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>尤利安示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>尤利安（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>叛教者</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>新柏拉图主义</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>驳加利利人</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尤利安要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "罗马皇帝，因试图恢复传统宗教被基督教史家称为“叛教者”。",
+     "source": "pri-julian"
+    },
+    {
+     "claim": "尤利安试图恢复传统宗教，被基督教作者称为“叛教者”。",
+     "source": "pri-julian"
+    }
+   ]
+  },
+  {
+   "id": "fig-pythagoras",
+   "title": "毕达哥拉斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "古希腊哲学家，其教团融合了数学、灵魂轮回与宗教戒律。",
+   "related": [
+    "rel-ancient-greek",
+    "fig-orpheus"
+   ],
+   "sources": [
+    "pri-pythagoras",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "毕达哥拉斯（Pythagoras，约前570—前495）出生于萨摩斯，后来在南意大利的克罗顿建立了一个兼具宗教与哲学性质的教团。传统上他与“万物皆数”的观念、灵魂轮回之说和一系列饮食与行为禁忌相联系，教团成员保守教义的秘密，并与俄耳甫斯传统有所关联。由于他本人没有留下著作，现存关于他的材料多出自后世，其中数学成就与神秘传说混杂，学界很难区分他本人的思想与后来的“毕达哥拉斯学派”。",
+   "versions": [
+    "毕达哥拉斯（Pythagoras，约前570—前495）出生于萨摩斯，后来在南意大利的克罗顿建立了一个兼具宗教与哲学性质的教团。传统上他与“万物皆数”的观念、灵魂轮回之说和一系列饮食与行为禁忌相联系，教团成员保守教义的秘密，并与俄耳甫斯传统有所关联。由于他本人没有留下著作，现存关于他的材料多出自后世，其中数学成就与神秘传说混杂，学界很难区分他本人的思想与后来的“毕达哥拉斯学派”。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>毕达哥拉斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>毕达哥拉斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>万物皆数</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>灵魂轮回</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>教团</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>毕达哥拉斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "古希腊哲学家，其教团融合了数学、灵魂轮回与宗教戒律。",
+     "source": "pri-pythagoras"
+    },
+    {
+     "claim": "毕达哥拉斯在克罗顿建立了兼具宗教与哲学性质的教团。",
+     "source": "pri-pythagoras"
+    }
+   ]
+  },
+  {
+   "id": "fig-origen",
+   "title": "奥利金",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "亚历山大里亚的早期基督教神学家，以寓意解经著称。",
+   "related": [
+    "rel-christianity",
+    "fig-paul"
+   ],
+   "sources": [
+    "pri-origen",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "奥利金（Origen，约185—253）是亚历山大里亚的早期基督教神学家与圣经学者，其《六文本合参》以多种希伯来与希腊文本对照圣经，《论首要原理》则是早期基督教的系统神学之作。他提倡对经文作字面、道德与灵性三层的寓意解释，并主张灵魂先存与万物最终复归的思想。这些主张在他身后引起争议，553年的君士坦丁堡公会议将与之相关的学说判为异端，但他对后世东方教父的影响深远。",
+   "versions": [
+    "奥利金（Origen，约185—253）是亚历山大里亚的早期基督教神学家与圣经学者，其《六文本合参》以多种希伯来与希腊文本对照圣经，《论首要原理》则是早期基督教的系统神学之作。他提倡对经文作字面、道德与灵性三层的寓意解释，并主张灵魂先存与万物最终复归的思想。这些主张在他身后引起争议，553年的君士坦丁堡公会议将与之相关的学说判为异端，但他对后世东方教父的影响深远。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奥利金示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奥利金（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>寓意解经</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>六文本合参</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>论首要原理</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥利金要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "亚历山大里亚的早期基督教神学家，以寓意解经著称。",
+     "source": "pri-origen"
+    },
+    {
+     "claim": "奥利金是亚历山大里亚的神学家，以寓意解经和《论首要原理》著称。",
+     "source": "pri-origen"
+    }
+   ]
+  },
+  {
+   "id": "fig-tertullian",
+   "title": "德尔图良",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "迦太基的拉丁教父，首位以拉丁文系统书写基督教神学的作者。",
+   "related": [
+    "rel-christianity",
+    "rel-catholicism"
+   ],
+   "sources": [
+    "pri-tertullian",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "德尔图良（Tertullian，约155—220）生于迦太基，是早期拉丁基督教的重要作者，被认为首先使用“三位一体”（Trinitas）一词表述上帝的教义，并在基督论中形成了“一个本体，三个位格”的说法。他写作了大量护教与论战之作，如《护教篇》，晚年转向严格主义的孟他努派运动。因此他虽对西方神学影响深远，却未被天主教奉为圣人。",
+   "versions": [
+    "德尔图良（Tertullian，约155—220）生于迦太基，是早期拉丁基督教的重要作者，被认为首先使用“三位一体”（Trinitas）一词表述上帝的教义，并在基督论中形成了“一个本体，三个位格”的说法。他写作了大量护教与论战之作，如《护教篇》，晚年转向严格主义的孟他努派运动。因此他虽对西方神学影响深远，却未被天主教奉为圣人。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>德尔图良示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>德尔图良（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三位一体</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>护教篇</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孟他努派</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>德尔图良要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "迦太基的拉丁教父，首位以拉丁文系统书写基督教神学的作者。",
+     "source": "pri-tertullian"
+    },
+    {
+     "claim": "德尔图良是迦太基的拉丁教父，据传首先使用“三位一体”一词。",
+     "source": "pri-tertullian"
+    }
+   ]
+  },
+  {
+   "id": "fig-athanasius",
+   "title": "阿塔那修",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "亚历山大里亚主教，尼西亚信条的捍卫者。",
+   "related": [
+    "rel-christianity",
+    "fig-constantine"
+   ],
+   "sources": [
+    "pri-athanasius",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿塔那修（Athanasius，约296—373）是亚历山大里亚的主教，在325年尼西亚公会议上以助祭身份参与讨论，其后成为尼西亚信条的主要捍卫者，反对阿里乌派关于圣子被造的主张。他因此多次被君士坦丁及其继承者的朝廷流放，一生共被流放约五次。他著有《论道成肉身》与《圣安东尼传》，并在367年的《复活节书信》中列出了与今日新约一致的二十七卷书目。",
+   "versions": [
+    "阿塔那修（Athanasius，约296—373）是亚历山大里亚的主教，在325年尼西亚公会议上以助祭身份参与讨论，其后成为尼西亚信条的主要捍卫者，反对阿里乌派关于圣子被造的主张。他因此多次被君士坦丁及其继承者的朝廷流放，一生共被流放约五次。他著有《论道成肉身》与《圣安东尼传》，并在367年的《复活节书信》中列出了与今日新约一致的二十七卷书目。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿塔那修示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿塔那修（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼西亚信条</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>论道成肉身</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>新约书目</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿塔那修要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "亚历山大里亚主教，尼西亚信条的捍卫者。",
+     "source": "pri-athanasius"
+    },
+    {
+     "claim": "阿塔那修是尼西亚信条的主要捍卫者，多次被流放。",
+     "source": "pri-athanasius"
+    }
+   ]
+  },
+  {
+   "id": "fig-arius",
+   "title": "阿里乌",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "亚历山大里亚的长老，其“圣子被造”之说引发四世纪的重大争论。",
+   "related": [
+    "rel-christianity",
+    "fig-athanasius"
+   ],
+   "sources": [
+    "pri-arius",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿里乌（Arius，约256—336）是亚历山大里亚的长老，他主张圣子由圣父所造，不与圣父同等同永恒，这一主张在四世纪引发了严重的教义争论。325年的尼西亚公会议判定其说为异端，并确立“与圣父同质”的信条，但争论其后仍持续了数十年，阿里乌派在若干日耳曼民族中长期流行。关于阿里乌的原著，今天保存下来的很少，多数资料来自其对手的转述，因此对其思想的复原存在困难。",
+   "versions": [
+    "阿里乌（Arius，约256—336）是亚历山大里亚的长老，他主张圣子由圣父所造，不与圣父同等同永恒，这一主张在四世纪引发了严重的教义争论。325年的尼西亚公会议判定其说为异端，并确立“与圣父同质”的信条，但争论其后仍持续了数十年，阿里乌派在若干日耳曼民族中长期流行。关于阿里乌的原著，今天保存下来的很少，多数资料来自其对手的转述，因此对其思想的复原存在困难。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿里乌示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿里乌（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣子被造</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼西亚公会议</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿里乌派</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿里乌要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "亚历山大里亚的长老，其“圣子被造”之说引发四世纪的重大争论。",
+     "source": "pri-arius"
+    },
+    {
+     "claim": "阿里乌主张圣子被造，其说在325年的尼西亚公会议被判为异端。",
+     "source": "pri-arius"
+    }
+   ]
+  },
+  {
+   "id": "fig-benedict",
+   "title": "本笃",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "西方修道制度的奠基者，《本笃会规》的作者。",
+   "related": [
+    "rel-catholicism",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-benedict",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "本笃（Benedict of Nursia，约480—547）出生于意大利努尔西亚，传统上被尊为西方修道制度之父，在卡西诺山建立了修道院，并撰写了《本笃会规》。会规以“祈祷与劳作”（ora et labora）为核心，规定了修士的日常、服从与定居的生活秩序，其平衡而务实的特色使其在中世纪欧洲逐渐成为修道院的通行规范。关于他生平的主要资料是格里高利一世的《对话录》，其中有不少带有圣传色彩的记述。",
+   "versions": [
+    "本笃（Benedict of Nursia，约480—547）出生于意大利努尔西亚，传统上被尊为西方修道制度之父，在卡西诺山建立了修道院，并撰写了《本笃会规》。会规以“祈祷与劳作”（ora et labora）为核心，规定了修士的日常、服从与定居的生活秩序，其平衡而务实的特色使其在中世纪欧洲逐渐成为修道院的通行规范。关于他生平的主要资料是格里高利一世的《对话录》，其中有不少带有圣传色彩的记述。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>本笃示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>本笃（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>本笃会规</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>祈祷与劳作</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡西诺山</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>本笃要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "西方修道制度的奠基者，《本笃会规》的作者。",
+     "source": "pri-benedict"
+    },
+    {
+     "claim": "本笃撰写了《本笃会规》，被尊为西方修道制度之父。",
+     "source": "pri-benedict"
+    }
+   ]
+  },
+  {
+   "id": "fig-josephsmith",
+   "title": "约瑟夫·史密斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "摩门教（耶稣基督后期圣徒教会）的创立者。",
+   "related": [
+    "rel-mormonism",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-josephsmith",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "约瑟夫·史密斯（Joseph Smith，1805—1844）出生于美国佛蒙特，是耶稣基督后期圣徒教会（摩门教）的创立者。据信徒的叙述，他在1820年前后见到异象，并在天使摩罗乃的指引下得到金页片，将其翻译成《摩尔门经》，于1830年出版并创立教会。他后来带领信徒迁往俄亥俄、密苏里与伊利诺伊，1844年在伊利诺伊被暴民杀害。信徒视他为先知，外界对其宣称的历史性与《摩尔门经》的起源则持不同看法。",
+   "versions": [
+    "约瑟夫·史密斯（Joseph Smith，1805—1844）出生于美国佛蒙特，是耶稣基督后期圣徒教会（摩门教）的创立者。据信徒的叙述，他在1820年前后见到异象，并在天使摩罗乃的指引下得到金页片，将其翻译成《摩尔门经》，于1830年出版并创立教会。他后来带领信徒迁往俄亥俄、密苏里与伊利诺伊，1844年在伊利诺伊被暴民杀害。信徒视他为先知，外界对其宣称的历史性与《摩尔门经》的起源则持不同看法。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>约瑟夫·史密斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>约瑟夫·史密斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>摩尔门经</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>先知</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>异象</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>约瑟夫·史密斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "摩门教（耶稣基督后期圣徒教会）的创立者。",
+     "source": "pri-josephsmith"
+    },
+    {
+     "claim": "约瑟夫·史密斯创立了耶稣基督后期圣徒教会，并出版了《摩尔门经》。",
+     "source": "pri-josephsmith"
+    }
+   ]
+  },
+  {
+   "id": "fig-bahaullah",
+   "title": "巴哈欧拉",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "巴哈伊信仰的创始人。",
+   "related": [
+    "rel-bahai",
+    "fig-bab"
+   ],
+   "sources": [
+    "pri-bahaullah",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "巴哈欧拉（Bahá'u'lláh，1817—1892）原名米尔扎·侯赛因·阿里，出生于波斯，是巴哈伊信仰的创始人。他先成为巴孛的追随者，因此被囚于德黑兰，并于1853年前后在狱中体验到启示。他此后被放逐到巴格达、伊斯坦布尔、阿德里安堡，最终被关押在阿卡，并在那里度过了生命的最后岁月。巴哈伊信徒视他为继亚伯拉罕、摩西、耶稣、穆罕默德等之后的神圣启示者，其教义强调人类一体与各宗教的渐进启示。",
+   "versions": [
+    "巴哈欧拉（Bahá'u'lláh，1817—1892）原名米尔扎·侯赛因·阿里，出生于波斯，是巴哈伊信仰的创始人。他先成为巴孛的追随者，因此被囚于德黑兰，并于1853年前后在狱中体验到启示。他此后被放逐到巴格达、伊斯坦布尔、阿德里安堡，最终被关押在阿卡，并在那里度过了生命的最后岁月。巴哈伊信徒视他为继亚伯拉罕、摩西、耶稣、穆罕默德等之后的神圣启示者，其教义强调人类一体与各宗教的渐进启示。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>巴哈欧拉示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>巴哈欧拉（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>人类一体</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>渐进启示</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>放逐</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴哈欧拉要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "巴哈伊信仰的创始人。",
+     "source": "pri-bahaullah"
+    },
+    {
+     "claim": "巴哈欧拉是巴哈伊信仰的创始人，先追随巴孛，被放逐至阿卡。",
+     "source": "pri-bahaullah"
+    }
+   ]
+  },
+  {
+   "id": "fig-bab",
+   "title": "巴孛",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "巴布教的创立者，巴哈伊信仰的先驱。",
+   "related": [
+    "rel-bahai",
+    "rel-islam"
+   ],
+   "sources": [
+    "pri-bab",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "巴孛（The Báb，1819—1850，原名赛义德·阿里·穆罕默德）出生于波斯设拉子，1844年宣称自己是应许的“门”（Báb），并预告一位更伟大的神圣显现者将要出现。他的主张在波斯引起了广泛的响应，也遭到教士阶层与政府的镇压，他于1850年在大不里士被处决。其追随者“巴布教徒”遭到大规模的迫害，其中的一部分后来追随巴哈欧拉而成为巴哈伊信徒。其遗体后来被迁葬于海法的迦密山。",
+   "versions": [
+    "巴孛（The Báb，1819—1850，原名赛义德·阿里·穆罕默德）出生于波斯设拉子，1844年宣称自己是应许的“门”（Báb），并预告一位更伟大的神圣显现者将要出现。他的主张在波斯引起了广泛的响应，也遭到教士阶层与政府的镇压，他于1850年在大不里士被处决。其追随者“巴布教徒”遭到大规模的迫害，其中的一部分后来追随巴哈欧拉而成为巴哈伊信徒。其遗体后来被迁葬于海法的迦密山。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>巴孛示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>巴孛（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>门</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>应许者</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>处决</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴孛要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "巴布教的创立者，巴哈伊信仰的先驱。",
+     "source": "pri-bab"
+    },
+    {
+     "claim": "巴孛于1844年宣称自己是应许的“门”，1850年在大不里士被处决。",
+     "source": "pri-bab"
+    }
+   ]
+  },
+  {
+   "id": "fig-gandhi",
+   "title": "甘地",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "印度独立运动的领袖，以非暴力不合作闻名。",
+   "related": [
+    "rel-hinduism",
+    "rel-jainism"
+   ],
+   "sources": [
+    "pri-gandhi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "莫罕达斯·卡拉姆昌德·甘地（Mohandas Karamchand Gandhi，1869—1948）出生于古吉拉特邦，早年在南非从事律师工作，在那里发展出“坚持真理”（Satyagraha）的非暴力抵抗方法，后来领导印度的独立运动，如1930年的食盐长征。他的思想受到印度教、耆那教的非暴力观念、《薄伽梵歌》，以及托尔斯泰与梭罗等的影响。他被尊称为“圣雄”，1948年被一名印度教民族主义者刺杀。关于他对种姓制度等问题的立场，后世有不同的评价。",
+   "versions": [
+    "莫罕达斯·卡拉姆昌德·甘地（Mohandas Karamchand Gandhi，1869—1948）出生于古吉拉特邦，早年在南非从事律师工作，在那里发展出“坚持真理”（Satyagraha）的非暴力抵抗方法，后来领导印度的独立运动，如1930年的食盐长征。他的思想受到印度教、耆那教的非暴力观念、《薄伽梵歌》，以及托尔斯泰与梭罗等的影响。他被尊称为“圣雄”，1948年被一名印度教民族主义者刺杀。关于他对种姓制度等问题的立场，后世有不同的评价。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>甘地示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>甘地（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>坚持真理</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>非暴力</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>食盐长征</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>甘地要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "印度独立运动的领袖，以非暴力不合作闻名。",
+     "source": "pri-gandhi"
+    },
+    {
+     "claim": "甘地在南非发展出“坚持真理”的非暴力抵抗，后领导印度独立运动。",
+     "source": "pri-gandhi"
+    }
+   ]
+  },
+  {
+   "id": "fig-taixu",
+   "title": "太虚",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "近代中国佛教改革家，提倡“人间佛教”。",
+   "related": [
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-taixu",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "太虚（1890—1947）是近代中国的佛教僧人与改革家，他在清末民初佛教面临衰落的背景下，提出“教理革命、教制革命、教产革命”的主张，推动僧教育与佛学院的发展，并提倡“人生佛教”，即把佛教的关注从死后的超度转向现世的人生改善。其思想后来被印顺等人发展为“人间佛教”，对台湾与大陆佛教影响深远。他也曾多次出国访问弘法，并推动了佛教的国际交流。",
+   "versions": [
+    "太虚（1890—1947）是近代中国的佛教僧人与改革家，他在清末民初佛教面临衰落的背景下，提出“教理革命、教制革命、教产革命”的主张，推动僧教育与佛学院的发展，并提倡“人生佛教”，即把佛教的关注从死后的超度转向现世的人生改善。其思想后来被印顺等人发展为“人间佛教”，对台湾与大陆佛教影响深远。他也曾多次出国访问弘法，并推动了佛教的国际交流。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>太虚示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>太虚（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>教理革命</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>人生佛教</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>佛学院</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太虚要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "近代中国佛教改革家，提倡“人间佛教”。",
+     "source": "pri-taixu"
+    },
+    {
+     "claim": "太虚提出“教理革命、教制革命、教产革命”，倡导人生佛教。",
+     "source": "pri-taixu"
+    }
+   ]
+  },
+  {
+   "id": "fig-dtsuzuki",
+   "title": "铃木大拙",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "日本佛教学者，向西方介绍禅宗的重要人物。",
+   "related": [
+    "rel-zen",
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-dtsuzuki",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "铃木大拙（D. T. Suzuki，1870—1966）是日本的佛教学者与作家，早年随镰仓圆觉寺的释宗演参禅，并在美国伊利诺伊的开放法院出版社工作，翻译了东方宗教与佛教典籍。他用英文撰写了大量著作，如《禅论文集》，使“Zen”一词在二十世纪中叶的西方广为人知，对垮掉的一代及西方知识界产生了影响。他的叙述把禅描述为超越文化与制度的直接体验，这一视角后来受到学界的检讨，认为带有近代化与民族主义的色彩。",
+   "versions": [
+    "铃木大拙（D. T. Suzuki，1870—1966）是日本的佛教学者与作家，早年随镰仓圆觉寺的释宗演参禅，并在美国伊利诺伊的开放法院出版社工作，翻译了东方宗教与佛教典籍。他用英文撰写了大量著作，如《禅论文集》，使“Zen”一词在二十世纪中叶的西方广为人知，对垮掉的一代及西方知识界产生了影响。他的叙述把禅描述为超越文化与制度的直接体验，这一视角后来受到学界的检讨，认为带有近代化与民族主义的色彩。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>铃木大拙示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>铃木大拙（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>禅论文集</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>直接体验</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西方传播</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>铃木大拙要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "日本佛教学者，向西方介绍禅宗的重要人物。",
+     "source": "pri-dtsuzuki"
+    },
+    {
+     "claim": "铃木大拙用英文著述，使禅宗在二十世纪的西方广为人知。",
+     "source": "pri-dtsuzuki"
+    }
+   ]
+  },
+  {
+   "id": "fig-steiner",
+   "title": "鲁道夫·施泰纳",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "人智学的创立者，华德福教育与生物动力农法的源头。",
+   "related": [
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-steiner",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "鲁道夫·施泰纳（Rudolf Steiner，1861—1925）出生于奥地利，早年研究歌德的自然科学著作，后来加入神智学会，并因分歧而在1912年前后创立了“人智学”（Anthroposophy），主张通过训练人的思维感知超感官世界。他的思想对教育（华德福学校）、农业（生物动力农法）、医疗与艺术都产生了实际的影响。其学说的科学性受到许多批评，也有学者讨论其中带有的种族观念，人智学协会对此也曾有所回应。",
+   "versions": [
+    "鲁道夫·施泰纳（Rudolf Steiner，1861—1925）出生于奥地利，早年研究歌德的自然科学著作，后来加入神智学会，并因分歧而在1912年前后创立了“人智学”（Anthroposophy），主张通过训练人的思维感知超感官世界。他的思想对教育（华德福学校）、农业（生物动力农法）、医疗与艺术都产生了实际的影响。其学说的科学性受到许多批评，也有学者讨论其中带有的种族观念，人智学协会对此也曾有所回应。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>鲁道夫·施泰纳示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>鲁道夫·施泰纳（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>人智学</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>华德福</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>生物动力农法</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鲁道夫·施泰纳要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "人智学的创立者，华德福教育与生物动力农法的源头。",
+     "source": "pri-steiner"
+    },
+    {
+     "claim": "施泰纳创立了人智学，是华德福教育与生物动力农法的源头。",
+     "source": "pri-steiner"
+    }
+   ]
+  },
+  {
+   "id": "fig-al-razi",
+   "title": "拉齐",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "波斯医学家与哲学家，以对先知身份的质疑闻名。",
+   "related": [
+    "rel-islam",
+    "fig-ibn-sina"
+   ],
+   "sources": [
+    "pri-al-razi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "拉齐（Abu Bakr al-Razi，约865—925，拉丁名Rhazes）是出生于波斯的医生、化学家与哲学家，其《医学集成》与论天花与麻疹的专著在中世纪的欧洲与伊斯兰世界影响深远。他在哲学上主张理性高于启示，据后世引述，他质疑先知身份的必要性，并提出“五个永恒者”的宇宙论，因此在伊斯兰思想史上被视为极具争议的人物。他的原著多已佚失，这些说法主要来自对手的转述，如伊斯玛仪派学者阿布·哈提姆·拉齐的反驳。",
+   "versions": [
+    "拉齐（Abu Bakr al-Razi，约865—925，拉丁名Rhazes）是出生于波斯的医生、化学家与哲学家，其《医学集成》与论天花与麻疹的专著在中世纪的欧洲与伊斯兰世界影响深远。他在哲学上主张理性高于启示，据后世引述，他质疑先知身份的必要性，并提出“五个永恒者”的宇宙论，因此在伊斯兰思想史上被视为极具争议的人物。他的原著多已佚失，这些说法主要来自对手的转述，如伊斯玛仪派学者阿布·哈提姆·拉齐的反驳。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>拉齐示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>拉齐（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>医学集成</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>理性高于启示</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五个永恒者</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉齐要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "波斯医学家与哲学家，以对先知身份的质疑闻名。",
+     "source": "pri-al-razi"
+    },
+    {
+     "claim": "拉齐是波斯医学家，其论天花与麻疹的专著影响深远。",
+     "source": "pri-al-razi"
+    }
+   ]
+  },
+  {
+   "id": "fig-al-biruni",
+   "title": "比鲁尼",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "中亚学者，以对印度宗教与文化的研究闻名。",
+   "related": [
+    "rel-islam",
+    "rel-hinduism"
+   ],
+   "sources": [
+    "pri-al-biruni",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "比鲁尼（Al-Biruni，973—约1050）出生于花剌子模，是伊斯兰黄金时代的学者，精通天文学、数学、地理与历史。他随加兹尼的马哈茂德远征印度，学习梵文，并撰写了《印度志》，系统记述了印度的宗教、哲学、历法与习俗，被视为较早的比较宗教学与人类学著作。他力求以印度人自己的文献为依据，而不是以外来者的偏见，这种方法在当时十分难得。",
+   "versions": [
+    "比鲁尼（Al-Biruni，973—约1050）出生于花剌子模，是伊斯兰黄金时代的学者，精通天文学、数学、地理与历史。他随加兹尼的马哈茂德远征印度，学习梵文，并撰写了《印度志》，系统记述了印度的宗教、哲学、历法与习俗，被视为较早的比较宗教学与人类学著作。他力求以印度人自己的文献为依据，而不是以外来者的偏见，这种方法在当时十分难得。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>比鲁尼示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>比鲁尼（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>印度志</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>比较宗教</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>梵文</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>比鲁尼要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "中亚学者，以对印度宗教与文化的研究闻名。",
+     "source": "pri-al-biruni"
+    },
+    {
+     "claim": "比鲁尼撰写《印度志》，系统记述了印度的宗教与文化。",
+     "source": "pri-al-biruni"
+    }
+   ]
+  },
+  {
+   "id": "fig-omar-khayyam",
+   "title": "奥马尔·海亚姆",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "波斯数学家、天文学家与诗人，以《鲁拜集》闻名。",
+   "related": [
+    "rel-islam",
+    "rel-sufism"
+   ],
+   "sources": [
+    "pri-omar-khayyam",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "奥马尔·海亚姆（Omar Khayyam，1048—1131）出生于波斯尼沙布尔，是数学家、天文学家与诗人，在代数学与历法改革方面有重要的贡献。归于他名下的四行诗《鲁拜集》经十九世纪英国菲茨杰拉德的自由英译而在西方闻名，其中充满对生命无常、及时行乐与对宗教确定性的怀疑。关于哪些四行诗真正出自海亚姆，学界长期有争论，不少诗句可能是后世添加的，对其诗作是否表达苏菲的神秘主义也存在不同解读。",
+   "versions": [
+    "奥马尔·海亚姆（Omar Khayyam，1048—1131）出生于波斯尼沙布尔，是数学家、天文学家与诗人，在代数学与历法改革方面有重要的贡献。归于他名下的四行诗《鲁拜集》经十九世纪英国菲茨杰拉德的自由英译而在西方闻名，其中充满对生命无常、及时行乐与对宗教确定性的怀疑。关于哪些四行诗真正出自海亚姆，学界长期有争论，不少诗句可能是后世添加的，对其诗作是否表达苏菲的神秘主义也存在不同解读。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奥马尔·海亚姆示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奥马尔·海亚姆（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鲁拜集</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>无常</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>怀疑</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥马尔·海亚姆要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "波斯数学家、天文学家与诗人，以《鲁拜集》闻名。",
+     "source": "pri-omar-khayyam"
+    },
+    {
+     "claim": "奥马尔·海亚姆是数学家与诗人，归于其名下的《鲁拜集》在西方闻名。",
+     "source": "pri-omar-khayyam"
+    }
+   ]
+  },
+  {
+   "id": "fig-ibn-taymiyya",
+   "title": "伊本·泰米叶",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "十三至十四世纪的罕百里派学者，对后世改革思想影响深远。",
+   "related": [
+    "rel-islam",
+    "fig-al-ghazali"
+   ],
+   "sources": [
+    "pri-ibn-taymiyya",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "伊本·泰米叶（Ibn Taymiyya，1263—1328）出生于哈兰，后来活动于大马士革与开罗，是罕百里法学派的学者。他主张回到《古兰经》与圣训及先辈（萨拉夫）的理解，批评了对圣徒墓的崇拜、部分苏菲实践及某些哲学与神学的思辨，并就蒙古人的穆斯林身份发布了著名的法特瓦。他因观点屡遭监禁，最终死于大马士革的狱中。他的思想后来对瓦哈卜运动与近现代的萨拉菲主义等产生了影响，对其思想如何被后世援用，学界也有不同看法。",
+   "versions": [
+    "伊本·泰米叶（Ibn Taymiyya，1263—1328）出生于哈兰，后来活动于大马士革与开罗，是罕百里法学派的学者。他主张回到《古兰经》与圣训及先辈（萨拉夫）的理解，批评了对圣徒墓的崇拜、部分苏菲实践及某些哲学与神学的思辨，并就蒙古人的穆斯林身份发布了著名的法特瓦。他因观点屡遭监禁，最终死于大马士革的狱中。他的思想后来对瓦哈卜运动与近现代的萨拉菲主义等产生了影响，对其思想如何被后世援用，学界也有不同看法。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊本·泰米叶示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊本·泰米叶（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>萨拉夫</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法特瓦</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣徒崇拜批评</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊本·泰米叶要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "十三至十四世纪的罕百里派学者，对后世改革思想影响深远。",
+     "source": "pri-ibn-taymiyya"
+    },
+    {
+     "claim": "伊本·泰米叶是罕百里派学者，主张回到经训与先辈的理解。",
+     "source": "pri-ibn-taymiyya"
+    }
+   ]
+  },
+  {
+   "id": "fig-moses-de-leon",
+   "title": "摩西·德莱昂",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "十三世纪的西班牙犹太神秘主义者，传统上与《佐哈尔》的流传相联系。",
+   "related": [
+    "rel-judaism",
+    "rel-hasidism"
+   ],
+   "sources": [
+    "pri-moses-de-leon",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "摩西·德莱昂（Moses de León，约1240—1305）是生活于西班牙的犹太神秘主义者，十三世纪末，他开始传播卡巴拉的核心文献《佐哈尔》。《佐哈尔》自称出自二世纪的拉比西缅·巴尔·约海，但学者如格肖姆·朔勒姆等人认为它主要由德莱昂本人撰写，也有学者认为是他与同侪的集体创作，并含有较早的材料。《佐哈尔》后来成为卡巴拉的核心经典，并影响了哈西迪运动。",
+   "versions": [
+    "摩西·德莱昂（Moses de León，约1240—1305）是生活于西班牙的犹太神秘主义者，十三世纪末，他开始传播卡巴拉的核心文献《佐哈尔》。《佐哈尔》自称出自二世纪的拉比西缅·巴尔·约海，但学者如格肖姆·朔勒姆等人认为它主要由德莱昂本人撰写，也有学者认为是他与同侪的集体创作，并含有较早的材料。《佐哈尔》后来成为卡巴拉的核心经典，并影响了哈西迪运动。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>摩西·德莱昂示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>摩西·德莱昂（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>佐哈尔</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卡巴拉</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西缅巴尔约海</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>摩西·德莱昂要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "十三世纪的西班牙犹太神秘主义者，传统上与《佐哈尔》的流传相联系。",
+     "source": "pri-moses-de-leon"
+    },
+    {
+     "claim": "摩西·德莱昂在十三世纪末传播《佐哈尔》，是卡巴拉的核心文献。",
+     "source": "pri-moses-de-leon"
+    }
+   ]
+  },
+  {
+   "id": "fig-buber",
+   "title": "布伯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "犹太哲学家，以“我与你”的对话哲学闻名。",
+   "related": [
+    "rel-judaism",
+    "rel-hasidism"
+   ],
+   "sources": [
+    "pri-buber",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "马丁·布伯（Martin Buber，1878—1965）出生于维也纳，是犹太哲学家与翻译者，他的《我与你》（1923）区分了“我—你”的相遇关系与“我—它”的对象化关系，认为人与上帝的关系发生在“我—你”的相遇之中。他研究并重新讲述了哈西迪的故事，使这一传统为更广大的读者所认识；他与罗森茨威格合作将《希伯来圣经》译为德语。他也是文化犹太复国主义的倡导者，主张与阿拉伯人和平共处的二民族国家方案。",
+   "versions": [
+    "马丁·布伯（Martin Buber，1878—1965）出生于维也纳，是犹太哲学家与翻译者，他的《我与你》（1923）区分了“我—你”的相遇关系与“我—它”的对象化关系，认为人与上帝的关系发生在“我—你”的相遇之中。他研究并重新讲述了哈西迪的故事，使这一传统为更广大的读者所认识；他与罗森茨威格合作将《希伯来圣经》译为德语。他也是文化犹太复国主义的倡导者，主张与阿拉伯人和平共处的二民族国家方案。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>布伯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>布伯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>我与你</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>对话哲学</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈西迪故事</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>布伯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "犹太哲学家，以“我与你”的对话哲学闻名。",
+     "source": "pri-buber"
+    },
+    {
+     "claim": "布伯的《我与你》区分了“我—你”与“我—它”的关系。",
+     "source": "pri-buber"
+    }
+   ]
+  },
+  {
+   "id": "fig-sengzhao",
+   "title": "僧肇",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "鸠摩罗什门下的高足，以般若中观思想的汉语阐释著称。",
+   "related": [
+    "rel-buddhism",
+    "fig-kumarajiva"
+   ],
+   "sources": [
+    "pri-sengzhao",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "僧肇（374—414）是东晋十六国时期的僧人，为鸠摩罗什门下的“四圣”或“十哲”之一，曾协助其翻译佛典。他撰写《肇论》，包括《物不迁论》《不真空论》《般若无知论》等篇，用汉语与玄学的概念阐释般若中观的思想，对中国佛教的理论化起了重要作用。他英年早逝，其“不真空”的论述常被视为中国式的中观阐释，同时也被指带有玄学的语汇与思维方式。",
+   "versions": [
+    "僧肇（374—414）是东晋十六国时期的僧人，为鸠摩罗什门下的“四圣”或“十哲”之一，曾协助其翻译佛典。他撰写《肇论》，包括《物不迁论》《不真空论》《般若无知论》等篇，用汉语与玄学的概念阐释般若中观的思想，对中国佛教的理论化起了重要作用。他英年早逝，其“不真空”的论述常被视为中国式的中观阐释，同时也被指带有玄学的语汇与思维方式。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>僧肇示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>僧肇（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>肇论</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>不真空</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>般若</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>僧肇要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "鸠摩罗什门下的高足，以般若中观思想的汉语阐释著称。",
+     "source": "pri-sengzhao"
+    },
+    {
+     "claim": "僧肇是鸠摩罗什的高足，著有《肇论》阐释般若中观。",
+     "source": "pri-sengzhao"
+    }
+   ]
+  },
+  {
+   "id": "fig-faxian",
+   "title": "法显",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "东晋僧人，西行求法并著有《佛国记》。",
+   "related": [
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-faxian",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "法显（约337—约422）是东晋时期的僧人，因感于汉地戒律典籍不全，于399年前后从长安出发，经西域陆路前往天竺求法，在印度各地巡礼并搜集经律，之后从海路经师子国（斯里兰卡）与南海回国。他所著的《佛国记》（又称《法显传》）记述了沿途各国的佛教状况、风俗与地理，是研究古代中亚、南亚与佛教史的重要史料。其后他与佛陀跋陀罗在建康合作翻译所带回的经典。",
+   "versions": [
+    "法显（约337—约422）是东晋时期的僧人，因感于汉地戒律典籍不全，于399年前后从长安出发，经西域陆路前往天竺求法，在印度各地巡礼并搜集经律，之后从海路经师子国（斯里兰卡）与南海回国。他所著的《佛国记》（又称《法显传》）记述了沿途各国的佛教状况、风俗与地理，是研究古代中亚、南亚与佛教史的重要史料。其后他与佛陀跋陀罗在建康合作翻译所带回的经典。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>法显示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>法显（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>佛国记</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西行求法</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>海路归国</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法显要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "东晋僧人，西行求法并著有《佛国记》。",
+     "source": "pri-faxian"
+    },
+    {
+     "claim": "法显西行求法，所著《佛国记》是研究古代中亚南亚的重要史料。",
+     "source": "pri-faxian"
+    }
+   ]
+  },
+  {
+   "id": "fig-yixing",
+   "title": "一行",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "唐代密宗僧人，兼为天文学家，主持编制大衍历。",
+   "related": [
+    "rel-buddhism",
+    "rel-tantrism"
+   ],
+   "sources": [
+    "pri-yixing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "一行（683—727，俗名张遂）是唐代的僧人，同时是天文学家与数学家。他从善无畏学习密教，协助其翻译《大日经》，并撰写了《大日经疏》。在天文学方面，他受唐玄宗之命，主持测定了各地的子午线长度与北极星的高度，并编制了《大衍历》，在当时的历法中有较高的精度。他的成就体现了唐代佛教僧人与科学技术的交织，也是密教传入中国的重要环节。",
+   "versions": [
+    "一行（683—727，俗名张遂）是唐代的僧人，同时是天文学家与数学家。他从善无畏学习密教，协助其翻译《大日经》，并撰写了《大日经疏》。在天文学方面，他受唐玄宗之命，主持测定了各地的子午线长度与北极星的高度，并编制了《大衍历》，在当时的历法中有较高的精度。他的成就体现了唐代佛教僧人与科学技术的交织，也是密教传入中国的重要环节。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>一行示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>一行（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大日经疏</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大衍历</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>密教</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>一行要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "唐代密宗僧人，兼为天文学家，主持编制大衍历。",
+     "source": "pri-yixing"
+    },
+    {
+     "claim": "一行是唐代密宗僧人，主持编制《大衍历》。",
+     "source": "pri-yixing"
+    }
+   ]
+  },
+  {
+   "id": "fig-zongmi",
+   "title": "宗密",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "唐代的华严宗与禅宗祖师，主张禅教一致。",
+   "related": [
+    "rel-buddhism",
+    "rel-zen"
+   ],
+   "sources": [
+    "pri-zongmi",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "宗密（780—841）是唐代的僧人，被尊为华严宗的五祖，同时也是荷泽宗的传人，因居于圭峰而称“圭峰宗密”。他主张“禅教一致”，认为禅宗的悟与佛经的教义并不矛盾，并在《禅源诸诠集都序》中对当时各禅宗派别作了评述与分类，其记述成为研究唐代禅宗的重要史料。他同时撰写《原人论》，把儒道与佛教的人性论放在一起评判，主张佛教的圆教最为究竟。",
+   "versions": [
+    "宗密（780—841）是唐代的僧人，被尊为华严宗的五祖，同时也是荷泽宗的传人，因居于圭峰而称“圭峰宗密”。他主张“禅教一致”，认为禅宗的悟与佛经的教义并不矛盾，并在《禅源诸诠集都序》中对当时各禅宗派别作了评述与分类，其记述成为研究唐代禅宗的重要史料。他同时撰写《原人论》，把儒道与佛教的人性论放在一起评判，主张佛教的圆教最为究竟。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>宗密示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>宗密（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>禅教一致</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>原人论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圭峰</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宗密要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "唐代的华严宗与禅宗祖师，主张禅教一致。",
+     "source": "pri-zongmi"
+    },
+    {
+     "claim": "宗密是华严宗五祖，主张禅教一致，著有《原人论》。",
+     "source": "pri-zongmi"
+    }
+   ]
+  },
+  {
+   "id": "fig-wonhyo",
+   "title": "元晓",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "新罗的高僧，主张“和诤”的会通思想。",
+   "related": [
+    "rel-buddhism"
+   ],
+   "sources": [
+    "pri-wonhyo",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "元晓（617—686）是朝鲜新罗时期的僧人，其著作涉及《大乘起信论》《金刚三昧经》等众多佛典，据说达数十部，在东亚佛教中影响深远。他主张“和诤”，即把各宗派之间的对立会通起来，使各种教义归于“一心”。传说他与义湘同赴唐求法，在途中因夜宿坟中而悟“一切唯心造”，遂中途折返，此一故事见于后世的传记，其历史性受到讨论。他后来还俗，并向民间传布佛教。",
+   "versions": [
+    "元晓（617—686）是朝鲜新罗时期的僧人，其著作涉及《大乘起信论》《金刚三昧经》等众多佛典，据说达数十部，在东亚佛教中影响深远。他主张“和诤”，即把各宗派之间的对立会通起来，使各种教义归于“一心”。传说他与义湘同赴唐求法，在途中因夜宿坟中而悟“一切唯心造”，遂中途折返，此一故事见于后世的传记，其历史性受到讨论。他后来还俗，并向民间传布佛教。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>元晓示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>元晓（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>和诤</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>一心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>起信论疏</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>元晓要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "新罗的高僧，主张“和诤”的会通思想。",
+     "source": "pri-wonhyo"
+    },
+    {
+     "claim": "元晓是新罗高僧，主张“和诤”的会通思想。",
+     "source": "pri-wonhyo"
+    }
+   ]
+  },
+  {
+   "id": "fig-norinaga",
+   "title": "本居宣长",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "江户时代的国学家，研究《古事记》与“物哀”的诗学。",
+   "related": [
+    "rel-shinto"
+   ],
+   "sources": [
+    "pri-norinaga",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "本居宣长（1730—1801）是日本江户时代的国学者，原为医生，在伊势松阪行医的同时研究日本的古典。他耗时三十余年撰写《古事记传》，对《古事记》进行了系统的注释，主张抛开汉意，回到“古道”，并提出“物哀”（mono no aware）作为理解《源氏物语》与和歌的核心概念。他的国学思想成为后来神道民族主义的资源之一，对于这种后世的利用，是否与他本人的意图相符，学界有不同的评价。",
+   "versions": [
+    "本居宣长（1730—1801）是日本江户时代的国学者，原为医生，在伊势松阪行医的同时研究日本的古典。他耗时三十余年撰写《古事记传》，对《古事记》进行了系统的注释，主张抛开汉意，回到“古道”，并提出“物哀”（mono no aware）作为理解《源氏物语》与和歌的核心概念。他的国学思想成为后来神道民族主义的资源之一，对于这种后世的利用，是否与他本人的意图相符，学界有不同的评价。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>本居宣长示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>本居宣长（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>古事记传</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>物哀</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>古道</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>本居宣长要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "江户时代的国学家，研究《古事记》与“物哀”的诗学。",
+     "source": "pri-norinaga"
+    },
+    {
+     "claim": "本居宣长撰写《古事记传》，提出“物哀”的诗学。",
+     "source": "pri-norinaga"
+    }
+   ]
+  },
+  {
+   "id": "fig-hus",
+   "title": "扬·胡斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "early_modern",
+   "summary": "波希米亚的宗教改革先驱，1415年被康斯坦茨公会议处以火刑。",
+   "related": [
+    "rel-hussite",
+    "rel-catholicism"
+   ],
+   "sources": [
+    "pri-hus",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "扬·胡斯（Jan Hus，约1369—1415）是波希米亚的神学家与布拉格大学教师，深受英国的威克里夫思想影响，批评教会的腐败，并主张圣经的权威与以捷克语布道。他被教会指控为异端，在1414年应召前往康斯坦茨公会议，原获皇帝保证的安全通行，却在1415年被判为异端并处以火刑。他的死引发了波希米亚的胡斯战争，并促成了胡斯派的形成。后世的新教改革者，包括马丁·路德，常把他视为先驱。",
+   "versions": [
+    "扬·胡斯（Jan Hus，约1369—1415）是波希米亚的神学家与布拉格大学教师，深受英国的威克里夫思想影响，批评教会的腐败，并主张圣经的权威与以捷克语布道。他被教会指控为异端，在1414年应召前往康斯坦茨公会议，原获皇帝保证的安全通行，却在1415年被判为异端并处以火刑。他的死引发了波希米亚的胡斯战争，并促成了胡斯派的形成。后世的新教改革者，包括马丁·路德，常把他视为先驱。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>扬·胡斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>扬·胡斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>威克里夫</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>捷克语布道</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>康斯坦茨</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>扬·胡斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "波希米亚的宗教改革先驱，1415年被康斯坦茨公会议处以火刑。",
+     "source": "pri-hus"
+    },
+    {
+     "claim": "扬·胡斯于1415年被康斯坦茨公会议处以火刑，其死引发了胡斯战争。",
+     "source": "pri-hus"
+    }
+   ]
+  },
+  {
+   "id": "fig-fox",
+   "title": "乔治·福克斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "early_modern",
+   "summary": "英国的宗教人物，贵格会（教友会）的创始人。",
+   "related": [
+    "rel-quaker",
+    "rel-protestantism"
+   ],
+   "sources": [
+    "pri-fox",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "乔治·福克斯（George Fox，1624—1691）出生于英国莱斯特郡，十七世纪中叶的英国内战时期，他因对既有教会的失望，经历了“内在之光”的体验，主张人人都能直接领受基督的引导，无需依赖神职人员。他由此形成了“教友会”（Society of Friends，因其信徒“因神的话而颤抖”而被称为“贵格”），反对宣誓、战争与神职等级。他多次被监禁，其《日记》是研究早期贵格会的重要文献。",
+   "versions": [
+    "乔治·福克斯（George Fox，1624—1691）出生于英国莱斯特郡，十七世纪中叶的英国内战时期，他因对既有教会的失望，经历了“内在之光”的体验，主张人人都能直接领受基督的引导，无需依赖神职人员。他由此形成了“教友会”（Society of Friends，因其信徒“因神的话而颤抖”而被称为“贵格”），反对宣誓、战争与神职等级。他多次被监禁，其《日记》是研究早期贵格会的重要文献。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>乔治·福克斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>乔治·福克斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>内在之光</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>教友会</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>反对宣誓</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乔治·福克斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "英国的宗教人物，贵格会（教友会）的创始人。",
+     "source": "pri-fox"
+    },
+    {
+     "claim": "乔治·福克斯主张人人皆可领受内在之光，创立了贵格会。",
+     "source": "pri-fox"
+    }
+   ]
+  },
+  {
+   "id": "fig-wesley",
+   "title": "约翰·卫斯理",
+   "level": "L2",
+   "tier": "补充",
+   "period": "early_modern",
+   "summary": "英国圣公会的神职人员，循道宗（卫理公会）的创始人。",
+   "related": [
+    "rel-methodism",
+    "rel-anglican"
+   ],
+   "sources": [
+    "pri-wesley",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "约翰·卫斯理（John Wesley，1703—1791）是英国圣公会的神职人员，在牛津大学期间与其弟查尔斯组成“圣洁会”，因注重有条理的灵修方法而被称为“循道派”。1738年，他在伦敦的一次聚会中经历“内心温暖”的体验，此后开始四处巡回布道，足迹遍及英国，并在户外向工人阶级传教。他强调信徒的称义与成圣，并组织了班会制度。他始终自视为圣公会的成员，但在其身后，循道宗终与圣公会分离。",
+   "versions": [
+    "约翰·卫斯理（John Wesley，1703—1791）是英国圣公会的神职人员，在牛津大学期间与其弟查尔斯组成“圣洁会”，因注重有条理的灵修方法而被称为“循道派”。1738年，他在伦敦的一次聚会中经历“内心温暖”的体验，此后开始四处巡回布道，足迹遍及英国，并在户外向工人阶级传教。他强调信徒的称义与成圣，并组织了班会制度。他始终自视为圣公会的成员，但在其身后，循道宗终与圣公会分离。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>约翰·卫斯理示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>约翰·卫斯理（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>循道</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>内心温暖</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>成圣</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>约翰·卫斯理要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "英国圣公会的神职人员，循道宗（卫理公会）的创始人。",
+     "source": "pri-wesley"
+    },
+    {
+     "claim": "约翰·卫斯理是循道宗（卫理公会）的创始人，倡导巡回布道。",
+     "source": "pri-wesley"
+    }
+   ]
+  },
+  {
+   "id": "fig-ignatius",
+   "title": "依纳爵·罗耀拉",
+   "level": "L2",
+   "tier": "补充",
+   "period": "early_modern",
+   "summary": "耶稣会的创始人，《神操》的作者。",
+   "related": [
+    "rel-catholicism",
+    "rel-protestantism"
+   ],
+   "sources": [
+    "pri-ignatius",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "依纳爵·罗耀拉（Ignatius of Loyola，1491—1556）出生于西班牙的巴斯克地区，原为军人，在1521年的战斗中负伤，养伤期间阅读圣徒传而转向宗教生活。他撰写了《神操》，规定了一套为期约四周的默想与辨别的灵修方法。1540年，教宗保罗三世批准了他与同伴创立的耶稣会，该会重视教育、传教，并以对教宗的特别服从著称。耶稣会在天主教改革与对外传教中起了重要作用。",
+   "versions": [
+    "依纳爵·罗耀拉（Ignatius of Loyola，1491—1556）出生于西班牙的巴斯克地区，原为军人，在1521年的战斗中负伤，养伤期间阅读圣徒传而转向宗教生活。他撰写了《神操》，规定了一套为期约四周的默想与辨别的灵修方法。1540年，教宗保罗三世批准了他与同伴创立的耶稣会，该会重视教育、传教，并以对教宗的特别服从著称。耶稣会在天主教改革与对外传教中起了重要作用。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>依纳爵·罗耀拉示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>依纳爵·罗耀拉（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神操</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>耶稣会</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>辨别</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>依纳爵·罗耀拉要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "耶稣会的创始人，《神操》的作者。",
+     "source": "pri-ignatius"
+    },
+    {
+     "claim": "依纳爵·罗耀拉创立了耶稣会，并撰写了《神操》。",
+     "source": "pri-ignatius"
+    }
+   ]
+  },
+  {
+   "id": "fig-john-of-the-cross",
+   "title": "十字若望",
+   "level": "L2",
+   "tier": "补充",
+   "period": "early_modern",
+   "summary": "西班牙的神秘主义者与诗人，加尔默罗会的改革者。",
+   "related": [
+    "rel-catholicism"
+   ],
+   "sources": [
+    "pri-john-of-the-cross",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "十字若望（John of the Cross，1542—1591）是西班牙的加尔默罗会修士，与亚维拉的德肋撒共同推动加尔默罗会的改革，创立了赤足加尔默罗会。他因此被同会的其他修士囚禁，在牢中写下了部分诗篇。他的著作《灵魂的黑夜》《攀登加尔默罗山》描述了灵魂通过“黑夜”与神结合的道路，被视为基督教神秘主义的经典，他也被天主教尊为教会圣师。",
+   "versions": [
+    "十字若望（John of the Cross，1542—1591）是西班牙的加尔默罗会修士，与亚维拉的德肋撒共同推动加尔默罗会的改革，创立了赤足加尔默罗会。他因此被同会的其他修士囚禁，在牢中写下了部分诗篇。他的著作《灵魂的黑夜》《攀登加尔默罗山》描述了灵魂通过“黑夜”与神结合的道路，被视为基督教神秘主义的经典，他也被天主教尊为教会圣师。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>十字若望示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>十字若望（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>灵魂的黑夜</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>赤足加尔默罗</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神秘结合</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>十字若望要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "西班牙的神秘主义者与诗人，加尔默罗会的改革者。",
+     "source": "pri-john-of-the-cross"
+    },
+    {
+     "claim": "十字若望著有《灵魂的黑夜》，是基督教神秘主义的经典作者。",
+     "source": "pri-john-of-the-cross"
+    }
+   ]
+  },
+  {
+   "id": "fig-ricci",
+   "title": "利玛窦",
+   "level": "L2",
+   "tier": "补充",
+   "period": "early_modern",
+   "summary": "意大利耶稣会传教士，明末来华，主张适应中国文化的传教方式。",
+   "related": [
+    "rel-catholicism",
+    "fig-confucius"
+   ],
+   "sources": [
+    "pri-ricci",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "利玛窦（Matteo Ricci，1552—1610）是意大利的耶稣会士，1583年进入中国，在肇庆、南京和北京等地活动，学习中文与儒家经典，并身着儒服与士大夫交往。他主张“适应”的传教方针，对祭祖与祭孔的礼仪采取宽容的态度，并用汉语撰写了《天主实义》与《交友论》，与徐光启合作翻译《几何原本》前六卷。他死后，礼仪之争使这一方针在教会内部引起争议，并最终被教廷禁止。",
+   "versions": [
+    "利玛窦（Matteo Ricci，1552—1610）是意大利的耶稣会士，1583年进入中国，在肇庆、南京和北京等地活动，学习中文与儒家经典，并身着儒服与士大夫交往。他主张“适应”的传教方针，对祭祖与祭孔的礼仪采取宽容的态度，并用汉语撰写了《天主实义》与《交友论》，与徐光启合作翻译《几何原本》前六卷。他死后，礼仪之争使这一方针在教会内部引起争议，并最终被教廷禁止。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>利玛窦示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>利玛窦（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天主实义</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>适应</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>几何原本</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>利玛窦要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "意大利耶稣会传教士，明末来华，主张适应中国文化的传教方式。",
+     "source": "pri-ricci"
+    },
+    {
+     "claim": "利玛窦主张适应中国文化的传教方式，著有《天主实义》。",
+     "source": "pri-ricci"
+    }
+   ]
+  },
+  {
+   "id": "fig-wovoka",
+   "title": "沃沃卡",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "派尤特族先知，十九世纪末“鬼舞”运动的发起者。",
+   "related": [
+    "motif-prophecy",
+    "myth-plains-native"
+   ],
+   "sources": [
+    "pri-wovoka",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "沃沃卡（Wovoka，约1856—1932）是内华达州派尤特族的宗教人物，约1889年前后宣称在异象中得到启示，倡导一种圆圈舞，即“鬼舞”（Ghost Dance），并宣讲和平、正直生活与逝者复归的愿景。这一运动迅速传播到北美平原的许多部族之中，在不同部族那里被赋予不同的含义。1890年南达科他州翁迪德尼（伤膝河）发生的屠杀，常被与当时对鬼舞的担忧联系起来，但事件的起因有多种说法，鬼舞与该事件的关系不宜简单断言。沃沃卡本人主张和平，对运动后来的发展与各部族的诠释，学界认为应当区分他的原始教导与各部族的再诠释。",
+   "versions": [
+    "沃沃卡（Wovoka，约1856—1932）是内华达州派尤特族的宗教人物，约1889年前后宣称在异象中得到启示，倡导一种圆圈舞，即“鬼舞”（Ghost Dance），并宣讲和平、正直生活与逝者复归的愿景。这一运动迅速传播到北美平原的许多部族之中，在不同部族那里被赋予不同的含义。1890年南达科他州翁迪德尼（伤膝河）发生的屠杀，常被与当时对鬼舞的担忧联系起来，但事件的起因有多种说法，鬼舞与该事件的关系不宜简单断言。沃沃卡本人主张和平，对运动后来的发展与各部族的诠释，学界认为应当区分他的原始教导与各部族的再诠释。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>沃沃卡示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>沃沃卡（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鬼舞</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>异象</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>和平</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>沃沃卡要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "派尤特族先知，十九世纪末“鬼舞”运动的发起者。",
+     "source": "pri-wovoka"
+    },
+    {
+     "claim": "沃沃卡约在1889年前后倡导鬼舞，宣讲和平与逝者复归的愿景。",
+     "source": "pri-wovoka"
+    }
+   ]
+  },
+  {
+   "id": "fig-black-elk",
+   "title": "黑麋鹿",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "奥格拉拉·拉科塔族的宗教人物，其口述见于《黑麋鹿如是说》。",
+   "related": [
+    "myth-lakota",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-black-elk",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "黑麋鹿（Black Elk，1863—1950）是奥格拉拉·拉科塔族的巫医与宗教人物，据其所述，他在九岁时得到一个重要的异象。1930年代，他向诗人约翰·奈哈特口述了生平与拉科塔的宗教仪式，由后者整理为《黑麋鹿如是说》（1932）；他又向约瑟夫·布朗口述了《神圣烟斗》（1953）。他后来受洗为天主教徒，并曾担任教理教师，学界对其晚年同时保持两种信仰的情形，以及奈哈特在整理中的文学加工程度，有不同的看法。",
+   "versions": [
+    "黑麋鹿（Black Elk，1863—1950）是奥格拉拉·拉科塔族的巫医与宗教人物，据其所述，他在九岁时得到一个重要的异象。1930年代，他向诗人约翰·奈哈特口述了生平与拉科塔的宗教仪式，由后者整理为《黑麋鹿如是说》（1932）；他又向约瑟夫·布朗口述了《神圣烟斗》（1953）。他后来受洗为天主教徒，并曾担任教理教师，学界对其晚年同时保持两种信仰的情形，以及奈哈特在整理中的文学加工程度，有不同的看法。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>黑麋鹿示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>黑麋鹿（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>异象</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神圣烟斗</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>口述</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>黑麋鹿要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "奥格拉拉·拉科塔族的宗教人物，其口述见于《黑麋鹿如是说》。",
+     "source": "pri-black-elk"
+    },
+    {
+     "claim": "黑麋鹿向奈哈特口述，由其整理为《黑麋鹿如是说》。",
+     "source": "pri-black-elk"
+    }
+   ]
+  },
+  {
+   "id": "fig-sitting-bull",
+   "title": "坐牛",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "洪克帕帕拉科塔族的酋长与精神领袖，参与了小大角战役。",
+   "related": [
+    "myth-lakota",
+    "myth-plains-native"
+   ],
+   "sources": [
+    "pri-sitting-bull",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "坐牛（Sitting Bull，Tatanka Iyotake，约1831—1890）是洪克帕帕拉科塔族的酋长与精神领袖，以抵抗美国政府对苏族土地的侵占著称。1876年，他在小大角战役之前举行了太阳舞，并据说在异象中见到士兵落入营地，其后战役中卡斯特的部队被击败。他后来先到加拿大，再返回美国，并在1890年鬼舞运动期间，于保留地被印第安警察逮捕时遇害。他对鬼舞的态度与角色，史料与后世的叙述有不同的说法。",
+   "versions": [
+    "坐牛（Sitting Bull，Tatanka Iyotake，约1831—1890）是洪克帕帕拉科塔族的酋长与精神领袖，以抵抗美国政府对苏族土地的侵占著称。1876年，他在小大角战役之前举行了太阳舞，并据说在异象中见到士兵落入营地，其后战役中卡斯特的部队被击败。他后来先到加拿大，再返回美国，并在1890年鬼舞运动期间，于保留地被印第安警察逮捕时遇害。他对鬼舞的态度与角色，史料与后世的叙述有不同的说法。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>坐牛示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>坐牛（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳舞</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>异象</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>抵抗</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>坐牛要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "洪克帕帕拉科塔族的酋长与精神领袖，参与了小大角战役。",
+     "source": "pri-sitting-bull"
+    },
+    {
+     "claim": "坐牛是拉科塔族的酋长与精神领袖，参与了小大角战役。",
+     "source": "pri-sitting-bull"
+    }
+   ]
+  },
+  {
+   "id": "fig-tecumseh",
+   "title": "特库姆塞",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "肖尼族领袖，组织了北美原住民的联盟，其兄弟为宗教先知。",
+   "related": [
+    "myth-plains-native"
+   ],
+   "sources": [
+    "pri-tecumseh",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "特库姆塞（Tecumseh，约1768—1813）是肖尼族的领袖，十九世纪初，他试图组织俄亥俄河谷与五大湖地区各原住民部族的联盟，抵抗美国的土地扩张，并主张土地属于各部族所共有，不得由个别部族单独出让。他的兄弟滕斯克瓦塔瓦（Tenskwatawa）被称为“先知”，倡导回归传统生活并拒绝白人的酒与习俗，其宗教运动为联盟提供了精神基础。特库姆塞在1813年的泰晤士河之战中阵亡，联盟随之瓦解。",
+   "versions": [
+    "特库姆塞（Tecumseh，约1768—1813）是肖尼族的领袖，十九世纪初，他试图组织俄亥俄河谷与五大湖地区各原住民部族的联盟，抵抗美国的土地扩张，并主张土地属于各部族所共有，不得由个别部族单独出让。他的兄弟滕斯克瓦塔瓦（Tenskwatawa）被称为“先知”，倡导回归传统生活并拒绝白人的酒与习俗，其宗教运动为联盟提供了精神基础。特库姆塞在1813年的泰晤士河之战中阵亡，联盟随之瓦解。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>特库姆塞示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>特库姆塞（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>部族联盟</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>先知滕斯克瓦塔瓦</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>土地共有</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>特库姆塞要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "肖尼族领袖，组织了北美原住民的联盟，其兄弟为宗教先知。",
+     "source": "pri-tecumseh"
+    },
+    {
+     "claim": "特库姆塞试图组织原住民部族联盟，其兄弟被称为“先知”。",
+     "source": "pri-tecumseh"
+    }
+   ]
+  },
+  {
+   "id": "fig-deganawida",
+   "title": "德干纳维达",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "依据易洛魁传统，是创建易洛魁联盟的“伟大的和平缔造者”。",
+   "related": [
+    "myth-iroquois"
+   ],
+   "sources": [
+    "pri-deganawida",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "德干纳维达（Deganawida，常称“伟大的和平缔造者”）在易洛魁（豪德诺索尼）的口传传统中，是建立五个部族联盟的人物，他与海华沙（Hiawatha）一起说服各部族放弃相互的战争，订立了“伟大和平之法”。这一联盟由莫霍克、奥奈达、奥农达加、卡尤加与塞内卡组成，后来又加入了第六个部族。关于联盟成立的年代，学界的推算从十二世纪到十七世纪不等，而其对美国宪法形成的影响之说，学界有较大争议。",
+   "versions": [
+    "德干纳维达（Deganawida，常称“伟大的和平缔造者”）在易洛魁（豪德诺索尼）的口传传统中，是建立五个部族联盟的人物，他与海华沙（Hiawatha）一起说服各部族放弃相互的战争，订立了“伟大和平之法”。这一联盟由莫霍克、奥奈达、奥农达加、卡尤加与塞内卡组成，后来又加入了第六个部族。关于联盟成立的年代，学界的推算从十二世纪到十七世纪不等，而其对美国宪法形成的影响之说，学界有较大争议。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>德干纳维达示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>德干纳维达（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>和平之法</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>五族联盟</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>口传</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>德干纳维达要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "依据易洛魁传统，是创建易洛魁联盟的“伟大的和平缔造者”。",
+     "source": "pri-deganawida"
+    },
+    {
+     "claim": "依易洛魁传统，德干纳维达与海华沙一起创建了五族联盟。",
+     "source": "pri-deganawida"
+    }
+   ]
+  },
+  {
+   "id": "fig-garvey",
+   "title": "马库斯·加维",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "牙买加的泛非主义倡导者，被拉斯塔法里运动视为先驱。",
+   "related": [
+    "rel-rastafari",
+    "rel-christianity"
+   ],
+   "sources": [
+    "pri-garvey",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 宗教人物材料多为信仰传统叙事与后世传记，历史性与传说性须区分；2) 年代与生平细节有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "马库斯·加维（Marcus Garvey，1887—1940）出生于牙买加，创立了“世界黑人进步协会”，倡导黑人的自豪、自立与“回到非洲”的泛非主义。据传他曾说过“看向非洲，那里将加冕一位黑人国王”，1930年埃塞俄比亚的海尔·塞拉西加冕后，一部分牙买加人将此与他的话联系起来，并形成拉斯塔法里运动。不过，加维本人并不是拉斯塔法里信徒，对该运动的态度也有保留，这一“预言”的真实性与归属在学界有不同的看法。",
+   "versions": [
+    "马库斯·加维（Marcus Garvey，1887—1940）出生于牙买加，创立了“世界黑人进步协会”，倡导黑人的自豪、自立与“回到非洲”的泛非主义。据传他曾说过“看向非洲，那里将加冕一位黑人国王”，1930年埃塞俄比亚的海尔·塞拉西加冕后，一部分牙买加人将此与他的话联系起来，并形成拉斯塔法里运动。不过，加维本人并不是拉斯塔法里信徒，对该运动的态度也有保留，这一“预言”的真实性与归属在学界有不同的看法。"
+   ],
+   "interpretations": [],
+   "comparisons": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>马库斯·加维示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>马库斯·加维（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>泛非主义</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>回到非洲</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拉斯塔法里</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马库斯·加维要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [],
+   "data_points": [
+    {
+     "claim": "牙买加的泛非主义倡导者，被拉斯塔法里运动视为先驱。",
+     "source": "pri-garvey"
+    },
+    {
+     "claim": "加维倡导泛非主义，被拉斯塔法里运动视为先驱。",
+     "source": "pri-garvey"
     }
    ]
   }

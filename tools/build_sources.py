@@ -173,10 +173,24 @@ for sid, title, org, url in [
 # 去重校验
 ids = [s["id"] for s in sources]
 assert len(ids) == len(set(ids)), "重复来源 id"
+
+# 合并写出（重要）：sources.json 是权威数据——联网核验后的 URL 修正、link_ok 以及后续批次
+# 追加的来源都直接记录在其中，本脚本内的硬编码值已落后于它。因此这里只【追加】
+# sources.json 中尚不存在的 id，绝不覆盖或删除已有条目，否则会丢失核验结果与追加来源。
+_path = os.path.join(ROOT, "sources.json")
+existing = []
+if os.path.exists(_path):
+    with open(_path, encoding="utf-8") as f:
+        existing = json.load(f).get("sources", [])
+existing_ids = {s["id"] for s in existing}
+added = [s for s in sources if s["id"] not in existing_ids]
+sources = existing + added
 out = {"sources": sources}
-with open(os.path.join(ROOT, "sources.json"), "w", encoding="utf-8") as f:
-    json.dump(out, f, ensure_ascii=False, indent=2)
-    f.write("\n")
+# 格式与仓库中已提交的 sources.json 保持一致（indent=1、无结尾换行；换行符沿用平台默认，
+# 仓库内现有文件为 CRLF），避免重跑产生整文件 diff
+with open(_path, "w", encoding="utf-8") as f:
+    json.dump(out, f, ensure_ascii=False, indent=1)
+print("build_sources: 保留已有 %d 个，新增 %d 个" % (len(existing), len(added)))
 counts = {}
 for s in sources:
     counts[s["type"]] = counts.get(s["type"], 0) + 1

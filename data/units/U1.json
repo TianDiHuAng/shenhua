@@ -409,7 +409,7 @@
    ],
    "data_points": [
     {
-     "claim": "《巴比伦创世史诗》(Enuma Elish) 约成书于公元前12—11世纪，以马尔杜克为中心。",
+     "claim": "《巴比伦创世史诗》(Enuma Elish) 约成书于公元前二千纪晚期（通行看法与公元前12世纪尼布甲尼撒一世时期马尔杜克地位上升有关，亦有学者主张较晚的加喜特时期），以马尔杜克为中心。",
      "basis_source": "pri-enuma-elish"
     },
     {
@@ -998,7 +998,7 @@
    ],
    "data_points": [
     {
-     "claim": "《马比诺吉昂》保存威尔士神话故事集，成文于中世纪（约12—14世纪）。",
+     "claim": "《马比诺吉昂》保存威尔士神话故事集，主要见于约1350年的《利德奇白皮书》与约1382—1410年的《赫吉斯特红皮书》，部分故事片段见于更早的13世纪抄本；故事本身的形成早于抄本，具体成文年代难以确定。",
      "basis_source": "pri-mabinogion"
     },
     {
@@ -1529,11 +1529,11 @@
     },
     {
      "claim": "《卡勒瓦拉》1849年增订版含50诗章，是芬兰语民族身份的基石文本。",
-     "source": "pri-kalevala-orig"
+     "basis_source": "pri-kalevala-orig"
     },
     {
      "claim": "runolaulu 歌谣以'八音步卡勒瓦拉格律'演唱，是芬兰—卡累利阿共享的口传载体。",
-     "source": "pri-kalevala-orig"
+     "basis_source": "pri-kalevala-orig"
     }
    ]
   },
@@ -1680,11 +1680,11 @@
     },
     {
      "claim": "《原初编年史》980年条是斯拉夫万神殿最直接的史料，记载基辅山丘神像。",
-     "source": "pri-slavic-pagan"
+     "basis_source": "pri-slavic-pagan"
     },
     {
      "claim": "佩伦在基督教化后部分特征转移至圣伊利亚（雷雨联想）与圣乔治（斩龙）叙事。",
-     "source": "pri-slavic-pagan"
+     "basis_source": "pri-slavic-pagan"
     }
    ]
   },
@@ -2202,11 +2202,11 @@
     },
     {
      "claim": "澳大利亚原住民文化是全球公认延续时间最长的连续文化传统之一，口传叙事仍活态传承。",
-     "source": "pri-the-dreaming"
+     "basis_source": "pri-the-dreaming"
     },
     {
      "claim": "'歌之路径'（songlines）把叙事与地理路径绑定，是梦幻时代叙事的空间组织方式。",
-     "source": "pri-the-dreaming"
+     "basis_source": "pri-the-dreaming"
     }
    ]
   },

@@ -19,9 +19,9 @@
 - **U1 神话体系**（90 条，id 前缀 `myth-`）：按文化传统划分。
 - **U2 宗教传统**（93 条，id 前缀 `rel-`）：按宗教传统与主要分支划分。
 - **U3 母题与概念**（78 条，id 前缀 `motif-`）：跨传统比较的叙事母题，及神话/宗教基本概念条目。
-- **U4 人物**（346 条，id 前缀 `fig-`）：常被用于跨传统比较的神祇、教主与英雄。
+- **U4 人物**（418 条，id 前缀 `fig-`）：常被用于跨传统比较的神祇、教主与英雄。
 
-总计 **607 条**。时期标签：ancient（古代，含上古/青铜）、classical（古典）、medieval（中世纪）、modern（近现代）、oral（口传传统，年代不可确考）。
+总计 **679 条**。时期标签：ancient（古代，含上古/青铜）、classical（古典）、medieval（中世纪）、early_modern（近世，约1500—1800）、modern（近现代）、oral（口传传统，年代不可确考）。
 
 ## 三、U1 神话体系（90 条）
 
@@ -299,7 +299,7 @@
 | rel-armenian-apostolic | 亚美尼亚使徒教会 | 补充 | F3 | ancient | 世界上最古老的国教会，属东方正统教会。 |
 | rel-ethiopian-orthodox | 埃塞俄比亚正教会 | 补充 | F3 | ancient | 东方正统教会，保存独特经典（如《以诺书》）。 |
 | rel-eritrean-orthodox | 厄立特里亚正教会 | 补充 | F3 | modern | 1993年自埃塞俄比亚正教独立的东方正统教会。 |
-## 六、U4 人物（346 条）
+## 六、U4 人物（418 条）
 
 | ID | 名称 | 层级 | 框架 | 时期 | 一句话说明 |
 |---|---|---|---|---|---|
@@ -650,11 +650,83 @@
 | fig-xuanzang | 玄奘 | 补充 | F1 | medieval | 唐代高僧，赴印度取经的译经大师，唯识宗创始人之一。 |
 | fig-kumarajiva | 鸠摩罗什 | 补充 | F1 | medieval | 龟兹出身的译经大师，汉译佛典四大译师之一。 |
 | fig-huineng | 慧能 | 补充 | F1 | medieval | 禅宗六祖，《六祖坛经》所载的南宗代表人物。 |
+| fig-paul | 使徒保罗 | 补充 | F1 | ancient | 早期基督教最重要的传教者与书信作者。 |
+| fig-peter | 使徒彼得 | 补充 | F1 | ancient | 耶稣十二门徒之首，天主教传统中的首任教宗。 |
+| fig-luther | 马丁·路德 | 补充 | F1 | early_modern | 德国宗教改革的发起者，路德宗的奠基人。 |
+| fig-calvin | 约翰·加尔文 | 补充 | F1 | early_modern | 法国出身的宗教改革家，改革宗神学的奠基者。 |
+| fig-hallaj | 哈拉智 | 补充 | F1 | medieval | 9—10世纪的苏菲神秘主义者，因“我即真理”之语被处死。 |
+| fig-francis | 阿西西的方济各 | 补充 | F1 | medieval | 方济各会的创始人，以清贫与对万物的爱闻名。 |
+| fig-shinran | 亲鸾 | 补充 | F1 | medieval | 法然的弟子，日本净土真宗的开创者。 |
+| fig-eisai | 荣西 | 补充 | F1 | medieval | 把临济禅与茶带入日本的僧人。 |
+| fig-kukai | 空海 | 补充 | F1 | medieval | 日本真言宗的开创者，号弘法大师。 |
+| fig-saicho | 最澄 | 补充 | F1 | medieval | 日本天台宗的开创者，号传教大师。 |
+| fig-mahavira | 马哈维拉 | 补充 | F1 | ancient | 耆那教传统中的第二十四位祖师。 |
+| fig-nanak | 那纳克 | 补充 | F1 | medieval | 锡克教的创始人，十位上师中的第一位。 |
+| fig-zhiyi | 智顗 | 补充 | F1 | medieval | 天台宗的实际创立者，号智者大师。 |
+| fig-jianzhen | 鉴真 | 补充 | F1 | medieval | 东渡日本传授戒律的唐代高僧。 |
+| fig-tsongkhapa | 宗喀巴 | 补充 | F1 | medieval | 藏传佛教格鲁派的创立者。 |
+| fig-padmasambhava | 莲花生 | 补充 | F1 | medieval | 传统上把密教带入西藏的印度上师。 |
+| fig-milarepa | 米拉日巴 | 补充 | F1 | medieval | 藏传佛教噶举派的瑜伽行者与诗人。 |
+| fig-vasubandhu | 世亲 | 补充 | F1 | ancient | 印度佛教瑜伽行派与有部的重要论师。 |
+| fig-madhva | 马德瓦 | 补充 | F1 | medieval | 二元论吠檀多的创立者，毗湿奴派重要导师。 |
+| fig-kabir | 卡比尔 | 补充 | F1 | medieval | 十五世纪北印度的神秘主义诗人，批评宗教形式主义。 |
+| fig-mirabai | 米拉白 | 补充 | F1 | medieval | 十六世纪北印度的虔信派女诗人，克里希纳的虔诚信徒。 |
+| fig-hillel | 希勒尔 | 补充 | F1 | ancient | 公元前后之交的犹太教师，以黄金律式的教导闻名。 |
+| fig-akiva | 阿基巴 | 补充 | F1 | ancient | 二世纪初的重要拉比，传统上与巴尔·科赫巴起义相联系。 |
+| fig-isaiah | 以赛亚 | 补充 | F1 | ancient | 公元前八世纪的先知，《以赛亚书》以其名传世。 |
+| fig-gehong | 葛洪 | 补充 | F1 | medieval | 东晋道教理论家与炼丹家，著有《抱朴子》。 |
+| fig-zhangdaoling | 张道陵 | 补充 | F1 | ancient | 传统上被奉为天师道的创始人，号张天师。 |
+| fig-wangchongyang | 王重阳 | 补充 | F1 | medieval | 全真道的创始人，主张三教合一。 |
+| fig-qiuchuji | 丘处机 | 补充 | F1 | medieval | 全真七子之一，因应成吉思汗之召西行而著名。 |
+| fig-ludongbin | 吕洞宾 | 补充 | F1 | medieval | 八仙之一，道教内丹传统中被奉为祖师的仙人。 |
+| fig-dongzhongshu | 董仲舒 | 补充 | F1 | ancient | 西汉儒者，以天人感应与“独尊儒术”之议闻名。 |
+| fig-akhenaten | 阿肯那顿 | 补充 | F1 | ancient | 古埃及第十八王朝法老，推行以阿顿为中心的宗教改革。 |
+| fig-hammurabi | 汉谟拉比 | 补充 | F1 | ancient | 古巴比伦国王，以《汉谟拉比法典》闻名。 |
+| fig-cyrus | 居鲁士 | 补充 | F1 | ancient | 波斯帝国的创建者，以宗教宽容的政策闻名。 |
+| fig-constantine | 君士坦丁 | 补充 | F1 | ancient | 罗马皇帝，313年颁布米兰敕令，推动基督教合法化。 |
+| fig-julian | 尤利安 | 补充 | F1 | ancient | 罗马皇帝，因试图恢复传统宗教被基督教史家称为“叛教者”。 |
+| fig-pythagoras | 毕达哥拉斯 | 补充 | F1 | ancient | 古希腊哲学家，其教团融合了数学、灵魂轮回与宗教戒律。 |
+| fig-origen | 奥利金 | 补充 | F1 | ancient | 亚历山大里亚的早期基督教神学家，以寓意解经著称。 |
+| fig-tertullian | 德尔图良 | 补充 | F1 | ancient | 迦太基的拉丁教父，首位以拉丁文系统书写基督教神学的作者。 |
+| fig-athanasius | 阿塔那修 | 补充 | F1 | ancient | 亚历山大里亚主教，尼西亚信条的捍卫者。 |
+| fig-arius | 阿里乌 | 补充 | F1 | ancient | 亚历山大里亚的长老，其“圣子被造”之说引发四世纪的重大争论。 |
+| fig-benedict | 本笃 | 补充 | F1 | medieval | 西方修道制度的奠基者，《本笃会规》的作者。 |
+| fig-josephsmith | 约瑟夫·史密斯 | 补充 | F1 | modern | 摩门教（耶稣基督后期圣徒教会）的创立者。 |
+| fig-bahaullah | 巴哈欧拉 | 补充 | F1 | modern | 巴哈伊信仰的创始人。 |
+| fig-bab | 巴孛 | 补充 | F1 | modern | 巴布教的创立者，巴哈伊信仰的先驱。 |
+| fig-gandhi | 甘地 | 补充 | F1 | modern | 印度独立运动的领袖，以非暴力不合作闻名。 |
+| fig-taixu | 太虚 | 补充 | F1 | modern | 近代中国佛教改革家，提倡“人间佛教”。 |
+| fig-dtsuzuki | 铃木大拙 | 补充 | F1 | modern | 日本佛教学者，向西方介绍禅宗的重要人物。 |
+| fig-steiner | 鲁道夫·施泰纳 | 补充 | F1 | modern | 人智学的创立者，华德福教育与生物动力农法的源头。 |
+| fig-al-razi | 拉齐 | 补充 | F1 | medieval | 波斯医学家与哲学家，以对先知身份的质疑闻名。 |
+| fig-al-biruni | 比鲁尼 | 补充 | F1 | medieval | 中亚学者，以对印度宗教与文化的研究闻名。 |
+| fig-omar-khayyam | 奥马尔·海亚姆 | 补充 | F1 | medieval | 波斯数学家、天文学家与诗人，以《鲁拜集》闻名。 |
+| fig-ibn-taymiyya | 伊本·泰米叶 | 补充 | F1 | medieval | 十三至十四世纪的罕百里派学者，对后世改革思想影响深远。 |
+| fig-moses-de-leon | 摩西·德莱昂 | 补充 | F1 | medieval | 十三世纪的西班牙犹太神秘主义者，传统上与《佐哈尔》的流传相联系。 |
+| fig-buber | 布伯 | 补充 | F1 | modern | 犹太哲学家，以“我与你”的对话哲学闻名。 |
+| fig-sengzhao | 僧肇 | 补充 | F1 | ancient | 鸠摩罗什门下的高足，以般若中观思想的汉语阐释著称。 |
+| fig-faxian | 法显 | 补充 | F1 | ancient | 东晋僧人，西行求法并著有《佛国记》。 |
+| fig-yixing | 一行 | 补充 | F1 | medieval | 唐代密宗僧人，兼为天文学家，主持编制大衍历。 |
+| fig-zongmi | 宗密 | 补充 | F1 | medieval | 唐代的华严宗与禅宗祖师，主张禅教一致。 |
+| fig-wonhyo | 元晓 | 补充 | F1 | medieval | 新罗的高僧，主张“和诤”的会通思想。 |
+| fig-norinaga | 本居宣长 | 补充 | F1 | modern | 江户时代的国学家，研究《古事记》与“物哀”的诗学。 |
+| fig-hus | 扬·胡斯 | 补充 | F1 | early_modern | 波希米亚的宗教改革先驱，1415年被康斯坦茨公会议处以火刑。 |
+| fig-fox | 乔治·福克斯 | 补充 | F1 | early_modern | 英国的宗教人物，贵格会（教友会）的创始人。 |
+| fig-wesley | 约翰·卫斯理 | 补充 | F1 | early_modern | 英国圣公会的神职人员，循道宗（卫理公会）的创始人。 |
+| fig-ignatius | 依纳爵·罗耀拉 | 补充 | F1 | early_modern | 耶稣会的创始人，《神操》的作者。 |
+| fig-john-of-the-cross | 十字若望 | 补充 | F1 | early_modern | 西班牙的神秘主义者与诗人，加尔默罗会的改革者。 |
+| fig-ricci | 利玛窦 | 补充 | F1 | early_modern | 意大利耶稣会传教士，明末来华，主张适应中国文化的传教方式。 |
+| fig-wovoka | 沃沃卡 | 补充 | F1 | modern | 派尤特族先知，十九世纪末“鬼舞”运动的发起者。 |
+| fig-black-elk | 黑麋鹿 | 补充 | F1 | modern | 奥格拉拉·拉科塔族的宗教人物，其口述见于《黑麋鹿如是说》。 |
+| fig-sitting-bull | 坐牛 | 补充 | F1 | modern | 洪克帕帕拉科塔族的酋长与精神领袖，参与了小大角战役。 |
+| fig-tecumseh | 特库姆塞 | 补充 | F1 | modern | 肖尼族领袖，组织了北美原住民的联盟，其兄弟为宗教先知。 |
+| fig-deganawida | 德干纳维达 | 补充 | F1 | ancient | 依据易洛魁传统，是创建易洛魁联盟的“伟大的和平缔造者”。 |
+| fig-garvey | 马库斯·加维 | 补充 | F1 | modern | 牙买加的泛非主义倡导者，被拉斯塔法里运动视为先驱。 |
 ## 七、层级统计与不收范围
 
 - 核心：10（神话）+ 8（宗教）+ 10（母题）+ 12（人物）= **40 条**
 - 重要：14 + 10 + 7 + 12 + 4 + 5 + 4 + 5 + 5 + 8（批次6：6人物+2母题）= **74 条**
-- 补充：464 + 6（批次72：6北欧巨人/女神）= **470 条**
-- 合计：**584 条**
+- 补充：464 + 6（批次72）+ 批次73–88 累计 95 = **565 条**
+- 合计：**679 条**
 
 不收范围：现当代新兴宗教中缺乏权威文献者；仅有民俗传闻而无文献依据的地方小神；需要评判信仰真伪的神学论证（本项目只做描述性与比较性记录）。

@@ -47,7 +47,7 @@ python tools/check_links.py    # 必须 0 broken links
 
 - **L1 骨架**：在 `data/units/U*.json` 的 `entries` 数组加条目，必填 `id/title/level/tier/period/summary/related/sources`，并设 `needs_verification` 与 `pending_notes`。
 - **L2 升级**：补齐七节——来源文本、故事梗概、版本差异、研究者解读（`holder`+`school`）、相似母题（`basis_source` 必须有文献依据）、内联 SVG、待核实。
-- **来源**：只能引用 `sources.json` 中已定义的 id；新增来源先改 `tools/build_sources.py` 再重跑。
+- **来源**：只能引用 `sources.json` 中已定义的 id。`sources.json` 是权威数据：联网核验后的 URL 修正、`link_ok`、以及后续批次追加的来源都直接记录在其中，`tools/build_sources.py` 内的硬编码值已落后于它。该脚本现在只【追加】`sources.json` 中尚不存在的 id，不会覆盖或删除已有条目（重跑结果与已提交文件逐字节一致）。新增来源可直接编辑 `sources.json`，但每个来源必须字段齐全（`id/title/author/year/year_display/type/url/url2/link_ok/verified/note`）并通过 `tools/check.py`。
 - **写作纪律**：不编造数字/人名/引文；双源互证；引用未在线核验来源必须标待核实；神话类比必须有文献依据。
 
 ## 当前状态

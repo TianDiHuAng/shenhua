@@ -59,6 +59,13 @@ def check_sources():
                 err("来源 %s 缺少必填字段 %s" % (sid, k))
         if s.get("type") not in allowed_types:
             err("来源 %s 类型不在四分类内：%r" % (sid, s.get("type")))
+        # 防线：维基页面标题不应是中文句子（批次77-88 曾因脚本下标错位把争议说明写进 URL 且标为已核验）
+        _u = s.get("url") or ""
+        if "wikipedia.org/wiki/" in _u:
+            from urllib.parse import unquote as _unq
+            _tail = _unq(_u.split("/wiki/", 1)[1])
+            if any("\u4e00" <= _ch <= "\u9fff" for _ch in _tail) and "zh.wikipedia.org" not in _u:
+                err("来源 %s 的 en.wikipedia 页面标题含中文，疑似字段错位：%s" % (sid, _tail[:30]))
         if s.get("url") and not re.match(r"^https?://", s["url"]):
             err("来源 %s URL 非法：%r" % (sid, s["url"]))
         y = s.get("year")
@@ -258,8 +265,27 @@ def check_entries(source_ids, scope, cov):
                 err("条目 %s 标题与 scope.md 不一致" % eid)
             if e.get("tier") != scope.get(eid, {}).get("tier"):
                 err("条目 %s 层级与 scope.md 不一致" % eid)
-            if e.get("period") not in ("ancient", "classical", "medieval", "modern", "oral"):
+            if e.get("period") not in ("ancient", "classical", "medieval", "early_modern", "modern", "oral"):
                 err("条目 %s period 非法：%r" % (eid, e.get("period")))
+            # 防线（批次77-88 的脚本下标错位曾产出这类内容而未被拦截）：占位符不得出现在 holder 中
+            for _c in e.get("controversies") or []:
+                for _v in _c.get("views") or []:
+                    if str(_v.get("holder", "")).strip() in ("甲说", "乙说", "甲", "乙"):
+                        err("条目 %s controversies 的 holder 是占位符：%r（应写有名字的立场）" % (eid, _v.get("holder")))
+            # 软规则（警告）：套话式比较——tradition 为泛称，说明当不上“有文献依据的相似母题”
+            for _c in e.get("comparisons") or []:
+                if str(_c.get("tradition", "")).strip() in ("相关传统", "其他传统"):
+                    warn("条目 %s comparisons 的 tradition 是泛称 %r，建议写出具体传统" % (eid, _c.get("tradition")))
+            # L3 的 data_points 站点只读 basis_source；用别的键会让页面“依据”显示为空，且此前无校验拦截
+            if level == "L3":
+                for _i, _dp in enumerate(e.get("data_points") or []):
+                    if not _dp.get("claim"):
+                        err("条目 %s data_points[%d] 缺少 claim" % (eid, _i))
+                    _bs = _dp.get("basis_source")
+                    if not _bs:
+                        err("条目 %s data_points[%d] 缺少 basis_source（站点只读此键；不要用 source）" % (eid, _i))
+                    elif _bs not in source_ids:
+                        err("条目 %s data_points[%d] 的 basis_source 未在 sources.json 定义：%s" % (eid, _i, _bs))
             # 来源引用
             srcs = e.get("sources", [])
             if not isinstance(srcs, list):
@@ -344,8 +370,17 @@ def main():
         print("=== check.py 报告 ===")
         print("条目文件：%d；已加载条目：%d；来源：%d" % (
             len(glob.glob(os.path.join(ROOT, "data", "units", "*.json"))), len(entries), len(source_ids)))
-        for w in WARNINGS:
-            print("[WARN] " + w)
+        if "--strict" in args:
+            for w in WARNINGS:
+                print("[WARN] " + w)
+        elif WARNINGS:
+            # 默认只汇总，避免大量历史存量警告淹没真正的错误；加 --strict 可逐条查看
+            _kinds = {}
+            for w in WARNINGS:
+                _k = "comparisons 泛称" if "泛称" in w else w.split(" ")[0]
+                _kinds[_k] = _kinds.get(_k, 0) + 1
+            for _k, _n in sorted(_kinds.items(), key=lambda x: -x[1]):
+                print("[WARN] %s：%d 条（--strict 查看明细）" % (_k, _n))
         for e in ERRORS:
             print("[ERROR] " + e)
         print("结果：%d errors, %d warnings" % (len(ERRORS), len(WARNINGS)))

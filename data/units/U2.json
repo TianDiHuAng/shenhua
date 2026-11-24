@@ -1006,11 +1006,11 @@
     },
     {
      "claim": "《古鲁·格兰特·萨希卜》1604年初编、1708年由第十代古鲁定本。",
-     "source": "pri-sikh"
+     "basis_source": "pri-sikh"
     },
     {
      "claim": "1699年第十代古鲁戈宾德·辛格创立卡尔萨武士团制度。",
-     "source": "pri-sikh"
+     "basis_source": "pri-sikh"
     }
    ]
   },
@@ -1435,11 +1435,11 @@
     },
     {
      "claim": "巴哈欧拉（1817–1892）是巴哈伊教创始人，《至圣圣典》是核心经典之一。",
-     "source": "pri-bahai"
+     "basis_source": "pri-bahai"
     },
     {
      "claim": "巴哈伊教主张宗教渐进启示与人类一体、世界和平。",
-     "source": "pri-bahai"
+     "basis_source": "pri-bahai"
     }
    ]
   },
@@ -1586,11 +1586,11 @@
     },
     {
      "claim": "《摩尔门经》1830年出版，是后期圣徒运动的奠基经文。",
-     "source": "pri-mormon"
+     "basis_source": "pri-mormon"
     },
     {
      "claim": "1890年总会宣言（Manifesto）中止多重婚姻的公开实践。",
-     "source": "pri-mormon"
+     "basis_source": "pri-mormon"
     }
    ]
   },

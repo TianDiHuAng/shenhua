@@ -17,7 +17,7 @@ UNIT_DESC = {
     "U3": "跨传统比较的叙事母题，只记录学界有文献依据的比较研究。",
     "U4": "常被用于跨传统比较的神祇、教主与英雄人物。",
 }
-PERIOD_NAMES = {"ancient": "古代", "classical": "古典", "medieval": "中世纪", "modern": "近现代", "oral": "口传传统"}
+PERIOD_NAMES = {"ancient": "古代", "classical": "古典", "medieval": "中世纪", "early_modern": "近世", "modern": "近现代", "oral": "口传传统"}
 TIER_CLASS = {"核心": "core", "重要": "imp", "补充": "sup"}
 
 def esc(s):
@@ -166,7 +166,7 @@ def build_home():
 <h2>快速入口</h2>
 <div class="grid">
   <div class="card"><h3><a href="all.html">全站条目索引</a></h3><p>按单元浏览全部 197 个条目。</p></div>
-  <div class="card"><h3><a href="timeline.html">时间线（时期总览）</a></h3><p>按古代/古典/中世纪/近现代/口传分组浏览。</p></div>
+  <div class="card"><h3><a href="timeline.html">时间线（时期总览）</a></h3><p>按古代/古典/中世纪/近世/近现代/口传分组浏览。</p></div>
   <div class="card"><h3><a href="stats.html">统计概览</a></h3><p>单元/层级/时期的可视化分布（内联 SVG）。</p></div>
   <div class="card"><h3><a href="matrix.html">覆盖矩阵</a></h3><p>传统 × 母题类型 × 时期三维覆盖视图。</p></div>
   <div class="card"><h3><a href="sources.html">来源库</a></h3><p>%d 条权威来源，含原典、学术著作、百科与机构资源。</p></div>
@@ -251,6 +251,13 @@ def build_entries():
             '<div class="note">%s</div>' % esc(e.get("pending_notes")) if e.get("pending_notes") else "<p>无。</p>")
         body += src_items(e)
         write_page("entries/%s.html" % eid, body, m["title"], "../")
+    # 清理残留页：条目改名/删除后，数据里已不存在的旧条目页不应留在站点中
+    entries_dir = os.path.join(SITE, "entries")
+    if os.path.isdir(entries_dir):
+        for fn in os.listdir(entries_dir):
+            if fn.endswith(".html") and fn[:-5] not in written:
+                os.remove(os.path.join(entries_dir, fn))
+                print("gen_site: 已清理残留页 entries/%s" % fn)
 
 # ---------- 全站索引 ----------
 def build_all():
@@ -266,9 +273,9 @@ def build_all():
 def build_timeline():
     body = crumb([("", "首页"), ("", "时期总览")])
     body += "<h2>时期总览（时间线）</h2>"
-    body += '<p class="meta">神话与宗教的年代多为约数或口传，难以精确到年，故按语料所属时期（古代/古典/中世纪/近现代/口传）分组呈现，作为时间线的粗粒度视图；同一时期内按单元与标题排序。</p>'
+    body += '<p class="meta">神话与宗教的年代多为约数或口传，难以精确到年，故按语料所属时期（古代/古典/中世纪/近世/近现代/口传）分组呈现，作为时间线的粗粒度视图；同一时期内按单元与标题排序。</p>'
     periods = [("ancient", "古代（上古/青铜等）"), ("classical", "古典"),
-               ("medieval", "中世纪"), ("modern", "近现代"), ("oral", "口传传统（年代不可确考）")]
+               ("medieval", "中世纪"), ("early_modern", "近世"), ("modern", "近现代"), ("oral", "口传传统（年代不可确考）")]
     unit_of = {"myth": "U1", "rel": "U2", "motif": "U3", "fig": "U4"}
     for pid, label in periods:
         ids = [eid for eid in scope if scope[eid].get("period") == pid]
@@ -316,7 +323,7 @@ def build_stats():
     body += '<h3>按层级</h3><div class="svg-wrap">%s</div>' % barchart(
         "各层级条目数", [("核心", tier["核心"]), ("重要", tier["重要"]), ("补充", tier["补充"])])
     body += '<h3>按时期</h3><div class="svg-wrap">%s</div>' % barchart(
-        "各时期条目数", [("古代", period["ancient"]), ("古典", period["classical"]), ("中世纪", period["medieval"]), ("近现代", period["modern"]), ("口传", period["oral"])])
+        "各时期条目数", [("古代", period["ancient"]), ("古典", period["classical"]), ("中世纪", period["medieval"]), ("近世", period["early_modern"]), ("近现代", period["modern"]), ("口传", period["oral"])])
     write_page("stats.html", body, "统计概览")
 
 

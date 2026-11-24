@@ -115,7 +115,7 @@ def main():
             "dimensions": {
                 "traditions": [t["id"] for t in traditions],
                 "motifs": core_motifs,
-                "periods": ["ancient", "classical", "medieval", "modern", "oral"],
+                "periods": ["ancient", "classical", "medieval", "early_modern", "modern", "oral"],
             },
             "cells": cells,
         },
@@ -135,7 +135,7 @@ def main():
         "> 单元格状态随阶段4写作由 `tools/build_coverage.py` 更新为 L1/L2/L3。",
         "",
     ]
-    for period in ["ancient", "classical", "medieval", "modern", "oral"]:
+    for period in ["ancient", "classical", "medieval", "early_modern", "modern", "oral"]:
         ps = [t for t in traditions if t["period"] == period]
         if not ps:
             continue
