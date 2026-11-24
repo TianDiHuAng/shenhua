@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 428,
-    "total": 542,
+    "supplement_l2": 434,
+    "total": 548,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/542）；补充层 428 条 L2；来源 471 条"
+    "verdict": "核心与重要层 100% L3（114/548）；补充层 434 条 L2；来源 477 条"
   },
   "round_log": [
     {
@@ -1287,6 +1287,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次65：新增6玛雅神祇/英雄（伊察姆纳/恰克/伊希切尔/库库尔坎/乌纳普/希巴兰克）U4达287；6来源核验（含《波波尔·乌》）；修pri-popol-vuh误入related；542条0 errors",
       "verdict": "正常扩充（批次65，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-108",
+      "date": "2026-11-24",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次66：新增6伊朗宗教人物（琐罗亚斯德/阿里曼/密特拉/阿娜希塔/沃胡·马纳/阿沙）U4达293；6来源核验；548条0 errors",
+      "verdict": "正常扩充（批次66，6条）"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T11:42:38+08:00",
+  "generated": "2026-11-24T11:48:56+08:00",
   "summary": {
-    "total": 542,
+    "total": 548,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 287
+      "U4": 293
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 428
+      "补充": 434
     },
     "by_level": {
       "L1": 0,
-      "L2": 428,
+      "L2": 434,
       "L3": 114
     },
-    "l2_done": 542,
+    "l2_done": 548,
     "l3_done": 114,
-    "verified_sources": 425
+    "verified_sources": 431
   },
   "entries": [
     {
@@ -5977,6 +5977,72 @@
     {
       "id": "fig-xbalanque",
       "name": "希巴兰克",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-zoroaster",
+      "name": "琐罗亚斯德",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ahriman",
+      "name": "阿里曼",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-mithra",
+      "name": "密特拉",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-anahita",
+      "name": "阿娜希塔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-vohu-manah",
+      "name": "沃胡·马纳",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-asha",
+      "name": "阿沙",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

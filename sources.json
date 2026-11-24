@@ -6122,6 +6122,84 @@
    "link_ok": true,
    "verified": true,
    "note": "玛雅双生子（Hunahpu 与 Xbalanque）是《波波尔·乌》的核心英雄，战胜冥界诸神；2026-11-23 经 Wikipedia API 实测（Hunahpu/Xbalanque→Maya Hero Twins）。"
+  },
+  {
+   "id": "pri-zoroaster",
+   "title": "琐罗亚斯德文献（《伽泰》与《伽萨》）",
+   "author": "琐罗亚斯德",
+   "year": null,
+   "year_display": "约前1200—前1000年",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Zoroaster",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "琐罗亚斯德（Zoroaster/Zarathustra）是琐罗亚斯德教的创始人，《伽泰》的作者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ahriman",
+   "title": "阿里曼文献（琐罗亚斯德教恶神）",
+   "author": "佚名（伊朗）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ahriman",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿里曼（Ahriman/Angra Mainyu）是琐罗亚斯德教的恶神与破坏之灵，与阿胡拉·马兹达对立；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-mithra",
+   "title": "密特拉文献（《密赫尔·亚什特》）",
+   "author": "佚名（伊朗）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mithra",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "密特拉（Mithra）是伊朗的契约、光明与真理之神，后发展为罗马密特拉教的核心；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-anahita",
+   "title": "阿娜希塔文献（《阿邦·亚什特》）",
+   "author": "佚名（伊朗）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Anahita",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿娜希塔（Anahita）是伊朗的水、丰饶与战争女神，'纯洁者'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-vohu-manah",
+   "title": "沃胡·马纳文献（琐罗亚斯德教天使）",
+   "author": "佚名（伊朗）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Vohu_Manah",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "沃胡·马纳（Vohu Manah，'善思'）是琐罗亚斯德教的七大天使（Amesha Spenta）之一，掌管善念与智慧；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-asha",
+   "title": "阿沙文献（琐罗亚斯德教真理）",
+   "author": "佚名（伊朗）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Asha",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿沙（Asha，'真理/秩序'）是琐罗亚斯德教的核心概念与七大天使之一，与'德鲁杰'（谎言）对立；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

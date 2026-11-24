@@ -22358,6 +22358,456 @@
      "source": "pri-hero-twins"
     }
    ]
+  },
+  {
+   "id": "fig-zoroaster",
+   "title": "琐罗亚斯德",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "琐罗亚斯德教的创始人，《伽泰》的作者。",
+   "related": [
+    "rel-zoroastrianism",
+    "fig-ahriman",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-zoroaster",
+    "pri-ahriman",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊朗宗教材料年代与文本层复杂（《阿维斯陀》各部分年代差异大）；2) 琐罗亚斯德的历史年代学界有争议；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "琐罗亚斯德（Zoroaster，伊朗语名 Zarathushtra）是琐罗亚斯德教（祆教）的创始人与传统上《伽泰》（Gathas，17首赞美诗）的作者：他宣扬唯一的至高善神阿胡拉·马兹达（Ahura Mazda），以'善思、善言、善行'（humata、hukhta、huvarshta）为伦理核心，主张善恶二元的选择与最终的善胜恶。其生平年代学界有争议（传统上推至前1200—前1000年，也有更晚的估算）。琐罗亚斯德的教义对犹太教、基督教、伊斯兰教的末世论与二元论有影响（学界讨论）。",
+   "versions": [
+    "琐罗亚斯德（Zoroaster，伊朗语名 Zarathushtra）是琐罗亚斯德教（祆教）的创始人与传统上《伽泰》（Gathas，17首赞美诗）的作者：他宣扬唯一的至高善神阿胡拉·马兹达（Ahura Mazda），以'善思、善言、善行'（humata、hukhta、huvarshta）为伦理核心，主张善恶二元的选择与最终的善胜恶。其生平年代学界有争议（传统上推至前1200—前1000年，也有更晚的估算）。琐罗亚斯德的教义对犹太教、基督教、伊斯兰教的末世论与二元论有影响（学界讨论）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《伽泰》",
+     "school": "核心文本",
+     "view": "琐罗亚斯德本人的诗歌是教义核心。"
+    },
+    {
+     "holder": "Mary Boyce",
+     "school": "伊朗学",
+     "view": "《琐罗亚斯德教徒》系统研究其生平与教义（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "先知型宗教创始可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-zoroaster",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>琐罗亚斯德示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>琐罗亚斯德（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>唯一善神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>阿胡拉·马兹达</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>善思善言善行</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伦理核心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>善恶二元</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>选择</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>琐罗亚斯德要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "琐罗亚斯德的年代",
+     "views": [
+      {
+       "holder": "早期说",
+       "basis": "约前1200—前1000年。"
+      },
+      {
+       "holder": "晚期说",
+       "basis": "约前7—前6世纪。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "琐罗亚斯德是琐罗亚斯德教的创始人，《伽泰》的作者。",
+     "source": "pri-zoroaster"
+    },
+    {
+     "claim": "琐罗亚斯德的伦理核心是'善思、善言、善行'。",
+     "source": "pri-zoroaster"
+    }
+   ]
+  },
+  {
+   "id": "fig-ahriman",
+   "title": "阿里曼",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "琐罗亚斯德教的恶神与破坏之灵。",
+   "related": [
+    "rel-zoroastrianism",
+    "fig-zoroaster",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-ahriman",
+    "pri-zoroaster",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊朗宗教材料年代与文本层复杂（《阿维斯陀》各部分年代差异大）；2) 琐罗亚斯德的历史年代学界有争议；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿里曼（Ahriman，阿维斯陀语 Angra Mainyu，'恶灵'）是琐罗亚斯德教的恶神、破坏与谎言之灵，与至高善神阿胡拉·马兹达（Ahura Mazda）构成宇宙二元对立：他是一切恶（疾病、死亡、谎言、混乱）的源头，其造物与善神的造物相对；在末世，阿里曼将被最终击败，世界恢复纯净。阿里曼的二元论是琐罗亚斯德教神学的核心，其形象对后世的'撒旦'观念有比较学意义上的关联（学界讨论，不主张直接同源）。",
+   "versions": [
+    "阿里曼（Ahriman，阿维斯陀语 Angra Mainyu，'恶灵'）是琐罗亚斯德教的恶神、破坏与谎言之灵，与至高善神阿胡拉·马兹达（Ahura Mazda）构成宇宙二元对立：他是一切恶（疾病、死亡、谎言、混乱）的源头，其造物与善神的造物相对；在末世，阿里曼将被最终击败，世界恢复纯净。阿里曼的二元论是琐罗亚斯德教神学的核心，其形象对后世的'撒旦'观念有比较学意义上的关联（学界讨论，不主张直接同源）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《阿维斯陀》",
+     "school": "核心文本",
+     "view": "阿里曼的恶灵职能见于伊朗经典。"
+    },
+    {
+     "holder": "Mary Boyce",
+     "school": "伊朗学",
+     "view": "二元论神学的系统分析（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "善恶二元可作宗教类型学参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ahriman",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿里曼示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿里曼（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>恶灵</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Angra Mainyu</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与善神对立</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>二元论</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>末世被击败</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>最终善胜</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿里曼要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿里曼的地位",
+     "views": [
+      {
+       "holder": "独立恶神说",
+       "basis": "与善神对等的宇宙力量。"
+      },
+      {
+       "holder": "受造/从属说",
+       "basis": "后期神学中为善神所造或终将臣服。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿里曼是琐罗亚斯德教的恶神与破坏之灵，与阿胡拉·马兹达对立。",
+     "source": "pri-ahriman"
+    },
+    {
+     "claim": "阿里曼在末世将被最终击败，世界恢复纯净。",
+     "source": "pri-ahriman"
+    }
+   ]
+  },
+  {
+   "id": "fig-mithra",
+   "title": "密特拉",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "伊朗的契约、光明与真理之神。",
+   "related": [
+    "rel-mithraism",
+    "rel-zoroastrianism",
+    "fig-zoroaster"
+   ],
+   "sources": [
+    "pri-mithra",
+    "pri-zoroaster",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊朗宗教材料年代与文本层复杂（《阿维斯陀》各部分年代差异大）；2) 琐罗亚斯德的历史年代学界有争议；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "密特拉（Mithra，阿维斯陀语 Mithra，梵语 Mitra）是伊朗的契约、光明、真理与誓约之神：他是《阿维斯陀》中重要的神祇（《密赫尔·亚什特》专颂其荣光），守护契约与秩序，其名与印欧语的'契约'（*mitra-）同源，与印度的密多罗（Mitra）对应。密特拉在伊朗是太阳之前的神（后与太阳关联），在罗马帝国则发展为密特拉教（Mithraism）的秘仪核心（以宰牛图像为特征）。密特拉是印欧宗教比较研究的关键案例。",
+   "versions": [
+    "密特拉（Mithra，阿维斯陀语 Mithra，梵语 Mitra）是伊朗的契约、光明、真理与誓约之神：他是《阿维斯陀》中重要的神祇（《密赫尔·亚什特》专颂其荣光），守护契约与秩序，其名与印欧语的'契约'（*mitra-）同源，与印度的密多罗（Mitra）对应。密特拉在伊朗是太阳之前的神（后与太阳关联），在罗马帝国则发展为密特拉教（Mithraism）的秘仪核心（以宰牛图像为特征）。密特拉是印欧宗教比较研究的关键案例。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《密赫尔·亚什特》",
+     "school": "核心文本",
+     "view": "专颂密特拉的荣光与职能。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "密特拉与印欧契约/主权功能。"
+    },
+    {
+     "holder": "Mary Boyce",
+     "school": "伊朗学",
+     "view": "密特拉在伊朗与罗马的发展（著作未录入来源库）。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-mithra",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>密特拉示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>密特拉（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>契约神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>真理光明</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>密赫尔·亚什特</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>经典</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗马密特拉教</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>后续发展</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>密特拉要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "密特拉的性质",
+     "views": [
+      {
+       "holder": "契约/主权神说",
+       "basis": "守护誓约与秩序。"
+      },
+      {
+       "holder": "太阳神说",
+       "basis": "后期与太阳神格融合。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "密特拉是伊朗的契约、光明与真理之神，与印度密多罗同源。",
+     "source": "pri-mithra"
+    },
+    {
+     "claim": "密特拉在罗马帝国发展为密特拉教的秘仪核心。",
+     "source": "pri-mithra"
+    }
+   ]
+  },
+  {
+   "id": "fig-anahita",
+   "title": "阿娜希塔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "伊朗的水、丰饶与战争女神。",
+   "related": [
+    "rel-zoroastrianism",
+    "fig-mithra",
+    "motif-water"
+   ],
+   "sources": [
+    "pri-anahita",
+    "pri-zoroaster",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊朗宗教材料年代与文本层复杂（《阿维斯陀》各部分年代差异大）；2) 琐罗亚斯德的历史年代学界有争议；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿娜希塔（Anahita，Aredvi Sura Anahita，'纯洁而强大的'）是伊朗的水、丰饶、生育与战争女神：她是《阿维斯陀》中《阿邦·亚什特》（Ābān Yašt）专颂的女神，掌管江河（尤其神话中的 Vourukasha 海与 Harahvati 河）、丰饶与战车上的武士。阿娜希塔在阿契美尼德、帕提亚与萨珊时期广受崇奉（神庙遍布伊朗与西亚），其形象（持花、戴星冠、驾四马战车）融合了水神、丰饶女神与战神的多重职能。她是伊朗宗教中最重要的女神。",
+   "versions": [
+    "阿娜希塔（Anahita，Aredvi Sura Anahita，'纯洁而强大的'）是伊朗的水、丰饶、生育与战争女神：她是《阿维斯陀》中《阿邦·亚什特》（Ābān Yašt）专颂的女神，掌管江河（尤其神话中的 Vourukasha 海与 Harahvati 河）、丰饶与战车上的武士。阿娜希塔在阿契美尼德、帕提亚与萨珊时期广受崇奉（神庙遍布伊朗与西亚），其形象（持花、戴星冠、驾四马战车）融合了水神、丰饶女神与战神的多重职能。她是伊朗宗教中最重要的女神。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《阿邦·亚什特》",
+     "school": "核心文本",
+     "view": "专颂阿娜希塔的水与丰饶职能。"
+    },
+    {
+     "holder": "Mary Boyce",
+     "school": "伊朗学",
+     "view": "阿娜希塔的崇拜史（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "水与丰饶女神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-anahita",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿娜希塔示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿娜希塔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>丰饶生育</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战争女神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>战车</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>萨珊崇奉</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>广泛神庙</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿娜希塔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿娜希塔的职能",
+     "views": [
+      {
+       "holder": "水/丰饶女神说",
+       "basis": "掌管江河与丰产。"
+      },
+      {
+       "holder": "战争女神说",
+       "basis": "护佑武士与战车。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿娜希塔是伊朗的水、丰饶与战争女神，《阿邦·亚什特》专颂其职能。",
+     "source": "pri-anahita"
+    },
+    {
+     "claim": "阿娜希塔在萨珊时期广受崇奉，神庙遍布西亚。",
+     "source": "pri-anahita"
+    }
+   ]
+  },
+  {
+   "id": "fig-vohu-manah",
+   "title": "沃胡·马纳",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "琐罗亚斯德教的七大天使之一，'善思'。",
+   "related": [
+    "rel-zoroastrianism",
+    "fig-asha",
+    "fig-zoroaster"
+   ],
+   "sources": [
+    "pri-vohu-manah",
+    "pri-zoroaster",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊朗宗教材料年代与文本层复杂（《阿维斯陀》各部分年代差异大）；2) 琐罗亚斯德的历史年代学界有争议；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "沃胡·马纳（Vohu Manah，'善思/善念'）是琐罗亚斯德教的七大神圣天使（Amesha Spenta，'神圣的不朽者'）之一，代表'善思'（good mind/purpose）：他是阿胡拉·马兹达的创造之一，守护牲畜（尤其牛），引导人向善思与智慧；在《伽泰》中，沃胡·马纳是琐罗亚斯德获得启示的中介。七大天使各护一类造物与一种德性，沃胡·马纳对应'思'的德性与动物/牲畜的世界，是琐罗亚斯德教伦理—宇宙体系的关键环节。",
+   "versions": [
+    "沃胡·马纳（Vohu Manah，'善思/善念'）是琐罗亚斯德教的七大神圣天使（Amesha Spenta，'神圣的不朽者'）之一，代表'善思'（good mind/purpose）：他是阿胡拉·马兹达的创造之一，守护牲畜（尤其牛），引导人向善思与智慧；在《伽泰》中，沃胡·马纳是琐罗亚斯德获得启示的中介。七大天使各护一类造物与一种德性，沃胡·马纳对应'思'的德性与动物/牲畜的世界，是琐罗亚斯德教伦理—宇宙体系的关键环节。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《伽泰》/《阿维斯陀》",
+     "school": "核心文本",
+     "view": "沃胡·马纳在《伽泰》中作为启示中介。"
+    },
+    {
+     "holder": "Mary Boyce",
+     "school": "伊朗学",
+     "view": "Amesha Spenta 体系的分析（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "德性—天使体系可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-vohu-manah",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>沃胡·马纳示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>沃胡·马纳（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>善思</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>good mind</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>七大天使</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Amesha Spenta</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>守护牲畜</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>牛</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>沃胡·马纳要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "沃胡·马纳的职能",
+     "views": [
+      {
+       "holder": "德性天使说",
+       "basis": "代表'善思'的德性。"
+      },
+      {
+       "holder": "造物守护说",
+       "basis": "守护牲畜与动物世界。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "沃胡·马纳是琐罗亚斯德教七大天使之一，代表'善思'。",
+     "source": "pri-vohu-manah"
+    },
+    {
+     "claim": "沃胡·马纳在《伽泰》中是琐罗亚斯德获得启示的中介。",
+     "source": "pri-vohu-manah"
+    }
+   ]
+  },
+  {
+   "id": "fig-asha",
+   "title": "阿沙",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "琐罗亚斯德教的真理与宇宙秩序。",
+   "related": [
+    "rel-zoroastrianism",
+    "fig-vohu-manah",
+    "motif-fire"
+   ],
+   "sources": [
+    "pri-asha",
+    "pri-zoroaster",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 伊朗宗教材料年代与文本层复杂（《阿维斯陀》各部分年代差异大）；2) 琐罗亚斯德的历史年代学界有争议；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿沙（Asha，阿维斯陀语 aša，'真理/秩序'）是琐罗亚斯德教的核心概念与七大天使（Amesha Spenta）之一：它代表宇宙的真理、正义与神圣秩序，是阿胡拉·马兹达的创造法则，与'德鲁杰'（Druj，谎言/混乱）构成对立。阿沙既是宇宙论原则（世界依真理秩序运行），也是伦理要求（人应行真理、守正），并体现在火（阿沙的可见象征）与仪式中。阿沙是理解琐罗亚斯德教'真理—秩序'神学的核心概念。",
+   "versions": [
+    "阿沙（Asha，阿维斯陀语 aša，'真理/秩序'）是琐罗亚斯德教的核心概念与七大天使（Amesha Spenta）之一：它代表宇宙的真理、正义与神圣秩序，是阿胡拉·马兹达的创造法则，与'德鲁杰'（Druj，谎言/混乱）构成对立。阿沙既是宇宙论原则（世界依真理秩序运行），也是伦理要求（人应行真理、守正），并体现在火（阿沙的可见象征）与仪式中。阿沙是理解琐罗亚斯德教'真理—秩序'神学的核心概念。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《伽泰》/《阿维斯陀》",
+     "school": "核心文本",
+     "view": "阿沙是《伽泰》的核心概念之一。"
+    },
+    {
+     "holder": "Mary Boyce",
+     "school": "伊朗学",
+     "view": "阿沙与德鲁杰的对立结构（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "真理—秩序原则可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-asha",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿沙示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿沙（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>真理秩序</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>aša</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>七大天使</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Amesha Spenta</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与德鲁杰对立</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>谎言</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿沙要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿沙的性质",
+     "views": [
+      {
+       "holder": "宇宙秩序说",
+       "basis": "世界依真理运行的原则。"
+      },
+      {
+       "holder": "伦理德性说",
+       "basis": "人应守的真理与正义。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿沙是琐罗亚斯德教的真理与宇宙秩序，七大天使之一。",
+     "source": "pri-asha"
+    },
+    {
+     "claim": "阿沙与'德鲁杰'（谎言）构成对立，火是其可见象征。",
+     "source": "pri-asha"
+    }
+   ]
   }
  ]
 }
