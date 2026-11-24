@@ -26329,6 +26329,450 @@
      "source": "pri-ananda"
     }
    ]
+  },
+  {
+   "id": "fig-sariputra",
+   "title": "舍利弗",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "佛陀十大弟子之一，智慧第一。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-sariputra",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "舍利弗（Śāriputra）是佛陀十大弟子之一，以“智慧第一”著称，与目犍连并称佛陀座下上首弟子。他早年为外道沙门，听闻佛弟子阿说示简述缘起法后证得初果而皈依佛陀。《阿毗达磨》传统常把舍利弗与论藏的发展相联系，《般若心经》中向观自在菩萨请法者亦为舍利子。舍利弗象征佛教对智慧与教理分析的重视，传统叙事称其先于佛陀入灭。",
+   "versions": [
+    "舍利弗（Śāriputra）是佛陀十大弟子之一，以“智慧第一”著称，与目犍连并称佛陀座下上首弟子。他早年为外道沙门，听闻佛弟子阿说示简述缘起法后证得初果而皈依佛陀。《阿毗达磨》传统常把舍利弗与论藏的发展相联系，《般若心经》中向观自在菩萨请法者亦为舍利子。舍利弗象征佛教对智慧与教理分析的重视，传统叙事称其先于佛陀入灭。"
+   ],
+   "interpretations": [
+    {
+     "holder": "佛经/传记",
+     "school": "核心文本",
+     "view": "智慧上首说"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "论藏传承说"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "传承与口传可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sariputra",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>舍利弗示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>舍利弗（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>智慧第一</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>上首弟子</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿毗达磨</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>舍利弗要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "舍利弗的角色",
+     "views": [
+      {
+       "holder": "A说",
+       "basis": "智慧上首说"
+      },
+      {
+       "holder": "B说",
+       "basis": "论藏传承说"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "舍利弗是佛陀十大弟子之一，以“智慧第一”著称。",
+     "source": "pri-sariputra"
+    },
+    {
+     "claim": "舍利弗与目犍连并称为佛陀座下上首弟子。",
+     "source": "pri-sariputra"
+    }
+   ]
+  },
+  {
+   "id": "fig-maudgalyayana",
+   "title": "目犍连",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "佛陀十大弟子之一，神通第一。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-maudgalyayana",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "目犍连（Maudgalyāyana）是佛陀十大弟子之一，以“神通第一”著称，与舍利弗是少年挚友并同时皈依佛陀。汉传佛教《盂兰盆经》叙述其以神通见亡母受苦并依佛陀教示设供救度，成为盂兰盆节与孝亲观念的重要依据。目犍连象征禅定所开发的神通与孝道叙事的结合；传统叙事称其在传法中遇外道袭击而殁。",
+   "versions": [
+    "目犍连（Maudgalyāyana）是佛陀十大弟子之一，以“神通第一”著称，与舍利弗是少年挚友并同时皈依佛陀。汉传佛教《盂兰盆经》叙述其以神通见亡母受苦并依佛陀教示设供救度，成为盂兰盆节与孝亲观念的重要依据。目犍连象征禅定所开发的神通与孝道叙事的结合；传统叙事称其在传法中遇外道袭击而殁。"
+   ],
+   "interpretations": [
+    {
+     "holder": "佛经/传记",
+     "school": "核心文本",
+     "view": "神通说"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "孝道叙事说"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "传承与口传可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-maudgalyayana",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>目犍连示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>目犍连（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神通第一</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>盂兰盆</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孝道</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>目犍连要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "目犍连的角色",
+     "views": [
+      {
+       "holder": "A说",
+       "basis": "神通说"
+      },
+      {
+       "holder": "B说",
+       "basis": "孝道叙事说"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "目犍连是佛陀十大弟子之一，以“神通第一”著称。",
+     "source": "pri-maudgalyayana"
+    },
+    {
+     "claim": "《盂兰盆经》叙述目犍连救度亡母，与盂兰盆节相关。",
+     "source": "pri-maudgalyayana"
+    }
+   ]
+  },
+  {
+   "id": "fig-mahakasyapa",
+   "title": "摩诃迦叶",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "佛陀十大弟子之一，头陀第一，第一次结集的主持者。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-mahakasyapa",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "摩诃迦叶（Mahākāśyapa）是佛陀十大弟子之一，以“头陀第一”（严格苦行）著称。佛陀入灭后，他被推为上座，召集并主持王舍城第一次结集。禅宗传说“拈花微笑”称佛陀拈花示众、迦叶破颜微笑，由此以心传心，奉迦叶为西天初祖。该传说主要见于后世禅宗文献，学界多视为传承叙事。",
+   "versions": [
+    "摩诃迦叶（Mahākāśyapa）是佛陀十大弟子之一，以“头陀第一”（严格苦行）著称。佛陀入灭后，他被推为上座，召集并主持王舍城第一次结集。禅宗传说“拈花微笑”称佛陀拈花示众、迦叶破颜微笑，由此以心传心，奉迦叶为西天初祖。该传说主要见于后世禅宗文献，学界多视为传承叙事。"
+   ],
+   "interpretations": [
+    {
+     "holder": "佛经/传记",
+     "school": "核心文本",
+     "view": "结集主持者说"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "禅宗初祖说"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "传承与口传可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-mahakasyapa",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>摩诃迦叶示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>摩诃迦叶（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>头陀第一</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>第一次结集</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拈花微笑</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>摩诃迦叶要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "摩诃迦叶的角色",
+     "views": [
+      {
+       "holder": "A说",
+       "basis": "结集主持者说"
+      },
+      {
+       "holder": "B说",
+       "basis": "禅宗初祖说"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "摩诃迦叶是佛陀十大弟子之一，以“头陀第一”著称。",
+     "source": "pri-mahakasyapa"
+    },
+    {
+     "claim": "摩诃迦叶在佛陀入灭后主持王舍城第一次结集。",
+     "source": "pri-mahakasyapa"
+    }
+   ]
+  },
+  {
+   "id": "fig-xuanzang",
+   "title": "玄奘",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "唐代高僧，赴印度取经的译经大师，唯识宗创始人之一。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-xuanzang",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "玄奘（约602—664）是唐代高僧，俗姓陈，贞观年间西行赴印度求法，在那烂陀寺从戒贤学习瑜伽行派唯识学，历十余年后携大量梵典回长安，主持译场翻译佛经七十余部千余卷，并撰《大唐西域记》，是研究中古中亚与南亚历史地理的重要史料。其弟子窥基等创立法相唯识宗。明代小说《西游记》中唐僧形象即以玄奘取经为原型而大幅虚构。",
+   "versions": [
+    "玄奘（约602—664）是唐代高僧，俗姓陈，贞观年间西行赴印度求法，在那烂陀寺从戒贤学习瑜伽行派唯识学，历十余年后携大量梵典回长安，主持译场翻译佛经七十余部千余卷，并撰《大唐西域记》，是研究中古中亚与南亚历史地理的重要史料。其弟子窥基等创立法相唯识宗。明代小说《西游记》中唐僧形象即以玄奘取经为原型而大幅虚构。"
+   ],
+   "interpretations": [
+    {
+     "holder": "佛经/传记",
+     "school": "核心文本",
+     "view": "历史人物说"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "文学形象说"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "传承与口传可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-xuanzang",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>玄奘示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>玄奘（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西行求法</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>译经</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大唐西域记</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>玄奘要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "玄奘的形象",
+     "views": [
+      {
+       "holder": "A说",
+       "basis": "历史人物说"
+      },
+      {
+       "holder": "B说",
+       "basis": "文学形象说"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "玄奘是唐代高僧，西行印度求法并回国译经。",
+     "source": "pri-xuanzang"
+    },
+    {
+     "claim": "玄奘撰《大唐西域记》，记述西域与印度见闻。",
+     "source": "pri-xuanzang"
+    }
+   ]
+  },
+  {
+   "id": "fig-kumarajiva",
+   "title": "鸠摩罗什",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "龟兹出身的译经大师，汉译佛典四大译师之一。",
+   "related": [
+    "rel-buddhism",
+    "fig-buddha"
+   ],
+   "sources": [
+    "pri-kumarajiva",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "鸠摩罗什（Kumārajīva，约344—413）出生于龟兹，父为天竺人、母为龟兹王室，早年学小乘后转习大乘中观。后秦弘始三年（401）被迎入长安，主持译场翻译《法华经》《金刚经》《维摩诘经》及龙树《中论》等，译文流畅，影响深远，使中观思想传入汉地，其弟子僧肇等推动三论宗的形成。他被誉为汉译佛典四大译师之一。",
+   "versions": [
+    "鸠摩罗什（Kumārajīva，约344—413）出生于龟兹，父为天竺人、母为龟兹王室，早年学小乘后转习大乘中观。后秦弘始三年（401）被迎入长安，主持译场翻译《法华经》《金刚经》《维摩诘经》及龙树《中论》等，译文流畅，影响深远，使中观思想传入汉地，其弟子僧肇等推动三论宗的形成。他被誉为汉译佛典四大译师之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "佛经/传记",
+     "school": "核心文本",
+     "view": "译经说"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "中观传播说"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "传承与口传可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-kumarajiva",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>鸠摩罗什示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>鸠摩罗什（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>译经</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>中观</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法华经</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鸠摩罗什要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "鸠摩罗什的贡献",
+     "views": [
+      {
+       "holder": "A说",
+       "basis": "译经说"
+      },
+      {
+       "holder": "B说",
+       "basis": "中观传播说"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "鸠摩罗什出生于龟兹，后秦时在长安主持译经。",
+     "source": "pri-kumarajiva"
+    },
+    {
+     "claim": "鸠摩罗什译有《法华经》《金刚经》《中论》等。",
+     "source": "pri-kumarajiva"
+    }
+   ]
+  },
+  {
+   "id": "fig-huineng",
+   "title": "慧能",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "禅宗六祖，《六祖坛经》所载的南宗代表人物。",
+   "related": [
+    "rel-buddhism",
+    "fig-bodhidharma"
+   ],
+   "sources": [
+    "pri-huineng",
+    "pri-buddha",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 佛教人物材料跨多语经典（巴利/梵/汉/藏）与后世传记，历史性与传说性须区分；2) 年代与 authorship 有学术讨论；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "慧能（638—713）是唐代禅宗的六祖，俗姓卢，传统叙事称其不识字而因听闻《金刚经》开悟，北上黄梅参五祖弘忍，以“菩提本无树”偈得传衣钵，后在南方弘法，形成“南宗”，主张顿悟、即心是佛。其说法由弟子记录为《六祖坛经》，是汉传佛教中唯一被称为“经”的中土著述。学界对慧能生平与坛经的成书层次有诸多讨论，宗派传承叙事与历史研究须区分。",
+   "versions": [
+    "慧能（638—713）是唐代禅宗的六祖，俗姓卢，传统叙事称其不识字而因听闻《金刚经》开悟，北上黄梅参五祖弘忍，以“菩提本无树”偈得传衣钵，后在南方弘法，形成“南宗”，主张顿悟、即心是佛。其说法由弟子记录为《六祖坛经》，是汉传佛教中唯一被称为“经”的中土著述。学界对慧能生平与坛经的成书层次有诸多讨论，宗派传承叙事与历史研究须区分。"
+   ],
+   "interpretations": [
+    {
+     "holder": "佛经/传记",
+     "school": "核心文本",
+     "view": "宗门叙事说"
+    },
+    {
+     "holder": "现代佛学研究",
+     "school": "学术",
+     "view": "学术研究说"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "传承与口传可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-huineng",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>慧能示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>慧能（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>六祖</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>顿悟</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='142' text-anchor='middle' fill='var(--svg-text)' font-size='14'>坛经</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>慧能要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "慧能的传承",
+     "views": [
+      {
+       "holder": "A说",
+       "basis": "宗门叙事说"
+      },
+      {
+       "holder": "B说",
+       "basis": "学术研究说"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "慧能是唐代禅宗六祖，主张顿悟。",
+     "source": "pri-huineng"
+    },
+    {
+     "claim": "《六祖坛经》记录慧能的说法。",
+     "source": "pri-huineng"
+    }
+   ]
   }
  ]
 }

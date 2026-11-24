@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T13:52:35+08:00",
+  "generated": "2026-11-24T14:10:30+08:00",
   "summary": {
-    "total": 601,
+    "total": 607,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 78,
-      "U4": 340
+      "U4": 346
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 487
+      "补充": 493
     },
     "by_level": {
       "L1": 0,
-      "L2": 487,
+      "L2": 493,
       "L3": 114
     },
-    "l2_done": 601,
+    "l2_done": 607,
     "l3_done": 114,
-    "verified_sources": 485
+    "verified_sources": 491
   },
   "entries": [
     {
@@ -6626,6 +6626,72 @@
     {
       "id": "fig-ananda",
       "name": "阿难",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-sariputra",
+      "name": "舍利弗",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-maudgalyayana",
+      "name": "目犍连",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-mahakasyapa",
+      "name": "摩诃迦叶",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-xuanzang",
+      "name": "玄奘",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-kumarajiva",
+      "name": "鸠摩罗什",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-huineng",
+      "name": "慧能",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

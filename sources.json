@@ -6902,6 +6902,84 @@
    "link_ok": true,
    "verified": true,
    "note": "阿难（Ānanda）是佛陀的十大弟子之一，多闻第一，佛经第一次结集的诵出者；2026-11-23 经 Wikipedia API 实测（Ānanda）专条存在。"
+  },
+  {
+   "id": "pri-sariputra",
+   "title": "舍利弗相关文献",
+   "author": "佚名（佛教）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/%C5%9A%C4%81riputra",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "舍利弗条目；2026-11-24 经 Wikipedia API 实测（Śāriputra）专条存在。"
+  },
+  {
+   "id": "pri-maudgalyayana",
+   "title": "目犍连相关文献",
+   "author": "佚名（佛教）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Maudgalyayana",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "目犍连条目；2026-11-24 经 Wikipedia API 实测（Maudgalyayana）专条存在。"
+  },
+  {
+   "id": "pri-mahakasyapa",
+   "title": "摩诃迦叶相关文献",
+   "author": "佚名（佛教）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mah%C4%81k%C4%81%C5%9Byapa",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "摩诃迦叶条目；2026-11-24 经 Wikipedia API 实测（Mahākāśyapa）专条存在。"
+  },
+  {
+   "id": "pri-xuanzang",
+   "title": "玄奘相关文献",
+   "author": "佚名",
+   "year": null,
+   "year_display": "中古",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Xuanzang",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "玄奘条目；2026-11-24 经 Wikipedia API 实测（Xuanzang）专条存在。"
+  },
+  {
+   "id": "pri-kumarajiva",
+   "title": "鸠摩罗什相关文献",
+   "author": "佚名（佛教）",
+   "year": null,
+   "year_display": "中古",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "鸠摩罗什条目；2026-11-24 经 Wikipedia API 实测（Kumārajīva）专条存在。"
+  },
+  {
+   "id": "pri-huineng",
+   "title": "慧能相关文献",
+   "author": "佚名",
+   "year": null,
+   "year_display": "中古",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Huineng",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "慧能条目；2026-11-24 经 Wikipedia API 实测（Huineng）专条存在。"
   }
  ]
 }
