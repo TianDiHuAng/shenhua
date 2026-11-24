@@ -7244,6 +7244,444 @@
      "source": "pri-paulicianism"
     }
    ]
+  },
+  {
+   "id": "rel-chaldean",
+   "title": "迦勒底天主教会",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "东方亚述教会中与罗马共融的分支，行迦勒底礼。",
+   "related": [
+    "rel-assyrian-church",
+    "rel-coptic-orthodoxy",
+    "rel-catholicism"
+   ],
+   "sources": [
+    "pri-chaldean"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 东方教会史料跨多个语言与传统，具体细节依教会传统；2) 教会分裂的历史与神学因素须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "迦勒底天主教会（Chaldean Catholic Church）是东方亚述教会（Church of the East）中于1552年起与罗马教廷共融的分支，主要分布于伊拉克、伊朗与 diaspora：它保留叙利亚东方礼（迦勒底礼）与叙利亚语礼仪，但承认教宗的权威。迦勒底天主教会是伊拉克最大的基督教社群之一，近代因战争与迫害大量流散。它与东方亚述教会（不承认罗马）共享礼仪传统但分属不同教会。",
+   "versions": [
+    "迦勒底天主教会（Chaldean Catholic Church）是东方亚述教会（Church of the East）中于1552年起与罗马教廷共融的分支，主要分布于伊拉克、伊朗与 diaspora：它保留叙利亚东方礼（迦勒底礼）与叙利亚语礼仪，但承认教宗的权威。迦勒底天主教会是伊拉克最大的基督教社群之一，近代因战争与迫害大量流散。它与东方亚述教会（不承认罗马）共享礼仪传统但分属不同教会。"
+   ],
+   "interpretations": [
+    {
+     "holder": "迦勒底教会传统",
+     "school": "教会自述",
+     "view": "保留东方叙利亚礼仪，与罗马共融。"
+    },
+    {
+     "holder": "现代中东研究",
+     "school": "宗教史",
+     "view": "强调伊拉克基督教社群的流散与处境。"
+    },
+    {
+     "holder": "教会史",
+     "school": "宗教史",
+     "view": "1552年与罗马共融是关键节点。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-chaldean",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>迦勒底天主教会结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>迦勒底天主教会（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>东方礼</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>迦勒底礼</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与罗马共融</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>承认教宗</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊拉克</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>主要分布</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>迦勒底天主教会要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "迦勒底与亚述",
+     "views": [
+      {
+       "holder": "礼仪共享说",
+       "basis": "与东方亚述教会共享礼仪传统。"
+      },
+      {
+       "holder": "教会分立说",
+       "basis": "因与罗马共融而分立。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "迦勒底天主教会是东方亚述教会与罗马共融的分支（1552年起）。",
+     "source": "pri-chaldean"
+    },
+    {
+     "claim": "迦勒底天主教会保留叙利亚东方礼，是伊拉克主要基督教社群之一。",
+     "source": "pri-chaldean"
+    }
+   ]
+  },
+  {
+   "id": "rel-maronite",
+   "title": "马龙派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "黎巴嫩的主要基督教派，属东方天主教，与罗马共融。",
+   "related": [
+    "rel-catholicism",
+    "rel-chaldean",
+    "rel-syriac-orthodox"
+   ],
+   "sources": [
+    "pri-maronite"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 东方教会史料跨多个语言与传统，具体细节依教会传统；2) 教会分裂的历史与神学因素须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "马龙派（Maronite Church）是黎巴嫩的主要基督教派，属东方天主教会（与罗马共融，保留安提阿叙利亚礼仪）：其传统追溯至5世纪的隐修士圣马龙（St. Maron）及其弟子，7世纪因基督论争议（拒绝迦克墩会议的部分表述）而与其他教会分离，12世纪十字军时期与罗马恢复共融。马龙派在黎巴嫩政治中扮演核心角色（总统传统上由马龙派担任），是中东重要的基督教社群。",
+   "versions": [
+    "马龙派（Maronite Church）是黎巴嫩的主要基督教派，属东方天主教会（与罗马共融，保留安提阿叙利亚礼仪）：其传统追溯至5世纪的隐修士圣马龙（St. Maron）及其弟子，7世纪因基督论争议（拒绝迦克墩会议的部分表述）而与其他教会分离，12世纪十字军时期与罗马恢复共融。马龙派在黎巴嫩政治中扮演核心角色（总统传统上由马龙派担任），是中东重要的基督教社群。"
+   ],
+   "interpretations": [
+    {
+     "holder": "圣马龙传统",
+     "school": "教会自述",
+     "view": "追溯至5世纪隐修士圣马龙。"
+    },
+    {
+     "holder": "现代黎巴嫩研究",
+     "school": "宗教史",
+     "view": "强调马龙派在黎巴嫩政治中的地位。"
+    },
+    {
+     "holder": "教会史",
+     "school": "宗教史",
+     "view": "12世纪与罗马共融是关键节点。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-maronite",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>马龙派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>马龙派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>东方天主教</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与罗马共融</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>黎巴嫩</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>政治核心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>叙利亚礼仪</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>安提阿礼</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马龙派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "马龙派的归属",
+     "views": [
+      {
+       "holder": "东方天主教说",
+       "basis": "属与罗马共融的东方礼教会。"
+      },
+      {
+       "holder": "独立传统说",
+       "basis": "保有独特的叙利亚传统。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "马龙派是黎巴嫩主要基督教派，属东方天主教。",
+     "source": "pri-maronite"
+    },
+    {
+     "claim": "马龙派传统追溯至5世纪的圣马龙。",
+     "source": "pri-maronite"
+    }
+   ]
+  },
+  {
+   "id": "rel-syriac-orthodox",
+   "title": "叙利亚正教会",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "东方正统教会之一，行安提阿礼、使用叙利亚语。",
+   "related": [
+    "rel-coptic-orthodoxy",
+    "rel-chaldean",
+    "rel-armenian-apostolic"
+   ],
+   "sources": [
+    "pri-syriac-orthodox"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 东方教会史料跨多个语言与传统，具体细节依教会传统；2) 教会分裂的历史与神学因素须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "叙利亚正教会（Syriac Orthodox Church）是东方正统教会（Oriental Orthodox）之一，宗座在安提阿（今土耳其安塔基亚），使用叙利亚语行安提阿礼仪：该会于451年迦克墩公会议后因基督论立场（miaphysite，强调基督单一复合本性）与罗马/君士坦丁堡分离。叙利亚正教会在叙利亚、伊拉克、印度（Malankara）与 diaspora 有社群，保存丰富的叙利亚教父传统与礼仪。其领袖称'安提阿及全东方宗主教'。",
+   "versions": [
+    "叙利亚正教会（Syriac Orthodox Church）是东方正统教会（Oriental Orthodox）之一，宗座在安提阿（今土耳其安塔基亚），使用叙利亚语行安提阿礼仪：该会于451年迦克墩公会议后因基督论立场（miaphysite，强调基督单一复合本性）与罗马/君士坦丁堡分离。叙利亚正教会在叙利亚、伊拉克、印度（Malankara）与 diaspora 有社群，保存丰富的叙利亚教父传统与礼仪。其领袖称'安提阿及全东方宗主教'。"
+   ],
+   "interpretations": [
+    {
+     "holder": "安提阿传统",
+     "school": "教会自述",
+     "view": "宗座在安提阿，使用叙利亚语礼仪。"
+    },
+    {
+     "holder": "东方正统教会",
+     "school": "教会史",
+     "view": "451年迦克墩分裂后形成。"
+    },
+    {
+     "holder": "现代中东研究",
+     "school": "宗教史",
+     "view": "强调叙利亚基督徒的处境与流散。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-syriac-orthodox",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>叙利亚正教会结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>叙利亚正教会（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>安提阿礼</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>叙利亚语</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>一性论</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>miaphysite</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>迦克墩分裂</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>451年</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>叙利亚正教会要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "叙利亚正教的基督论",
+     "views": [
+      {
+       "holder": "miaphysite说",
+       "basis": "强调基督单一复合本性。"
+      },
+      {
+       "holder": "二性论对照",
+       "basis": "与迦克墩的二性论表述有分歧。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "叙利亚正教会是东方正统教会之一，宗座在安提阿。",
+     "source": "pri-syriac-orthodox"
+    },
+    {
+     "claim": "叙利亚正教会451年迦克墩会议后与其他教会分离。",
+     "source": "pri-syriac-orthodox"
+    }
+   ]
+  },
+  {
+   "id": "rel-armenian-apostolic",
+   "title": "亚美尼亚使徒教会",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "世界上最古老的国教会，属东方正统教会。",
+   "related": [
+    "rel-coptic-orthodoxy",
+    "rel-syriac-orthodox",
+    "rel-ethiopian-orthodox"
+   ],
+   "sources": [
+    "pri-armenian-apostolic"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 东方教会史料跨多个语言与传统，具体细节依教会传统；2) 教会分裂的历史与神学因素须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "亚美尼亚使徒教会（Armenian Apostolic Church）是世界上最古老的国教会：301年亚美尼亚国王梯里达底三世在圣格里高利（St. Gregory the Illuminator）影响下皈依基督教，使亚美尼亚成为首个基督教国家。该教会属东方正统教会（因451年迦克墩会议的基督论分歧而分离），行亚美尼亚礼仪、使用亚美尼亚语。亚美尼亚使徒教会在亚美尼亚民族身份与历史记忆中居于核心地位，并遍布全球 diaspora。",
+   "versions": [
+    "亚美尼亚使徒教会（Armenian Apostolic Church）是世界上最古老的国教会：301年亚美尼亚国王梯里达底三世在圣格里高利（St. Gregory the Illuminator）影响下皈依基督教，使亚美尼亚成为首个基督教国家。该教会属东方正统教会（因451年迦克墩会议的基督论分歧而分离），行亚美尼亚礼仪、使用亚美尼亚语。亚美尼亚使徒教会在亚美尼亚民族身份与历史记忆中居于核心地位，并遍布全球 diaspora。"
+   ],
+   "interpretations": [
+    {
+     "holder": "圣格里高利",
+     "school": "教会自述",
+     "view": "301年使亚美尼亚国教化。"
+    },
+    {
+     "holder": "东方正统教会",
+     "school": "教会史",
+     "view": "因迦克墩分歧而独立。"
+    },
+    {
+     "holder": "亚美尼亚研究",
+     "school": "宗教史",
+     "view": "强调教会与民族身份的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-armenian-apostolic",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>亚美尼亚使徒教会结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>亚美尼亚使徒教会（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>301国教化</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>最古国教会</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚美尼亚礼</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>民族语言</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'> diaspora</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>全球分布</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>亚美尼亚使徒教会要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "亚美尼亚教会的地位",
+     "views": [
+      {
+       "holder": "使徒起源说",
+       "basis": "追溯至使徒巴多罗买/达陡。"
+      },
+      {
+       "holder": "国教起源说",
+       "basis": "301年国教化是关键。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "亚美尼亚使徒教会是世界上最古老的国教会（301年）。",
+     "source": "pri-armenian-apostolic"
+    },
+    {
+     "claim": "亚美尼亚使徒教会属东方正统教会，与民族身份紧密相连。",
+     "source": "pri-armenian-apostolic"
+    }
+   ]
+  },
+  {
+   "id": "rel-ethiopian-orthodox",
+   "title": "埃塞俄比亚正教会",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "东方正统教会，保存独特经典（如《以诺书》）。",
+   "related": [
+    "rel-coptic-orthodoxy",
+    "rel-armenian-apostolic",
+    "rel-eritrean-orthodox"
+   ],
+   "sources": [
+    "pri-ethiopian-orthodox"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 东方教会史料跨多个语言与传统，具体细节依教会传统；2) 教会分裂的历史与神学因素须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "埃塞俄比亚正教 Tewahedo 教会（Ethiopian Orthodox Tewahedo Church）是东方正统教会中规模最大的成员之一，4世纪随阿克苏姆王国的皈依而建立：它行埃塞俄比亚礼仪、使用吉兹语（Ge'ez），并保存独特的圣经正典——包括其他传统视为次经或伪经的《以诺书》（1 Enoch）与《禧年书》（Jubilees），这些文本的埃塞俄比亚版本是研究古代犹太—基督教文献的关键。教会与埃塞俄比亚民族身份、帝国传统（如所罗门—示巴传说）紧密相连。",
+   "versions": [
+    "埃塞俄比亚正教 Tewahedo 教会（Ethiopian Orthodox Tewahedo Church）是东方正统教会中规模最大的成员之一，4世纪随阿克苏姆王国的皈依而建立：它行埃塞俄比亚礼仪、使用吉兹语（Ge'ez），并保存独特的圣经正典——包括其他传统视为次经或伪经的《以诺书》（1 Enoch）与《禧年书》（Jubilees），这些文本的埃塞俄比亚版本是研究古代犹太—基督教文献的关键。教会与埃塞俄比亚民族身份、帝国传统（如所罗门—示巴传说）紧密相连。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Tewahedo 传统",
+     "school": "教会自述",
+     "view": "4世纪阿克苏姆国教化。"
+    },
+    {
+     "holder": "埃塞俄比亚研究",
+     "school": "宗教史",
+     "view": "强调教会与民族、帝国传统的关系。"
+    },
+    {
+     "holder": "圣经文本研究",
+     "school": "文献学",
+     "view": "埃塞俄比亚版本保存《以诺书》等独特文本。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ethiopian-orthodox",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>埃塞俄比亚正教会结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>埃塞俄比亚正教会（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>吉兹语</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>礼仪语言</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>以诺书</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>独特正典</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿克苏姆</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>4世纪起源</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃塞俄比亚正教会要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "埃塞俄比亚正教的独特性",
+     "views": [
+      {
+       "holder": "独特正典说",
+       "basis": "保存《以诺书》等独特文本。"
+      },
+      {
+       "holder": "东方正统说",
+       "basis": "属东方正统教会。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "埃塞俄比亚正教 Tewahedo 教会是东方正统教会的重要成员。",
+     "source": "pri-ethiopian-orthodox"
+    },
+    {
+     "claim": "埃塞俄比亚正教保存《以诺书》等独特圣经文本。",
+     "source": "pri-ethiopian-orthodox"
+    }
+   ]
+  },
+  {
+   "id": "rel-eritrean-orthodox",
+   "title": "厄立特里亚正教会",
+   "level": "L2",
+   "tier": "补充",
+   "period": "modern",
+   "summary": "1993年自埃塞俄比亚正教独立的东方正统教会。",
+   "related": [
+    "rel-ethiopian-orthodox",
+    "rel-coptic-orthodoxy",
+    "rel-armenian-apostolic"
+   ],
+   "sources": [
+    "pri-eritrean-orthodox"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 东方教会史料跨多个语言与传统，具体细节依教会传统；2) 教会分裂的历史与神学因素须区分；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "厄立特里亚正教 Tewahedo 教会（Eritrean Orthodox Tewahedo Church）是东方正统教会之一，1993年厄立特里亚从埃塞俄比亚独立后，其教会也随之自埃塞俄比亚正教 Tewahedo 教会独立（1994年获得宗主教地位）：它保留埃塞俄比亚—厄立特里亚共有的 Tewahedo 传统、吉兹语礼仪与独特正典。厄立特里亚正教会在厄立特里亚的国家认同与政治中扮演重要角色，其自主地位（autocephaly）由亚历山大科普特正教会承认。",
+   "versions": [
+    "厄立特里亚正教 Tewahedo 教会（Eritrean Orthodox Tewahedo Church）是东方正统教会之一，1993年厄立特里亚从埃塞俄比亚独立后，其教会也随之自埃塞俄比亚正教 Tewahedo 教会独立（1994年获得宗主教地位）：它保留埃塞俄比亚—厄立特里亚共有的 Tewahedo 传统、吉兹语礼仪与独特正典。厄立特里亚正教会在厄立特里亚的国家认同与政治中扮演重要角色，其自主地位（autocephaly）由亚历山大科普特正教会承认。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Tewahedo 传统",
+     "school": "教会自述",
+     "view": "共享埃塞俄比亚—厄立特里亚 Tewahedo 传统。"
+    },
+    {
+     "holder": "现代非洲研究",
+     "school": "宗教史",
+     "view": "强调教会与国家认同的关系。"
+    },
+    {
+     "holder": "教会史",
+     "school": "宗教史",
+     "view": "1993—1994年独立是关键节点。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-eritrean-orthodox",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>厄立特里亚正教会结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>厄立特里亚正教会（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>1993独立</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>自主教会</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>吉兹语礼仪</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Tewahedo传统</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>国家认同</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>政治角色</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>厄立特里亚正教会要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "厄立特里亚正教的地位",
+     "views": [
+      {
+       "holder": "自主教会说",
+       "basis": "1994年获宗主教地位。"
+      },
+      {
+       "holder": "母会分支说",
+       "basis": "源于埃塞俄比亚正教。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "厄立特里亚正教 Tewahedo 教会1993年随国家独立而自埃塞俄比亚正教独立。",
+     "source": "pri-eritrean-orthodox"
+    },
+    {
+     "claim": "厄立特里亚正教保留 Tewahedo 传统与吉兹语礼仪。",
+     "source": "pri-eritrean-orthodox"
+    }
+   ]
   }
  ]
 }

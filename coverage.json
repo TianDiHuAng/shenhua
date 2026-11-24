@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:04:26+08:00",
+  "generated": "2026-11-24T10:09:16+08:00",
   "summary": {
-    "total": 434,
+    "total": 440,
     "by_unit": {
       "U1": 90,
-      "U2": 87,
+      "U2": 93,
       "U3": 72,
       "U4": 185
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 320
+      "补充": 326
     },
     "by_level": {
       "L1": 0,
-      "L2": 320,
+      "L2": 326,
       "L3": 114
     },
-    "l2_done": 434,
+    "l2_done": 440,
     "l3_done": 114,
-    "verified_sources": 317
+    "verified_sources": 323
   },
   "entries": [
     {
@@ -2763,6 +2763,72 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "rel-chaldean",
+      "name": "迦勒底天主教会",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-maronite",
+      "name": "马龙派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-syriac-orthodox",
+      "name": "叙利亚正教会",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-armenian-apostolic",
+      "name": "亚美尼亚使徒教会",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-ethiopian-orthodox",
+      "name": "埃塞俄比亚正教会",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-eritrean-orthodox",
+      "name": "厄立特里亚正教会",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 1,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "fig-zeus",
       "name": "宙斯",
       "unit": "U4",
@@ -4977,7 +5043,13 @@
         "rel-sethianism",
         "rel-valentinianism",
         "rel-bogomil",
-        "rel-paulicianism"
+        "rel-paulicianism",
+        "rel-chaldean",
+        "rel-maronite",
+        "rel-syriac-orthodox",
+        "rel-armenian-apostolic",
+        "rel-ethiopian-orthodox",
+        "rel-eritrean-orthodox"
       ],
       "motifs": [
         "motif-creation",
@@ -17387,6 +17459,426 @@
         "tradition": "rel-paulicianism",
         "motif": "motif-trickster",
         "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-chaldean",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-maronite",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-syriac-orthodox",
+        "motif": "motif-trickster",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-armenian-apostolic",
+        "motif": "motif-trickster",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-ethiopian-orthodox",
+        "motif": "motif-trickster",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-creation",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-flood",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-underworld",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-herojourney",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-sun",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-mother-goddess",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-dragon",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-worldtree",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-eschatology",
+        "period": "modern",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-eritrean-orthodox",
+        "motif": "motif-trickster",
+        "period": "modern",
         "expected": false,
         "status": "empty"
       }

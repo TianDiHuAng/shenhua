@@ -4718,6 +4718,84 @@
    "link_ok": true,
    "verified": true,
    "note": "保罗派（Paulicianism）是7世纪亚美尼亚—拜占庭的二元论基督教派别；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-chaldean",
+   "title": "迦勒底天主教会文献",
+   "author": "佚名（迦勒底教会）",
+   "year": null,
+   "year_display": "1552年分离",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Chaldean_Catholic_Church",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "迦勒底天主教会是东方亚述教会中与罗马共融的分支（1552年起），行迦勒底礼；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-maronite",
+   "title": "马龙派文献（马龙教会传统）",
+   "author": "佚名（马龙派）",
+   "year": null,
+   "year_display": "5世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Maronite_Church",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "马龙派（Maronite Church）是黎巴嫩的主要基督教派，属东方天主教（与罗马共融），传统追溯至隐修士圣马龙；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-syriac-orthodox",
+   "title": "叙利亚正教会文献",
+   "author": "佚名（叙利亚正教）",
+   "year": null,
+   "year_display": "6世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Syriac_Orthodox_Church",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "叙利亚正教会是东方正统教会之一，行安提阿礼、使用叙利亚语；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-armenian-apostolic",
+   "title": "亚美尼亚使徒教会文献",
+   "author": "佚名（亚美尼亚教会）",
+   "year": null,
+   "year_display": "301年国教化",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Armenian_Apostolic_Church",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "亚美尼亚使徒教会是世界上最古老的国教会（301年），属东方正统教会；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ethiopian-orthodox",
+   "title": "埃塞俄比亚正教文献（Tewahedo 传统）",
+   "author": "佚名（埃塞俄比亚教会）",
+   "year": null,
+   "year_display": "4世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "埃塞俄比亚正教 Tewahedo 教会是东方正统教会，保存独特经典（如《以诺书》）；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-eritrean-orthodox",
+   "title": "厄立特里亚正教文献（Tewahedo 传统）",
+   "author": "佚名（厄立特里亚教会）",
+   "year": null,
+   "year_display": "1993年独立",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Eritrean_Orthodox_Tewahedo_Church",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "厄立特里亚正教 Tewahedo 教会1993年自埃塞俄比亚教会独立，属东方正统教会；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
