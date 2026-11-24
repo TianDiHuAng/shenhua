@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T09:59:05+08:00",
+  "generated": "2026-11-24T10:04:26+08:00",
   "summary": {
-    "total": 428,
+    "total": 434,
     "by_unit": {
       "U1": 90,
-      "U2": 81,
+      "U2": 87,
       "U3": 72,
       "U4": 185
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 314
+      "补充": 320
     },
     "by_level": {
       "L1": 0,
-      "L2": 314,
+      "L2": 320,
       "L3": 114
     },
-    "l2_done": 428,
+    "l2_done": 434,
     "l3_done": 114,
-    "verified_sources": 311
+    "verified_sources": 317
   },
   "entries": [
     {
@@ -2697,6 +2697,72 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "rel-alawites",
+      "name": "阿拉维派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-shabak",
+      "name": "沙巴克派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-sethianism",
+      "name": "塞特派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-valentinianism",
+      "name": "瓦伦廷派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-bogomil",
+      "name": "鲍格米勒派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "rel-paulicianism",
+      "name": "保罗派",
+      "unit": "U2",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "fig-zeus",
       "name": "宙斯",
       "unit": "U4",
@@ -4905,7 +4971,13 @@
         "rel-sabians",
         "rel-mithraism",
         "rel-isis-mysteries",
-        "rel-eleusinian"
+        "rel-eleusinian",
+        "rel-alawites",
+        "rel-shabak",
+        "rel-sethianism",
+        "rel-valentinianism",
+        "rel-bogomil",
+        "rel-paulicianism"
       ],
       "motifs": [
         "motif-creation",
@@ -16895,6 +16967,426 @@
         "tradition": "rel-eleusinian",
         "motif": "motif-trickster",
         "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-alawites",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-shabak",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-sethianism",
+        "motif": "motif-trickster",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-creation",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-flood",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-underworld",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-herojourney",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-sun",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-mother-goddess",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-dragon",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-worldtree",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-eschatology",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-valentinianism",
+        "motif": "motif-trickster",
+        "period": "ancient",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-bogomil",
+        "motif": "motif-trickster",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-creation",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-flood",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-underworld",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-herojourney",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-sun",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-mother-goddess",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-dragon",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-worldtree",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-eschatology",
+        "period": "medieval",
+        "expected": false,
+        "status": "empty"
+      },
+      {
+        "tradition": "rel-paulicianism",
+        "motif": "motif-trickster",
+        "period": "medieval",
         "expected": false,
         "status": "empty"
       }

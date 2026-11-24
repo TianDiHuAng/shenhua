@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 314,
-    "total": 428,
+    "supplement_l2": 320,
+    "total": 434,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/428）；补充层 314 条 L2；来源 357 条"
+    "verdict": "核心与重要层 100% L3（114/434）；补充层 320 条 L2；来源 363 条"
   },
   "round_log": [
     {
@@ -1053,6 +1053,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次46：新增6宗教传统/秘仪（大本教/创价学会/萨比教/密特拉教/伊西斯秘仪/厄琉息斯秘仪）U2达81；6来源核验；修复sabians引用；428条0 errors",
       "verdict": "正常扩充（批次46，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-89",
+      "date": "2026-11-24",
+      "methods_run": [
+        "D15三重查重",
+        "联网宗教大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次47：新增6宗教派别（阿拉维派/沙巴克/塞特派/瓦伦廷派/鲍格米勒派/保罗派）U2达87；6来源核验；修复shabak引用；434条0 errors",
+      "verdict": "正常扩充（批次47，6条）"
     }
   ]
 }

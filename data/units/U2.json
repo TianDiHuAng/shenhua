@@ -6800,6 +6800,450 @@
      "source": "pri-eleusinian"
     }
    ]
+  },
+  {
+   "id": "rel-alawites",
+   "title": "阿拉维派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "什叶派分支，主要分布于叙利亚，融合伊斯兰与秘传教义。",
+   "related": [
+    "rel-islam",
+    "rel-ismaili",
+    "rel-druze"
+   ],
+   "sources": [
+    "pri-alawites",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教派史料与外部论战文献须区分；2) 教派内部与外部标签差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿拉维派（Alawites，旧称 Nusayriyya）是什叶派的一个分支，主要分布于叙利亚（阿萨德家族所属派别），另在土耳其南部与黎巴嫩有社群：其教义高度秘传，融合什叶派（尊阿里为神的显现之一）与新柏拉图主义、基督教（圣诞、圣餐的象征性采用）等元素，教义只向入门者传授。阿拉维派长期受正统派排斥，近代在叙利亚政治中扮演核心角色。其真实教义因守密而外界难窥全貌。",
+   "versions": [
+    "阿拉维派（Alawites，旧称 Nusayriyya）是什叶派的一个分支，主要分布于叙利亚（阿萨德家族所属派别），另在土耳其南部与黎巴嫩有社群：其教义高度秘传，融合什叶派（尊阿里为神的显现之一）与新柏拉图主义、基督教（圣诞、圣餐的象征性采用）等元素，教义只向入门者传授。阿拉维派长期受正统派排斥，近代在叙利亚政治中扮演核心角色。其真实教义因守密而外界难窥全貌。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Nusayriyya 传统",
+     "school": "教派自述",
+     "view": "以阿里为神显现的秘传教义。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可把阿拉维派作为什叶派边缘秘传支系的案例。（该学者著作未录入来源库）"
+    },
+    {
+     "holder": "现代中东研究",
+     "school": "区域研究",
+     "view": "强调阿拉维派在叙利亚政治中的地位。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-alawites",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿拉维派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿拉维派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>秘传教义</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>只授入门者</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿里神显</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>什叶派元素</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>叙利亚</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>核心分布</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿拉维派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿拉维派的归属",
+     "views": [
+      {
+       "holder": "什叶派支系说",
+       "basis": "被列为什叶派分支。"
+      },
+      {
+       "holder": "独立教派说",
+       "basis": "教义独特，近于独立宗教。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿拉维派是什叶派分支，主要分布于叙利亚。",
+     "source": "pri-alawites"
+    },
+    {
+     "claim": "阿拉维派教义高度秘传，融合多种元素。",
+     "source": "pri-alawites"
+    }
+   ]
+  },
+  {
+   "id": "rel-shabak",
+   "title": "沙巴克派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "伊拉克北部融合伊斯兰与本地传统的宗教群体。",
+   "related": [
+    "rel-islam",
+    "rel-alawites",
+    "rel-yazidism"
+   ],
+   "sources": [
+    "pri-shabak",
+    "aca-god-is-not-one"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教派史料与外部论战文献须区分；2) 教派内部与外部标签差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "沙巴克（Shabak）是伊拉克北部（尼尼微平原）的宗教—族群群体，其信仰融合了伊斯兰（什叶派与苏菲影响）与本地/前伊斯兰传统：他们尊崇阿里与十二伊玛目（近似什叶派），同时保留秘传仪式与圣者崇拜，宗教身份长期处于'介于伊斯兰各派之间'的模糊地带。沙巴克的语言（沙巴克语）与族群身份是学术关注的议题，其在伊拉克的政治处境（受迫害与争议）是当代中东研究的内容。",
+   "versions": [
+    "沙巴克（Shabak）是伊拉克北部（尼尼微平原）的宗教—族群群体，其信仰融合了伊斯兰（什叶派与苏菲影响）与本地/前伊斯兰传统：他们尊崇阿里与十二伊玛目（近似什叶派），同时保留秘传仪式与圣者崇拜，宗教身份长期处于'介于伊斯兰各派之间'的模糊地带。沙巴克的语言（沙巴克语）与族群身份是学术关注的议题，其在伊拉克的政治处境（受迫害与争议）是当代中东研究的内容。"
+   ],
+   "interpretations": [
+    {
+     "holder": "沙巴克传统",
+     "school": "教派自述",
+     "view": "融合什叶派与本地仪式的秘传传统。"
+    },
+    {
+     "holder": "现代中东研究",
+     "school": "区域研究",
+     "view": "强调沙巴克的宗教—族群身份边界。"
+    },
+    {
+     "holder": "Stephen Prothero",
+     "school": "比较宗教学",
+     "view": "可作为宗教身份模糊地带的案例。（该学者著作未录入来源库）"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-shabak",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>沙巴克派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>沙巴克派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>融合信仰</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>什叶派+本地</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>秘传仪式</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>圣者崇拜</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>身份边界</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>中间地带</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>沙巴克派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "沙巴克的归属",
+     "views": [
+      {
+       "holder": "什叶派说",
+       "basis": "近于什叶派秘传支系。"
+      },
+      {
+       "holder": "独立群体说",
+       "basis": "是独立的宗教—族群。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "沙巴克是伊拉克北部融合伊斯兰与本地传统的群体。",
+     "source": "pri-shabak"
+    },
+    {
+     "claim": "沙巴克的宗教身份长期处于模糊地带。",
+     "source": "pri-shabak"
+    }
+   ]
+  },
+  {
+   "id": "rel-sethianism",
+   "title": "塞特派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "诺斯替主义的重要支系，崇拜塞特为灵性祖先。",
+   "related": [
+    "rel-cathar",
+    "rel-manichaeism",
+    "motif-myth-vs-religion"
+   ],
+   "sources": [
+    "pri-sethianism",
+    "aca-gnostic-gospels"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教派史料与外部论战文献须区分；2) 教派内部与外部标签差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "塞特派（Sethianism）是诺斯替主义（Gnosticism）的一个重要支系：该派视塞特（Seth，亚当与夏娃的第三子）为灵性后裔的祖先，认为真正的灵性种子通过塞特一系传承；其神学强调至高、不可知的神与低级的造物神（Demiurge，常与《旧约》的耶和华认同）的对立，以及通过'知识'（gnosis）获得救赎。塞特派文本（如《约翰密传》《埃及人福音》）见于拿戈玛第经集（Nag Hammadi Library）。塞特派被视为诺斯替主义的核心形态之一。",
+   "versions": [
+    "塞特派（Sethianism）是诺斯替主义（Gnosticism）的一个重要支系：该派视塞特（Seth，亚当与夏娃的第三子）为灵性后裔的祖先，认为真正的灵性种子通过塞特一系传承；其神学强调至高、不可知的神与低级的造物神（Demiurge，常与《旧约》的耶和华认同）的对立，以及通过'知识'（gnosis）获得救赎。塞特派文本（如《约翰密传》《埃及人福音》）见于拿戈玛第经集（Nag Hammadi Library）。塞特派被视为诺斯替主义的核心形态之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "拿戈玛第经集",
+     "school": "文本来源",
+     "view": "塞特派文本见于1945年发现的拿戈玛第经集。"
+    },
+    {
+     "holder": "Hans Jonas",
+     "school": "诺斯替研究",
+     "view": "《诺斯替宗教》系统分析诺斯替神学（著作未录入来源库）。"
+    },
+    {
+     "holder": "Elaine Pagels",
+     "school": "诺斯替研究",
+     "view": "《诺斯替福音》普及了诺斯替文本的研究。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sethianism",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>塞特派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>塞特派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塞特</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>灵性祖先</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Demiurge</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>低级造物神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>gnosis</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>救赎之知</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塞特派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "塞特派与诺斯替",
+     "views": [
+      {
+       "holder": "核心形态说",
+       "basis": "塞特派是诺斯替主义的核心。"
+      },
+      {
+       "holder": "一支说",
+       "basis": "是诺斯替主义众多支系之一。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "塞特派崇拜塞特为灵性祖先，是诺斯替主义的重要支系。",
+     "source": "pri-sethianism"
+    },
+    {
+     "claim": "塞特派文本见于拿戈玛第经集。",
+     "source": "pri-sethianism"
+    }
+   ]
+  },
+  {
+   "id": "rel-valentinianism",
+   "title": "瓦伦廷派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "2世纪最重要的诺斯替派别，由瓦伦廷创立。",
+   "related": [
+    "rel-sethianism",
+    "rel-manichaeism",
+    "rel-cathar"
+   ],
+   "sources": [
+    "pri-valentinianism",
+    "aca-gnostic-gospels"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教派史料与外部论战文献须区分；2) 教派内部与外部标签差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "瓦伦廷派（Valentinianism）是2世纪由瓦伦廷（Valentinus，约100–160）创立的最重要的诺斯替派别：其神学体系以'流溢'(emanation) 的'移涌'(aeons) 构成为核心——至高父（Bythos）经一系列移涌生出宇宙，其中最低的移涌（Sophia/智慧）的堕落产生了物质世界与造物神（Demiurge）。瓦伦廷派把信徒分为三类（灵性/心理/物质），认为'灵性'者可通过 gnosis 得救。该派在2—4世纪广泛传播，其文本（如《真理福音》）见于拿戈玛第经集，是诺斯替主义研究的关键。",
+   "versions": [
+    "瓦伦廷派（Valentinianism）是2世纪由瓦伦廷（Valentinus，约100–160）创立的最重要的诺斯替派别：其神学体系以'流溢'(emanation) 的'移涌'(aeons) 构成为核心——至高父（Bythos）经一系列移涌生出宇宙，其中最低的移涌（Sophia/智慧）的堕落产生了物质世界与造物神（Demiurge）。瓦伦廷派把信徒分为三类（灵性/心理/物质），认为'灵性'者可通过 gnosis 得救。该派在2—4世纪广泛传播，其文本（如《真理福音》）见于拿戈玛第经集，是诺斯替主义研究的关键。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Valentinus",
+     "school": "创立者",
+     "view": "瓦伦廷的移涌体系是瓦伦廷派的核心。"
+    },
+    {
+     "holder": "Irenaeus",
+     "school": "教父论战",
+     "view": "里昂的爱任纽《驳异端》记录了瓦伦廷派教义（论战视角）。"
+    },
+    {
+     "holder": "Elaine Pagels",
+     "school": "诺斯替研究",
+     "view": "《诺斯替福音》分析了瓦伦廷派文本。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-valentinianism",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>瓦伦廷派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>瓦伦廷派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>移涌</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>aeons流溢</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Sophia</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>智慧堕落</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三类信徒</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>灵性/心理/物质</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>瓦伦廷派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "瓦伦廷派的性质",
+     "views": [
+      {
+       "holder": "诺斯替核心说",
+       "basis": "是诺斯替主义的典型体系。"
+      },
+      {
+       "holder": "基督教异端说",
+       "basis": "是基督教内的异端支派。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "瓦伦廷派是2世纪最重要的诺斯替派别。",
+     "source": "pri-valentinianism"
+    },
+    {
+     "claim": "瓦伦廷派的移涌（aeons）体系是其神学核心。",
+     "source": "pri-valentinianism"
+    }
+   ]
+  },
+  {
+   "id": "rel-bogomil",
+   "title": "鲍格米勒派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "10世纪保加利亚兴起的二元论基督教异端。",
+   "related": [
+    "rel-cathar",
+    "rel-paulicianism",
+    "rel-manichaeism"
+   ],
+   "sources": [
+    "pri-bogomilism",
+    "aca-gnostic-gospels"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教派史料与外部论战文献须区分；2) 教派内部与外部标签差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "鲍格米勒派（Bogomilism）是10世纪在保加利亚兴起的二元论基督教异端（得名于神父 Bogomil）：该派认为世界由恶神（撒旦）所造，善神掌管灵界；基督是善神之子，其肉身只是幻影；他们拒绝教会科层、圣礼、十字架与圣像，主张简朴的灵性生活。鲍格米勒派经巴尔干传播至意大利与南法，被认为是卡特里派（Cathars）的思想源头之一。该派在拜占庭与保加利亚长期受迫害。",
+   "versions": [
+    "鲍格米勒派（Bogomilism）是10世纪在保加利亚兴起的二元论基督教异端（得名于神父 Bogomil）：该派认为世界由恶神（撒旦）所造，善神掌管灵界；基督是善神之子，其肉身只是幻影；他们拒绝教会科层、圣礼、十字架与圣像，主张简朴的灵性生活。鲍格米勒派经巴尔干传播至意大利与南法，被认为是卡特里派（Cathars）的思想源头之一。该派在拜占庭与保加利亚长期受迫害。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Bogomil 神父",
+     "school": "创立者",
+     "view": "10世纪保加利亚的创立者。"
+    },
+    {
+     "holder": "二元论传统",
+     "school": "教义",
+     "view": "善神/恶神的二元论是其核心。"
+    },
+    {
+     "holder": "现代中世纪研究",
+     "school": "宗教史",
+     "view": "强调鲍格米勒派与卡特里派的传播关系。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-bogomilism",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>鲍格米勒派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>鲍格米勒派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>二元论</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>善神/恶神</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拒绝圣礼</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>反教会科层</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>传播</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>影响卡特里派</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鲍格米勒派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "鲍格米勒的起源",
+     "views": [
+      {
+       "holder": "保加利亚起源说",
+       "basis": "10世纪保加利亚兴起。"
+      },
+      {
+       "holder": "更早二元论说",
+       "basis": "可上溯更早的保罗派/摩尼教传统。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "鲍格米勒派是10世纪保加利亚的二元论基督教异端。",
+     "source": "pri-bogomilism"
+    },
+    {
+     "claim": "鲍格米勒派被认为是卡特里派的思想源头之一。",
+     "source": "pri-bogomilism"
+    }
+   ]
+  },
+  {
+   "id": "rel-paulicianism",
+   "title": "保罗派",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "7世纪亚美尼亚—拜占庭的二元论基督教派别。",
+   "related": [
+    "rel-bogomil",
+    "rel-cathar",
+    "rel-manichaeism"
+   ],
+   "sources": [
+    "pri-paulicianism",
+    "aca-gnostic-gospels"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 教派史料与外部论战文献须区分；2) 教派内部与外部标签差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "保罗派（Paulicianism）是7世纪在亚美尼亚与拜占庭边境兴起的二元论基督教派别（得名可能源于对保罗的尊崇）：该派拒绝教会科层、圣礼、十字架与圣像，主张回归使徒时代的简朴信仰，其神学带有二元论色彩（物质世界与恶的关联）。保罗派在拜占庭帝国长期受迫害，部分被迁往巴尔干，被认为对后来的鲍格米勒派与卡特里派有影响。保罗派是研究拜占庭异端与二元论传统的重要案例。",
+   "versions": [
+    "保罗派（Paulicianism）是7世纪在亚美尼亚与拜占庭边境兴起的二元论基督教派别（得名可能源于对保罗的尊崇）：该派拒绝教会科层、圣礼、十字架与圣像，主张回归使徒时代的简朴信仰，其神学带有二元论色彩（物质世界与恶的关联）。保罗派在拜占庭帝国长期受迫害，部分被迁往巴尔干，被认为对后来的鲍格米勒派与卡特里派有影响。保罗派是研究拜占庭异端与二元论传统的重要案例。"
+   ],
+   "interpretations": [
+    {
+     "holder": "保罗派传统",
+     "school": "教派自述",
+     "view": "拒绝圣礼与教会科层，回归使徒信仰。"
+    },
+    {
+     "holder": "拜占庭研究",
+     "school": "宗教史",
+     "view": "保罗派在拜占庭的受迫害与迁移是研究内容。"
+    },
+    {
+     "holder": "现代中世纪研究",
+     "school": "宗教史",
+     "view": "强调保罗派与鲍格米勒/卡特里派的传播链条。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-paulicianism",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>保罗派结构示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>保罗派（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>回归使徒</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>简朴信仰</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>拒绝圣礼</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>反教会</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>二元论</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>物质/恶</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>保罗派要素</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性立场，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "保罗派的性质",
+     "views": [
+      {
+       "holder": "二元论异端说",
+       "basis": "带二元论色彩的异端。"
+      },
+      {
+       "holder": "改革先驱说",
+       "basis": "回归使徒的宗教改革先声。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "保罗派是7世纪亚美尼亚—拜占庭的二元论基督教派别。",
+     "source": "pri-paulicianism"
+    },
+    {
+     "claim": "保罗派被认为对鲍格米勒派与卡特里派有影响。",
+     "source": "pri-paulicianism"
+    }
+   ]
   }
  ]
 }

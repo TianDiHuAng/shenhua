@@ -4640,6 +4640,84 @@
    "link_ok": true,
    "verified": true,
    "note": "厄琉息斯秘仪（Eleusinian Mysteries）是古希腊最重要的秘仪，祭祀得墨忒尔与珀耳塞福涅；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-alawites",
+   "title": "阿拉维派文献（Nusayri 传统）",
+   "author": "佚名（阿拉维派）",
+   "year": null,
+   "year_display": "9世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Alawites",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿拉维派（Alawites/Nusayriyya）是什叶派的一个分支，主要分布于叙利亚；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-shabak",
+   "title": "沙巴克文献（Shabak 传统）",
+   "author": "佚名（沙巴克）",
+   "year": null,
+   "year_display": "口传",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Shabaks",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "沙巴克（Shabak）是伊拉克北部的宗教群体，信仰融合伊斯兰与本地传统；2026-11-23 经 Wikipedia API 实测（Shabak people→Shabaks）。"
+  },
+  {
+   "id": "pri-sethianism",
+   "title": "塞特派文献（拿戈玛第经集）",
+   "author": "佚名（诺斯替派）",
+   "year": null,
+   "year_display": "2–4世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sethianism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "塞特派（Sethianism）是诺斯替主义的重要支系，崇拜塞特为灵性祖先，见于拿戈玛第经集；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-valentinianism",
+   "title": "瓦伦廷派文献（瓦伦廷与诺斯替文本）",
+   "author": "瓦伦廷及其学派",
+   "year": null,
+   "year_display": "2世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Valentinianism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "瓦伦廷派（Valentinianism）是2世纪最重要的诺斯替派别，由瓦伦廷创立；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-bogomilism",
+   "title": "鲍格米勒派文献（Bogomil 传统）",
+   "author": "佚名（鲍格米勒派）",
+   "year": null,
+   "year_display": "10世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Bogomilism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "鲍格米勒派（Bogomilism）是10世纪保加利亚兴起的二元论基督教异端，影响卡特里派；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-paulicianism",
+   "title": "保罗派文献（Paulician 传统）",
+   "author": "佚名（保罗派）",
+   "year": null,
+   "year_display": "7世纪起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Paulicianism",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "保罗派（Paulicianism）是7世纪亚美尼亚—拜占庭的二元论基督教派别；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
