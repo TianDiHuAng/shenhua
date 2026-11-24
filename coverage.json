@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:46:45+08:00",
+  "generated": "2026-11-24T10:51:01+08:00",
   "summary": {
-    "total": 488,
+    "total": 494,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 233
+      "U4": 239
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 374
+      "补充": 380
     },
     "by_level": {
       "L1": 0,
-      "L2": 374,
+      "L2": 380,
       "L3": 114
     },
-    "l2_done": 488,
+    "l2_done": 494,
     "l3_done": 114,
-    "verified_sources": 371
+    "verified_sources": 377
   },
   "entries": [
     {
@@ -5383,6 +5383,72 @@
     {
       "id": "fig-takemikazuchi",
       "name": "建御雷",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-yao",
+      "name": "尧",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-shun",
+      "name": "舜",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-yu",
+      "name": "大禹",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-xingtian",
+      "name": "刑天",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-jingwei",
+      "name": "精卫",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-gonggong",
+      "name": "共工",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

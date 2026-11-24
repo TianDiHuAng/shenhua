@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 374,
-    "total": 488,
+    "supplement_l2": 380,
+    "total": 494,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/488）；补充层 374 条 L2；来源 417 条"
+    "verdict": "核心与重要层 100% L3（114/494）；补充层 380 条 L2；来源 423 条"
   },
   "round_log": [
     {
@@ -1176,6 +1176,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次56：新增6日本神话人物（大国主/琼琼杵尊/木花咲耶姬/丰玉姬/日本武尊/建御雷）U4达233；6来源核验；修复okuninushi引用；488条0 errors",
       "verdict": "正常扩充（批次56，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-99",
+      "date": "2026-11-24",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次57：新增6中国上古帝王/神话（尧/舜/大禹/刑天/精卫/共工）U4达239；6来源核验；494条0 errors",
+      "verdict": "正常扩充（批次57，6条）"
     }
   ]
 }

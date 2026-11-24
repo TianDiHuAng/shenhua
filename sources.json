@@ -5420,6 +5420,84 @@
    "link_ok": true,
    "verified": true,
    "note": "建御雷（Takemikazuchi）是日本神话的雷与剑之神，'国让'（让国）的武力执行者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yao",
+   "title": "尧文献（《史记·五帝本纪》）",
+   "author": "司马迁等",
+   "year": null,
+   "year_display": "汉代起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Emperor_Yao",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "尧是中国传说中的上古圣王，五帝之一；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-shun",
+   "title": "舜文献（《史记·五帝本纪》）",
+   "author": "司马迁等",
+   "year": null,
+   "year_display": "汉代起",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Emperor_Shun",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "舜是中国传说中的上古圣王，以孝与禅让著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-yu",
+   "title": "大禹文献（《史记》与《山海经》）",
+   "author": "佚名（中国）/司马迁等",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Yu_the_Great",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "大禹是中国传说中治水的圣王，夏朝的奠基者；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-xingtian",
+   "title": "刑天文献（《山海经》）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Xingtian",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "刑天是中国神话中与天帝争神、被断首仍以乳为目脐为口的战神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-jingwei",
+   "title": "精卫文献（《山海经·北山经》）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Jingwei",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "精卫是中国神话中衔石填海的鸟，炎帝之女溺亡所化；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-gonggong",
+   "title": "共工文献（《山海经》等）",
+   "author": "佚名（中国）",
+   "year": null,
+   "year_display": "古代",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Gonggong",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "共工是中国神话中怒触不周山、导致天倾地陷的水神；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

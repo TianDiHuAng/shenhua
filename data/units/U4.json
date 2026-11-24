@@ -18312,6 +18312,456 @@
      "source": "pri-takemikazuchi"
     }
    ]
+  },
+  {
+   "id": "fig-yao",
+   "title": "尧",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国传说中的上古圣王，五帝之一。",
+   "related": [
+    "myth-chinese",
+    "fig-shun",
+    "rel-confucianism"
+   ],
+   "sources": [
+    "pri-yao",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国上古材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "尧（Emperor Yao）是中国传说中的上古圣王，五帝之一：传统叙事中他以仁德治国、命羲和观测天象制定历法、命鲧治水（失败），晚年不传位于子而'禅让'给贤能的舜，成为儒家'禅让'与'德治'理想的典范。尧的叙事体现了中国上古'圣王'传统与天命观，其历史性与神话性在学界有讨论。",
+   "versions": [
+    "尧（Emperor Yao）是中国传说中的上古圣王，五帝之一：传统叙事中他以仁德治国、命羲和观测天象制定历法、命鲧治水（失败），晚年不传位于子而'禅让'给贤能的舜，成为儒家'禅让'与'德治'理想的典范。尧的叙事体现了中国上古'圣王'传统与天命观，其历史性与神话性在学界有讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "司马迁",
+     "school": "史家",
+     "view": "《史记·五帝本纪》把尧列为圣王。"
+    },
+    {
+     "holder": "儒家传统",
+     "school": "思想",
+     "view": "尧舜禅让是儒家德治理想的典范。"
+    },
+    {
+     "holder": "现代史学",
+     "school": "疑古与现代研究",
+     "view": "尧的历史性与神话建构是讨论议题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yao",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>尧形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>尧（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣王</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>五帝之一</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>禅让</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>传舜</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>历法</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>命羲和</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尧要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "尧的历史性",
+     "views": [
+      {
+       "holder": "历史帝王说",
+       "basis": "基于上古部落联盟首领。"
+      },
+      {
+       "holder": "神话建构说",
+       "basis": "主要是后世德治理想的投射。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "尧是中国传说中的上古圣王，五帝之一。",
+     "source": "pri-yao"
+    },
+    {
+     "claim": "尧禅让给舜是儒家德治理想的典范。",
+     "source": "pri-yao"
+    }
+   ]
+  },
+  {
+   "id": "fig-shun",
+   "title": "舜",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国传说中的上古圣王，以孝与禅让著称。",
+   "related": [
+    "myth-chinese",
+    "fig-yao",
+    "fig-yu"
+   ],
+   "sources": [
+    "pri-shun",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国上古材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "舜（Emperor Shun）是中国传说中的上古圣王，五帝之一：传统叙事中他以孝行著称（虽父顽母嚚弟傲仍尽孝），受尧的考验与禅让而继位，命禹治水成功，晚年禅让给禹。舜是儒家'孝'与'德治'的核心典范，其叙事（尤其'二十四孝'首孝）深刻影响了中国的伦理文化。舜的历史性与神话性在学界有讨论。",
+   "versions": [
+    "舜（Emperor Shun）是中国传说中的上古圣王，五帝之一：传统叙事中他以孝行著称（虽父顽母嚚弟傲仍尽孝），受尧的考验与禅让而继位，命禹治水成功，晚年禅让给禹。舜是儒家'孝'与'德治'的核心典范，其叙事（尤其'二十四孝'首孝）深刻影响了中国的伦理文化。舜的历史性与神话性在学界有讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "司马迁",
+     "school": "史家",
+     "view": "《史记·五帝本纪》把舜列为圣王。"
+    },
+    {
+     "holder": "儒家传统",
+     "school": "思想",
+     "view": "舜的孝行是儒家伦理典范。"
+    },
+    {
+     "holder": "现代史学",
+     "school": "研究",
+     "view": "舜的历史性与神话建构是讨论议题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-shun",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>舜形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>舜（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孝行</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>二十四孝首</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>禅让</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>受尧传禹</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>德治</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>圣王典范</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>舜要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "舜的历史性",
+     "views": [
+      {
+       "holder": "历史帝王说",
+       "basis": "基于上古部落联盟首领。"
+      },
+      {
+       "holder": "神话建构说",
+       "basis": "后世伦理理想的投射。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "舜是中国传说中的上古圣王，以孝行著称。",
+     "source": "pri-shun"
+    },
+    {
+     "claim": "舜受尧禅让而继位，又禅让给禹。",
+     "source": "pri-shun"
+    }
+   ]
+  },
+  {
+   "id": "fig-yu",
+   "title": "大禹",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国传说中治水的圣王，夏朝的奠基者。",
+   "related": [
+    "myth-chinese",
+    "fig-shun",
+    "myth-chinese"
+   ],
+   "sources": [
+    "pri-yu",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国上古材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "大禹（Yu the Great）是中国传说中的治水英雄与圣王，夏朝的奠基者：其父鲧治水失败（以堵为主），禹改用疏导之法，'三过家门而不入'，历经十三年平息洪水，受舜禅让而成为君主，建立夏朝（传位于子启，开'家天下'之始）。大禹治水是中国最著名的神话—历史叙事之一，象征勤勉、智慧与公而忘私的精神，其历史性与神话性在学界有讨论。",
+   "versions": [
+    "大禹（Yu the Great）是中国传说中的治水英雄与圣王，夏朝的奠基者：其父鲧治水失败（以堵为主），禹改用疏导之法，'三过家门而不入'，历经十三年平息洪水，受舜禅让而成为君主，建立夏朝（传位于子启，开'家天下'之始）。大禹治水是中国最著名的神话—历史叙事之一，象征勤勉、智慧与公而忘私的精神，其历史性与神话性在学界有讨论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《史记》/《山海经》",
+     "school": "文献",
+     "view": "记载大禹治水的叙事。"
+    },
+    {
+     "holder": "儒家传统",
+     "school": "思想",
+     "view": "大禹是圣王与勤政的典范。"
+    },
+    {
+     "holder": "现代史学",
+     "school": "研究",
+     "view": "大禹的历史性与神话建构是讨论议题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-yu",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>大禹形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>大禹（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>治水</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>疏导之法</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三过家门不入</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>公而忘私</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>夏朝奠基</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>家天下</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>大禹要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "大禹的历史性",
+     "views": [
+      {
+       "holder": "历史人物说",
+       "basis": "可能基于夏代治水的历史记忆。"
+      },
+      {
+       "holder": "神话建构说",
+       "basis": "治水叙事是后世的政治—伦理建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "大禹是中国传说中治水的圣王，夏朝的奠基者。",
+     "source": "pri-yu"
+    },
+    {
+     "claim": "'三过家门而不入'是大禹公而忘私的著名典故。",
+     "source": "pri-yu"
+    }
+   ]
+  },
+  {
+   "id": "fig-xingtian",
+   "title": "刑天",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国神话中与天帝争神、断首仍战的战神。",
+   "related": [
+    "myth-chinese",
+    "fig-chiyou",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-xingtian",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国上古材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "刑天（Xingtian）是中国神话中的战神：据《山海经·海外西经》，他与天帝争斗，被断首葬于常羊之山，但他'以乳为目，以脐为口'，继续挥舞干戚（盾与斧）战斗不息。刑天象征不屈不挠、虽死不屈的抗争精神，是中国神话中最具悲壮色彩的意象之一。陶渊明'刑天舞干戚，猛志固常在'的诗句使其广为传诵，成为中国文化中'反抗精神'的象征。",
+   "versions": [
+    "刑天（Xingtian）是中国神话中的战神：据《山海经·海外西经》，他与天帝争斗，被断首葬于常羊之山，但他'以乳为目，以脐为口'，继续挥舞干戚（盾与斧）战斗不息。刑天象征不屈不挠、虽死不屈的抗争精神，是中国神话中最具悲壮色彩的意象之一。陶渊明'刑天舞干戚，猛志固常在'的诗句使其广为传诵，成为中国文化中'反抗精神'的象征。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《山海经》",
+     "school": "文献",
+     "view": "《海外西经》记载刑天断首仍战。"
+    },
+    {
+     "holder": "陶渊明",
+     "school": "文学",
+     "view": "'刑天舞干戚'诗句使其广传。"
+    },
+    {
+     "holder": "现代研究",
+     "school": "神话学",
+     "view": "刑天的象征意义有多种解读。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-xingtian",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>刑天形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>刑天（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>断首仍战</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>以乳为目</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>干戚</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>盾斧</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>抗争精神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不屈</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>刑天要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "刑天的意义",
+     "views": [
+      {
+       "holder": "抗争精神说",
+       "basis": "象征虽死不屈的反抗。"
+      },
+      {
+       "holder": "悲剧英雄说",
+       "basis": "与天帝争权的悲剧形象。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "刑天是中国神话中与天帝争神、断首仍战的战神。",
+     "source": "pri-xingtian"
+    },
+    {
+     "claim": "'刑天舞干戚，猛志固常在'是陶渊明咏刑天的名句。",
+     "source": "pri-xingtian"
+    }
+   ]
+  },
+  {
+   "id": "fig-jingwei",
+   "title": "精卫",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国神话中衔石填海的鸟，炎帝之女溺亡所化。",
+   "related": [
+    "myth-chinese",
+    "fig-yandi",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-jingwei",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国上古材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "精卫（Jingwei）是中国神话中的鸟：据《山海经·北山经》，炎帝之女女娃游东海溺亡，化为精卫鸟，'常衔西山之木石，以堙于东海'——以微小之身立志填平大海，象征坚韧不拔、矢志不移的精神。'精卫填海'与'愚公移山'并称，是中国文化中表达'明知不可为而为之'的坚韧意志的经典典故，常被用于激励与文学创作。",
+   "versions": [
+    "精卫（Jingwei）是中国神话中的鸟：据《山海经·北山经》，炎帝之女女娃游东海溺亡，化为精卫鸟，'常衔西山之木石，以堙于东海'——以微小之身立志填平大海，象征坚韧不拔、矢志不移的精神。'精卫填海'与'愚公移山'并称，是中国文化中表达'明知不可为而为之'的坚韧意志的经典典故，常被用于激励与文学创作。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《山海经》",
+     "school": "文献",
+     "view": "《北山经》记载精卫填海。"
+    },
+    {
+     "holder": "文学传统",
+     "school": "文化",
+     "view": "精卫填海是著名的坚韧典故。"
+    },
+    {
+     "holder": "现代研究",
+     "school": "神话学",
+     "view": "精卫象征意义的解读。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-jingwei",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>精卫形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>精卫（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>炎帝之女</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>女娃溺亡</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>衔石填海</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>坚韧不拔</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>精卫填海</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>典故</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>精卫要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "精卫的意义",
+     "views": [
+      {
+       "holder": "坚韧意志说",
+       "basis": "象征矢志不移的精神。"
+      },
+      {
+       "holder": "悲剧抗争说",
+       "basis": "明知不可为而为之的悲壮。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "精卫是中国神话中衔石填海的鸟，炎帝之女溺亡所化。",
+     "source": "pri-jingwei"
+    },
+    {
+     "claim": "'精卫填海'象征坚韧不拔、矢志不移的精神。",
+     "source": "pri-jingwei"
+    }
+   ]
+  },
+  {
+   "id": "fig-gonggong",
+   "title": "共工",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "中国神话中怒触不周山的水神。",
+   "related": [
+    "myth-chinese",
+    "myth-chinese",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-gonggong",
+    "pri-shan-hai-jing",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 中国上古材料多经汉代以降典籍整理，史实性与神话性须区分；2) 各典籍版本差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "共工（Gonggong）是中国神话中的水神（或部落首领）：最著名的叙事是他与颛顼（或祝融）争帝失败，怒触不周山，撞折天柱，导致'天倾西北，地不满东南'——天向西北倾斜（故日月星辰西移）、地向东南塌陷（故江河东流）。共工怒触不周山是中国创世—宇宙论神话的核心叙事，解释了自然地理的格局，也象征抗争与破坏的力量。共工的形象在不同典籍中有正邪不同的评价。",
+   "versions": [
+    "共工（Gonggong）是中国神话中的水神（或部落首领）：最著名的叙事是他与颛顼（或祝融）争帝失败，怒触不周山，撞折天柱，导致'天倾西北，地不满东南'——天向西北倾斜（故日月星辰西移）、地向东南塌陷（故江河东流）。共工怒触不周山是中国创世—宇宙论神话的核心叙事，解释了自然地理的格局，也象征抗争与破坏的力量。共工的形象在不同典籍中有正邪不同的评价。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《山海经》/《淮南子》",
+     "school": "文献",
+     "view": "记载共工怒触不周山。"
+    },
+    {
+     "holder": "现代研究",
+     "school": "神话学",
+     "view": "共工叙事的宇宙论意义。"
+    },
+    {
+     "holder": "比较神话学",
+     "school": "宗教学",
+     "view": "天柱崩塌母题可作跨文化比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-gonggong",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>共工形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>共工（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>水神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>争帝</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>怒触不周山</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天柱折</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天倾地陷</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙论</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>共工要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经典籍记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "共工的形象",
+     "views": [
+      {
+       "holder": "叛逆者说",
+       "basis": "与颛顼争帝的叛逆者。"
+      },
+      {
+       "holder": "自然神说",
+       "basis": "象征洪水与自然力量。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "共工是中国神话中怒触不周山的水神。",
+     "source": "pri-gonggong"
+    },
+    {
+     "claim": "共工怒触不周山导致'天倾西北，地不满东南'的宇宙论叙事。",
+     "source": "pri-gonggong"
+    }
+   ]
   }
  ]
 }
