@@ -24158,6 +24158,456 @@
      "source": "pri-eight-immortals"
     }
    ]
+  },
+  {
+   "id": "fig-rhea",
+   "title": "瑞亚",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊的泰坦女神，克洛诺斯之妻，奥林匹斯诸神之母。",
+   "related": [
+    "myth-greek",
+    "fig-cronus",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-rhea",
+    "pri-theogony",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 希腊神话的谱系与版本多样（赫西俄德、荷马、阿波罗多洛斯等差异）；2) 泰坦神格与后世改造须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "瑞亚（Rhea）是希腊神话的泰坦女神，克洛诺斯（Cronus）之妻，奥林匹斯诸神之母：她与克洛诺斯生下赫斯提亚、得墨忒尔、赫拉、哈迪斯、波塞冬与宙斯——因克洛诺斯吞食子女，瑞亚以襁褓裹石骗过克洛诺斯、保全了宙斯，后者长大后推翻克洛诺斯。瑞亚是'大母神'（Mother Goddess）型的泰坦女神，与小亚细亚的库柏勒（Cybele）崇拜有融合（希腊—弗里吉亚的宗教交流）。瑞亚象征母性、生育与泰坦时代的神圣母权。",
+   "versions": [
+    "瑞亚（Rhea）是希腊神话的泰坦女神，克洛诺斯（Cronus）之妻，奥林匹斯诸神之母：她与克洛诺斯生下赫斯提亚、得墨忒尔、赫拉、哈迪斯、波塞冬与宙斯——因克洛诺斯吞食子女，瑞亚以襁褓裹石骗过克洛诺斯、保全了宙斯，后者长大后推翻克洛诺斯。瑞亚是'大母神'（Mother Goddess）型的泰坦女神，与小亚细亚的库柏勒（Cybele）崇拜有融合（希腊—弗里吉亚的宗教交流）。瑞亚象征母性、生育与泰坦时代的神圣母权。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Hesiod",
+     "school": "《神谱》",
+     "view": "瑞亚保全宙斯、诸神谱系的核心文本。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "瑞亚与库柏勒的融合。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "大母神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-rhea",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>瑞亚示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>瑞亚（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>泰坦女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>克洛诺斯之妻</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奥林匹斯诸神之母</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>保全宙斯</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>库柏勒融合</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大母神</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>瑞亚要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "瑞亚的身份",
+     "views": [
+      {
+       "holder": "泰坦母神说",
+       "basis": "奥林匹斯诸神的母亲。"
+      },
+      {
+       "holder": "大母神/库柏勒说",
+       "basis": "与小亚细亚大母神融合。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "瑞亚是希腊的泰坦女神，克洛诺斯之妻，奥林匹斯诸神之母。",
+     "source": "pri-rhea"
+    },
+    {
+     "claim": "瑞亚以襁褓裹石保全宙斯，后者推翻克洛诺斯。",
+     "source": "pri-rhea"
+    }
+   ]
+  },
+  {
+   "id": "fig-oceanus",
+   "title": "俄刻阿诺斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊的泰坦，环绕世界的大洋河之神。",
+   "related": [
+    "myth-greek",
+    "fig-cronus",
+    "motif-water"
+   ],
+   "sources": [
+    "pri-oceanus",
+    "pri-theogony",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 希腊神话的谱系与版本多样（赫西俄德、荷马、阿波罗多洛斯等差异）；2) 泰坦神格与后世改造须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "俄刻阿诺斯（Oceanus）是希腊神话的泰坦，环绕世界的大洋河（Okeanos）的拟人化：他是乌拉诺斯与盖亚之子，与妹妹忒提斯（Tethys）结合生下三千河神与三千大洋神女（Oceanids）。在古希腊宇宙观中，俄刻阿诺斯是环绕大陆的'世界之河'，太阳（赫利俄斯）每日由此升起落下。俄刻阿诺斯是泰坦中少数未参与对抗宙斯者，因此在泰坦之战后仍保有地位。'Ocean'一词即源于其名。",
+   "versions": [
+    "俄刻阿诺斯（Oceanus）是希腊神话的泰坦，环绕世界的大洋河（Okeanos）的拟人化：他是乌拉诺斯与盖亚之子，与妹妹忒提斯（Tethys）结合生下三千河神与三千大洋神女（Oceanids）。在古希腊宇宙观中，俄刻阿诺斯是环绕大陆的'世界之河'，太阳（赫利俄斯）每日由此升起落下。俄刻阿诺斯是泰坦中少数未参与对抗宙斯者，因此在泰坦之战后仍保有地位。'Ocean'一词即源于其名。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Hesiod",
+     "school": "《神谱》",
+     "view": "俄刻阿诺斯作为世界之河的神谱地位。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "世界之河的宇宙观。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "水与宇宙边界可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-oceanus",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>俄刻阿诺斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>俄刻阿诺斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>泰坦</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>世界之河Okeanos</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>三千河神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>与忒提斯</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>未反宙斯</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>保有地位</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>俄刻阿诺斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "俄刻阿诺斯的地位",
+     "views": [
+      {
+       "holder": "世界之河神说",
+       "basis": "环绕大陆的大洋河拟人化。"
+      },
+      {
+       "holder": "泰坦幸存者说",
+       "basis": "未反宙斯故泰坦之战后仍存。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "俄刻阿诺斯是希腊的泰坦，环绕世界的大洋河之神。",
+     "source": "pri-oceanus"
+    },
+    {
+     "claim": "'Ocean'一词源于俄刻阿诺斯（Okeanos）。",
+     "source": "pri-oceanus"
+    }
+   ]
+  },
+  {
+   "id": "fig-hyperion",
+   "title": "许佩里翁",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊的泰坦，光明与天界之高神。",
+   "related": [
+    "myth-greek",
+    "fig-cronus",
+    "motif-sun"
+   ],
+   "sources": [
+    "pri-hyperion",
+    "pri-theogony",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 希腊神话的谱系与版本多样（赫西俄德、荷马、阿波罗多洛斯等差异）；2) 泰坦神格与后世改造须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "许佩里翁（Hyperion）是希腊神话的泰坦，光明、天界之高与观察之神：他是乌拉诺斯与盖亚之子，与妹妹忒亚（Theia）结合生下太阳（赫利俄斯 Helios）、月亮（塞勒涅 Selene）与黎明（厄俄斯 Eos）。'Hyperion'意为'高处的行者'，象征天上之光的高远。在后世（尤其英国浪漫主义，如济慈《许佩里翁》）中，许佩里翁成为'光明/诗'的象征。许佩里翁是希腊天体神谱系（日/月/黎明之父）的核心泰坦。",
+   "versions": [
+    "许佩里翁（Hyperion）是希腊神话的泰坦，光明、天界之高与观察之神：他是乌拉诺斯与盖亚之子，与妹妹忒亚（Theia）结合生下太阳（赫利俄斯 Helios）、月亮（塞勒涅 Selene）与黎明（厄俄斯 Eos）。'Hyperion'意为'高处的行者'，象征天上之光的高远。在后世（尤其英国浪漫主义，如济慈《许佩里翁》）中，许佩里翁成为'光明/诗'的象征。许佩里翁是希腊天体神谱系（日/月/黎明之父）的核心泰坦。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Hesiod",
+     "school": "《神谱》",
+     "view": "许佩里翁作为日/月/黎明之父的谱系。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "光明泰坦的宇宙论地位。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "天体神与光明可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hyperion",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>许佩里翁示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>许佩里翁（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>光明泰坦</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天界之高</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>日/月/黎明之父</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>赫利俄斯/塞勒涅/厄俄斯</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Hyperion</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>高处行者</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>许佩里翁要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "许佩里翁的地位",
+     "views": [
+      {
+       "holder": "光明泰坦说",
+       "basis": "象征天上之光。"
+      },
+      {
+       "holder": "天体始祖说",
+       "basis": "日、月、黎明的父亲。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "许佩里翁是希腊的泰坦，光明与天界之高神。",
+     "source": "pri-hyperion"
+    },
+    {
+     "claim": "许佩里翁与忒亚生下太阳、月亮与黎明。",
+     "source": "pri-hyperion"
+    }
+   ]
+  },
+  {
+   "id": "fig-themis",
+   "title": "忒弥斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊的泰坦女神，神圣秩序、法律与正义之神。",
+   "related": [
+    "myth-greek",
+    "fig-cronus",
+    "motif-sacrifice"
+   ],
+   "sources": [
+    "pri-themis",
+    "pri-theogony",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 希腊神话的谱系与版本多样（赫西俄德、荷马、阿波罗多洛斯等差异）；2) 泰坦神格与后世改造须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "忒弥斯（Themis）是希腊神话的泰坦女神，神圣秩序、法律、正义与神谕之神：她是乌拉诺斯与盖亚之女，与宙斯结合生下时序三女神（Horae）与命运三女神（Moirai）；她常伴宙斯左右，是其法律与秩序的顾问。忒弥斯象征'神定的秩序'（themistes，神授的律法）与公正的审判，其形象（持天平与剑、蒙眼）后成为西方'正义女神'（Lady Justice）的原型（与罗马的 Justitia 融合）。忒弥斯是希腊'神圣法律'概念的人格化。",
+   "versions": [
+    "忒弥斯（Themis）是希腊神话的泰坦女神，神圣秩序、法律、正义与神谕之神：她是乌拉诺斯与盖亚之女，与宙斯结合生下时序三女神（Horae）与命运三女神（Moirai）；她常伴宙斯左右，是其法律与秩序的顾问。忒弥斯象征'神定的秩序'（themistes，神授的律法）与公正的审判，其形象（持天平与剑、蒙眼）后成为西方'正义女神'（Lady Justice）的原型（与罗马的 Justitia 融合）。忒弥斯是希腊'神圣法律'概念的人格化。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Hesiod",
+     "school": "《神谱》",
+     "view": "忒弥斯作为宙斯顾问与秩序女神。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "忒弥斯与'神定律法'概念。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "秩序与正义之神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-themis",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>忒弥斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>忒弥斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>神圣秩序</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>themistes</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宙斯顾问</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>法律与秩序</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>正义女神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Lady Justice原型</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>忒弥斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "忒弥斯的职能",
+     "views": [
+      {
+       "holder": "神圣秩序神说",
+       "basis": "神定律法与公正审判。"
+      },
+      {
+       "holder": "正义女神原型说",
+       "basis": "后世Lady Justice的原型。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "忒弥斯是希腊的泰坦女神，神圣秩序、法律与正义之神。",
+     "source": "pri-themis"
+    },
+    {
+     "claim": "忒弥斯是后世西方'正义女神'（Lady Justice）形象的原型。",
+     "source": "pri-themis"
+    }
+   ]
+  },
+  {
+   "id": "fig-atlas",
+   "title": "阿特拉斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊的泰坦，被罚扛举天穹。",
+   "related": [
+    "myth-greek",
+    "fig-prometheus",
+    "motif-axis-mundi"
+   ],
+   "sources": [
+    "pri-atlas",
+    "pri-theogony",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 希腊神话的谱系与版本多样（赫西俄德、荷马、阿波罗多洛斯等差异）；2) 泰坦神格与后世改造须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "阿特拉斯（Atlas）是希腊神话的泰坦，伊阿珀托斯（Iapetus）之子、普罗米修斯之弟：在泰坦之战中站在泰坦一方对抗宙斯，战败后被罚永久扛举天穹（uranos）于双肩——这是'阿特拉斯扛天'的著名形象。阿特拉斯也与'阿特拉斯之柱'（直布罗陀海峡一带）以及'阿特兰蒂斯'（Atlantis）传说相关。后世地理学以'Atlas'命名地图集（因阿特拉斯山的传说）。阿特拉斯象征坚韧的承受与泰坦的受罚。",
+   "versions": [
+    "阿特拉斯（Atlas）是希腊神话的泰坦，伊阿珀托斯（Iapetus）之子、普罗米修斯之弟：在泰坦之战中站在泰坦一方对抗宙斯，战败后被罚永久扛举天穹（uranos）于双肩——这是'阿特拉斯扛天'的著名形象。阿特拉斯也与'阿特拉斯之柱'（直布罗陀海峡一带）以及'阿特兰蒂斯'（Atlantis）传说相关。后世地理学以'Atlas'命名地图集（因阿特拉斯山的传说）。阿特拉斯象征坚韧的承受与泰坦的受罚。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Hesiod",
+     "school": "《神谱》",
+     "view": "阿特拉斯扛天的起源（泰坦之战）。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "扛天巨人与宇宙论。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "宇宙之柱与轴心可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-atlas",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>阿特拉斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>阿特拉斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>扛举天穹</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>泰坦之战受罚</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>普罗米修斯之弟</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伊阿珀托斯之子</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Atlas</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>地图集得名</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>阿特拉斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "阿特拉斯的形象",
+     "views": [
+      {
+       "holder": "受罚泰坦说",
+       "basis": "战败后被罚扛天。"
+      },
+      {
+       "holder": "宇宙之柱说",
+       "basis": "象征支撑天地的轴心。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "阿特拉斯是希腊的泰坦，被罚永久扛举天穹。",
+     "source": "pri-atlas"
+    },
+    {
+     "claim": "'Atlas'（地图集）之名源于阿特拉斯扛天的传说。",
+     "source": "pri-atlas"
+    }
+   ]
+  },
+  {
+   "id": "fig-epimetheus",
+   "title": "厄庇米修斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "希腊的泰坦，普罗米修斯之弟，潘多拉之夫。",
+   "related": [
+    "myth-greek",
+    "fig-prometheus",
+    "motif-first-man"
+   ],
+   "sources": [
+    "pri-epimetheus",
+    "pri-atlas",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 希腊神话的谱系与版本多样（赫西俄德、荷马、阿波罗多洛斯等差异）；2) 泰坦神格与后世改造须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "厄庇米修斯（Epimetheus，'后知后觉者'）是希腊神话的泰坦，普罗米修斯（Prometheus，'先知先觉者'）之弟：与兄长的'先见'相反，厄庇米修斯象征'事后才想'的鲁莽。他接受了宙斯送的潘多拉（Pandora）为妻——尽管兄长警告他不接受宙斯的礼物——潘多拉打开盒子（pithos）释放了人间的灾祸。厄庇米修斯是'潘多拉神话'的关键人物，与普罗米修斯构成'先知—后知'的对照，象征人类因鲁莽而承受的苦难。",
+   "versions": [
+    "厄庇米修斯（Epimetheus，'后知后觉者'）是希腊神话的泰坦，普罗米修斯（Prometheus，'先知先觉者'）之弟：与兄长的'先见'相反，厄庇米修斯象征'事后才想'的鲁莽。他接受了宙斯送的潘多拉（Pandora）为妻——尽管兄长警告他不接受宙斯的礼物——潘多拉打开盒子（pithos）释放了人间的灾祸。厄庇米修斯是'潘多拉神话'的关键人物，与普罗米修斯构成'先知—后知'的对照，象征人类因鲁莽而承受的苦难。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Hesiod",
+     "school": "《工作与时日》《神谱》",
+     "view": "厄庇米修斯接受潘多拉是核心叙事。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "普罗米修斯—厄庇米修斯对照。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "灾祸起源母题可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-epimetheus",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>厄庇米修斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>厄庇米修斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>后知后觉</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Epimetheus</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>潘多拉之夫</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>接受礼物</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与兄长对照</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>先知—后知</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>厄庇米修斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性记录，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "厄庇米修斯的象征",
+     "views": [
+      {
+       "holder": "鲁莽人物说",
+       "basis": "象征事后才想的鲁莽。"
+      },
+      {
+       "holder": "潘多拉神话角色说",
+       "basis": "因接受潘多拉而引入人间灾祸。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "厄庇米修斯是希腊的泰坦，普罗米修斯之弟，潘多拉之夫。",
+     "source": "pri-epimetheus"
+    },
+    {
+     "claim": "厄庇米修斯接受潘多拉，象征'后知后觉'的鲁莽与人间灾祸的起源。",
+     "source": "pri-epimetheus"
+    }
+   ]
   }
  ]
 }

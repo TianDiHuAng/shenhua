@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 458,
-    "total": 572,
+    "supplement_l2": 464,
+    "total": 578,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/572）；补充层 458 条 L2；来源 501 条"
+    "verdict": "核心与重要层 100% L3（114/578）；补充层 464 条 L2；来源 507 条"
   },
   "round_log": [
     {
@@ -1349,6 +1349,18 @@
       "new_gaps_found": 6,
       "gap_detail": "体检F：572条全通过；批次70：新增6中国民间神祇（观音/财神/土地公/钟馗/雷公/八仙）U4达311；6来源核验；572条0 errors",
       "verdict": "正常扩充（批次70，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-113",
+      "date": "2026-11-24",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次71：新增6希腊泰坦（瑞亚/俄刻阿诺斯/许佩里翁/忒弥斯/阿特拉斯/厄庇米修斯）U4达317；6来源核验；修pri-cronus→pri-theogony、fig-tethys引用；578条0 errors",
+      "verdict": "正常扩充（批次71，6条）"
     }
   ]
 }

@@ -6512,6 +6512,84 @@
    "link_ok": true,
    "verified": true,
    "note": "八仙（Eight Immortals）是中国道教与民间信仰的八位仙人（铁拐李、汉钟离、张果老、吕洞宾、何仙姑、蓝采和、韩湘子、曹国舅）；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-rhea",
+   "title": "瑞亚文献（赫西俄德《神谱》）",
+   "author": "Hesiod 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Rhea_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "瑞亚（Rhea）是希腊的泰坦女神，克洛诺斯之妻，奥林匹斯诸神之母；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-oceanus",
+   "title": "俄刻阿诺斯文献（《神谱》）",
+   "author": "Hesiod 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Oceanus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "俄刻阿诺斯（Oceanus）是希腊的泰坦，环绕世界的大洋河之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-hyperion",
+   "title": "许佩里翁文献（《神谱》）",
+   "author": "Hesiod 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hyperion_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "许佩里翁（Hyperion）是希腊的泰坦，光明与天界之高神，日/月/黎明之父；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-themis",
+   "title": "忒弥斯文献（《神谱》）",
+   "author": "Hesiod 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Themis",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "忒弥斯（Themis）是希腊的泰坦女神，神圣秩序、法律与正义之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-atlas",
+   "title": "阿特拉斯文献（希腊神话）",
+   "author": "Hesiod 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Atlas_(mythology)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "阿特拉斯（Atlas）是希腊的泰坦，被罚扛举天穹；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-epimetheus",
+   "title": "厄庇米修斯文献（希腊神话）",
+   "author": "Hesiod 等",
+   "year": null,
+   "year_display": "古风—古典时期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Epimetheus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "厄庇米修斯（Epimetheus）是希腊的泰坦，普罗米修斯之弟，潘多拉之夫；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
