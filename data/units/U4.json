@@ -21909,6 +21909,455 @@
      "source": "pri-xochiquetzal"
     }
    ]
+  },
+  {
+   "id": "fig-itzamna",
+   "title": "伊察姆纳",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "玛雅的最高神之一，天空、智慧、书写与历法之神。",
+   "related": [
+    "fig-ixchel",
+    "myth-maya"
+   ],
+   "sources": [
+    "pri-itzamna",
+    "pri-popol-vuh",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 玛雅神祇材料多经象形文字释读与殖民期抄本（如《波波尔·乌》），释读与年代有学术争论；2) 神格在古典期与后古典期的演变须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "伊察姆纳（Itzamna）是玛雅万神殿的最高神之一，天空、智慧、书写、历法与医药之神：他是创世神之一，被视为祭司与书吏的守护者，其形象常为年老的神祇（'伊察姆纳·卡维尔'，Itzamna Kauil）。伊察姆纳与妻子伊希切尔（Ixchel）构成重要的神祇配偶。在尤卡坦的殖民期文献（如《奇兰·巴兰书》）中，伊察姆纳被描述为至高神与文化的赐予者。其名可能与'蜥蜴/房屋'（itzam）相关，象征宇宙的结构。",
+   "versions": [
+    "伊察姆纳（Itzamna）是玛雅万神殿的最高神之一，天空、智慧、书写、历法与医药之神：他是创世神之一，被视为祭司与书吏的守护者，其形象常为年老的神祇（'伊察姆纳·卡维尔'，Itzamna Kauil）。伊察姆纳与妻子伊希切尔（Ixchel）构成重要的神祇配偶。在尤卡坦的殖民期文献（如《奇兰·巴兰书》）中，伊察姆纳被描述为至高神与文化的赐予者。其名可能与'蜥蜴/房屋'（itzam）相关，象征宇宙的结构。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Diego de Landa",
+     "school": "殖民期史料",
+     "view": "《尤卡坦纪事》记录伊察姆纳的崇拜。"
+    },
+    {
+     "holder": "现代玛雅学",
+     "school": "学术",
+     "view": "伊察姆纳的至高神地位与释读。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "智慧/书写神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-itzamna",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊察姆纳形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊察姆纳（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>至高神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天空智慧</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>书写历法</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>祭司守护</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊希切尔之夫</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神祇配偶</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊察姆纳要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经殖民期抄本，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "伊察姆纳的地位",
+     "views": [
+      {
+       "holder": "至高创世神说",
+       "basis": "玛雅的至高神与创世者。"
+      },
+      {
+       "holder": "文化赐予神说",
+       "basis": "书写、历法与文明的赐予者。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊察姆纳是玛雅的最高神之一，掌管天空、智慧、书写与历法。",
+     "source": "pri-itzamna"
+    },
+    {
+     "claim": "伊察姆纳与伊希切尔构成重要的神祇配偶。",
+     "source": "pri-itzamna"
+    }
+   ]
+  },
+  {
+   "id": "fig-chaac",
+   "title": "恰克",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "玛雅的雨、雷电与丰饶之神。",
+   "related": [
+    "fig-tlaloc",
+    "fig-itzamna",
+    "motif-rain-thunder"
+   ],
+   "sources": [
+    "pri-chaac",
+    "pri-popol-vuh",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 玛雅神祇材料多经象形文字释读与殖民期抄本（如《波波尔·乌》），释读与年代有学术争论；2) 神格在古典期与后古典期的演变须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "恰克（Chaac，亦作 Chac）是玛雅的雨、雷电、风与丰饶之神：他以持斧（雷斧）与蛇的形象著称——挥斧击云而生雷雨，象征雨水的降临；其形象常带长鼻或獠牙，与阿兹特克的特拉洛克（Tlaloc）在功能与形象上相似（同属中美洲雨神传统）。恰克是玛雅农民最崇奉的神祇之一，其祭祀（包括求雨与祈丰）在尤卡坦延续至现代（如'恰克祭祀'）。恰克有四个方位化身（四色恰克）。",
+   "versions": [
+    "恰克（Chaac，亦作 Chac）是玛雅的雨、雷电、风与丰饶之神：他以持斧（雷斧）与蛇的形象著称——挥斧击云而生雷雨，象征雨水的降临；其形象常带长鼻或獠牙，与阿兹特克的特拉洛克（Tlaloc）在功能与形象上相似（同属中美洲雨神传统）。恰克是玛雅农民最崇奉的神祇之一，其祭祀（包括求雨与祈丰）在尤卡坦延续至现代（如'恰克祭祀'）。恰克有四个方位化身（四色恰克）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《波波尔·乌》/殖民期文献",
+     "school": "史料",
+     "view": "恰克的雨神职能见于玛雅文献。"
+    },
+    {
+     "holder": "现代玛雅学",
+     "school": "学术",
+     "view": "中美洲雨神传统的比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "雨神与丰饶可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-chaac",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>恰克形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>恰克（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雨神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雷斧</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>四色恰克</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>四方化身</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶祭祀</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>延续至今</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>恰克要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经殖民期抄本，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "恰克的职能",
+     "views": [
+      {
+       "holder": "雨神说",
+       "basis": "掌管雨水与雷电。"
+      },
+      {
+       "holder": "丰饶神说",
+       "basis": "守护农业丰产。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "恰克是玛雅的雨、雷电与丰饶之神，以雷斧与蛇的形象著称。",
+     "source": "pri-chaac"
+    },
+    {
+     "claim": "恰克与阿兹特克的特拉洛克同属中美洲雨神传统。",
+     "source": "pri-chaac"
+    }
+   ]
+  },
+  {
+   "id": "fig-ixchel",
+   "title": "伊希切尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "玛雅的月亮、生育、纺织与医药女神。",
+   "related": [
+    "fig-itzamna",
+    "myth-maya",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-ixchel",
+    "pri-popol-vuh",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 玛雅神祇材料多经象形文字释读与殖民期抄本（如《波波尔·乌》），释读与年代有学术争论；2) 神格在古典期与后古典期的演变须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "伊希切尔（Ixchel，'彩虹女士'）是玛雅的月亮、生育、纺织、医药与水的女神：她是伊察姆纳（Itzamna）之妻，掌管女性的生育、编织（纺织与刺绣）与治疗，其形象常戴蛇形头饰。伊希切尔的崇拜中心在科苏梅尔岛（Cozumel），是朝圣与求子之地。她的形象兼具月亮的周期性（与生育、潮汐相关）与纺织（编织命运/生命）的象征，是玛雅女性宗教生活的核心女神。",
+   "versions": [
+    "伊希切尔（Ixchel，'彩虹女士'）是玛雅的月亮、生育、纺织、医药与水的女神：她是伊察姆纳（Itzamna）之妻，掌管女性的生育、编织（纺织与刺绣）与治疗，其形象常戴蛇形头饰。伊希切尔的崇拜中心在科苏梅尔岛（Cozumel），是朝圣与求子之地。她的形象兼具月亮的周期性（与生育、潮汐相关）与纺织（编织命运/生命）的象征，是玛雅女性宗教生活的核心女神。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Diego de Landa",
+     "school": "殖民期史料",
+     "view": "《尤卡坦纪事》记录科苏梅尔的伊希切尔崇拜。"
+    },
+    {
+     "holder": "现代玛雅学",
+     "school": "学术",
+     "view": "伊希切尔的月亮—生育职能。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "月亮女神与纺织母题可作参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ixchel",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>伊希切尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>伊希切尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>彩虹女士</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>月亮</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>生育医药</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>纺织</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>科苏梅尔</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>朝圣地</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊希切尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经殖民期抄本，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "伊希切尔的职能",
+     "views": [
+      {
+       "holder": "月亮/生育女神说",
+       "basis": "掌管生育与月亮周期。"
+      },
+      {
+       "holder": "纺织/医药神说",
+       "basis": "守护纺织与治疗。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "伊希切尔是玛雅的月亮、生育、纺织与医药女神，伊察姆纳之妻。",
+     "source": "pri-ixchel"
+    },
+    {
+     "claim": "伊希切尔的崇拜中心在科苏梅尔岛，是求子朝圣之地。",
+     "source": "pri-ixchel"
+    }
+   ]
+  },
+  {
+   "id": "fig-kukulkan",
+   "title": "库库尔坎",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "玛雅的羽蛇神，奇琴伊察的主神。",
+   "related": [
+    "fig-quetzalcoatl",
+    "fig-itzamna",
+    "motif-serpent"
+   ],
+   "sources": [
+    "pri-kukulkan",
+    "pri-popol-vuh",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 玛雅神祇材料多经象形文字释读与殖民期抄本（如《波波尔·乌》），释读与年代有学术争论；2) 神格在古典期与后古典期的演变须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "库库尔坎（Kukulkan，'羽蛇'）是玛雅的羽蛇神，古典期—后古典期的重要神祇，奇琴伊察（Chichen Itza）的主神：他与阿兹特克的克察尔科亚特尔（Quetzalcoatl，同为'羽蛇'）在名号与职能上对应，象征风、雨、知识与王权的神圣来源。库库尔坎的崇拜与奇琴伊察的'埃尔卡斯蒂略'金字塔相关（春分/秋分的蛇形光影现象）。羽蛇在玛雅是连接天（羽/鸟）与地（蛇）的宇宙中介，象征文明与秩序的带来者。",
+   "versions": [
+    "库库尔坎（Kukulkan，'羽蛇'）是玛雅的羽蛇神，古典期—后古典期的重要神祇，奇琴伊察（Chichen Itza）的主神：他与阿兹特克的克察尔科亚特尔（Quetzalcoatl，同为'羽蛇'）在名号与职能上对应，象征风、雨、知识与王权的神圣来源。库库尔坎的崇拜与奇琴伊察的'埃尔卡斯蒂略'金字塔相关（春分/秋分的蛇形光影现象）。羽蛇在玛雅是连接天（羽/鸟）与地（蛇）的宇宙中介，象征文明与秩序的带来者。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《波波尔·乌》/殖民期文献",
+     "school": "史料",
+     "view": "库库尔坎的羽蛇职能。"
+    },
+    {
+     "holder": "现代玛雅学",
+     "school": "学术",
+     "view": "库库尔坎与克察尔科亚特尔的对应。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "羽蛇象征可作天—地中介参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-kukulkan",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>库库尔坎形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>库库尔坎（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>羽蛇</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>天—地中介</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奇琴伊察</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>主神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与克察尔科亚特尔对应</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>中美洲共性</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>库库尔坎要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经殖民期抄本，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "库库尔坎的身份",
+     "views": [
+      {
+       "holder": "羽蛇神说",
+       "basis": "象征风、知识与王权。"
+      },
+      {
+       "holder": "外来的托尔特克神说",
+       "basis": "随托尔特克影响传入尤卡坦。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "库库尔坎是玛雅的羽蛇神，奇琴伊察的主神。",
+     "source": "pri-kukulkan"
+    },
+    {
+     "claim": "库库尔坎与阿兹特克的克察尔科亚特尔对应。",
+     "source": "pri-kukulkan"
+    }
+   ]
+  },
+  {
+   "id": "fig-hunahpu",
+   "title": "乌纳普",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "《波波尔·乌》玛雅双生子英雄之一。",
+   "related": [
+    "fig-xbalanque",
+    "myth-maya",
+    "motif-divine-twins"
+   ],
+   "sources": [
+    "pri-hero-twins",
+    "pri-popol-vuh",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 玛雅神祇材料多经象形文字释读与殖民期抄本（如《波波尔·乌》），释读与年代有学术争论；2) 神格在古典期与后古典期的演变须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "乌纳普（Hunahpu）是《波波尔·乌》（基切玛雅创世史诗）中玛雅双生子英雄之一，与孪生兄弟希巴兰克（Xbalanque）共同对抗冥界（Xibalba）的诸神：他们的父亲乌恩·乌纳普（Hun Hunahpu）与叔叔武库布·乌纳普曾被冥界诸神杀害，双生子长大后以智谋与球赛击败冥界诸神、为父复仇，最终升天化为太阳与月亮（或金星）。乌纳普与希巴兰克象征英雄双生子母题、生死循环与智慧的胜利，是玛雅神话的核心英雄。",
+   "versions": [
+    "乌纳普（Hunahpu）是《波波尔·乌》（基切玛雅创世史诗）中玛雅双生子英雄之一，与孪生兄弟希巴兰克（Xbalanque）共同对抗冥界（Xibalba）的诸神：他们的父亲乌恩·乌纳普（Hun Hunahpu）与叔叔武库布·乌纳普曾被冥界诸神杀害，双生子长大后以智谋与球赛击败冥界诸神、为父复仇，最终升天化为太阳与月亮（或金星）。乌纳普与希巴兰克象征英雄双生子母题、生死循环与智慧的胜利，是玛雅神话的核心英雄。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《波波尔·乌》",
+     "school": "核心文本",
+     "view": "双生子英雄的冒险是该史诗的核心。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "双生子英雄与冥界试炼是英雄旅程的经典。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "升天化日月可作宇宙论母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hero-twins",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>乌纳普形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>乌纳普（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>双生子英雄</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>冥界试炼</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>球赛</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>智谋</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>升天化日月</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙论</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌纳普要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经殖民期抄本，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "乌纳普的身份",
+     "views": [
+      {
+       "holder": "英雄双生子说",
+       "basis": "与希巴兰克共同对抗冥界。"
+      },
+      {
+       "holder": "日/月/金星化身说",
+       "basis": "升天后化为天体。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "乌纳普是《波波尔·乌》玛雅双生子英雄之一。",
+     "source": "pri-hero-twins"
+    },
+    {
+     "claim": "乌纳普与希巴兰克击败冥界诸神，为父复仇并升天化日月。",
+     "source": "pri-hero-twins"
+    }
+   ]
+  },
+  {
+   "id": "fig-xbalanque",
+   "title": "希巴兰克",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "《波波尔·乌》玛雅双生子英雄之一。",
+   "related": [
+    "fig-hunahpu",
+    "myth-maya",
+    "motif-shapeshifting"
+   ],
+   "sources": [
+    "pri-hero-twins",
+    "pri-popol-vuh",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 玛雅神祇材料多经象形文字释读与殖民期抄本（如《波波尔·乌》），释读与年代有学术争论；2) 神格在古典期与后古典期的演变须分层；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "希巴兰克（Xbalanque，'小美洲豹'）是《波波尔·乌》中玛雅双生子英雄之一，与孪生兄弟乌纳普（Hunahpu）共同对抗冥界（Xibalba）：他以狡黠与变形能力著称（如化为美洲豹），与乌纳普合力以智谋击败冥界诸神（包括利用'火之屋'与'刀之屋'的试炼），为父复仇。双生子最终升天化为太阳与月亮（或金星）。希巴兰克象征机智、变形与生命力，是玛雅英雄双生子母题的核心。",
+   "versions": [
+    "希巴兰克（Xbalanque，'小美洲豹'）是《波波尔·乌》中玛雅双生子英雄之一，与孪生兄弟乌纳普（Hunahpu）共同对抗冥界（Xibalba）：他以狡黠与变形能力著称（如化为美洲豹），与乌纳普合力以智谋击败冥界诸神（包括利用'火之屋'与'刀之屋'的试炼），为父复仇。双生子最终升天化为太阳与月亮（或金星）。希巴兰克象征机智、变形与生命力，是玛雅英雄双生子母题的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《波波尔·乌》",
+     "school": "核心文本",
+     "view": "希巴兰克的变形与智谋见于该史诗。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "变形与智谋是英雄母题的要素。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "变形与天界象征可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hero-twins",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>希巴兰克形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>希巴兰克（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>小美洲豹</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>变形</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>冥界试炼</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>智谋</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>升天化月</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙论</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>希巴兰克要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经殖民期抄本，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "希巴兰克的身份",
+     "views": [
+      {
+       "holder": "英雄双生子说",
+       "basis": "与乌纳普共同对抗冥界。"
+      },
+      {
+       "holder": "变形智者说",
+       "basis": "以变形与机智取胜的英雄。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "希巴兰克是《波波尔·乌》玛雅双生子英雄之一，以变形与智谋著称。",
+     "source": "pri-hero-twins"
+    },
+    {
+     "claim": "希巴兰克与乌纳普击败冥界诸神，升天化日月。",
+     "source": "pri-hero-twins"
+    }
+   ]
   }
  ]
 }

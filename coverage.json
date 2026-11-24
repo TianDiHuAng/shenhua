@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T11:36:46+08:00",
+  "generated": "2026-11-24T11:42:38+08:00",
   "summary": {
-    "total": 536,
+    "total": 542,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 281
+      "U4": 287
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 422
+      "补充": 428
     },
     "by_level": {
       "L1": 0,
-      "L2": 422,
+      "L2": 428,
       "L3": 114
     },
-    "l2_done": 536,
+    "l2_done": 542,
     "l3_done": 114,
-    "verified_sources": 420
+    "verified_sources": 425
   },
   "entries": [
     {
@@ -5911,6 +5911,72 @@
     {
       "id": "fig-xochiquetzal",
       "name": "索奇克察尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-itzamna",
+      "name": "伊察姆纳",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-chaac",
+      "name": "恰克",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-ixchel",
+      "name": "伊希切尔",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-kukulkan",
+      "name": "库库尔坎",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-hunahpu",
+      "name": "乌纳普",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-xbalanque",
+      "name": "希巴兰克",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

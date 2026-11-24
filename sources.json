@@ -6057,6 +6057,71 @@
    "link_ok": true,
    "verified": true,
    "note": "《佛罗伦萨抄本》是16世纪方济各会士萨阿贡主持编纂的纳瓦（阿兹特克）民族志，是研究中美洲宗教的核心史料；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-itzamna",
+   "title": "伊察姆纳文献（玛雅神话）",
+   "author": "佚名（玛雅）",
+   "year": null,
+   "year_display": "古典期—殖民期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Itzamna",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊察姆纳（Itzamna）是玛雅的最高神之一，天空、智慧、书写与历法之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-chaac",
+   "title": "恰克文献（玛雅雨神）",
+   "author": "佚名（玛雅）",
+   "year": null,
+   "year_display": "前古典期—殖民期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Chaac",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "恰克（Chaac）是玛雅的雨、雷电与丰饶之神，以斧与蛇的形象著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ixchel",
+   "title": "伊希切尔文献（玛雅女神）",
+   "author": "佚名（玛雅）",
+   "year": null,
+   "year_display": "古典期—殖民期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ixchel",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "伊希切尔（Ixchel）是玛雅的月亮、生育、纺织与医药女神，伊察姆纳之妻；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-kukulkan",
+   "title": "库库尔坎文献（玛雅羽蛇神）",
+   "author": "佚名（玛雅）",
+   "year": null,
+   "year_display": "古典期—殖民期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Kukulkan",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "库库尔坎（Kukulkan，'羽蛇'）是玛雅的羽蛇神，奇琴伊察的主神，与阿兹特克的克察尔科亚特尔对应；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-hero-twins",
+   "title": "玛雅双生子文献（《波波尔·乌》）",
+   "author": "佚名（基切玛雅）",
+   "year": null,
+   "year_display": "16世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Maya_Hero_Twins",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "玛雅双生子（Hunahpu 与 Xbalanque）是《波波尔·乌》的核心英雄，战胜冥界诸神；2026-11-23 经 Wikipedia API 实测（Hunahpu/Xbalanque→Maya Hero Twins）。"
   }
  ]
 }
