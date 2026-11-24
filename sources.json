@@ -5888,6 +5888,84 @@
    "link_ok": true,
    "verified": true,
    "note": "乌尼（Uni）是伊特鲁里亚神话的最高女神，对应罗马朱诺；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-bragi",
+   "title": "布拉吉文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Bragi",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "布拉吉（Bragi）是北欧的诗歌与雄辩之神，Iðunn 之夫；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-vidar",
+   "title": "维达文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/V%C3%AD%C3%B0arr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "维达（Víðarr）是北欧的沉默与复仇之神，奥丁之子，诸神黄昏中杀死芬里尔；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-sif",
+   "title": "西芙文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sif",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "西芙（Sif）是北欧的丰饶与婚姻女神，托尔之妻，以金发著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-ullr",
+   "title": "乌勒尔文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Ullr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "乌勒尔（Ullr）是北欧的狩猎、滑雪与射箭之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-forseti",
+   "title": "弗塞提文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Forseti",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "弗塞提（Forseti）是北欧的正义与调解之神，巴德尔之子；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-aegir",
+   "title": "埃吉尔文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/%C3%86gir",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "埃吉尔（Ægir）是北欧的海神/巨人，与妻子澜（Rán）掌管海洋；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

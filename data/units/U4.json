@@ -21009,6 +21009,456 @@
      "source": "pri-uni"
     }
    ]
+  },
+  {
+   "id": "fig-bragi",
+   "title": "布拉吉",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的诗歌与雄辩之神，Iðunn 之夫。",
+   "related": [
+    "fig-idunn",
+    "fig-odin",
+    "motif-music"
+   ],
+   "sources": [
+    "pri-bragi",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "布拉吉（Bragi）是北欧神话的诗歌、雄辩与音乐之神：他是智慧与诗才的化身，常以长须的老者形象出现，是诗人与吟唱者的守护神。他娶青春女神伊登（Iðunn）为妻。'Bragi'一词与'bragr'（诗歌）相关，布拉吉象征诗歌的神圣起源与语言的力量。在《诗体埃达》的《洛基的争吵》等篇章中，布拉吉亦有出场。他是北欧万神殿中与'诗歌/智慧'相关的神格。",
+   "versions": [
+    "布拉吉（Bragi）是北欧神话的诗歌、雄辩与音乐之神：他是智慧与诗才的化身，常以长须的老者形象出现，是诗人与吟唱者的守护神。他娶青春女神伊登（Iðunn）为妻。'Bragi'一词与'bragr'（诗歌）相关，布拉吉象征诗歌的神圣起源与语言的力量。在《诗体埃达》的《洛基的争吵》等篇章中，布拉吉亦有出场。他是北欧万神殿中与'诗歌/智慧'相关的神格。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "文本来源",
+     "view": "布拉吉在埃达诗歌中出场。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "诗歌/雄辩功能的印欧比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "诗歌的神圣起源可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-bragi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>布拉吉形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>布拉吉（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诗歌神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雄辩</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>伊登之夫</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>青春女神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>bragr</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>诗歌</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>布拉吉要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "布拉吉的职能",
+     "views": [
+      {
+       "holder": "诗歌神说",
+       "basis": "诗歌与雄辩的守护。"
+      },
+      {
+       "holder": "智慧神说",
+       "basis": "语言力量与智慧的化身。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "布拉吉是北欧的诗歌与雄辩之神。",
+     "source": "pri-bragi"
+    },
+    {
+     "claim": "布拉吉是青春女神伊登的丈夫。",
+     "source": "pri-bragi"
+    }
+   ]
+  },
+  {
+   "id": "fig-vidar",
+   "title": "维达",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的沉默与复仇之神，奥丁之子。",
+   "related": [
+    "fig-odin",
+    "fig-fenrir",
+    "motif-eschatology"
+   ],
+   "sources": [
+    "pri-vidar",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "维达（Víðarr）是北欧神话的沉默、复仇与森林之神，奥丁之子：他以沉默与坚忍著称，穿着铁鞋，在诸神黄昏（Ragnarök）中，当巨狼芬里尔吞噬奥丁后，维达踩住狼的下颚（以铁鞋）并将其撕裂，为父复仇——象征着沉默的力量与对混沌的最终制胜。维达是'沉默之神'（'寂静的维达'），其在诸神黄昏后的幸存使其成为新世界的参与者。",
+   "versions": [
+    "维达（Víðarr）是北欧神话的沉默、复仇与森林之神，奥丁之子：他以沉默与坚忍著称，穿着铁鞋，在诸神黄昏（Ragnarök）中，当巨狼芬里尔吞噬奥丁后，维达踩住狼的下颚（以铁鞋）并将其撕裂，为父复仇——象征着沉默的力量与对混沌的最终制胜。维达是'沉默之神'（'寂静的维达'），其在诸神黄昏后的幸存使其成为新世界的参与者。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "文本来源",
+     "view": "维达的复仇在诸神黄昏中记载。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "复仇与沉默功能的比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "末世后的幸存者可作宇宙更新母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-vidar",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>维达形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>维达（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>沉默</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>复仇</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>铁鞋</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>踩住狼颚</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诸神黄昏</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>杀死芬里尔</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>维达要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "维达的职能",
+     "views": [
+      {
+       "holder": "复仇神说",
+       "basis": "为奥丁复仇。"
+      },
+      {
+       "holder": "沉默神说",
+       "basis": "象征沉默的力量。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "维达是北欧的沉默与复仇之神，奥丁之子。",
+     "source": "pri-vidar"
+    },
+    {
+     "claim": "维达在诸神黄昏中以铁鞋踩住芬里尔、为奥丁复仇。",
+     "source": "pri-vidar"
+    }
+   ]
+  },
+  {
+   "id": "fig-sif",
+   "title": "西芙",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的丰饶与婚姻女神，托尔之妻。",
+   "related": [
+    "fig-thor",
+    "fig-loki",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-sif",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "西芙（Sif）是北欧神话的丰饶、婚姻与家庭女神，雷神托尔（Thor）之妻：她以一头金色长发著称——神话中洛基（Loki）恶作剧剪去她的金发，托尔大怒，洛基被迫让矮人锻造金发（及神锤等宝物）赔偿。西芙的金发象征黄金与麦田的丰饶，她与托尔的婚姻使雷神—丰饶的联姻联结。西芙是北欧万神殿中与丰饶、土地丰产相关的女神。",
+   "versions": [
+    "西芙（Sif）是北欧神话的丰饶、婚姻与家庭女神，雷神托尔（Thor）之妻：她以一头金色长发著称——神话中洛基（Loki）恶作剧剪去她的金发，托尔大怒，洛基被迫让矮人锻造金发（及神锤等宝物）赔偿。西芙的金发象征黄金与麦田的丰饶，她与托尔的婚姻使雷神—丰饶的联姻联结。西芙是北欧万神殿中与丰饶、土地丰产相关的女神。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "文本来源",
+     "view": "西芙的金发在埃达中记载。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "丰饶女神与第三功能。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "金发与麦田丰饶可作母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sif",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>西芙形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>西芙（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>金发</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>黄金/麦田</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>托尔之妻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雷神—丰饶联姻</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>洛基恶作剧</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>金发被剪</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西芙要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "西芙的象征",
+     "views": [
+      {
+       "holder": "丰饶女神说",
+       "basis": "金发象征丰饶与黄金。"
+      },
+      {
+       "holder": "婚姻女神说",
+       "basis": "托尔之妻，家庭守护。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "西芙是北欧的丰饶与婚姻女神，托尔之妻。",
+     "source": "pri-sif"
+    },
+    {
+     "claim": "西芙的金发被洛基剪去，是埃达中的著名叙事。",
+     "source": "pri-sif"
+    }
+   ]
+  },
+  {
+   "id": "fig-ullr",
+   "title": "乌勒尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的狩猎、滑雪与射箭之神。",
+   "related": [
+    "fig-skadi",
+    "fig-thor",
+    "motif-hunt"
+   ],
+   "sources": [
+    "pri-ullr",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "乌勒尔（Ullr）是北欧神话的狩猎、滑雪、射箭与决斗之神：他以高超的滑雪技艺著称（'滑雪之神'），是冬季与雪地活动的守护神，其名字与'glory'（荣耀）相关。乌勒尔是托尔（或 Sif）的继子，居于 Ydalir（紫杉谷），在神话中描述较少但被视为重要的古老神祇。乌勒尔与斯卡蒂（Skaði）的滑雪传统相关，是北欧冬季/狩猎文化的象征。",
+   "versions": [
+    "乌勒尔（Ullr）是北欧神话的狩猎、滑雪、射箭与决斗之神：他以高超的滑雪技艺著称（'滑雪之神'），是冬季与雪地活动的守护神，其名字与'glory'（荣耀）相关。乌勒尔是托尔（或 Sif）的继子，居于 Ydalir（紫杉谷），在神话中描述较少但被视为重要的古老神祇。乌勒尔与斯卡蒂（Skaði）的滑雪传统相关，是北欧冬季/狩猎文化的象征。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "文本来源",
+     "view": "乌勒尔的滑雪与狩猎职能。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "狩猎/冬季功能的比较。"
+    },
+    {
+     "holder": "现代北欧研究",
+     "school": "学术",
+     "view": "乌勒尔古老性的讨论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-ullr",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>乌勒尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>乌勒尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>滑雪神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>狩猎</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>射箭</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>决斗</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Ydalir</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>紫杉谷</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>乌勒尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "乌勒尔的职能",
+     "views": [
+      {
+       "holder": "滑雪/冬季神说",
+       "basis": "冬季与雪地活动的守护。"
+      },
+      {
+       "holder": "狩猎/决斗神说",
+       "basis": "狩猎与荣誉决斗的守护。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "乌勒尔是北欧的狩猎、滑雪与射箭之神。",
+     "source": "pri-ullr"
+    },
+    {
+     "claim": "乌勒尔以高超的滑雪技艺著称，与斯卡蒂的滑雪传统相关。",
+     "source": "pri-ullr"
+    }
+   ]
+  },
+  {
+   "id": "fig-forseti",
+   "title": "弗塞提",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的正义与调解之神，巴德尔之子。",
+   "related": [
+    "fig-baldr",
+    "fig-tyr",
+    "motif-sacrifice"
+   ],
+   "sources": [
+    "pri-forseti",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "弗塞提（Forseti，'主持者'）是北欧神话的正义、调解与和平之神，巴德尔（Baldr）之子：他居于 Glitnir（闪耀之宫），主持诸神与人类的争端，其裁决无人能违抗——象征公正、调解与法律的至高权威。弗塞提是北欧万神殿中少数专门的'正义/法律'神格，与提尔的战争—法律功能形成互补。其形象（持斧、坐于正义之座）体现了北欧对公正裁决的重视。",
+   "versions": [
+    "弗塞提（Forseti，'主持者'）是北欧神话的正义、调解与和平之神，巴德尔（Baldr）之子：他居于 Glitnir（闪耀之宫），主持诸神与人类的争端，其裁决无人能违抗——象征公正、调解与法律的至高权威。弗塞提是北欧万神殿中少数专门的'正义/法律'神格，与提尔的战争—法律功能形成互补。其形象（持斧、坐于正义之座）体现了北欧对公正裁决的重视。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "文本来源",
+     "view": "弗塞提的正义职能（《格里姆尼尔之歌》）。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "正义/法律功能的印欧比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "正义之神与秩序可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-forseti",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>弗塞提形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>弗塞提（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>正义</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>调解</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Glitnir</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>闪耀之宫</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>巴德尔之子</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神谱</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>弗塞提要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "弗塞提的职能",
+     "views": [
+      {
+       "holder": "正义神说",
+       "basis": "主持争端与公正裁决。"
+      },
+      {
+       "holder": "调解神说",
+       "basis": "象征和平与和解。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "弗塞提是北欧的正义与调解之神，巴德尔之子。",
+     "source": "pri-forseti"
+    },
+    {
+     "claim": "弗塞提的裁决无人能违抗，象征公正权威。",
+     "source": "pri-forseti"
+    }
+   ]
+  },
+  {
+   "id": "fig-aegir",
+   "title": "埃吉尔",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的海神/巨人，掌管海洋。",
+   "related": [
+    "fig-njord",
+    "fig-loki",
+    "motif-water"
+   ],
+   "sources": [
+    "pri-aegir",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "埃吉尔（Ægir，'海'）是北欧神话的海神（或海巨人），与妻子澜（Rán）掌管海洋：他以好客著称，常设宴款待诸神（《洛基的争吵》即发生在埃吉尔的宴会），其宫殿在海底，由发光的金子照明（'海中的黄金'）。埃吉尔象征海洋的丰饶与危险，澜则以网捕捉溺水者。埃吉尔与澜是北欧海洋神话的核心，反映了北欧人对海洋的敬畏。",
+   "versions": [
+    "埃吉尔（Ægir，'海'）是北欧神话的海神（或海巨人），与妻子澜（Rán）掌管海洋：他以好客著称，常设宴款待诸神（《洛基的争吵》即发生在埃吉尔的宴会），其宫殿在海底，由发光的金子照明（'海中的黄金'）。埃吉尔象征海洋的丰饶与危险，澜则以网捕捉溺水者。埃吉尔与澜是北欧海洋神话的核心，反映了北欧人对海洋的敬畏。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "文本来源",
+     "view": "埃吉尔的宴会见于《洛基的争吵》。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "海神功能的比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "海洋神与丰饶/危险可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-aegir",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>埃吉尔形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>埃吉尔（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>海神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宴会</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>澜之夫</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>海洋</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>海底宫</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>黄金照明</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃吉尔要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "埃吉尔的身份",
+     "views": [
+      {
+       "holder": "海神说",
+       "basis": "海洋的拟人化神。"
+      },
+      {
+       "holder": "海巨人说",
+       "basis": "属巨人族的海之存在。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "埃吉尔是北欧的海神/巨人，掌管海洋。",
+     "source": "pri-aegir"
+    },
+    {
+     "claim": "埃吉尔的宴会（《洛基的争吵》）是埃达名篇的场景。",
+     "source": "pri-aegir"
+    }
+   ]
   }
  ]
 }
