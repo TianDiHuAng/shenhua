@@ -6668,6 +6668,84 @@
    "link_ok": true,
    "verified": true,
    "note": "诺特（Nótt）是北欧的夜之女神，Dagr（昼）之母；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-cernunnos",
+   "title": "凯尔努诺斯文献（高卢—凯尔特）",
+   "author": "佚名（凯尔特）",
+   "year": null,
+   "year_display": "铁器时代—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Cernunnos",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "凯尔努诺斯（Cernunnos）是凯尔特（高卢）的角神，与自然、动物与丰饶相关；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-taranis",
+   "title": "塔拉尼斯文献（高卢—凯尔特）",
+   "author": "佚名（凯尔特）",
+   "year": null,
+   "year_display": "铁器时代—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Taranis",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "塔拉尼斯（Taranis）是凯尔特（高卢）的雷神，与轮形符号相关；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-esus",
+   "title": "埃苏斯文献（高卢—凯尔特）",
+   "author": "佚名（凯尔特）",
+   "year": null,
+   "year_display": "铁器时代—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Esus",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "埃苏斯（Esus）是凯尔特（高卢）的神祇，罗马诗人卢坎记载的'三神'之一；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-teutates",
+   "title": "图塔特斯文献（高卢—凯尔特）",
+   "author": "佚名（凯尔特）",
+   "year": null,
+   "year_display": "铁器时代—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Teutates",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "图塔特斯（Teutates）是凯尔特（高卢）的部落与战争守护神，卢坎'三神'之一；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-sulis",
+   "title": "苏利斯文献（不列颠—凯尔特）",
+   "author": "佚名（凯尔特）",
+   "year": null,
+   "year_display": "铁器时代—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sulis",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "苏利斯（Sulis）是不列颠（巴斯）的温泉与治愈女神，后与罗马密涅瓦融合为 Sulis Minerva；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-epona",
+   "title": "埃波娜文献（高卢—凯尔特）",
+   "author": "佚名（凯尔特）",
+   "year": null,
+   "year_display": "铁器时代—罗马期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Epona",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "埃波娜（Epona）是凯尔特（高卢）的马与马匹守护女神，后被罗马人接纳；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

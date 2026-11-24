@@ -25058,6 +25058,456 @@
      "source": "pri-nott"
     }
    ]
+  },
+  {
+   "id": "fig-cernunnos",
+   "title": "凯尔努诺斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "凯尔特（高卢）的角神，与自然、动物与丰饶相关。",
+   "related": [
+    "myth-celtic",
+    "myth-celtic",
+    "motif-hunt"
+   ],
+   "sources": [
+    "pri-cernunnos",
+    "pri-taranis",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特神祇材料多经罗马记录（如卢坎、凯撒）与考古图像，释读有学术争论；2) 凯尔特神话无原生文本，重构度高；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "凯尔努诺斯（Cernunnos，'有角者'）是凯尔特（尤其高卢）的角神：他以长着鹿角、盘腿而坐、手持颈环（torc）与蛇的形象著称（见著名的'银锅'浮雕），象征自然、动物、丰饶、生命循环与冥界。'Cernunnos'之名仅见于少数铭文，但其形象（有角神）在高卢与不列颠广泛出现。凯尔努诺斯常被视为'自然之主'与萨满/ intermediary 的原型，是现代新异教（Neo-Paganism）中'Wicca 的角神'（Horned God）的灵感来源之一（古今须区分）。",
+   "versions": [
+    "凯尔努诺斯（Cernunnos，'有角者'）是凯尔特（尤其高卢）的角神：他以长着鹿角、盘腿而坐、手持颈环（torc）与蛇的形象著称（见著名的'银锅'浮雕），象征自然、动物、丰饶、生命循环与冥界。'Cernunnos'之名仅见于少数铭文，但其形象（有角神）在高卢与不列颠广泛出现。凯尔努诺斯常被视为'自然之主'与萨满/ intermediary 的原型，是现代新异教（Neo-Paganism）中'Wicca 的角神'（Horned God）的灵感来源之一（古今须区分）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "高卢考古/图像",
+     "school": "考古",
+     "view": "角神形象见于银锅等器物。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "角神的印欧比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "自然之主与丰饶可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-cernunnos",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>凯尔努诺斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>凯尔努诺斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>角神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>鹿角</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>颈环torc</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>蛇</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>自然/丰饶</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>冥界</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>凯尔努诺斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经罗马记录/考古，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "凯尔努诺斯的神格",
+     "views": [
+      {
+       "holder": "自然丰饶神说",
+       "basis": "象征自然、动物与丰饶。"
+      },
+      {
+       "holder": "冥界/ intermediary说",
+       "basis": "连接此界与冥界。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "凯尔努诺斯是凯尔特（高卢）的角神，象征自然、动物与丰饶。",
+     "source": "pri-cernunnos"
+    },
+    {
+     "claim": "凯尔努诺斯是现代新异教'Wicca 角神'的灵感来源之一（古今须区分）。",
+     "source": "pri-cernunnos"
+    }
+   ]
+  },
+  {
+   "id": "fig-taranis",
+   "title": "塔拉尼斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "凯尔特（高卢）的雷神，与轮形符号相关。",
+   "related": [
+    "myth-celtic",
+    "fig-esus",
+    "fig-teutates"
+   ],
+   "sources": [
+    "pri-taranis",
+    "pri-cernunnos",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特神祇材料多经罗马记录（如卢坎、凯撒）与考古图像，释读有学术争论；2) 凯尔特神话无原生文本，重构度高；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "塔拉尼斯（Taranis）是凯尔特（尤其高卢）的雷神：其名与'雷'（taran）相关（威尔士 taran、爱尔兰 torann），象征雷、战争与天界的威严，常与轮形符号（wheel amulet，'太阳轮'）和雷电相关联。塔拉尼斯与埃苏斯（Esus）、图塔特斯（Teutates）并列，被罗马诗人卢坎称为高卢人祭祀的'三神'（其祭祀被指控含人祭，见卢坎《法萨利亚》——其记载的可信度有学术争论）。塔拉尼斯是凯尔特雷神传统的核心，与北欧托尔、罗马朱庇特可作雷神比较。",
+   "versions": [
+    "塔拉尼斯（Taranis）是凯尔特（尤其高卢）的雷神：其名与'雷'（taran）相关（威尔士 taran、爱尔兰 torann），象征雷、战争与天界的威严，常与轮形符号（wheel amulet，'太阳轮'）和雷电相关联。塔拉尼斯与埃苏斯（Esus）、图塔特斯（Teutates）并列，被罗马诗人卢坎称为高卢人祭祀的'三神'（其祭祀被指控含人祭，见卢坎《法萨利亚》——其记载的可信度有学术争论）。塔拉尼斯是凯尔特雷神传统的核心，与北欧托尔、罗马朱庇特可作雷神比较。"
+   ],
+   "interpretations": [
+    {
+     "holder": "卢坎《法萨利亚》",
+     "school": "文献",
+     "view": "卢坎记载塔拉尼斯等三神。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "雷神的印欧比较。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "考古",
+     "view": "轮形符号与塔拉尼斯的关联。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-taranis",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>塔拉尼斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>塔拉尼斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>taran雷</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>轮形符号</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>太阳轮</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卢坎三神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>有争议</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>塔拉尼斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经罗马记录/考古，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "塔拉尼斯的神格",
+     "views": [
+      {
+       "holder": "雷神说",
+       "basis": "象征雷与天界威严。"
+      },
+      {
+       "holder": "战争神说",
+       "basis": "与战争和轮形符号相连。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "塔拉尼斯是凯尔特（高卢）的雷神，与轮形符号相关。",
+     "source": "pri-taranis"
+    },
+    {
+     "claim": "塔拉尼斯被罗马诗人卢坎称为高卢人祭祀的'三神'之一。",
+     "source": "pri-taranis"
+    }
+   ]
+  },
+  {
+   "id": "fig-esus",
+   "title": "埃苏斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "凯尔特（高卢）的神祇，卢坎'三神'之一。",
+   "related": [
+    "myth-celtic",
+    "fig-taranis",
+    "fig-teutates"
+   ],
+   "sources": [
+    "pri-esus",
+    "pri-taranis",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特神祇材料多经罗马记录（如卢坎、凯撒）与考古图像，释读有学术争论；2) 凯尔特神话无原生文本，重构度高；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "埃苏斯（Esus，'主/神'）是凯尔特（高卢）的神祇，罗马诗人卢坎记载的高卢'三神'之一：其名可能与'神'（*esu-）相关，象征力量与战争。卢坎描述高卢人向埃苏斯献祭（含人祭的指控，其可信度有争论）。埃苏斯的图像（如'埃苏斯浮雕'中伐木者与鸟的形象）与特定的祭祀仪式相关，但材料零散、释读有争议。埃苏斯是凯尔特神祇中材料最少、讨论最多的神格之一。",
+   "versions": [
+    "埃苏斯（Esus，'主/神'）是凯尔特（高卢）的神祇，罗马诗人卢坎记载的高卢'三神'之一：其名可能与'神'（*esu-）相关，象征力量与战争。卢坎描述高卢人向埃苏斯献祭（含人祭的指控，其可信度有争论）。埃苏斯的图像（如'埃苏斯浮雕'中伐木者与鸟的形象）与特定的祭祀仪式相关，但材料零散、释读有争议。埃苏斯是凯尔特神祇中材料最少、讨论最多的神格之一。"
+   ],
+   "interpretations": [
+    {
+     "holder": "卢坎《法萨利亚》",
+     "school": "文献",
+     "view": "卢坎记载埃苏斯等三神。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "考古",
+     "view": "埃苏斯浮雕与祭祀释读。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "三神结构的比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-esus",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>埃苏斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>埃苏斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卢坎三神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>埃苏斯</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>力量战争</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>'主/神'</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃苏斯浮雕</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>伐木者</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃苏斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经罗马记录/考古，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "埃苏斯的神格",
+     "views": [
+      {
+       "holder": "战争神说",
+       "basis": "象征力量与战争。"
+      },
+      {
+       "holder": "材料争议说",
+       "basis": "图像与祭祀释读有争议。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "埃苏斯是凯尔特（高卢）的神祇，卢坎记载的'三神'之一。",
+     "source": "pri-esus"
+    },
+    {
+     "claim": "埃苏斯的图像与祭祀释读存在学术争议。",
+     "source": "pri-esus"
+    }
+   ]
+  },
+  {
+   "id": "fig-teutates",
+   "title": "图塔特斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "凯尔特（高卢）的部落与战争守护神。",
+   "related": [
+    "myth-celtic",
+    "fig-taranis",
+    "fig-esus"
+   ],
+   "sources": [
+    "pri-teutates",
+    "pri-taranis",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特神祇材料多经罗马记录（如卢坎、凯撒）与考古图像，释读有学术争论；2) 凯尔特神话无原生文本，重构度高；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "图塔特斯（Teutates，'部落之神'，可能与'*teutā 部落'相关）是凯尔特（高卢）的部落、战争与丰饶守护神：卢坎记载的高卢'三神'之一，被视为各部落的守护神，象征部落的团结、战争与繁荣。'Teutates'之名与印欧语的'部落/人民'（*teutā，如日耳曼 *theudō）同源，暗示其'民族/部落之神'的功能。图塔特斯的祭祀（卢坎提及'溺入水中'的献祭方式）的具体性质有学术争论。图塔特斯是凯尔特部落宗教的核心。",
+   "versions": [
+    "图塔特斯（Teutates，'部落之神'，可能与'*teutā 部落'相关）是凯尔特（高卢）的部落、战争与丰饶守护神：卢坎记载的高卢'三神'之一，被视为各部落的守护神，象征部落的团结、战争与繁荣。'Teutates'之名与印欧语的'部落/人民'（*teutā，如日耳曼 *theudō）同源，暗示其'民族/部落之神'的功能。图塔特斯的祭祀（卢坎提及'溺入水中'的献祭方式）的具体性质有学术争论。图塔特斯是凯尔特部落宗教的核心。"
+   ],
+   "interpretations": [
+    {
+     "holder": "卢坎《法萨利亚》",
+     "school": "文献",
+     "view": "卢坎记载图塔特斯。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "部落神与印欧 *teutā。"
+    },
+    {
+     "holder": "现代凯尔特研究",
+     "school": "学术",
+     "view": "图塔特斯祭祀方式的争论。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-teutates",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>图塔特斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>图塔特斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>部落神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>守护</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>战争丰饶</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>*teutā</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>卢坎三神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>有争议</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>图塔特斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经罗马记录/考古，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "图塔特斯的神格",
+     "views": [
+      {
+       "holder": "部落守护神说",
+       "basis": "各部落的守护与团结。"
+      },
+      {
+       "holder": "战争/丰饶神说",
+       "basis": "象征战争与繁荣。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "图塔特斯是凯尔特（高卢）的部落与战争守护神，卢坎'三神'之一。",
+     "source": "pri-teutates"
+    },
+    {
+     "claim": "'Teutates'与印欧语的'部落'（*teutā）同源。",
+     "source": "pri-teutates"
+    }
+   ]
+  },
+  {
+   "id": "fig-sulis",
+   "title": "苏利斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "不列颠（巴斯）的温泉与治愈女神，后与密涅瓦融合。",
+   "related": [
+    "myth-celtic",
+    "myth-roman",
+    "motif-water"
+   ],
+   "sources": [
+    "pri-sulis",
+    "pri-cernunnos",
+    "aca-greek-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特神祇材料多经罗马记录（如卢坎、凯撒）与考古图像，释读有学术争论；2) 凯尔特神话无原生文本，重构度高；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "苏利斯（Sulis）是不列颠（尤其巴斯 Bath）的温泉、治愈与智慧女神：她是巴斯温泉（Aquae Sulis）的守护神，其崇拜与温泉的治愈力量相关；罗马人将其与密涅瓦（Minerva）融合为'Sulis Minerva'，使巴斯成为罗马不列颠重要的宗教与疗养中心。苏利斯象征温泉的治愈、智慧与神圣的水，是凯尔特—罗马宗教融合（interpretatio romana）的典型。巴斯的苏利斯神庙遗址保存了大量'诅咒板'（defixiones），反映其求愿/诅咒的民间实践。",
+   "versions": [
+    "苏利斯（Sulis）是不列颠（尤其巴斯 Bath）的温泉、治愈与智慧女神：她是巴斯温泉（Aquae Sulis）的守护神，其崇拜与温泉的治愈力量相关；罗马人将其与密涅瓦（Minerva）融合为'Sulis Minerva'，使巴斯成为罗马不列颠重要的宗教与疗养中心。苏利斯象征温泉的治愈、智慧与神圣的水，是凯尔特—罗马宗教融合（interpretatio romana）的典型。巴斯的苏利斯神庙遗址保存了大量'诅咒板'（defixiones），反映其求愿/诅咒的民间实践。"
+   ],
+   "interpretations": [
+    {
+     "holder": "巴斯的考古/铭文",
+     "school": "考古",
+     "view": "苏利斯—密涅瓦神庙与诅咒板。"
+    },
+    {
+     "holder": "Walter Burkert",
+     "school": "古典宗教学",
+     "view": "凯尔特—罗马宗教融合。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "温泉治愈与圣水可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sulis",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>苏利斯示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>苏利斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>温泉女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>治愈</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Sulis Minerva</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>罗马融合</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诅咒板</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>巴斯遗址</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苏利斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经罗马记录/考古，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "苏利斯的身份",
+     "views": [
+      {
+       "holder": "治愈温泉神说",
+       "basis": "巴斯温泉的治愈女神。"
+      },
+      {
+       "holder": "智慧女神融合说",
+       "basis": "与密涅瓦融合为 Sulis Minerva。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "苏利斯是不列颠（巴斯）的温泉与治愈女神，后与罗马密涅瓦融合。",
+     "source": "pri-sulis"
+    },
+    {
+     "claim": "巴斯的苏利斯神庙遗址保存了大量'诅咒板'。",
+     "source": "pri-sulis"
+    }
+   ]
+  },
+  {
+   "id": "fig-epona",
+   "title": "埃波娜",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "凯尔特（高卢）的马与马匹守护女神。",
+   "related": [
+    "myth-celtic",
+    "fig-cernunnos",
+    "motif-horse"
+   ],
+   "sources": [
+    "pri-epona",
+    "pri-cernunnos",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 凯尔特神祇材料多经罗马记录（如卢坎、凯撒）与考古图像，释读有学术争论；2) 凯尔特神话无原生文本，重构度高；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "埃波娜（Epona，'马'，源自凯尔特语 *epos 马）是凯尔特（尤其高卢）的马、马匹、驴与骡的守护女神：她常被描绘为骑在马上的女性或与马同立，象征马的丰饶、保护与骑术；她是少数被罗马人广泛接纳（甚至罗马骑兵崇拜）的凯尔特神祇之一，罗马有专门的'Eponalia'节（12月18日）。埃波娜的'马'（*epos）之名与印欧语的'马'（*h₁éḱwos，如拉丁 equus）同源，是印欧马神/马崇拜传统的凯尔特体现。",
+   "versions": [
+    "埃波娜（Epona，'马'，源自凯尔特语 *epos 马）是凯尔特（尤其高卢）的马、马匹、驴与骡的守护女神：她常被描绘为骑在马上的女性或与马同立，象征马的丰饶、保护与骑术；她是少数被罗马人广泛接纳（甚至罗马骑兵崇拜）的凯尔特神祇之一，罗马有专门的'Eponalia'节（12月18日）。埃波娜的'马'（*epos）之名与印欧语的'马'（*h₁éḱwos，如拉丁 equus）同源，是印欧马神/马崇拜传统的凯尔特体现。"
+   ],
+   "interpretations": [
+    {
+     "holder": "高卢/罗马考古",
+     "school": "考古",
+     "view": "埃波娜的骑马图像与罗马骑兵崇拜。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "马与印欧马神传统。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "马的神圣性可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-epona",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>埃波娜示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>埃波娜（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>马之女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Epona</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>罗马骑兵崇拜</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Eponalia节</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>印欧同源</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>*h₁éḱwos</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>埃波娜要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经罗马记录/考古，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "埃波娜的职能",
+     "views": [
+      {
+       "holder": "马匹守护神说",
+       "basis": "守护马与骑术。"
+      },
+      {
+       "holder": "丰饶/印欧马神说",
+       "basis": "印欧马崇拜传统的体现。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "埃波娜是凯尔特（高卢）的马与马匹守护女神，后被罗马人接纳。",
+     "source": "pri-epona"
+    },
+    {
+     "claim": "埃波娜之名与印欧语的'马'（*h₁éḱwos）同源。",
+     "source": "pri-epona"
+    }
+   ]
   }
  ]
 }

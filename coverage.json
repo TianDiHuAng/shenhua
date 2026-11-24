@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T13:35:40+08:00",
+  "generated": "2026-11-24T13:41:31+08:00",
   "summary": {
-    "total": 584,
+    "total": 590,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 78,
-      "U4": 323
+      "U4": 329
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 470
+      "补充": 476
     },
     "by_level": {
       "L1": 0,
-      "L2": 470,
+      "L2": 476,
       "L3": 114
     },
-    "l2_done": 584,
+    "l2_done": 590,
     "l3_done": 114,
-    "verified_sources": 467
+    "verified_sources": 473
   },
   "entries": [
     {
@@ -6439,6 +6439,72 @@
     {
       "id": "fig-nott",
       "name": "诺特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-cernunnos",
+      "name": "凯尔努诺斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-taranis",
+      "name": "塔拉尼斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-esus",
+      "name": "埃苏斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-teutates",
+      "name": "图塔特斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-sulis",
+      "name": "苏利斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-epona",
+      "name": "埃波娜",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",
