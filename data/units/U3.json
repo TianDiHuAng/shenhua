@@ -5909,6 +5909,455 @@
      "source": "enc-wiki-divination"
     }
    ]
+  },
+  {
+   "id": "motif-fate",
+   "title": "命运",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "命运/天命作为跨文化的核心母题。",
+   "related": [
+    "motif-herojourney",
+    "motif-prophecy"
+   ],
+   "sources": [
+    "enc-wiki-fate",
+    "aca-patterns-religion",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 母题（motif）是跨文化比较的分析范畴，其边界与分类有学术争议；2) 各传统的具体表现差异大，不宜简单等同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "命运（Fate/Destiny）是跨文化的核心母题：指人生、世界由超越人力（神、天、必然性）所预定或支配的观念。希腊的摩伊赖（Moirai）与'命运悲剧'（俄狄浦斯）、北欧的诺伦（Norns）、中国的'天命'、印度的'业—宿命'（daiva）、伊斯兰的'前定'（qadar）等，都体现不同文化对'自由意志 vs 必然'的思考。命运母题常与英雄叙事交织（英雄对抗或屈从命运），是理解不同文化宇宙观与伦理的钥匙。比较研究须注意：各文化的'命运'概念内涵差异很大，不宜简单等同。",
+   "versions": [
+    "命运（Fate/Destiny）是跨文化的核心母题：指人生、世界由超越人力（神、天、必然性）所预定或支配的观念。希腊的摩伊赖（Moirai）与'命运悲剧'（俄狄浦斯）、北欧的诺伦（Norns）、中国的'天命'、印度的'业—宿命'（daiva）、伊斯兰的'前定'（qadar）等，都体现不同文化对'自由意志 vs 必然'的思考。命运母题常与英雄叙事交织（英雄对抗或屈从命运），是理解不同文化宇宙观与伦理的钥匙。比较研究须注意：各文化的'命运'概念内涵差异很大，不宜简单等同。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "英雄与命运的关系是神话研究的核心。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "命运与时间的神圣性可作一般参照。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "不同文化的'命运'概念差异大，须分层比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-fate",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>命运示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>命运（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>必然性</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神/天预定</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>英雄与命运</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>对抗或屈从</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>跨文化差异</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>不可等同</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>命运要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性归纳，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "命运母题的性质",
+     "views": [
+      {
+       "holder": "普遍母题说",
+       "basis": "多数文化都有命运观念。"
+      },
+      {
+       "holder": "差异说",
+       "basis": "各文化'命运'内涵差异大，比较须谨慎。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "命运是跨文化的核心母题，体现对'自由意志 vs 必然'的思考。",
+     "source": "enc-wiki-fate"
+    },
+    {
+     "claim": "命运母题常与英雄叙事交织，是理解文化宇宙观的钥匙。",
+     "source": "enc-wiki-fate"
+    }
+   ]
+  },
+  {
+   "id": "motif-reincarnation",
+   "title": "轮回",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "灵魂转世/轮回的跨宗教母题。",
+   "related": [
+    "motif-soul",
+    "motif-dying-rising",
+    "motif-eschatology"
+   ],
+   "sources": [
+    "enc-wiki-reincarnation",
+    "aca-patterns-religion",
+    "aca-sacred-profane"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 母题（motif）是跨文化比较的分析范畴，其边界与分类有学术争议；2) 各传统的具体表现差异大，不宜简单等同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "轮回（Reincarnation/Transmigration）是跨宗教的核心母题：指灵魂（或自我）在死后转生为另一生命体的观念。印度的'轮回'（saṃsāra）与'业'（karma）结合，认为行为决定来世；佛教继承轮回观但以'无我'（anātman）改造之；耆那教、锡克教亦有轮回说；古希腊的俄耳甫斯教与毕达哥拉斯派有灵魂转世说；一些非洲与美洲传统也含转世观念。轮回母题关涉灵魂观、伦理（业报）与解脱论（moksha/nirvana）。各传统的轮回说差异很大，比较须分层。",
+   "versions": [
+    "轮回（Reincarnation/Transmigration）是跨宗教的核心母题：指灵魂（或自我）在死后转生为另一生命体的观念。印度的'轮回'（saṃsāra）与'业'（karma）结合，认为行为决定来世；佛教继承轮回观但以'无我'（anātman）改造之；耆那教、锡克教亦有轮回说；古希腊的俄耳甫斯教与毕达哥拉斯派有灵魂转世说；一些非洲与美洲传统也含转世观念。轮回母题关涉灵魂观、伦理（业报）与解脱论（moksha/nirvana）。各传统的轮回说差异很大，比较须分层。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "轮回与灵魂观的神圣性分析。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "印度、希腊、非洲的轮回说差异大。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "转世与重生母题的比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-reincarnation",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>轮回示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>轮回（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>轮回</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>saṃsāra</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>业报</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>karma</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>解脱</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>moksha/nirvana</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>轮回要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性归纳，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "轮回母题的性质",
+     "views": [
+      {
+       "holder": "印度核心说",
+       "basis": "轮回—业—解脱是印度宗教的核心。"
+      },
+      {
+       "holder": "跨文化差异说",
+       "basis": "各地轮回说内涵差异大。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "轮回是跨宗教的核心母题：灵魂转生与业报。",
+     "source": "enc-wiki-reincarnation"
+    },
+    {
+     "claim": "轮回母题关涉灵魂观、伦理（业报）与解脱论。",
+     "source": "enc-wiki-reincarnation"
+    }
+   ]
+  },
+  {
+   "id": "motif-resurrection",
+   "title": "复活",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "死者复生/复活作为跨宗教母题。",
+   "related": [
+    "motif-dying-rising",
+    "motif-eschatology",
+    "motif-soul"
+   ],
+   "sources": [
+    "enc-wiki-resurrection",
+    "aca-patterns-religion",
+    "aca-sacred-profane"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 母题（motif）是跨文化比较的分析范畴，其边界与分类有学术争议；2) 各传统的具体表现差异大，不宜简单等同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "复活（Resurrection）是跨宗教的核心母题：指死者身体或生命在死后重新获得生命的观念。它不同于单纯的'灵魂不死'（immortality）或'轮回'（reincarnation），而强调（常为身体的）复生。基督教的耶稣复活是其核心信条；古埃及的奥西里斯、两河的杜穆兹、希腊的狄俄尼索斯等'死而复生'（dying-and-rising）神祇是相关的'死而复生'母题（虽不完全是'复活'）；琐罗亚斯德教、伊斯兰教亦有身体复活的末世论。复活母题关涉死亡、身体与末世救赎的观念，各传统差异须分层辨析。",
+   "versions": [
+    "复活（Resurrection）是跨宗教的核心母题：指死者身体或生命在死后重新获得生命的观念。它不同于单纯的'灵魂不死'（immortality）或'轮回'（reincarnation），而强调（常为身体的）复生。基督教的耶稣复活是其核心信条；古埃及的奥西里斯、两河的杜穆兹、希腊的狄俄尼索斯等'死而复生'（dying-and-rising）神祇是相关的'死而复生'母题（虽不完全是'复活'）；琐罗亚斯德教、伊斯兰教亦有身体复活的末世论。复活母题关涉死亡、身体与末世救赎的观念，各传统差异须分层辨析。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "死而复生神祇与再生母题。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "'复活'与'死而复生'母题的辨析。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "复活与英雄重生母题。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-resurrection",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>复活示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>复活（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>复活</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>身体复生</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>死而复生神</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>奥西里斯/杜穆兹</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>末世论</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>救赎</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>复活要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性归纳，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "复活母题的性质",
+     "views": [
+      {
+       "holder": "基督教核心说",
+       "basis": "耶稣复活是基督教核心信条。"
+      },
+      {
+       "holder": "死而复生神母题说",
+       "basis": "古代近东的死而复生神祇是相关但不同的母题。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "复活是跨宗教母题：死者重新获得生命，强调（常为身体的）复生。",
+     "source": "enc-wiki-resurrection"
+    },
+    {
+     "claim": "复活母题与'死而复生'神祇（奥西里斯、杜穆兹）相关但须辨析。",
+     "source": "enc-wiki-resurrection"
+    }
+   ]
+  },
+  {
+   "id": "motif-fertility",
+   "title": "丰饶",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "丰饶及其宗教象征的普遍母题。",
+   "related": [
+    "motif-agriculture",
+    "motif-dying-rising",
+    "motif-hierogamy"
+   ],
+   "sources": [
+    "enc-wiki-fertility",
+    "aca-golden-bough",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 母题（motif）是跨文化比较的分析范畴，其边界与分类有学术争议；2) 各传统的具体表现差异大，不宜简单等同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "丰饶（Fertility）是宗教与神话的普遍母题：指土地、牲畜与人类的生殖繁衍，常被拟人化为丰饶神祇（如希腊的得墨忒尔、埃及的奥西里斯、两河的杜穆兹/伊南娜、迦南的巴力/阿纳特）与仪式（如春季的丰饶祭、圣婚 hieros gamos、宰牲与血祭）。弗雷泽《金枝》以'丰饶—死而复生'的循环解释古代宗教，提出'弑神'（杀老王）的理论（后被批评简化）。丰饶母题关涉农业社会的生存焦虑与神圣秩序，其表现形式与解释在学界有争论。",
+   "versions": [
+    "丰饶（Fertility）是宗教与神话的普遍母题：指土地、牲畜与人类的生殖繁衍，常被拟人化为丰饶神祇（如希腊的得墨忒尔、埃及的奥西里斯、两河的杜穆兹/伊南娜、迦南的巴力/阿纳特）与仪式（如春季的丰饶祭、圣婚 hieros gamos、宰牲与血祭）。弗雷泽《金枝》以'丰饶—死而复生'的循环解释古代宗教，提出'弑神'（杀老王）的理论（后被批评简化）。丰饶母题关涉农业社会的生存焦虑与神圣秩序，其表现形式与解释在学界有争论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "James Frazer",
+     "school": "比较宗教",
+     "view": "《金枝》以丰饶循环解释古代宗教（其理论被后世批评简化）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "丰饶与农业的神圣性分析。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "丰饶神与仪式的跨文化比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-fertility",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>丰饶示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>丰饶（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>得墨忒尔/奥西里斯</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶仪式</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>圣婚/血祭</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>金枝理论</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>弗雷泽（有争议）</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性归纳，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "丰饶母题的解释",
+     "views": [
+      {
+       "holder": "循环说",
+       "basis": "弗雷泽的丰饶—死而复生循环解释。"
+      },
+      {
+       "holder": "批评说",
+       "basis": "'弑神'等理论被批评为过度简化。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "丰饶是宗教与神话的普遍母题，常被拟人化为丰饶神祇与仪式。",
+     "source": "enc-wiki-fertility"
+    },
+    {
+     "claim": "弗雷泽《金枝》的丰饶—死而复生理论影响深远但被后世批评简化。",
+     "source": "enc-wiki-fertility"
+    }
+   ]
+  },
+  {
+   "id": "motif-sacred-mountain",
+   "title": "宇宙山",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "宇宙山与圣山作为神圣空间与「世界中心」的跨文化母题。",
+   "related": [
+    "motif-axis-mundi",
+    "motif-mountain",
+    "motif-pilgrimage"
+   ],
+   "sources": [
+    "enc-wiki-sacred-mountain",
+    "aca-sacred-profane",
+    "aca-patterns-religion"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 母题（motif）是跨文化比较的分析范畴，其边界与分类有学术争议；2) 各传统的具体表现差异大，不宜简单等同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "圣山（Sacred Mountain）是跨文化的核心母题：山被视为连接天地的'轴心'（axis mundi），是神人相遇、启示与献祭之地。希腊的奥林匹斯、印度的须弥山（Meru）、中国的昆仑、西奈山、日本的富士山、美洲的圣山等，都体现山的神圣性。伊利亚德（Mircea Eliade）指出圣山作为'宇宙山'（cosmic mountain）象征世界的中心与神圣空间的轴心。圣山母题关涉神圣与凡俗空间的分界、朝圣与宇宙论，是宗教地理学的核心概念。",
+   "versions": [
+    "圣山（Sacred Mountain）是跨文化的核心母题：山被视为连接天地的'轴心'（axis mundi），是神人相遇、启示与献祭之地。希腊的奥林匹斯、印度的须弥山（Meru）、中国的昆仑、西奈山、日本的富士山、美洲的圣山等，都体现山的神圣性。伊利亚德（Mircea Eliade）指出圣山作为'宇宙山'（cosmic mountain）象征世界的中心与神圣空间的轴心。圣山母题关涉神圣与凡俗空间的分界、朝圣与宇宙论，是宗教地理学的核心概念。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "圣山作为'宇宙山'与'轴心'的理论。"
+    },
+    {
+     "holder": "宗教地理学",
+     "school": "宗教学",
+     "view": "圣山与朝圣的神圣空间分析。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "圣山母题的跨文化比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-sacred-mountain",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>圣山示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>圣山（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣山</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>轴心axis mundi</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>宇宙山</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>世界中心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>朝圣</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神圣空间</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>圣山要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性归纳，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "圣山母题的性质",
+     "views": [
+      {
+       "holder": "宇宙山说",
+       "basis": "圣山象征世界中心与神圣轴心（伊利亚德）。"
+      },
+      {
+       "holder": "文化差异说",
+       "basis": "各文化的圣山内涵与仪式差异大。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "圣山是跨文化的核心母题，山被视为连接天地的'轴心'。",
+     "source": "enc-wiki-sacred-mountain"
+    },
+    {
+     "claim": "伊利亚德指出圣山作为'宇宙山'象征世界的中心与神圣空间。",
+     "source": "enc-wiki-sacred-mountain"
+    }
+   ]
+  },
+  {
+   "id": "motif-monster",
+   "title": "怪物",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "怪物作为神话中混沌与威胁的象征母题。",
+   "related": [
+    "motif-dragon",
+    "motif-serpent",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "enc-wiki-monster",
+    "aca-patterns-religion",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 母题（motif）是跨文化比较的分析范畴，其边界与分类有学术争议；2) 各传统的具体表现差异大，不宜简单等同；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "怪物（Monster）是神话的普遍母题：指兼具人、兽、自然元素、违反常态分类的神话生物（如巨龙、巨蛇、独眼巨人、狮身人面像、九头蛇），常象征混沌、异类、威胁与禁忌。英雄屠怪（如赫拉克勒斯斩九头蛇、珀耳修斯斩美杜莎、贝奥武夫屠格伦德尔）是神话的核心叙事之一，象征秩序对混沌的胜利。怪物母题关涉分类的边界（'异类'）、恐惧与神圣（'神圣的恐怖'），其形象与功能在不同文化中差异很大，比较研究须注意语境。",
+   "versions": [
+    "怪物（Monster）是神话的普遍母题：指兼具人、兽、自然元素、违反常态分类的神话生物（如巨龙、巨蛇、独眼巨人、狮身人面像、九头蛇），常象征混沌、异类、威胁与禁忌。英雄屠怪（如赫拉克勒斯斩九头蛇、珀耳修斯斩美杜莎、贝奥武夫屠格伦德尔）是神话的核心叙事之一，象征秩序对混沌的胜利。怪物母题关涉分类的边界（'异类'）、恐惧与神圣（'神圣的恐怖'），其形象与功能在不同文化中差异很大，比较研究须注意语境。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "屠怪是英雄旅程的核心试炼。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "怪物的'神圣恐怖'与混沌象征。"
+    },
+    {
+     "holder": "比较宗教学",
+     "school": "宗教学",
+     "view": "怪物母题的跨文化比较与差异。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "enc-wiki-monster",
+     "note": "作比较宗教学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>怪物示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>怪物（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>混沌象征</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>异类威胁</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>英雄屠怪</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>秩序胜混沌</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>分类边界</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>禁忌</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>怪物要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>描述性归纳，不评判信仰真伪</text></svg>",
+   "controversies": [
+    {
+     "issue": "怪物母题的功能",
+     "views": [
+      {
+       "holder": "混沌—秩序说",
+       "basis": "怪物象征混沌，屠怪象征秩序胜利。"
+      },
+      {
+       "holder": "分类边界说",
+       "basis": "怪物违反常态分类，象征'异类'。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "怪物是神话的普遍母题，常象征混沌、异类与威胁。",
+     "source": "enc-wiki-monster"
+    },
+    {
+     "claim": "英雄屠怪（赫拉克勒斯、珀耳修斯）象征秩序对混沌的胜利。",
+     "source": "enc-wiki-monster"
+    }
+   ]
   }
  ]
 }

@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T13:08:55+08:00",
+  "generated": "2026-11-24T13:14:10+08:00",
   "summary": {
-    "total": 560,
+    "total": 566,
     "by_unit": {
       "U1": 90,
       "U2": 93,
-      "U3": 72,
+      "U3": 78,
       "U4": 305
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 446
+      "补充": 452
     },
     "by_level": {
       "L1": 0,
-      "L2": 446,
+      "L2": 452,
       "L3": 114
     },
-    "l2_done": 560,
+    "l2_done": 566,
     "l3_done": 114,
-    "verified_sources": 443
+    "verified_sources": 449
   },
   "entries": [
     {
@@ -1626,6 +1626,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-fate",
+      "name": "命运",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-reincarnation",
+      "name": "轮回",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-resurrection",
+      "name": "复活",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-fertility",
+      "name": "丰饶",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-sacred-mountain",
+      "name": "宇宙山",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "motif-monster",
+      "name": "怪物",
+      "unit": "U3",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-24"
     },

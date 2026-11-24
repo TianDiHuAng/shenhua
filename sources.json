@@ -6356,6 +6356,84 @@
    "link_ok": true,
    "verified": true,
    "note": "帕尔瓦蒂（Parvati）是印度教的雪山神女，湿婆之妻，象头神与室建陀之母；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-fate",
+   "title": "命运（Destiny/Fate）· 维基百科",
+   "author": "Wikipedia contributors",
+   "year": null,
+   "year_display": "encyclopedia",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Destiny",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "命运（fate/destiny）作为跨文化母题的百科综述；2026-11-23 经 Wikipedia API 实测（Fate→Destiny）。"
+  },
+  {
+   "id": "enc-wiki-reincarnation",
+   "title": "轮回（Reincarnation）· 维基百科",
+   "author": "Wikipedia contributors",
+   "year": null,
+   "year_display": "encyclopedia",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Reincarnation",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "轮回/转世作为跨宗教母题的百科综述；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-resurrection",
+   "title": "复活（Resurrection）· 维基百科",
+   "author": "Wikipedia contributors",
+   "year": null,
+   "year_display": "encyclopedia",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Resurrection",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "复活作为跨宗教母题的百科综述；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-fertility",
+   "title": "丰饶（Fertility）· 维基百科",
+   "author": "Wikipedia contributors",
+   "year": null,
+   "year_display": "encyclopedia",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Fertility",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "丰饶及其宗教象征的百科综述；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-sacred-mountain",
+   "title": "圣山（Sacred mountains）· 维基百科",
+   "author": "Wikipedia contributors",
+   "year": null,
+   "year_display": "encyclopedia",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Sacred_mountains",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "圣山/宇宙山作为跨文化母题的百科综述；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "enc-wiki-monster",
+   "title": "怪物（Monster）· 维基百科",
+   "author": "Wikipedia contributors",
+   "year": null,
+   "year_display": "encyclopedia",
+   "type": "权威百科",
+   "url": "https://en.wikipedia.org/wiki/Monster",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "怪物及其神话象征的百科综述；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
