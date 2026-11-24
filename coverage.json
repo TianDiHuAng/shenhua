@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T13:25:58+08:00",
+  "generated": "2026-11-24T13:35:40+08:00",
   "summary": {
-    "total": 578,
+    "total": 584,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 78,
-      "U4": 317
+      "U4": 323
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 464
+      "补充": 470
     },
     "by_level": {
       "L1": 0,
-      "L2": 464,
+      "L2": 470,
       "L3": 114
     },
-    "l2_done": 578,
+    "l2_done": 584,
     "l3_done": 114,
-    "verified_sources": 461
+    "verified_sources": 467
   },
   "entries": [
     {
@@ -6373,6 +6373,72 @@
     {
       "id": "fig-epimetheus",
       "name": "厄庇米修斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-thrymr",
+      "name": "索列姆",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-surtr",
+      "name": "苏尔特",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-laufey",
+      "name": "劳菲",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-brynhild",
+      "name": "布伦希尔德",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-sigyn",
+      "name": "西格恩",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-nott",
+      "name": "诺特",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

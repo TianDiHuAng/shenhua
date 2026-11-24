@@ -8,10 +8,10 @@
   "current_assessment": {
     "core_l2": "40/40(L3全覆盖)",
     "important_l2": "74/74 已全部 L3",
-    "supplement_l2": 464,
-    "total": 578,
+    "supplement_l2": 470,
+    "total": 584,
     "l3_total": 114,
-    "verdict": "核心与重要层 100% L3（114/578）；补充层 464 条 L2；来源 507 条"
+    "verdict": "核心与重要层 100% L3（114/584）；补充层 470 条 L2；来源 513 条"
   },
   "round_log": [
     {
@@ -1361,6 +1361,18 @@
       "new_gaps_found": 6,
       "gap_detail": "批次71：新增6希腊泰坦（瑞亚/俄刻阿诺斯/许佩里翁/忒弥斯/阿特拉斯/厄庇米修斯）U4达317；6来源核验；修pri-cronus→pri-theogony、fig-tethys引用；578条0 errors",
       "verdict": "正常扩充（批次71，6条）"
+    },
+    {
+      "round": "AUTONOMOUS-114",
+      "date": "2026-11-24",
+      "methods_run": [
+        "D15三重查重",
+        "联网人物大纲差集",
+        "联网来源核验"
+      ],
+      "new_gaps_found": 6,
+      "gap_detail": "批次72：新增6北欧巨人/女神（索列姆/苏尔特/劳菲/布伦希尔德/西格恩/诺特）U4达323；6来源核验；584条0 errors",
+      "verdict": "正常扩充（批次72，6条）"
     }
   ]
 }

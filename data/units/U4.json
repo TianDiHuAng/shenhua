@@ -24608,6 +24608,456 @@
      "source": "pri-epimetheus"
     }
    ]
+  },
+  {
+   "id": "fig-thrymr",
+   "title": "索列姆",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的霜巨人，盗走托尔神锤。",
+   "related": [
+    "fig-thor",
+    "fig-loki",
+    "fig-freya"
+   ],
+   "sources": [
+    "pri-thrymr",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "索列姆（Þrymr）是北欧神话的霜巨人（jötunn）：在《索列姆之歌》（Þrymskviða）中，他盗走了托尔（Thor）的神锤，并以归还神锤为条件索要女神弗蕾亚（Freyja）为妻；托尔在洛基的建议下男扮女装冒充'弗蕾亚'前往，趁索列姆献锤时夺回神锤并击杀巨人。索列姆象征巨人的贪婪与愚蠢，该叙事是北欧神话中著名的喜剧性篇章，也为托尔的勇武增添幽默色彩。",
+   "versions": [
+    "索列姆（Þrymr）是北欧神话的霜巨人（jötunn）：在《索列姆之歌》（Þrymskviða）中，他盗走了托尔（Thor）的神锤，并以归还神锤为条件索要女神弗蕾亚（Freyja）为妻；托尔在洛基的建议下男扮女装冒充'弗蕾亚'前往，趁索列姆献锤时夺回神锤并击杀巨人。索列姆象征巨人的贪婪与愚蠢，该叙事是北欧神话中著名的喜剧性篇章，也为托尔的勇武增添幽默色彩。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "核心文本",
+     "view": "《索列姆之歌》记载盗锤与夺回。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "索列姆之歌的文本分析（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "巨人—宝物母题可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-thrymr",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>索列姆示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>索列姆（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>霜巨人</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>盗取神锤</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>索要弗蕾亚</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>条件</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>被托尔击杀</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>夺回</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>索列姆要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "索列姆的形象",
+     "views": [
+      {
+       "holder": "贪婪巨人说",
+       "basis": "象征巨人的贪婪与愚蠢。"
+      },
+      {
+       "holder": "喜剧角色说",
+       "basis": "托尔男扮女装叙事的对手。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "索列姆是北欧的霜巨人，在《索列姆之歌》中盗走托尔的神锤。",
+     "source": "pri-thrymr"
+    },
+    {
+     "claim": "托尔男扮女装冒充弗蕾亚，趁索列姆献锤时夺回并击杀他。",
+     "source": "pri-thrymr"
+    }
+   ]
+  },
+  {
+   "id": "fig-surtr",
+   "title": "苏尔特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的火巨人，诸神黄昏中烧毁世界。",
+   "related": [
+    "fig-ymir",
+    "fig-odin",
+    "motif-eschatology"
+   ],
+   "sources": [
+    "pri-surtr",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "苏尔特（Surtr，'黑色者'）是北欧神话的火巨人（Muspelheim 的统治者）：在诸神黄昏（Ragnarök）中，苏尔特持火焰之剑（Lævateinn）从南方而来，与诸神交战，其火焰最终烧毁世界（大地沉入海中），是诸神黄昏的终结者之一。苏尔特象征宇宙终结的毁灭之火，其'火焰之剑'与'世界燃烧'的意象是北欧末世论的核心。苏尔特在《女巫的预言》（Völuspá）中扮演关键角色。",
+   "versions": [
+    "苏尔特（Surtr，'黑色者'）是北欧神话的火巨人（Muspelheim 的统治者）：在诸神黄昏（Ragnarök）中，苏尔特持火焰之剑（Lævateinn）从南方而来，与诸神交战，其火焰最终烧毁世界（大地沉入海中），是诸神黄昏的终结者之一。苏尔特象征宇宙终结的毁灭之火，其'火焰之剑'与'世界燃烧'的意象是北欧末世论的核心。苏尔特在《女巫的预言》（Völuspá）中扮演关键角色。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "核心文本",
+     "view": "《女巫的预言》记载苏尔特的末世角色。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "苏尔特与诸神黄昏的分析（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "末世之火可作宇宙更新母题参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-surtr",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>苏尔特示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>苏尔特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>火巨人</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Muspelheim</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>火焰之剑</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Lævateinn</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诸神黄昏</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>烧毁世界</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>苏尔特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "苏尔特的角色",
+     "views": [
+      {
+       "holder": "末世毁灭者说",
+       "basis": "以火焰烧毁世界。"
+      },
+      {
+       "holder": "火之本原说",
+       "basis": "象征宇宙的毁灭之火。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "苏尔特是北欧的火巨人，诸神黄昏中烧毁世界。",
+     "source": "pri-surtr"
+    },
+    {
+     "claim": "苏尔特持火焰之剑从南方而来，是诸神黄昏的终结者之一。",
+     "source": "pri-surtr"
+    }
+   ]
+  },
+  {
+   "id": "fig-laufey",
+   "title": "劳菲",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的女巨人，洛基之母。",
+   "related": [
+    "fig-loki",
+    "fig-odin",
+    "motif-trickster"
+   ],
+   "sources": [
+    "pri-laufey",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "劳菲（Laufey，'叶岛'）是北欧神话的女巨人（或女神），洛基（Loki）之母：她与法布提（Fárbauti）结合生下洛基，洛基因此有巨人血统（这解释了他既属 Æsir 又具巨人本质的双重身份）。劳菲在神话中出场很少，但其'洛基之母'的身份对理解洛基的边缘性与双面性很重要——洛基既与诸神为伍，又因其巨人血统而终成诸神的敌人。'Loki Laufeyjarson'（劳菲之子洛基）是洛基的父称名。",
+   "versions": [
+    "劳菲（Laufey，'叶岛'）是北欧神话的女巨人（或女神），洛基（Loki）之母：她与法布提（Fárbauti）结合生下洛基，洛基因此有巨人血统（这解释了他既属 Æsir 又具巨人本质的双重身份）。劳菲在神话中出场很少，但其'洛基之母'的身份对理解洛基的边缘性与双面性很重要——洛基既与诸神为伍，又因其巨人血统而终成诸神的敌人。'Loki Laufeyjarson'（劳菲之子洛基）是洛基的父称名。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "核心文本",
+     "view": "劳菲作为洛基之母的谱系。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "洛基的双重血统（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "边缘神格可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-laufey",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>劳菲示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>劳菲（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>女巨人</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洛基之母</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>法布提之妻</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神谱</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>Laufeyjarson</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洛基父称</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>劳菲要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "劳菲的身份",
+     "views": [
+      {
+       "holder": "女巨人说",
+       "basis": "洛基的巨人血统来源。"
+      },
+      {
+       "holder": "边缘神谱说",
+       "basis": "解释洛基的双重本质。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "劳菲是北欧的女巨人，洛基之母。",
+     "source": "pri-laufey"
+    },
+    {
+     "claim": "洛基的巨人血统（源自劳菲）解释了他的双重本质。",
+     "source": "pri-laufey"
+    }
+   ]
+  },
+  {
+   "id": "fig-brynhild",
+   "title": "布伦希尔德",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧—日耳曼传说中的女武神，与齐格鲁德的悲剧爱情。",
+   "related": [
+    "fig-valkyrie",
+    "myth-norse",
+    "motif-herojourney"
+   ],
+   "sources": [
+    "pri-brynhild",
+    "pri-poetic-eddas",
+    "aca-hero-faces"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "布伦希尔德（Brynhildr，德语 Brunhild）是北欧—日耳曼传说中的女武神（valkyrie）：在《沃尔松格萨迦》与《尼伯龙根之歌》中，她与英雄齐格鲁德（Sigurd/Siegfried）相爱，但因魔药与误会（齐格鲁德遗忘她、代他人求婚）而导致悲剧——布伦希尔德促使杀死齐格鲁德，随后自尽殉情。布伦希尔德象征女武神的骄傲、爱情的忠贞与悲剧命运，其故事是日耳曼英雄史诗（《尼伯龙根之歌》、瓦格纳《尼伯龙根的指环》）的核心母题。",
+   "versions": [
+    "布伦希尔德（Brynhildr，德语 Brunhild）是北欧—日耳曼传说中的女武神（valkyrie）：在《沃尔松格萨迦》与《尼伯龙根之歌》中，她与英雄齐格鲁德（Sigurd/Siegfried）相爱，但因魔药与误会（齐格鲁德遗忘她、代他人求婚）而导致悲剧——布伦希尔德促使杀死齐格鲁德，随后自尽殉情。布伦希尔德象征女武神的骄傲、爱情的忠贞与悲剧命运，其故事是日耳曼英雄史诗（《尼伯龙根之歌》、瓦格纳《尼伯龙根的指环》）的核心母题。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《沃尔松格萨迦》/《埃达》",
+     "school": "核心文本",
+     "view": "布伦希尔德与齐格鲁德的悲剧。"
+    },
+    {
+     "holder": "Joseph Campbell",
+     "school": "比较神话学",
+     "view": "女武神与英雄悲剧的母题。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "女武神与命运可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-brynhild",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>布伦希尔德示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>布伦希尔德（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>女武神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>valkyrie</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>齐格鲁德</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>悲剧爱情</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>自尽殉情</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>命运</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>布伦希尔德要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "布伦希尔德的身份",
+     "views": [
+      {
+       "holder": "女武神说",
+       "basis": "骄傲的女武神与英雄爱人。"
+      },
+      {
+       "holder": "悲剧女主角说",
+       "basis": "因误会而走向复仇与殉情。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "布伦希尔德是北欧—日耳曼传说中的女武神，与齐格鲁德有悲剧爱情。",
+     "source": "pri-brynhild"
+    },
+    {
+     "claim": "布伦希尔德的故事是《尼伯龙根之歌》与瓦格纳《指环》的核心母题。",
+     "source": "pri-brynhild"
+    }
+   ]
+  },
+  {
+   "id": "fig-sigyn",
+   "title": "西格恩",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧女神，洛基之妻，以接毒液著称。",
+   "related": [
+    "fig-loki",
+    "fig-baldr",
+    "motif-sacrifice"
+   ],
+   "sources": [
+    "pri-sigyn",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "西格恩（Sigyn，'胜利的女友'）是北欧神话的女神，洛基（Loki）之妻：在诸神惩罚洛基（因其害死巴德尔）时，洛基被缚于岩石下，一条毒蛇不断滴下毒液；西格恩手持碗接住毒液以保护丈夫，但当碗满她去倒掉时，毒液便滴到洛基脸上，洛基痛苦挣扎（引发地震）。西格恩象征忠贞与牺牲的爱情，是北欧神话中'忠诚妻子'的典范，与洛基的恶作剧形成对照。",
+   "versions": [
+    "西格恩（Sigyn，'胜利的女友'）是北欧神话的女神，洛基（Loki）之妻：在诸神惩罚洛基（因其害死巴德尔）时，洛基被缚于岩石下，一条毒蛇不断滴下毒液；西格恩手持碗接住毒液以保护丈夫，但当碗满她去倒掉时，毒液便滴到洛基脸上，洛基痛苦挣扎（引发地震）。西格恩象征忠贞与牺牲的爱情，是北欧神话中'忠诚妻子'的典范，与洛基的恶作剧形成对照。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "核心文本",
+     "view": "西格恩接毒液的叙事。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "西格恩的忠贞形象（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "忠贞妻子母题可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sigyn",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>西格恩示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>西格恩（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>洛基之妻</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>接毒液</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>忠贞牺牲</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>碗与毒蛇</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地震起源</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>洛基挣扎</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>西格恩要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "西格恩的形象",
+     "views": [
+      {
+       "holder": "忠贞妻子说",
+       "basis": "象征忠贞与牺牲的爱情。"
+      },
+      {
+       "holder": "对照角色说",
+       "basis": "与洛基的恶形成对照。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "西格恩是北欧女神，洛基之妻，以用碗接毒液保护丈夫著称。",
+     "source": "pri-sigyn"
+    },
+    {
+     "claim": "西格恩象征忠贞与牺牲的爱情，是'忠诚妻子'的典范。",
+     "source": "pri-sigyn"
+    }
+   ]
+  },
+  {
+   "id": "fig-nott",
+   "title": "诺特",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "北欧的夜之女神，昼之母。",
+   "related": [
+    "fig-odin",
+    "myth-norse",
+    "motif-moon"
+   ],
+   "sources": [
+    "pri-nott",
+    "pri-poetic-eddas",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 北欧材料多经中世纪基督教化后的记录，须区分诗歌与散文埃达层次；2) 具体读法与 reconstruction 待核对；3) 描述性立场。",
+   "year": null,
+   "source_text": "诺特（Nótt，'夜'）是北欧神话的夜之女神：她是巨人 Nörvi 之女，先后与 Dellingr（黎明之神）等结合，生下 Dagr（昼）；奥丁赐予她与儿子 Dagr 各驾一车绕行天空，诺特的马车由 Hrímfaxi（霜鬃马）牵引，其唾液化为露水。诺特象征夜与黑暗，与昼（Dagr）构成昼夜循环的拟人化。诺特是北欧时间/天体神谱（夜—昼）的核心，体现北欧对昼夜交替的神话解释。",
+   "versions": [
+    "诺特（Nótt，'夜'）是北欧神话的夜之女神：她是巨人 Nörvi 之女，先后与 Dellingr（黎明之神）等结合，生下 Dagr（昼）；奥丁赐予她与儿子 Dagr 各驾一车绕行天空，诺特的马车由 Hrímfaxi（霜鬃马）牵引，其唾液化为露水。诺特象征夜与黑暗，与昼（Dagr）构成昼夜循环的拟人化。诺特是北欧时间/天体神谱（夜—昼）的核心，体现北欧对昼夜交替的神话解释。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《诗体埃达》",
+     "school": "核心文本",
+     "view": "诺特与Dagr的昼夜叙事（《瓦夫苏鲁德尼尔之歌》）。"
+    },
+    {
+     "holder": "John Lindow",
+     "school": "北欧神话研究",
+     "view": "诺特的昼夜神谱（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "夜与昼的拟人化可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nott",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>诺特示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>诺特（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>夜之女神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Nótt</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>昼之母</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Dagr</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>霜鬃马</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Hrímfaxi</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诺特要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经中世纪记录，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "诺特的角色",
+     "views": [
+      {
+       "holder": "夜之拟人说",
+       "basis": "象征夜与黑暗。"
+      },
+      {
+       "holder": "昼夜循环神说",
+       "basis": "与昼构成时间循环。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "诺特是北欧的夜之女神，昼（Dagr）之母。",
+     "source": "pri-nott"
+    },
+    {
+     "claim": "诺特的马车由霜鬃马牵引，其唾液化为露水。",
+     "source": "pri-nott"
+    }
+   ]
   }
  ]
 }

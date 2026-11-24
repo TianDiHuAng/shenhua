@@ -6590,6 +6590,84 @@
    "link_ok": true,
    "verified": true,
    "note": "厄庇米修斯（Epimetheus）是希腊的泰坦，普罗米修斯之弟，潘多拉之夫；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-thrymr",
+   "title": "索列姆文献（《诗体埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/%C3%9Erymr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "索列姆（Þrymr）是北欧的霜巨人，《索列姆之歌》中盗走托尔神锤的巨人；2026-11-23 经 Wikipedia API 实测（Thrymr→Þrymr）。"
+  },
+  {
+   "id": "pri-surtr",
+   "title": "苏尔特文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Surtr",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "苏尔特（Surtr）是北欧的火巨人，诸神黄昏中持火焰之剑烧毁世界；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-laufey",
+   "title": "劳菲文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Laufey",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "劳菲（Laufey）是北欧的女巨人，洛基之母；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-brynhild",
+   "title": "布伦希尔德文献（《沃尔松格萨迦》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Brunhild",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "布伦希尔德（Brynhildr/Brunhild）是北欧—日耳曼传说中的女武神，与齐格鲁德（Sigurd）的悲剧爱情著称；2026-11-23 经 Wikipedia API 实测（Brynhildr→Brunhild）。"
+  },
+  {
+   "id": "pri-sigyn",
+   "title": "西格恩文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sigyn",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "西格恩（Sigyn）是北欧女神，洛基之妻，以在洛基受罚时接住毒液著称；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nott",
+   "title": "诺特文献（《埃达》）",
+   "author": "佚名（北欧）",
+   "year": null,
+   "year_display": "中世纪抄本",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/N%C3%B3tt",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "诺特（Nótt）是北欧的夜之女神，Dagr（昼）之母；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }
