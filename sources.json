@@ -5732,6 +5732,84 @@
    "link_ok": true,
    "verified": true,
    "note": "努斯卡（Nuska）是苏美尔的火与光之神，恩利尔的执事与顾问；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-veles",
+   "title": "维列斯文献（斯拉夫神话）",
+   "author": "佚名（斯拉夫）",
+   "year": null,
+   "year_display": "中世纪断片",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Veles_(god)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "维列斯（Veles）是斯拉夫神话的地下、牲畜与诗神，与佩伦对立；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-svarog",
+   "title": "斯瓦罗格文献（斯拉夫神话）",
+   "author": "佚名（斯拉夫）",
+   "year": null,
+   "year_display": "中世纪断片",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Svarog",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "斯瓦罗格（Svarog）是斯拉夫神话的天神与锻造神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-dazhbog",
+   "title": "达日博格文献（斯拉夫神话）",
+   "author": "佚名（斯拉夫）",
+   "year": null,
+   "year_display": "中世纪断片",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Dazhbog",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "达日博格（Dazhbog）是斯拉夫神话的太阳与丰饶神，斯瓦罗格之子；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-mokosh",
+   "title": "莫科什文献（斯拉夫神话）",
+   "author": "佚名（斯拉夫）",
+   "year": null,
+   "year_display": "中世纪断片",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Mokosh",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "莫科什（Mokosh）是斯拉夫神话的母神，纺织与女性命运之神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-chernobog",
+   "title": "切尔诺伯格文献（斯拉夫神话）",
+   "author": "佚名（斯拉夫）",
+   "year": null,
+   "year_display": "中世纪断片",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Chernobog_and_Belobog",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "切尔诺伯格（Chernobog，'黑神'）是斯拉夫神话的黑暗与恶之神，与贝洛伯格（白神）相对；2026-11-23 经 Wikipedia API 实测（Chernobog→Chernobog and Belobog）。"
+  },
+  {
+   "id": "pri-perkunas",
+   "title": "佩尔库纳斯文献（波罗的海神话）",
+   "author": "佚名（波罗的海）",
+   "year": null,
+   "year_display": "中世纪—民谣",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Perk%C5%ABnas",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "佩尔库纳斯（Perkūnas）是波罗的海神话的雷神，立陶宛与拉脱维亚的主神；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

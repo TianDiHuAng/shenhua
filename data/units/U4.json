@@ -20110,6 +20110,456 @@
      "source": "pri-nuska"
     }
    ]
+  },
+  {
+   "id": "fig-veles",
+   "title": "维列斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "斯拉夫神话的地下、牲畜与诗神，与佩伦对立。",
+   "related": [
+    "fig-perun",
+    "myth-slavic",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-veles",
+    "pri-slavic-pagan",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 斯拉夫/波罗的海神话无原生正典，材料为断片与民谣，重构成分高；2) 具体读法与神格对应有学术争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "维列斯（Veles，'Volos'）是斯拉夫神话的地下世界、牲畜、财富与诗（诗歌灵感）之神：他与雷神佩伦（Perun）构成对立——佩伦在天上以雷霆追击，维列斯在地下/水中与之对抗（'佩伦—维列斯'的宇宙斗争母题，被认为与印欧雷神—巨蛇母题相关）。维列斯是'牛神'（牲畜的保护者），也是詩人與誓约的神（《伊戈尔远征记》称'维列斯的孙子'指诗人）。其神格重构度高，学界有争论。",
+   "versions": [
+    "维列斯（Veles，'Volos'）是斯拉夫神话的地下世界、牲畜、财富与诗（诗歌灵感）之神：他与雷神佩伦（Perun）构成对立——佩伦在天上以雷霆追击，维列斯在地下/水中与之对抗（'佩伦—维列斯'的宇宙斗争母题，被认为与印欧雷神—巨蛇母题相关）。维列斯是'牛神'（牲畜的保护者），也是詩人與誓约的神（《伊戈尔远征记》称'维列斯的孙子'指诗人）。其神格重构度高，学界有争论。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Vyacheslav Ivanov 与 Vladimir Toporov",
+     "school": "符号学派",
+     "view": "重构'佩伦—维列斯'对立结构（著作未录入来源库）。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "雷神—对抗者母题的斯拉夫案例。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "宇宙斗争母题可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-veles",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>维列斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>维列斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>地下神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>牲畜财富</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与佩伦对立</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>宇宙斗争</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>诗神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>维列斯之孙</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>维列斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经断片/民谣重构，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "维列斯的神格",
+     "views": [
+      {
+       "holder": "地下/混沌神说",
+       "basis": "与佩伦对立的混沌力量。"
+      },
+      {
+       "holder": "牲畜诗神说",
+       "basis": "牲畜、财富与诗歌的保护者。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "维列斯是斯拉夫的地下、牲畜与诗神，与佩伦对立。",
+     "source": "pri-veles"
+    },
+    {
+     "claim": "'佩伦—维列斯'对立是斯拉夫神话的核心结构之一。",
+     "source": "pri-veles"
+    }
+   ]
+  },
+  {
+   "id": "fig-svarog",
+   "title": "斯瓦罗格",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "斯拉夫神话的天神与锻造神。",
+   "related": [
+    "fig-dazhbog",
+    "fig-perun",
+    "motif-metal"
+   ],
+   "sources": [
+    "pri-svarog",
+    "pri-slavic-pagan",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 斯拉夫/波罗的海神话无原生正典，材料为断片与民谣，重构成分高；2) 具体读法与神格对应有学术争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "斯瓦罗格（Svarog）是斯拉夫神话的天神与锻造（金属工艺）之神：他被认为是天界的统治者，其名可能与'光/天'（svar）相关；《伊戈尔远征记》中提到'斯瓦罗格之子达日博格'，暗示斯瓦罗格是达日博格之父。斯瓦罗格象征天界的秩序与锻造的神圣技艺，其神格与希腊赫菲斯托斯/乌拉诺斯的比较是学术讨论议题。斯拉夫神话材料断片化，斯瓦罗格的具体职能重构度高。",
+   "versions": [
+    "斯瓦罗格（Svarog）是斯拉夫神话的天神与锻造（金属工艺）之神：他被认为是天界的统治者，其名可能与'光/天'（svar）相关；《伊戈尔远征记》中提到'斯瓦罗格之子达日博格'，暗示斯瓦罗格是达日博格之父。斯瓦罗格象征天界的秩序与锻造的神圣技艺，其神格与希腊赫菲斯托斯/乌拉诺斯的比较是学术讨论议题。斯拉夫神话材料断片化，斯瓦罗格的具体职能重构度高。"
+   ],
+   "interpretations": [
+    {
+     "holder": "斯拉夫神话研究",
+     "school": "学术",
+     "view": "斯瓦罗格的天神—锻造职能分析。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "天神—工匠功能的印欧比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "锻造的神圣技艺可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-svarog",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>斯瓦罗格形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>斯瓦罗格（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>天神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>锻造</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>达日博格之父</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>斯瓦罗格之子</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>光/天</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>词源</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>斯瓦罗格要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经断片/民谣重构，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "斯瓦罗格的神格",
+     "views": [
+      {
+       "holder": "天神说",
+       "basis": "天界的统治者。"
+      },
+      {
+       "holder": "锻造神说",
+       "basis": "金属工艺的神圣起源。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "斯瓦罗格是斯拉夫神话的天神与锻造神。",
+     "source": "pri-svarog"
+    },
+    {
+     "claim": "《伊戈尔远征记》提到'斯瓦罗格之子达日博格'。",
+     "source": "pri-svarog"
+    }
+   ]
+  },
+  {
+   "id": "fig-dazhbog",
+   "title": "达日博格",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "斯拉夫神话的太阳与丰饶神。",
+   "related": [
+    "fig-svarog",
+    "fig-perun",
+    "motif-sun"
+   ],
+   "sources": [
+    "pri-dazhbog",
+    "pri-slavic-pagan",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 斯拉夫/波罗的海神话无原生正典，材料为断片与民谣，重构成分高；2) 具体读法与神格对应有学术争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "达日博格（Dazhbog，'给予财富的神'）是斯拉夫神话的太阳与丰饶之神，斯瓦罗格（Svarog）之子：他被认为是太阳的化身或太阳的赐予者，象征光明、财富与丰饶。《原初编年史》记载980年弗拉基米尔在基辅立的神像中有达日博格；《伊戈尔远征记》称俄罗斯人为'达日博格的子孙'。达日博格是斯拉夫神话中较明确的天体神，其太阳—丰饶职能与印欧太阳神传统可作比较。",
+   "versions": [
+    "达日博格（Dazhbog，'给予财富的神'）是斯拉夫神话的太阳与丰饶之神，斯瓦罗格（Svarog）之子：他被认为是太阳的化身或太阳的赐予者，象征光明、财富与丰饶。《原初编年史》记载980年弗拉基米尔在基辅立的神像中有达日博格；《伊戈尔远征记》称俄罗斯人为'达日博格的子孙'。达日博格是斯拉夫神话中较明确的天体神，其太阳—丰饶职能与印欧太阳神传统可作比较。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《原初编年史》",
+     "school": "史料",
+     "view": "980年弗拉基米尔万神殿含达日博格。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "太阳神与丰饶功能。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "太阳神与赐予可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-dazhbog",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>达日博格形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>达日博格（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>太阳神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>丰饶财富</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>斯瓦罗格之子</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>神谱</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>达日博格子孙</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>俄罗斯人</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>达日博格要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经断片/民谣重构，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "达日博格的职能",
+     "views": [
+      {
+       "holder": "太阳神说",
+       "basis": "太阳的化身或赐予者。"
+      },
+      {
+       "holder": "丰饶神说",
+       "basis": "象征财富与丰饶。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "达日博格是斯拉夫神话的太阳与丰饶神，斯瓦罗格之子。",
+     "source": "pri-dazhbog"
+    },
+    {
+     "claim": "《原初编年史》记载达日博格在980年基辅万神殿中。",
+     "source": "pri-dazhbog"
+    }
+   ]
+  },
+  {
+   "id": "fig-mokosh",
+   "title": "莫科什",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "斯拉夫神话的母神，纺织与女性命运之神。",
+   "related": [
+    "fig-perun",
+    "myth-slavic",
+    "motif-weaving"
+   ],
+   "sources": [
+    "pri-mokosh",
+    "pri-slavic-pagan",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 斯拉夫/波罗的海神话无原生正典，材料为断片与民谣，重构成分高；2) 具体读法与神格对应有学术争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "莫科什（Mokosh，'湿的'）是斯拉夫神话的母神（大地—水—女性），掌管纺织、女性劳动、命运与丰饶：她是980年弗拉基米尔基辅万神殿中唯一明确的女神（其余多为男性神），象征湿润的大地与女性的生殖力。莫科什与纺织（命运之线的编织）的关联，使其与希腊摩伊赖、北欧诺恩斯等命运女神可作比较。她是斯拉夫神话中最重要的女性神祇。",
+   "versions": [
+    "莫科什（Mokosh，'湿的'）是斯拉夫神话的母神（大地—水—女性），掌管纺织、女性劳动、命运与丰饶：她是980年弗拉基米尔基辅万神殿中唯一明确的女神（其余多为男性神），象征湿润的大地与女性的生殖力。莫科什与纺织（命运之线的编织）的关联，使其与希腊摩伊赖、北欧诺恩斯等命运女神可作比较。她是斯拉夫神话中最重要的女性神祇。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《原初编年史》",
+     "school": "史料",
+     "view": "980年万神殿中唯一的女性神。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "母神与丰饶/命运功能。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "纺织命运母题可作参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-mokosh",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>莫科什形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>莫科什（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>母神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>大地水</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>纺织</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>女性命运</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>万神殿唯一女神</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>史料</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>莫科什要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经断片/民谣重构，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "莫科什的职能",
+     "views": [
+      {
+       "holder": "母神说",
+       "basis": "大地、水与女性生殖力。"
+      },
+      {
+       "holder": "命运/纺织神说",
+       "basis": "掌管纺织与命运。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "莫科什是斯拉夫神话的母神，掌管纺织与女性命运。",
+     "source": "pri-mokosh"
+    },
+    {
+     "claim": "莫科什是980年基辅万神殿中唯一明确的女神。",
+     "source": "pri-mokosh"
+    }
+   ]
+  },
+  {
+   "id": "fig-chernobog",
+   "title": "切尔诺伯格",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "斯拉夫神话的黑暗与恶之神，与贝洛伯格相对。",
+   "related": [
+    "fig-perun",
+    "myth-slavic",
+    "motif-cosmic-combat"
+   ],
+   "sources": [
+    "pri-chernobog",
+    "pri-slavic-pagan",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 斯拉夫/波罗的海神话无原生正典，材料为断片与民谣，重构成分高；2) 具体读法与神格对应有学术争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "切尔诺伯格（Chernobog，'黑神'）是斯拉夫神话的黑暗、恶与不幸之神，与贝洛伯格（Belobog，'白神'）构成善恶二元对立：中世纪文献（如《不来梅的亚当》）记载斯拉夫人相信一位善神（白神）与一位恶神（黑神），黑神带来灾祸。切尔诺伯格象征黑暗与恶的力量，其'黑神—白神'的二元结构是斯拉夫宗教研究的重要议题（但其二元论的原始性有学术争论）。'Chernobog'也是现代流行文化（如《暗黑破坏神》系列）的灵感来源。",
+   "versions": [
+    "切尔诺伯格（Chernobog，'黑神'）是斯拉夫神话的黑暗、恶与不幸之神，与贝洛伯格（Belobog，'白神'）构成善恶二元对立：中世纪文献（如《不来梅的亚当》）记载斯拉夫人相信一位善神（白神）与一位恶神（黑神），黑神带来灾祸。切尔诺伯格象征黑暗与恶的力量，其'黑神—白神'的二元结构是斯拉夫宗教研究的重要议题（但其二元论的原始性有学术争论）。'Chernobog'也是现代流行文化（如《暗黑破坏神》系列）的灵感来源。"
+   ],
+   "interpretations": [
+    {
+     "holder": "《不来梅的亚当》",
+     "school": "史料",
+     "view": "记载斯拉夫白神—黑神的二元信仰。"
+    },
+    {
+     "holder": "现代斯拉夫研究",
+     "school": "学术",
+     "view": "黑神—白神二元论的原始性争论。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "善恶二元结构比较。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-chernobog",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>切尔诺伯格形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>切尔诺伯格（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>黑神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>黑暗与恶</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与白神对立</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>二元</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>灾祸</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>象征</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>切尔诺伯格要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经断片/民谣重构，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "切尔诺伯格的性质",
+     "views": [
+      {
+       "holder": "原生二元论说",
+       "basis": "斯拉夫固有的善恶二元信仰。"
+      },
+      {
+       "holder": "二元论疑问说",
+       "basis": "二元论可能是后世或基督教影响的建构。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "切尔诺伯格是斯拉夫神话的黑暗与恶之神。",
+     "source": "pri-chernobog"
+    },
+    {
+     "claim": "切尔诺伯格与贝洛伯格的'黑神—白神'二元结构是研究议题。",
+     "source": "pri-chernobog"
+    }
+   ]
+  },
+  {
+   "id": "fig-perkunas",
+   "title": "佩尔库纳斯",
+   "level": "L2",
+   "tier": "补充",
+   "period": "medieval",
+   "summary": "波罗的海神话的雷神，立陶宛与拉脱维亚的主神。",
+   "related": [
+    "fig-perun",
+    "myth-baltic",
+    "motif-rain-thunder"
+   ],
+   "sources": [
+    "pri-perkunas",
+    "pri-baltic",
+    "aca-gods-indo-europeans"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 斯拉夫/波罗的海神话无原生正典，材料为断片与民谣，重构成分高；2) 具体读法与神格对应有学术争论；3) 描述性立场。",
+   "year": null,
+   "source_text": "佩尔库纳斯（Perkūnas）是波罗的海神话（立陶宛与拉脱维亚）的雷神，是波罗的海万神殿的主神之一：他掌管雷电、雨、火与山，象征力量、秩序与丰饶；其名字与斯拉夫的佩伦（Perun）、北欧的Fjörgyn、印欧的*Perkwunos 同源（雷神词根）。佩尔库纳斯与恶魔（velnias）的斗争、以及'雷神追击恶魔'的母题是波罗的海神话的核心。立陶宛的民间传统中佩尔库纳斯至今留有痕迹（如'Perkūnas 的锤子'等护身符）。",
+   "versions": [
+    "佩尔库纳斯（Perkūnas）是波罗的海神话（立陶宛与拉脱维亚）的雷神，是波罗的海万神殿的主神之一：他掌管雷电、雨、火与山，象征力量、秩序与丰饶；其名字与斯拉夫的佩伦（Perun）、北欧的Fjörgyn、印欧的*Perkwunos 同源（雷神词根）。佩尔库纳斯与恶魔（velnias）的斗争、以及'雷神追击恶魔'的母题是波罗的海神话的核心。立陶宛的民间传统中佩尔库纳斯至今留有痕迹（如'Perkūnas 的锤子'等护身符）。"
+   ],
+   "interpretations": [
+    {
+     "holder": "波罗的海神话研究",
+     "school": "学术",
+     "view": "佩尔库纳斯的雷神职能。"
+    },
+    {
+     "holder": "Georges Dumézil",
+     "school": "印欧比较神话学",
+     "view": "雷神（*Perkwunos）的印欧比较。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "雷神与秩序确立可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-perkunas",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>佩尔库纳斯形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>佩尔库纳斯（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>雨火山</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>雷神词根</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>*Perkwunos</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>与恶魔斗争</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>母题</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>佩尔库纳斯要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料多经断片/民谣重构，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "佩尔库纳斯的职能",
+     "views": [
+      {
+       "holder": "雷神说",
+       "basis": "掌管雷电与雨。"
+      },
+      {
+       "holder": "秩序神说",
+       "basis": "象征力量与秩序。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "佩尔库纳斯是波罗的海神话的雷神，立陶宛与拉脱维亚的主神。",
+     "source": "pri-perkunas"
+    },
+    {
+     "claim": "佩尔库纳斯与斯拉夫的佩伦、印欧 *Perkwunos 同源。",
+     "source": "pri-perkunas"
+    }
+   ]
   }
  ]
 }

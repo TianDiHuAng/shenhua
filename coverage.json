@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T11:06:55+08:00",
+  "generated": "2026-11-24T11:12:21+08:00",
   "summary": {
-    "total": 512,
+    "total": 518,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 257
+      "U4": 263
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 398
+      "补充": 404
     },
     "by_level": {
       "L1": 0,
-      "L2": 398,
+      "L2": 404,
       "L3": 114
     },
-    "l2_done": 512,
+    "l2_done": 518,
     "l3_done": 114,
-    "verified_sources": 395
+    "verified_sources": 401
   },
   "entries": [
     {
@@ -5652,6 +5652,72 @@
       "level": "L2",
       "status": "done",
       "sources_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-veles",
+      "name": "维列斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-svarog",
+      "name": "斯瓦罗格",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-dazhbog",
+      "name": "达日博格",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-mokosh",
+      "name": "莫科什",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-chernobog",
+      "name": "切尔诺伯格",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-perkunas",
+      "name": "佩尔库纳斯",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
       "needs_verification_count": 1,
       "last_updated": "2026-11-24"
     }
