@@ -1,26 +1,26 @@
 {
-  "generated": "2026-11-24T10:55:36+08:00",
+  "generated": "2026-11-24T11:01:06+08:00",
   "summary": {
-    "total": 500,
+    "total": 506,
     "by_unit": {
       "U1": 90,
       "U2": 93,
       "U3": 72,
-      "U4": 245
+      "U4": 251
     },
     "by_tier": {
       "核心": 40,
       "重要": 74,
-      "补充": 386
+      "补充": 392
     },
     "by_level": {
       "L1": 0,
-      "L2": 386,
+      "L2": 392,
       "L3": 114
     },
-    "l2_done": 500,
+    "l2_done": 506,
     "l3_done": 114,
-    "verified_sources": 383
+    "verified_sources": 389
   },
   "entries": [
     {
@@ -5515,6 +5515,72 @@
     {
       "id": "fig-cassandra",
       "name": "卡珊德拉",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-khnum",
+      "name": "赫努姆",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-montu",
+      "name": "孟图",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-hapi",
+      "name": "哈皮",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-sopdu",
+      "name": "索普杜",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-min",
+      "name": "敏",
+      "unit": "U4",
+      "tier": "补充",
+      "level": "L2",
+      "status": "done",
+      "sources_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "fig-nefertum",
+      "name": "奈费尔图姆",
       "unit": "U4",
       "tier": "补充",
       "level": "L2",

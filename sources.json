@@ -5576,6 +5576,84 @@
    "link_ok": true,
    "verified": true,
    "note": "卡珊德拉是特洛伊的预言公主，预言准确却无人相信；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-khnum",
+   "title": "赫努姆文献（埃及陶工神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—托勒密期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Khnum",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "赫努姆（Khnum）是埃及的陶工神，以陶轮造人，象岛（Elephantine）主神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-montu",
+   "title": "孟图文献（埃及战神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "中王国—托勒密期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Montu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "孟图（Montu）是埃及的鹰首战神，底比斯地区的早期主神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-hapi",
+   "title": "哈皮文献（埃及尼罗河神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "中王国—托勒密期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Hapi_(Nile_god)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "哈皮（Hapi）是埃及的尼罗河泛滥之神，象征丰饶；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-sopdu",
+   "title": "索普杜文献（埃及边陲神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—托勒密期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Sopdu",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "索普杜（Sopdu）是埃及的边陲与东方守护神，'东方的荷鲁斯'；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-min",
+   "title": "敏文献（埃及丰饶神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "前王朝—托勒密期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Min_(god)",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "敏（Min）是埃及的丰饶、生育与旅行商队之神，科普托斯（Coptos）主神；2026-11-23 经 Wikipedia API 实测专条存在。"
+  },
+  {
+   "id": "pri-nefertum",
+   "title": "奈费尔图姆文献（埃及莲花神）",
+   "author": "佚名（埃及）",
+   "year": null,
+   "year_display": "古王国—托勒密期",
+   "type": "原典",
+   "url": "https://en.wikipedia.org/wiki/Nefertem",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "奈费尔图姆（Nefertem）是埃及的莲花与芬芳之神，普塔与塞赫麦特之子，孟菲斯三神组之一；2026-11-23 经 Wikipedia API 实测专条存在。"
   }
  ]
 }

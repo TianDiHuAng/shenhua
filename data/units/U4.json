@@ -19212,6 +19212,456 @@
      "source": "pri-cassandra"
     }
    ]
+  },
+  {
+   "id": "fig-khnum",
+   "title": "赫努姆",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的陶工神，以陶轮造人。",
+   "related": [
+    "fig-ptah",
+    "fig-hapi",
+    "motif-creation"
+   ],
+   "sources": [
+    "pri-khnum",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—托勒密多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "赫努姆（Khnum）是埃及的陶工神，以陶轮造人与塑造生命著称：他被描绘为羊首人身，在陶轮上塑出人的身体与'ka'（生命之灵），象岛（Elephantine）的尼罗河第一瀑布旁是他的崇拜中心（与尼罗河源头相关）。赫努姆也是尼罗河泛滥与丰饶的守护者，其造人母题体现了埃及的'神为陶工'的创世观。",
+   "versions": [
+    "赫努姆（Khnum）是埃及的陶工神，以陶轮造人与塑造生命著称：他被描绘为羊首人身，在陶轮上塑出人的身体与'ka'（生命之灵），象岛（Elephantine）的尼罗河第一瀑布旁是他的崇拜中心（与尼罗河源头相关）。赫努姆也是尼罗河泛滥与丰饶的守护者，其造人母题体现了埃及的'神为陶工'的创世观。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中赫努姆的陶工造人职能。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "陶工创世观（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "陶工造人母题可作创世参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-khnum",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>赫努姆形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>赫努姆（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>陶工神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>陶轮造人</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>羊首人身</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>形象</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>象岛</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>赫努姆要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "赫努姆的职能",
+     "views": [
+      {
+       "holder": "造人神说",
+       "basis": "以陶轮塑造人类。"
+      },
+      {
+       "holder": "尼罗河神说",
+       "basis": "守护尼罗河泛滥。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "赫努姆是埃及陶工神，以陶轮造人。",
+     "source": "pri-khnum"
+    },
+    {
+     "claim": "赫努姆崇拜中心在象岛，与尼罗河源头相关。",
+     "source": "pri-khnum"
+    }
+   ]
+  },
+  {
+   "id": "fig-montu",
+   "title": "孟图",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的鹰首战神，底比斯地区早期主神。",
+   "related": [
+    "fig-amun",
+    "fig-sekhmet",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-montu",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—托勒密多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "孟图（Montu）是埃及的鹰首战神，底比斯（Thebes）地区的早期主神：他象征战争、武力与王权的军事力量，法老常被称为'孟图之子'（中王国时期尤其突出，如门图霍特普之名即'孟图满足'）。孟图在底比斯的崇拜早于阿蒙，随阿蒙的兴起其地位相对下降，但仍作为战神广受崇奉。其形象为鹰首、持弯刀与权杖。",
+   "versions": [
+    "孟图（Montu）是埃及的鹰首战神，底比斯（Thebes）地区的早期主神：他象征战争、武力与王权的军事力量，法老常被称为'孟图之子'（中王国时期尤其突出，如门图霍特普之名即'孟图满足'）。孟图在底比斯的崇拜早于阿蒙，随阿蒙的兴起其地位相对下降，但仍作为战神广受崇奉。其形象为鹰首、持弯刀与权杖。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中孟图与底比斯神系。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "战神与王权（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "战神与王权力量可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-montu",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>孟图形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>孟图（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>鹰首战神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>武力</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>底比斯</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>早期主神</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孟图之子</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>法老称号</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孟图要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "孟图的职能",
+     "views": [
+      {
+       "holder": "战神说",
+       "basis": "象征战争与军事力量。"
+      },
+      {
+       "holder": "王权守护说",
+       "basis": "'孟图之子'的法老守护神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "孟图是埃及鹰首战神，底比斯早期主神。",
+     "source": "pri-montu"
+    },
+    {
+     "claim": "中王国法老常被称为'孟图之子'。",
+     "source": "pri-montu"
+    }
+   ]
+  },
+  {
+   "id": "fig-hapi",
+   "title": "哈皮",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的尼罗河泛滥之神，象征丰饶。",
+   "related": [
+    "fig-osiris",
+    "fig-khnum",
+    "motif-water"
+   ],
+   "sources": [
+    "pri-hapi",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—托勒密多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "哈皮（Hapi）是埃及的尼罗河泛滥之神：他被描绘为肥胖、蓝绿色皮肤、胸前垂着双乳的男性形象（象征丰饶的泛滥），象征尼罗河年度泛滥带来的肥沃淤泥与农业丰饶。哈皮并非尼罗河本身，而是'泛滥'这一丰饶现象的拟人化，其崇拜与埃及的农业经济紧密相关。哈皮与'哈皮（荷鲁斯四子之一）'同名但为不同神祇，须区分。",
+   "versions": [
+    "哈皮（Hapi）是埃及的尼罗河泛滥之神：他被描绘为肥胖、蓝绿色皮肤、胸前垂着双乳的男性形象（象征丰饶的泛滥），象征尼罗河年度泛滥带来的肥沃淤泥与农业丰饶。哈皮并非尼罗河本身，而是'泛滥'这一丰饶现象的拟人化，其崇拜与埃及的农业经济紧密相关。哈皮与'哈皮（荷鲁斯四子之一）'同名但为不同神祇，须区分。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中哈皮的丰饶职能。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "尼罗河丰饶与农业（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "丰饶神与水的象征可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-hapi",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>哈皮形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>哈皮（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>尼罗河泛滥</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>丰饶</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>蓝绿肥胖</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>形象</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>农业经济</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜背景</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>哈皮要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "哈皮的职能",
+     "views": [
+      {
+       "holder": "泛滥神说",
+       "basis": "象征尼罗河泛滥的丰饶。"
+      },
+      {
+       "holder": "与荷鲁斯四子区分",
+       "basis": "同名但不同神。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "哈皮是埃及尼罗河泛滥之神，象征丰饶。",
+     "source": "pri-hapi"
+    },
+    {
+     "claim": "哈皮与荷鲁斯四子之一的哈皮同名但为不同神祇。",
+     "source": "pri-hapi"
+    }
+   ]
+  },
+  {
+   "id": "fig-sopdu",
+   "title": "索普杜",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的边陲与东方守护神，'东方的荷鲁斯'。",
+   "related": [
+    "fig-horus",
+    "fig-hathor",
+    "myth-egyptian"
+   ],
+   "sources": [
+    "pri-sopdu",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—托勒密多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "索普杜（Sopdu，'东方的荷鲁斯'）是埃及的边陲、东方与矿区的守护神：他守护埃及东部的边界（西奈、红海沿岸）与外来的威胁，掌管沙漠中的矿藏（绿松石、铜）。索普杜常以鹰首或人形持武器的形象出现，其崇拜与埃及的对外贸易、矿业与军事边防相关。",
+   "versions": [
+    "索普杜（Sopdu，'东方的荷鲁斯'）是埃及的边陲、东方与矿区的守护神：他守护埃及东部的边界（西奈、红海沿岸）与外来的威胁，掌管沙漠中的矿藏（绿松石、铜）。索普杜常以鹰首或人形持武器的形象出现，其崇拜与埃及的对外贸易、矿业与军事边防相关。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中索普杜的边陲守护职能。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "边陲神与王权（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "边陲守护神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-sopdu",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>索普杜形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>索普杜（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>边陲守护</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>东方</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>矿区矿产</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>西奈</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>东方荷鲁斯</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>称号</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>索普杜要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "索普杜的职能",
+     "views": [
+      {
+       "holder": "边陲守护说",
+       "basis": "守护埃及东部边界。"
+      },
+      {
+       "holder": "矿产神说",
+       "basis": "掌管沙漠矿藏。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "索普杜是埃及的边陲与东方守护神。",
+     "source": "pri-sopdu"
+    },
+    {
+     "claim": "索普杜'东方的荷鲁斯'掌管西奈的矿藏。",
+     "source": "pri-sopdu"
+    }
+   ]
+  },
+  {
+   "id": "fig-min",
+   "title": "敏",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的丰饶、生育与商队旅行之神。",
+   "related": [
+    "fig-osiris",
+    "fig-horus",
+    "motif-mother-goddess"
+   ],
+   "sources": [
+    "pri-min",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—托勒密多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "敏（Min）是埃及的丰饶、生育、性力与旅行商队之神：他以直立的木乃伊状形象、高举的阴茎、持双斧与连枷著称，象征生育力与丰产；科普托斯（Coptos）与阿赫米姆是他崇拜的中心。敏也是'东方沙漠'与外出旅行的商队保护神（与索普杜相关）。敏的崇拜是埃及丰饶宗教的重要组成，也与王权的'丰产'职能相关联。",
+   "versions": [
+    "敏（Min）是埃及的丰饶、生育、性力与旅行商队之神：他以直立的木乃伊状形象、高举的阴茎、持双斧与连枷著称，象征生育力与丰产；科普托斯（Coptos）与阿赫米姆是他崇拜的中心。敏也是'东方沙漠'与外出旅行的商队保护神（与索普杜相关）。敏的崇拜是埃及丰饶宗教的重要组成，也与王权的'丰产'职能相关联。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中敏的丰饶与生育职能。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "菲勒斯神与丰饶（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "丰饶生育神可作一般参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-min",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>敏形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>敏（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>丰饶生育</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>性力</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>科普托斯</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>崇拜中心</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>商队旅行</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>东方沙漠</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>敏要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "敏的职能",
+     "views": [
+      {
+       "holder": "生育神说",
+       "basis": "象征生育与丰产。"
+      },
+      {
+       "holder": "商旅保护说",
+       "basis": "保护东方沙漠的旅队。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "敏是埃及丰饶、生育与商队旅行之神。",
+     "source": "pri-min"
+    },
+    {
+     "claim": "敏的崇拜中心在科普托斯与阿赫米姆。",
+     "source": "pri-min"
+    }
+   ]
+  },
+  {
+   "id": "fig-nefertum",
+   "title": "奈费尔图姆",
+   "level": "L2",
+   "tier": "补充",
+   "period": "ancient",
+   "summary": "埃及的莲花与芬芳之神，孟菲斯三神组之一。",
+   "related": [
+    "fig-ptah",
+    "fig-sekhmet",
+    "motif-cosmicegg"
+   ],
+   "sources": [
+    "pri-nefertum",
+    "pri-pyramid-texts",
+    "aca-treasures-darkness"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1) 埃及神祇材料跨古王国—托勒密多个文本层，具体神格演变须分层；2) 各神庙神学差异大；3) 描述性立场，不评判信仰真伪。",
+   "year": null,
+   "source_text": "奈费尔图姆（Nefertem）是埃及的莲花与芬芳之神：他是普塔（Ptah）与塞赫麦特（Sekhmet）之子，构成孟菲斯（Memphis）三神组（Ptah-Sekhmet-Nefertem）。奈费尔图姆以头顶莲花（从原初之水中升起的莲花的意象）、少年形象出现，象征芬芳、美丽与创世的原初莲花。他与'从原初莲花中诞生太阳神'的赫尔莫波利创世论相关联，象征新生与宇宙的芬芳秩序。",
+   "versions": [
+    "奈费尔图姆（Nefertem）是埃及的莲花与芬芳之神：他是普塔（Ptah）与塞赫麦特（Sekhmet）之子，构成孟菲斯（Memphis）三神组（Ptah-Sekhmet-Nefertem）。奈费尔图姆以头顶莲花（从原初之水中升起的莲花的意象）、少年形象出现，象征芬芳、美丽与创世的原初莲花。他与'从原初莲花中诞生太阳神'的赫尔莫波利创世论相关联，象征新生与宇宙的芬芳秩序。"
+   ],
+   "interpretations": [
+    {
+     "holder": "Erik Hornung",
+     "school": "埃及学",
+     "view": "《埃及诸神》中奈费尔图姆与孟菲斯三神组。"
+    },
+    {
+     "holder": "Henri Frankfort",
+     "school": "埃及宗教史",
+     "view": "莲花与原初创世（著作未录入来源库）。"
+    },
+    {
+     "holder": "Mircea Eliade",
+     "school": "宗教现象学",
+     "view": "莲花创世可作宇宙卵/原初花母题的参照。"
+    }
+   ],
+   "comparisons": [
+    {
+     "tradition": "相关传统",
+     "basis_source": "pri-nefertum",
+     "note": "作比较神话学的一般参照，不主张同源。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><title>奈费尔图姆形象示意</title><rect x='10' y='10' width='740' height='380' fill='none' stroke='currentColor' opacity='0.25'/><text x='380' y='42' text-anchor='middle' fill='var(--svg-text)' font-size='20'>奈费尔图姆（描述性示意）</text><rect x='80' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='170' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>莲花神</text><text x='170' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>芬芳</text><line x1='170' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='290' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>孟菲斯三神组</text><text x='380' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>Ptah之子</text><line x1='380' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='500' y='110' width='180' height='54' fill='var(--svg-node)' stroke='currentColor'/><text x='590' y='134' text-anchor='middle' fill='var(--svg-text)' font-size='14'>原初莲花</text><text x='590' y='154' text-anchor='middle' fill='var(--svg-text)' font-size='12'>创世意象</text><line x1='590' y1='164' x2='380' y2='212' stroke='currentColor' opacity='0.5'/><rect x='270' y='212' width='220' height='56' fill='var(--svg-node)' stroke='currentColor'/><text x='380' y='236' text-anchor='middle' fill='var(--svg-text)' font-size='14'>奈费尔图姆要点</text><text x='380' y='256' text-anchor='middle' fill='var(--svg-text)' font-size='12'>描述性归纳</text><text x='380' y='320' text-anchor='middle' fill='var(--svg-text)' font-size='13'>材料跨文本层，见待核实说明</text></svg>",
+   "controversies": [
+    {
+     "issue": "奈费尔图姆的职能",
+     "views": [
+      {
+       "holder": "芬芳神说",
+       "basis": "象征美丽与芬芳。"
+      },
+      {
+       "holder": "原初莲花说",
+       "basis": "与莲花创世相关联。"
+      }
+     ]
+    }
+   ],
+   "data_points": [
+    {
+     "claim": "奈费尔图姆是埃及莲花与芬芳之神，孟菲斯三神组之一。",
+     "source": "pri-nefertum"
+    },
+    {
+     "claim": "奈费尔图姆与'从原初莲花中诞生太阳神'的创世论相关。",
+     "source": "pri-nefertum"
+    }
+   ]
   }
  ]
 }
